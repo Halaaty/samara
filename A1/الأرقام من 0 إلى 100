@@ -1,1 +1,227 @@
+{
+  "words": [
+    {
+      "word_en": "zero",
+      "word_ar": "صفر",
+      "example_en": "The temperature outside is zero degrees Celsius.",
+      "example_ar": "درجة الحرارة في الخارج صفر درجة مئوية."
+    },
+    {
+      "word_en": "one",
+      "word_ar": "واحد",
+      "example_en": "I have one sister.",
+      "example_ar": "لدي أخت واحدة."
+    },
+    {
+      "word_en": "two",
+      "word_ar": "اثنان",
+      "example_en": "There are two apples on the table.",
+      "example_ar": "هناك تفاحتان على الطاولة."
+    },
+    {
+      "word_en": "three",
+      "word_ar": "ثلاثة",
+      "example_en": "He has three cats.",
+      "example_ar": "لديه ثلاث قطط."
+    },
+    {
+      "word_en": "four",
+      "word_ar": "أربعة",
+      "example_en": "She bought four books from the bookstore.",
+      "example_ar": "اشترت أربعة كتب من المكتبة."
+    },
+    {
+      "word_en": "five",
+      "word_ar": "خمسة",
+      "example_en": "There are five people in the room.",
+      "example_ar": "هناك خمسة أشخاص في الغرفة."
+    },
+    {
+      "word_en": "six",
+      "word_ar": "ستة",
+      "example_en": "He finished the race in six minutes.",
+      "example_ar": "أنهى السباق في ستة دقائق."
+    },
+    {
+      "word_en": "seven",
+      "word_ar": "سبعة",
+      "example_en": "She has seven siblings.",
+      "example_ar": "لديها سبعة إخوة."
+    },
+    {
+      "word_en": "eight",
+      "word_ar": "ثمانية",
+      "example_en": "There are eight chairs around the table.",
+      "example_ar": "هناك ثمانية كراسي حول الطاولة."
+    },
+    {
+      "word_en": "nine",
+      "word_ar": "تسعة",
+      "example_en": "She received nine roses on her birthday.",
+      "example_ar": "تلقت تسع ورود في عيد ميلادها."
+    },
+    {
+      "word_en": "ten",
+      "word_ar": "عشرة",
+      "example_en": "There are ten fingers on our hands.",
+      "example_ar": "هناك عشرة أصابع في يدينا."
+    },
+    {
+      "word_en": "eleven",
+      "word_ar": "أحد عشر",
+      "example_en": "He was born on the eleventh of May.",
+      "example_ar": "ولد في الحادي عشر من مايو."
+    },
+    {
+      "word_en": "twelve",
+      "word_ar": "اثنا عشر",
+      "example_en": "There are twelve months in a year.",
+      "example_ar": "هناك اثنا عشر شهرًا في السنة."
+    },
+    {
+      "word_en": "thirteen",
+      "word_ar": "ثلاثة عشر",
+      "example_en": "She turned thirteen last week.",
+      "example_ar": "احتفلت بعيد ميلادها الثالث عشر الأسبوع الماضي."
+    },
+    {
+      "word_en": "fourteen",
+      "word_ar": "أربعة عشر",
+      "example_en": "He is fourteen years old.",
+      "example_ar": "عمره أربعة عشر عامًا."
+    },
+    {
+      "word_en": "fifteen",
+      "word_ar": "خمسة عشر",
+      "example_en": "She is fifteen years old.",
+      "example_ar": "عمرها خمسة عشر عامًا."
+    },
+    {
+      "word_en": "sixteen",
+      "word_ar": "ستة عشر",
+      "example_en": "He will turn sixteen next month.",
+      "example_ar": "سيبلغ عندما يتحول إلى السادس عشر الشهر المقبل."
+    },
+    {
+      "word_en": "seventeen",
+      "word_ar": "سبعة عشر",
+      "example_en": "She is seventeen years old.",
+      "example_ar": "عمرها سبعة عشر عامًا."
+    },
+    {
+      "word_en": "eighteen",
+      "word_ar": "ثمانية عشر",
+      "example_en": "He will be eighteen next year.",
+      "example_ar": "سيكون في الثامنة عشرة العام المقبل."
+    },
+    {
+      "word_en": "nineteen",
+      "word_ar": "تسعة عشر",
+      "example_en": "She turned nineteen last month.",
+      "example_ar": "احتفلت بعيد ميلادها التاسع عشر الشهر الماضي."
+    },
+    {
+      "word_en": "twenty",
+      "word_ar": "عشرون",
+      "example_en": "There are twenty students in the classroom.",
+      "example_ar": "هناك عشرون طالبًا في الفصل."
+    },
+    {
+      "word_en": "twenty one",
+      "word_ar": "واحد وعشرون",
+      "example_en": "She is twenty-one years old.",
+      "example_ar": "عمرها واحد وعشرون عامًا."
+    },
+    {
+      "word_en": "thirty",
+      "word_ar": "ثلاثون",
+      "example_en": "He will be thirty years old next year.",
+      "example_ar": "سيبلغ الثلاثين عامًا العام المقبل."
+    },
+    {
+      "word_en": "thirty two",
+      "word_ar": "اثنان وثلاثون",
+      "example_en": "The marathon is thirty-two kilometers long.",
+      "example_ar": "الماراثون طوله اثنان وثلاثون كيلومترًا."
+    },
+    {
+      "word_en": "forty",
+      "word_ar": "أربعون",
+      "example_en": "She is in her forties.",
+      "example_ar": "هي في أربعينياتها."
+    },
+    {
+      "word_en": "fourty three",
+      "word_ar": "ثلاثة وأربعون",
+      "example_en": "He is forty-three years old.",
+      "example_ar": "عمره ثلاثة وأربعون عامًا."
+    },
+    {
+      "word_en": "fifty",
+      "word_ar": "خمسون",
+      "example_en": "She turned fifty last year.",
+      "example_ar": "احتفلت بعيد ميلادها الخمسين العام الماضي."
+    },
+    {
+      "word_en": "fifty four",
+      "word_ar": "أربعة وخمسون",
+      "example_en": "He is fifty-four years old.",
+      "example_ar": "عمره أربعة وخمسون عامًا."
+    },
+    {
+      "word_en": "sixty",
+      "word_ar": "ستون",
+      "example_en": "She will retire when she turns sixty.",
+      "example_ar": "ستتقاعد عندما تبلغ الستين."
+    },
+    {
+      "word_en": "sixty five",
+      "word_ar": "خمسة وستون",
+      "example_en": "He is sixty-five years old.",
+      "example_ar": "عمره خمسة وستين عامًا."
+    },
+    {
+      "word_en": "seventy",
+      "word_ar": "سبعون",
+      "example_en": "She will celebrate her seventieth birthday next year.",
+      "example_ar": "ستحتفل بعيد ميلادها السبعون العام المقبل."
+    },
+    {
+      "word_en": "seventy six",
+      "word_ar": "ستة وسبعون",
+      "example_en": "He is seventy-six years old.",
+      "example_ar": "عمره سبعة وستين عامًا."
+    },
+    {
+      "word_en": "eighty",
+      "word_ar": "ثمانون",
+      "example_en": "She will reach eighty years old next year.",
+      "example_ar": "ستبلغ الثمانين عامًا العام المقبل."
+    },
+    {
+      "word_en": "eighty seven",
+      "word_ar": "سبعة وثمانون",
+      "example_en": "He is eighty-seven years old.",
+      "example_ar": "عمره سبعة وثمانون عامًا."
+    },
+    {
+      "word_en": "ninety",
+      "word_ar": "تسعون",
+      "example_en": "She will turn ninety next month.",
+      "example_ar": "ستبلغ تسعين عامًا الشهر المقبل."
+    },
+    {
+      "word_en": "ninety eight",
+      "word_ar": "ثمانية وتسعون",
+      "example_en": "He is ninety-eight years old.",
+      "example_ar": "عمره ثمانية وتسعون عامًا."
+    },
+    {
+      "word_en": "hundred",
+      "word_ar": "مئة",
+      "example_en": "There are a hundred people in the room.",
+      "example_ar": "هناك مائة شخص في الغرفة."
+    }
+  ]
+}
 
