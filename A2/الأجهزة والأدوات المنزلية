@@ -1,1 +1,191 @@
+{
+  "words": [
+    {
+      "word_en": "smoke detector",
+      "word_ar": "كاشف الدخان",
+      "example_en": "The smoke detector went off when it sensed smoke.",
+      "example_ar": "انطلق كاشف الدخان عندما شعر بالدخان."
+    },
+    {
+      "word_en": "toaster oven",
+      "word_ar": "فرن الطهي",
+      "example_en": "She toasted some bread in the toaster oven.",
+      "example_ar": "حمصت بعض الخبز في فرن الطهي."
+    },
+    {
+      "word_en": "radio",
+      "word_ar": "راديو",
+      "example_en": "They listened to the news on the radio.",
+      "example_ar": "استمعوا إلى الأخبار على الراديو."
+    },
+    {
+      "word_en": "loudspeaker",
+      "word_ar": "مكبر الصوت",
+      "example_en": "The loudspeaker projected the sound across the room.",
+      "example_ar": "أسقط مكبر الصوت الصوت في جميع أنحاء الغرفة."
+    },
+    {
+      "word_en": "DVD player",
+      "word_ar": "مشغل دي في دي",
+      "example_en": "They watched a movie on the DVD player.",
+      "example_ar": "شاهدوا فيلمًا على مشغل دي في دي."
+    },
+    {
+      "word_en": "alarm clock",
+      "word_ar": "منبه",
+      "example_en": "She set her alarm clock for 6 AM.",
+      "example_ar": "ضبطت منبهها على الساعة 6 صباحًا."
+    },
+    {
+      "word_en": "air conditioner",
+      "word_ar": "مكيف هواء",
+      "example_en": "They turned on the air conditioner to cool the room.",
+      "example_ar": "شغلوا مكيف الهواء لتبريد الغرفة."
+    },
+    {
+      "word_en": "telephone",
+      "word_ar": "هاتف",
+      "example_en": "She answered the telephone when it rang.",
+      "example_ar": "أجابت على الهاتف عندما رن."
+    },
+    {
+      "word_en": "equipment",
+      "word_ar": "معدات",
+      "example_en": "The equipment was stored in the garage.",
+      "example_ar": "تم تخزين المعدات في المرآب."
+    },
+    {
+      "word_en": "iron",
+      "word_ar": "مكواة",
+      "example_en": "She ironed her clothes before going to work.",
+      "example_ar": "كوت كلوتها قبل الذهاب إلى العمل."
+    },
+    {
+      "word_en": "device",
+      "word_ar": "جهاز",
+      "example_en": "The device stopped working suddenly.",
+      "example_ar": "توقف الجهاز فجأة."
+    },
+    {
+      "word_en": "fan",
+      "word_ar": "مروحة",
+      "example_en": "They turned on the fan to cool the room.",
+      "example_ar": "شغلوا المروحة لتبريد الغرفة."
+    },
+    {
+      "word_en": "hair dryer",
+      "word_ar": "مجفف الشعر",
+      "example_en": "She dried her hair with the hair dryer.",
+      "example_ar": "جففت شعرها بمجفف الشعر."
+    },
+    {
+      "word_en": "remote control",
+      "word_ar": "جهاز التحكم عن بعد",
+      "example_en": "He used the remote control to change the channel.",
+      "example_ar": "استخدم جهاز التحكم عن بعد لتغيير القناة."
+    },
+    {
+      "word_en": "oven",
+      "word_ar": "فرن",
+      "example_en": "She baked cookies in the oven.",
+      "example_ar": "خبزت الكوكيز في الفرن."
+    },
+    {
+      "word_en": "washing machine",
+      "word_ar": "غسالة",
+      "example_en": "She put her clothes in the washing machine.",
+      "example_ar": "وضعت ملابسها في الغسالة."
+    },
+    {
+      "word_en": "line",
+      "word_ar": "خط",
+      "example_en": "She waited for someone to answer on the line.",
+      "example_ar": "انتظرت حتى يجيب أحدهم على الخط."
+    },
+    {
+      "word_en": "coffee maker",
+      "word_ar": "صانع القهوة",
+      "example_en": "She brewed some coffee in the coffee maker.",
+      "example_ar": "عملت بعض القهوة في صانع القهوة."
+    },
+    {
+      "word_en": "electrical",
+      "word_ar": "كهربائي",
+      "example_en": "The electrical outlet wasn't working.",
+      "example_ar": "لم يكن المأخذ الكهربائي يعمل."
+    },
+    {
+      "word_en": "camera",
+      "word_ar": "كاميرا",
+      "example_en": "She took a photo with her camera.",
+      "example_ar": "أخذت صورة بكاميراها."
+    },
+    {
+      "word_en": "dishwasher",
+      "word_ar": "غسالة صحون",
+      "example_en": "They loaded the dishes into the dishwasher.",
+      "example_ar": "قاموا بتحميل الأطباق في غسالة الصحون."
+    },
+    {
+      "word_en": "system",
+      "word_ar": "نظام",
+      "example_en": "The security system was installed last month.",
+      "example_ar": "تم تثبيت نظام الأمان الشهر الماضي."
+    },
+    {
+      "word_en": "broken",
+      "word_ar": "مكسور",
+      "example_en": "The TV was broken and needed repair.",
+      "example_ar": "كان التلفزيون مكسورًا ويحتاج إلى إصلاح."
+    },
+    {
+      "word_en": "vacuum cleaner",
+      "word_ar": "مكنسة كهربائية",
+      "example_en": "She vacuumed the carpets with the vacuum cleaner.",
+      "example_ar": "كنست السجاد بمكنسة الكهرباء."
+    },
+    {
+      "word_en": "flashlight",
+      "word_ar": "كشاف",
+      "example_en": "She used a flashlight to find her way in the dark.",
+      "example_ar": "استخدمت كشافًا للعثور على طريقها في الظلام."
+    },
+    {
+      "word_en": "heater",
+      "word_ar": "سخان",
+      "example_en": "They turned on the heater to warm up the room.",
+      "example_ar": "شغلوا سخان الغرفة لتدفئتها."
+    },
+    {
+      "word_en": "to use",
+      "word_ar": "استخدام",
+      "example_en": "She used the computer to write her report.",
+      "example_ar": "استخدمت الكمبيوتر لكتابة تقريرها."
+    },
+    {
+      "word_en": "to repair",
+      "word_ar": "إصلاح",
+      "example_en": "They called a technician to repair the broken appliance.",
+      "example_ar": "اتصلوا بفني لإصلاح الجهاز المكسور."
+    },
+    {
+      "word_en": "work",
+      "word_ar": "عمل",
+      "example_en": "The machine stopped working suddenly.",
+      "example_ar": "توقفت الآلة فجأة عن العمل."
+    },
+    {
+      "word_en": "to turn on",
+      "word_ar": "تشغيل",
+      "example_en": "He turned on the light when it got dark.",
+      "example_ar": "شغل الضوء عندما غمرت الظلام."
+    },
+    {
+      "word_en": "to turn off",
+      "word_ar": "إيقاف",
+      "example_en": "She turned off the TV before going to bed.",
+      "example_ar": "أوقفت التلفزيون قبل الذهاب إلى الفراش."
+    }
+  ]
+}
 
