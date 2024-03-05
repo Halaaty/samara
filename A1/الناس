@@ -1,1 +1,71 @@
+{
+  "words": [
+    {
+      "word_en": "man",
+      "word_ar": "رجل",
+      "example_en": "The man was walking down the street.",
+      "example_ar": "كان الرجل يسيير في الشارع."
+    },
+    {
+      "word_en": "woman",
+      "word_ar": "امرأة",
+      "example_en": "The woman is reading a book in the park.",
+      "example_ar": "الامرأة تقرأ كتابًا في الحديقة."
+    },
+    {
+      "word_en": "boy",
+      "word_ar": "ولد",
+      "example_en": "The boy is playing with his toy car.",
+      "example_ar": "الولد يلعب بسيارته اللعبة."
+    },
+    {
+      "word_en": "girl",
+      "word_ar": "فتاة",
+      "example_en": "The girl is riding her bicycle in the park.",
+      "example_ar": "الفتاة تركب دراجتها في الحديقة."
+    },
+    {
+      "word_en": "friend",
+      "word_ar": "صديق",
+      "example_en": "He's my best friend.",
+      "example_ar": "إنه صديقي الأفضل."
+    },
+    {
+      "word_en": "boyfriend",
+      "word_ar": "صديق (ذكر)",
+      "example_en": "She's going out with her boyfriend tonight.",
+      "example_ar": "هي ذاهبة للخارج مع صديقها الليلة."
+    },
+    {
+      "word_en": "girlfriend",
+      "word_ar": "صديقة",
+      "example_en": "He's meeting his girlfriend for lunch.",
+      "example_ar": "هو يلتقي بصديقته لتناول الغداء."
+    },
+    {
+      "word_en": "person",
+      "word_ar": "شخص",
+      "example_en": "Each person has their own story.",
+      "example_ar": "كل شخص لديه قصته الخاصة."
+    },
+    {
+      "word_en": "people",
+      "word_ar": "أشخاص",
+      "example_en": "The park was filled with people enjoying the sunshine.",
+      "example_ar": "كانت الحديقة مليئة بالأشخاص يستمتعون بأشعة الشمس."
+    },
+    {
+      "word_en": "adult",
+      "word_ar": "بالغ",
+      "example_en": "As an adult, you have certain responsibilities.",
+      "example_ar": "كبالغ، لديك مسؤوليات معينة."
+    },
+    {
+      "word_en": "baby",
+      "word_ar": "طفل",
+      "example_en": "The baby is sleeping peacefully.",
+      "example_ar": "الطفل نائم بسلام."
+    }
+  ]
+}
 
