@@ -1,1 +1,107 @@
+{
+  "words": [
+    {
+      "word_en": "hello",
+      "word_ar": "مرحبًا",
+      "example_en": "Hello, how are you?",
+      "example_ar": "مرحبًا، كيف حالك؟"
+    },
+    {
+      "word_en": "goodbye",
+      "word_ar": "وداعًا",
+      "example_en": "She waved goodbye as the train pulled out of the station.",
+      "example_ar": "لوحت وداعًا حينما انطلق القطار من المحطة."
+    },
+    {
+      "word_en": "hi",
+      "word_ar": "مرحبًا",
+      "example_en": "Hi there, nice to meet you!",
+      "example_ar": "مرحبًا، سررت بلقائك!"
+    },
+    {
+      "word_en": "bye",
+      "word_ar": "وداعًا",
+      "example_en": "Okay, bye for now. See you later!",
+      "example_ar": "حسنًا، وداعًا الآن. أراك لاحقًا!"
+    },
+    {
+      "word_en": "good morning",
+      "word_ar": "صباح الخير",
+      "example_en": "Good morning, it's a beautiful day!",
+      "example_ar": "صباح الخير، إنه يوم جميل!"
+    },
+    {
+      "word_en": "good afternoon",
+      "word_ar": "طاب مساؤك",
+      "example_en": "Good afternoon, how can I assist you today?",
+      "example_ar": "طاب مساؤك، كيف يمكنني مساعدتك اليوم؟"
+    },
+    {
+      "word_en": "good evening",
+      "word_ar": "مساء الخير",
+      "example_en": "Good evening, may I take your order?",
+      "example_ar": "مساء الخير، هل يمكنني تسجيل طلبك؟"
+    },
+    {
+      "word_en": "good night",
+      "word_ar": "تصبح على خير",
+      "example_en": "I'm off to bed. Good night, everyone!",
+      "example_ar": "أنا ذاهب للنوم. تصبحون على خير، الجميع!"
+    },
+    {
+      "word_en": "thank you",
+      "word_ar": "شكرًا لك",
+      "example_en": "Thank you for your help!",
+      "example_ar": "شكرًا لمساعدتك!"
+    },
+    {
+      "word_en": "thanks",
+      "word_ar": "شكرًا",
+      "example_en": "Thanks a lot for the birthday gift!",
+      "example_ar": "شكرًا جزيلاً على هدية عيد الميلاد!"
+    },
+    {
+      "word_en": "please",
+      "word_ar": "من فضلك",
+      "example_en": "Can you pass me the salt, please?",
+      "example_ar": "هل يمكنك تمرير الملح إليّ، من فضلك؟"
+    },
+    {
+      "word_en": "OK",
+      "word_ar": "حسنًا",
+      "example_en": "OK, let's proceed with the plan.",
+      "example_ar": "حسنًا، لنتابع بالخطة."
+    },
+    {
+      "word_en": "yes",
+      "word_ar": "نعم",
+      "example_en": "Yes, I'd like a cup of tea, please.",
+      "example_ar": "نعم، أريد فنجانًا من الشاي، من فضلك."
+    },
+    {
+      "word_en": "no",
+      "word_ar": "لا",
+      "example_en": "No, thank you. I'm not interested.",
+      "example_ar": "لا، شكرًا. لست مهتمًا."
+    },
+    {
+      "word_en": "sorry",
+      "word_ar": "آسف",
+      "example_en": "I'm sorry for the mistake I made.",
+      "example_ar": "آسف على الخطأ الذي قمت به."
+    },
+    {
+      "word_en": "welcome",
+      "word_ar": "أهلاً وسهلاً",
+      "example_en": "Welcome to our home!",
+      "example_ar": "أهلاً وسهلاً في منزلنا!"
+    },
+    {
+      "word_en": "finish",
+      "word_ar": "يُنهي",
+      "example_en": "Finish your meal before leaving.",
+      "example_ar": "انهي وجبتك قبل المغادرة."
+    }
+  ]
+}
 
