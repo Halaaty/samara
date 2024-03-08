@@ -1,1 +1,149 @@
+{
+  "words": [
+    {
+      "word_en": "saxophone",
+      "word_ar": "الساكسفون",
+      "example_en": "The saxophone player improvised a soulful melody.",
+      "example_ar": "عزف الساكسفون عازف الساكسفون لحنًا مؤثرًا بحرفية."
+    },
+    {
+      "word_en": "cello",
+      "word_ar": "التشيلو",
+      "example_en": "The cellist performed a moving piece at the concert.",
+      "example_ar": "قدم التشيلو عازف التشيلو قطعة مؤثرة في الحفلة."
+    },
+    {
+      "word_en": "accordion",
+      "word_ar": "الأكورديون",
+      "example_en": "The accordionist entertained the crowd with lively tunes.",
+      "example_ar": "أسر الأكورديون عازف الأكورديون الحشد بألحان حيوية."
+    },
+    {
+      "word_en": "band",
+      "word_ar": "فرقة",
+      "example_en": "The band played rock music at the festival.",
+      "example_ar": "عزفت الفرقة موسيقى الروك في المهرجان."
+    },
+    {
+      "word_en": "pianist",
+      "word_ar": "عازف البيانو",
+      "example_en": "The pianist dazzled the audience with her virtuoso performance.",
+      "example_ar": "أبهرت عازفة البيانو الجمهور بأدائها الموسيقي المتقن."
+    },
+    {
+      "word_en": "trumpet",
+      "word_ar": "البوق",
+      "example_en": "The trumpet player hit a high note with precision.",
+      "example_ar": "وصل عازف البوق إلى ملاحظة عالية بدقة."
+    },
+    {
+      "word_en": "performer",
+      "word_ar": "فنان",
+      "example_en": "The performer captivated the audience with her stage presence.",
+      "example_ar": "أسرت الفنانة الجمهور بحضورها المسرحي."
+    },
+    {
+      "word_en": "clarinet",
+      "word_ar": "الكلارينيت",
+      "example_en": "The clarinetist played a haunting melody on the clarinet.",
+      "example_ar": "عزف عازف الكلارينيت لحنًا مؤثرًا على الكلارينيت."
+    },
+    {
+      "word_en": "conductor",
+      "word_ar": "مدير الأوركسترا",
+      "example_en": "The conductor led the orchestra with grace and precision.",
+      "example_ar": "قاد مدير الأوركسترا الأوركسترا بأناقة ودقة."
+    },
+    {
+      "word_en": "choir",
+      "word_ar": "جوقة",
+      "example_en": "The choir sang in perfect harmony.",
+      "example_ar": "غنت الجوقة بانسجام تام."
+    },
+    {
+      "word_en": "tour",
+      "word_ar": "جولة",
+      "example_en": "The band embarked on a world tour to promote their new album.",
+      "example_ar": "بدأت الفرقة جولة عالمية للترويج لألبومها الجديد."
+    },
+    {
+      "word_en": "tape",
+      "word_ar": "شريط",
+      "example_en": "He recorded his demo tape in a makeshift studio.",
+      "example_ar": "سجل شريط الديمو في استوديو مؤقت."
+    },
+    {
+      "word_en": "album",
+      "word_ar": "ألبوم",
+      "example_en": "The singer released her debut album to critical acclaim.",
+      "example_ar": "أصدرت الفنانة ألبومها الأول بإشادة النقاد."
+    },
+    {
+      "word_en": "chorus",
+      "word_ar": "هتاف",
+      "example_en": "The chorus added depth to the song.",
+      "example_ar": "أضاف الهتاف عمقًا إلى الأغنية."
+    },
+    {
+      "word_en": "microphone",
+      "word_ar": "ميكروفون",
+      "example_en": "The singer's voice echoed through the microphone.",
+      "example_ar": "صدى صوت المغنية من خلال الميكروفون."
+    },
+    {
+      "word_en": "songwriter",
+      "word_ar": "كاتب الأغاني",
+      "example_en": "The songwriter penned lyrics for the band's latest single.",
+      "example_ar": "كتب كاتب الأغاني كلمات لآخر أغنية للفرقة."
+    },
+    {
+      "word_en": "beat",
+      "word_ar": "وتر",
+      "example_en": "The beat of the drum set the pace for the song.",
+      "example_ar": "وتر طبول حدد وتر الطبل وتسارع الأغنية."
+    },
+    {
+      "word_en": "headphones",
+      "word_ar": "سماعات الرأس",
+      "example_en": "He put on his headphones to listen to music.",
+      "example_ar": "وضع سماعات الرأس للاستماع إلى الموسيقى."
+    },
+    {
+      "word_en": "publish",
+      "word_ar": "نشر",
+      "example_en": "The record label decided to publish the artist's latest single.",
+      "example_ar": "قررت شركة الإنتاج نشر أحدث أغنية للفنان."
+    },
+    {
+      "word_en": "disc jockey",
+      "word_ar": "دي جي",
+      "example_en": "The disc jockey kept the crowd dancing all night.",
+      "example_ar": "حافظ دي جي على رقص الحشد طوال الليل."
+    },
+    {
+      "word_en": "violinist",
+      "word_ar": "عازف الكمان",
+      "example_en": "The violinist performed a breathtaking solo during the concert.",
+      "example_ar": "أحدث عازف الكمان سولو لا يُنسى خلال الحفل."
+    },
+    {
+      "word_en": "karaoke",
+      "word_ar": "كاريوكي",
+      "example_en": "They sang their favorite songs at the karaoke bar.",
+      "example_ar": "غنوا أغانيهم المفضلة في البار الكاريوكي."
+    },
+    {
+      "word_en": "lyric",
+      "word_ar": "كلمات الأغنية",
+      "example_en": "She wrote heartfelt lyrics for her new song.",
+      "example_ar": "كتبت كلمات مؤثرة لأغنيتها الجديدة."
+    },
+    {
+      "word_en": "drummer",
+      "word_ar": "طبال",
+      "example_en": "The drummer set the rhythm for the band's performance.",
+      "example_ar": "وضع طبال وتر الطبل لأداء الفرقة."
+    }
+  ]
+}
 
