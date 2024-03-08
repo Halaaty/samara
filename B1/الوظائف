@@ -1,1 +1,203 @@
+{
+  "words": [
+    {
+      "word_en": "agent",
+      "word_ar": "وكيل",
+      "example_en": "The agent negotiated a deal on behalf of the actor.",
+      "example_ar": "الوكيل تفاوض على صفقة نيابة عن الممثل."
+    },
+    {
+      "word_en": "firefighter",
+      "word_ar": "رجل إطفاء",
+      "example_en": "The firefighter bravely entered the burning building.",
+      "example_ar": "دخل رجل الإطفاء بجرأة إلى المبنى المشتعل."
+    },
+    {
+      "word_en": "photographer",
+      "word_ar": "مصور",
+      "example_en": "The photographer captured stunning images of the landscape.",
+      "example_ar": "المصور التقط صورًا مذهلة للمناظر الطبيعية."
+    },
+    {
+      "word_en": "barber",
+      "word_ar": "حلاق",
+      "example_en": "The barber gave him a stylish haircut.",
+      "example_ar": "أعطى الحلاق له قصة شعر أنيقة."
+    },
+    {
+      "word_en": "sailor",
+      "word_ar": "بحار",
+      "example_en": "The sailor navigated through stormy waters.",
+      "example_ar": "بحار استطاع أن يتنقل في مياه عاصفة."
+    },
+    {
+      "word_en": "reporter",
+      "word_ar": "صحفي",
+      "example_en": "The reporter covered the breaking news story.",
+      "example_ar": "الصحفي تغطى القصة الأخبارية العاجلة."
+    },
+    {
+      "word_en": "guard",
+      "word_ar": "حارس",
+      "example_en": "The guard patrolled the premises to ensure security.",
+      "example_ar": "حارس يجوب المكان لضمان الأمن."
+    },
+    {
+      "word_en": "babysitter",
+      "word_ar": "جليس أطفال",
+      "example_en": "The babysitter entertained the children with games and stories.",
+      "example_ar": "جليس الأطفال أسر الأطفال بالألعاب والقصص."
+    },
+    {
+      "word_en": "tailor",
+      "word_ar": "خياط",
+      "example_en": "The tailor altered the suit to fit perfectly.",
+      "example_ar": "الخياط قام بتعديل البدلة لتناسب تمامًا."
+    },
+    {
+      "word_en": "servant",
+      "word_ar": "خادم",
+      "example_en": "The servant attended to the needs of the household.",
+      "example_ar": "الخادم كان يعتني بحاجات الأسرة."
+    },
+    {
+      "word_en": "builder",
+      "word_ar": "باني",
+      "example_en": "The builder constructed a sturdy house.",
+      "example_ar": "الباني قام ببناء منزل قوي."
+    },
+    {
+      "word_en": "butcher",
+      "word_ar": "جزار",
+      "example_en": "The butcher sliced the meat to order.",
+      "example_ar": "الجزار قطع اللحم حسب الطلب."
+    },
+    {
+      "word_en": "astronaut",
+      "word_ar": "رائد فضاء",
+      "example_en": "The astronaut floated in zero gravity.",
+      "example_ar": "الرائد الفضائي تعلق في الجاذبية الصفراء."
+    },
+    {
+      "word_en": "bodyguard",
+      "word_ar": "حارس شخصي",
+      "example_en": "The bodyguard escorted the VIP safely to the event.",
+      "example_ar": "حارس الشخصي قام بمرافقة الشخصية المهمة بأمان إلى الحدث."
+    },
+    {
+      "word_en": "gardener",
+      "word_ar": "بستاني",
+      "example_en": "The gardener planted colorful flowers in the garden.",
+      "example_ar": "البستاني زرع زهور ملونة في الحديقة."
+    },
+    {
+      "word_en": "housewife",
+      "word_ar": "ربة منزل",
+      "example_en": "The housewife managed the household affairs efficiently.",
+      "example_ar": "ربة المنزل أدارت شؤون المنزل بكفاءة."
+    },
+    {
+      "word_en": "editor",
+      "word_ar": "محرر",
+      "example_en": "The editor reviewed the manuscript before publication.",
+      "example_ar": "المحرر قام بمراجعة النص قبل النشر."
+    },
+    {
+      "word_en": "president",
+      "word_ar": "رئيس",
+      "example_en": "The president addressed the nation in a televised speech.",
+      "example_ar": "الرئيس خاطب الأمة في خطاب تلفزيوني."
+    },
+    {
+      "word_en": "adviser",
+      "word_ar": "مستشار",
+      "example_en": "The adviser provided valuable insights into the market trends.",
+      "example_ar": "المستشار قدم رؤى قيمة حول اتجاهات السوق."
+    },
+    {
+      "word_en": "flight attendant",
+      "word_ar": "مضيفة طيران",
+      "example_en": "The flight attendant demonstrated safety procedures to passengers.",
+      "example_ar": "مضيفة الطيران قامت بشرح إجراءات السلامة للركاب."
+    },
+    {
+      "word_en": "director",
+      "word_ar": "مدير",
+      "example_en": "The director brought the script to life with vivid imagery.",
+      "example_ar": "المدير جعل السيناريو ينبض بالحياة بصور حية."
+    },
+    {
+      "word_en": "translator",
+      "word_ar": "مترجم",
+      "example_en": "The translator rendered the text into multiple languages.",
+      "example_ar": "المترجم قام بترجمة النص إلى عدة لغات."
+    },
+    {
+      "word_en": "programmer",
+      "word_ar": "مبرمج",
+      "example_en": "The programmer developed innovative software solutions.",
+      "example_ar": "المبرمج وضع حلول برمجية مبتكرة."
+    },
+    {
+      "word_en": "judge",
+      "word_ar": "قاضي",
+      "example_en": "The judge presided over the courtroom proceedings.",
+      "example_ar": "القاضي رئى المحاكمة في المحكمة."
+    },
+    {
+      "word_en": "songwriter",
+      "word_ar": "كاتب الأغاني",
+      "example_en": "The songwriter penned chart-topping hits for famous artists.",
+      "example_ar": "كاتب الأغاني كتب أغاني ناجحة لفنانين مشهورين."
+    },
+    {
+      "word_en": "freelancer",
+      "word_ar": "عامل حر",
+      "example_en": "As a freelancer, she enjoyed the flexibility of her work schedule.",
+      "example_ar": "كعامل حر، استمتعت بمرونة جدول عملها."
+    },
+    {
+      "word_en": "veterinarian",
+      "word_ar": "طبيب بيطري",
+      "example_en": "The veterinarian treated injured animals with care and compassion.",
+      "example_ar": "الطبيب البيطري عالج الحيوانات المصابة بعناية وتعاطف."
+    },
+    {
+      "word_en": "technician",
+      "word_ar": "فني",
+      "example_en": "The technician repaired the malfunctioning equipment.",
+      "example_ar": "الفني قام بإصلاح المعدات التالفة."
+    },
+    {
+      "word_en": "sportsman",
+      "word_ar": "رياضي",
+      "example_en": "The sportsman trained rigorously for the upcoming competition.",
+      "example_ar": "الرياضي تدرب بجدية للمنافسة القادمة."
+    },
+    {
+      "word_en": "trader",
+      "word_ar": "تاجر",
+      "example_en": "The trader bought and sold stocks on the stock exchange.",
+      "example_ar": "التاجر قام بشراء وبيع الأسهم في بورصة الأوراق المالية."
+    },
+    {
+      "word_en": "gardener",
+      "word_ar": "حديقة",
+      "example_en": "The gardener tended to the plants in the botanical garden.",
+      "example_ar": "البستاني يعتني بالنباتات في الحديقة النباتية."
+    },
+    {
+      "word_en": "butcher",
+      "word_ar": "جزار",
+      "example_en": "The butcher prepared cuts of meat for the customers.",
+      "example_ar": "الجزار قام بتحضير قطع اللحم للزبائن."
+    },
+    {
+      "word_en": "tutor",
+      "word_ar": "معلم",
+      "example_en": "The tutor helped the student with difficult math problems.",
+      "example_ar": "المعلم ساعد الطالب في حل مشاكل الرياضيات الصعبة."
+    }
+  ]
+}
 
