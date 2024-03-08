@@ -1,1 +1,149 @@
+{
+  "words": [
+    {
+      "word_en": "clock",
+      "word_ar": "ساعة",
+      "example_en": "The clock on the wall shows the wrong time.",
+      "example_ar": "الساعة على الحائط تُظهر الوقت الخاطئ."
+    },
+    {
+      "word_en": "year",
+      "word_ar": "سنة",
+      "example_en": "Next year, we're planning to travel abroad.",
+      "example_ar": "في العام القادم، نخطط للسفر إلى الخارج."
+    },
+    {
+      "word_en": "time",
+      "word_ar": "زمن/وقت",
+      "example_en": "Time flies when you're having fun.",
+      "example_ar": "الزمن يطير عندما تكون مستمتعًا."
+    },
+    {
+      "word_en": "date",
+      "word_ar": "تاريخ",
+      "example_en": "What's the date today?",
+      "example_ar": "ما هو التاريخ اليوم؟"
+    },
+    {
+      "word_en": "day",
+      "word_ar": "يوم",
+      "example_en": "Today is a beautiful day.",
+      "example_ar": "اليوم يوم جميل."
+    },
+    {
+      "word_en": "hour",
+      "word_ar": "ساعة",
+      "example_en": "The meeting will start in an hour.",
+      "example_ar": "سيبدأ الاجتماع في ساعة واحدة."
+    },
+    {
+      "word_en": "o'clock",
+      "word_ar": "الساعة",
+      "example_en": "Let's meet at 3 o'clock.",
+      "example_ar": "لنلتقي في الساعة 3."
+    },
+    {
+      "word_en": "minute",
+      "word_ar": "دقيقة",
+      "example_en": "I'll be there in a few minutes.",
+      "example_ar": "سأكون هناك في بضع دقائق."
+    },
+    {
+      "word_en": "second",
+      "word_ar": "ثانية",
+      "example_en": "She counted to ten in just a few seconds.",
+      "example_ar": "عدت حتى العشرة في بضع ثوانٍ فقط."
+    },
+    {
+      "word_en": "morning",
+      "word_ar": "صباح",
+      "example_en": "I like to take a walk in the morning.",
+      "example_ar": "أحب التمشية في الصباح."
+    },
+    {
+      "word_en": "afternoon",
+      "word_ar": "بعد الظهر",
+      "example_en": "Let's meet for coffee in the afternoon.",
+      "example_ar": "لنلتقي لشرب القهوة بعد الظهر."
+    },
+    {
+      "word_en": "evening",
+      "word_ar": "مساء",
+      "example_en": "We usually have dinner together in the evening.",
+      "example_ar": "غالبًا ما نتناول العشاء معًا في المساء."
+    },
+    {
+      "word_en": "night",
+      "word_ar": "ليل",
+      "example_en": "The stars shine bright in the night sky.",
+      "example_ar": "النجوم تشرق بشكل مشرق في سماء الليل."
+    },
+    {
+      "word_en": "week",
+      "word_ar": "أسبوع",
+      "example_en": "We go grocery shopping once a week.",
+      "example_ar": "نذهب للتسوق مرة واحدة في الأسبوع."
+    },
+    {
+      "word_en": "Sunday",
+      "word_ar": "الأحد",
+      "example_en": "We have a family brunch every Sunday.",
+      "example_ar": "نحن نعقد فطور العائلة كل يوم أحد."
+    },
+    {
+      "word_en": "Monday",
+      "word_ar": "الاثنين",
+      "example_en": "I have a meeting every Monday morning.",
+      "example_ar": "لدي اجتماع كل يوم اثنين صباحًا."
+    },
+    {
+      "word_en": "Tuesday",
+      "word_ar": "الثلاثاء",
+      "example_en": "We usually go out for tacos on Tuesday nights.",
+      "example_ar": "غالبًا ما نخرج لتناول الأطعمة التاكو يوم الثلاثاء في المساء."
+    },
+    {
+      "word_en": "Wednesday",
+      "word_ar": "الأربعاء",
+      "example_en": "Wednesday is the middle of the workweek.",
+      "example_ar": "الأربعاء هو منتصف أيام العمل في الأسبوع."
+    },
+    {
+      "word_en": "Thursday",
+      "word_ar": "الخميس",
+      "example_en": "We have a weekly team meeting on Thursday afternoons.",
+      "example_ar": "لدينا اجتماع فريق أسبوعي يوم الخميس بعد الظهر."
+    },
+    {
+      "word_en": "Friday",
+      "word_ar": "الجمعة",
+      "example_en": "We're going out for dinner this Friday.",
+      "example_ar": "سنخرج لتناول العشاء هذا الجمعة."
+    },
+    {
+      "word_en": "Saturday",
+      "word_ar": "السبت",
+      "example_en": "We like to relax and watch movies on Saturdays.",
+      "example_ar": "نحب الاسترخاء ومشاهدة الأفلام يوم السبت."
+    },
+    {
+      "word_en": "weekend",
+      "word_ar": "نهاية الأسبوع",
+      "example_en": "Let's plan a trip for the weekend.",
+      "example_ar": "لنخطط لرحلة في نهاية الأسبوع."
+    },
+    {
+      "word_en": "next",
+      "word_ar": "التالي",
+      "example_en": "We'll discuss it at the next meeting.",
+      "example_ar": "سنناقشه في الاجتماع القادم."
+    },
+    {
+      "word_en": "half",
+      "word_ar": "نصف",
+      "example_en": "We're leaving in half an hour.",
+      "example_ar": "سنغادر في نصف ساعة."
+    }
+  ]
+}
 
