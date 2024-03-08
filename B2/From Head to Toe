@@ -1,1 +1,173 @@
+{
+  "words": [
+    {
+      "word_en": "anatomy",
+      "word_ar": "تشريح",
+      "example_en": "Studying anatomy is crucial for medical students.",
+      "example_ar": "دراسة التشريح أمر أساسي لطلاب الطب."
+    },
+    {
+      "word_en": "organ",
+      "word_ar": "عضو",
+      "example_en": "The heart is a vital organ.",
+      "example_ar": "القلب هو عضو حيوي."
+    },
+    {
+      "word_en": "Adam's apple",
+      "word_ar": "تفاحة آدم",
+      "example_en": "His Adam's apple moved as he swallowed.",
+      "example_ar": "تحركت تفاحة آدم له عندما بلع."
+    },
+    {
+      "word_en": "artery",
+      "word_ar": "شريان",
+      "example_en": "The coronary artery supplies blood to the heart muscle.",
+      "example_ar": "الشريان التاجي يوفر الدم لعضلة القلب."
+    },
+    {
+      "word_en": "blood vessel",
+      "word_ar": "وعاء دموي",
+      "example_en": "The blood vessel carries blood throughout the body.",
+      "example_ar": "يحمل الوعاء الدموي الدم في جميع أنحاء الجسم."
+    },
+    {
+      "word_en": "cell",
+      "word_ar": "خلية",
+      "example_en": "The human body is composed of trillions of cells.",
+      "example_ar": "يتكون جسم الإنسان من تريليونات الخلايا."
+    },
+    {
+      "word_en": "heartbeat",
+      "word_ar": "نبض القلب",
+      "example_en": "I could feel my heartbeat quicken as I ran.",
+      "example_ar": "كنت أشعر بتسارع نبضات قلبي أثناء الركض."
+    },
+    {
+      "word_en": "scalp",
+      "word_ar": "فروة الرأس",
+      "example_en": "The scalp protects the skull.",
+      "example_ar": "تحمي فروة الرأس الجمجمة."
+    },
+    {
+      "word_en": "collarbone",
+      "word_ar": "عظم الكتف",
+      "example_en": "He broke his collarbone in the accident.",
+      "example_ar": "كسر عظم الكتف في الحادث."
+    },
+    {
+      "word_en": "breast",
+      "word_ar": "ثدي",
+      "example_en": "She felt a lump in her breast and went to see the doctor.",
+      "example_ar": "شعرت بكتلة في ثديها وذهبت لرؤية الطبيب."
+    },
+    {
+      "word_en": "abdomen",
+      "word_ar": "بطن",
+      "example_en": "The pain was located in her lower abdomen.",
+      "example_ar": "كان الألم موجودًا في البطن السفلي لها."
+    },
+    {
+      "word_en": "digestive system",
+      "word_ar": "الجهاز الهضمي",
+      "example_en": "The digestive system breaks down food for energy.",
+      "example_ar": "يقوم الجهاز الهضمي بتحلل الطعام للحصول على الطاقة."
+    },
+    {
+      "word_en": "immune system",
+      "word_ar": "الجهاز المناعي",
+      "example_en": "The immune system protects the body from pathogens.",
+      "example_ar": "يحمي الجهاز المناعي الجسم من المسببات المرضية."
+    },
+    {
+      "word_en": "belly",
+      "word_ar": "بطن",
+      "example_en": "His belly rumbled with hunger.",
+      "example_ar": "كان بطنه يُزَغِرُّ من الجوع."
+    },
+    {
+      "word_en": "belly button",
+      "word_ar": "زرّ البطن",
+      "example_en": "She pierced her belly button.",
+      "example_ar": "ثقبت زرّ بطنها."
+    },
+    {
+      "word_en": "intestine",
+      "word_ar": "أمعاء",
+      "example_en": "The small intestine absorbs nutrients from food.",
+      "example_ar": "الأمعاء الدقيقة تمتص المغذيات من الطعام."
+    },
+    {
+      "word_en": "gallbladder",
+      "word_ar": "المرارة",
+      "example_en": "The gallbladder stores bile produced by the liver.",
+      "example_ar": "تخزن المرارة الصفراء التي تنتجها الكبد."
+    },
+    {
+      "word_en": "bladder",
+      "word_ar": "مثانة",
+      "example_en": "The bladder stores urine before it is excreted.",
+      "example_ar": "تخزن المثانة البول قبل أن يتم إخراجه."
+    },
+    {
+      "word_en": "buttock",
+      "word_ar": "مؤخرة",
+      "example_en": "He has a tattoo on his left buttock.",
+      "example_ar": "لديه وشم على مؤخرته اليسرى."
+    },
+    {
+      "word_en": "spine",
+      "word_ar": "العمود الفقري",
+      "example_en": "The spine supports the body and protects the spinal cord.",
+      "example_ar": "العمود الفقري يدعم الجسم ويحمي الحبل الشوكي."
+    },
+    {
+      "word_en": "calf",
+      "word_ar": "عجل",
+      "example_en": "He pulled a muscle in his calf while running.",
+      "example_ar": "شد عضلة في عجله أثناء الركض."
+    },
+    {
+      "word_en": "shin",
+      "word_ar": "ساق",
+      "example_en": "He banged his shin on the coffee table.",
+      "example_ar": "صدم ساقه بطاولة القهوة."
+    },
+    {
+      "word_en": "big toe",
+      "word_ar": "إبهام القدم",
+      "example_en": "She stubbed her big toe on the doorframe.",
+      "example_ar": "صدمت إبهام قدمها الكبير بإطار الباب."
+    },
+    {
+      "word_en": "pinky",
+      "word_ar": "إبهام القدم",
+      "example_en": "She wore a ring on her pinky finger.",
+      "example_ar": "ارتدت خاتمًا على إبهام قدمها."
+    },
+    {
+      "word_en": "eyelid",
+      "word_ar": "جفن",
+      "example_en": "She closed her eyelids and drifted off to sleep.",
+      "example_ar": "أغلقت جفونها وغفت."
+    },
+    {
+      "word_en": "jaw",
+      "word_ar": "فك",
+      "example_en": "His jaw tightened with anger.",
+      "example_ar": "انغمس فكه من الغضب."
+    },
+    {
+      "word_en": "vein",
+      "word_ar": "وريد",
+      "example_en": "You can see the veins in his hands.",
+      "example_ar": "يمكنك رؤية الأوردة في يديه."
+    },
+    {
+      "word_en": "nostril",
+      "word_ar": "فتحة الأنف",
+      "example_en": "Air enters through the nostrils.",
+      "example_ar": "يدخل الهواء من خلال فتحات الأنف."
+    }
+  ]
+}
 
