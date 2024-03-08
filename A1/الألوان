@@ -1,1 +1,89 @@
+{
+  "words": [
+    {
+      "word_en": "black",
+      "word_ar": "أسود",
+      "example_en": "She wore a black dress to the party.",
+      "example_ar": "ارتدت فستانًا أسود إلى الحفلة."
+    },
+    {
+      "word_en": "white",
+      "word_ar": "أبيض",
+      "example_en": "The walls of the room are painted white.",
+      "example_ar": "جدران الغرفة مصبوغة بالأبيض."
+    },
+    {
+      "word_en": "blue",
+      "word_ar": "أزرق",
+      "example_en": "The sky is blue on a clear day.",
+      "example_ar": "السماء زرقاء في الأيام الصافية."
+    },
+    {
+      "word_en": "green",
+      "word_ar": "أخضر",
+      "example_en": "The leaves on the trees turn green in the spring.",
+      "example_ar": "تتحول أوراق الأشجار إلى اللون الأخضر في الربيع."
+    },
+    {
+      "word_en": "yellow",
+      "word_ar": "أصفر",
+      "example_en": "She picked a bouquet of yellow flowers.",
+      "example_ar": "اختارت باقة من الزهور الصفراء."
+    },
+    {
+      "word_en": "red",
+      "word_ar": "أحمر",
+      "example_en": "The stop sign is red.",
+      "example_ar": "علامة التوقف حمراء."
+    },
+    {
+      "word_en": "pink",
+      "word_ar": "وردي",
+      "example_en": "She painted her room pink.",
+      "example_ar": "لونت غرفتها باللون الوردي."
+    },
+    {
+      "word_en": "orange",
+      "word_ar": "برتقالي",
+      "example_en": "The sunset painted the sky orange.",
+      "example_ar": "غروب الشمس رسم السماء باللون البرتقالي."
+    },
+    {
+      "word_en": "purple",
+      "word_ar": "بنفسجي",
+      "example_en": "She wore a purple scarf.",
+      "example_ar": "ارتدت وشاحًا بنفسجيًا."
+    },
+    {
+      "word_en": "gray",
+      "word_ar": "رمادي",
+      "example_en": "The sky was gray and overcast.",
+      "example_ar": "كانت السماء رمادية وملبدة بالغيوم."
+    },
+    {
+      "word_en": "brown",
+      "word_ar": "بني",
+      "example_en": "He has brown eyes.",
+      "example_ar": "لديه عيون بنية."
+    },
+    {
+      "word_en": "dark",
+      "word_ar": "داكن",
+      "example_en": "The room was dark because the lights were off.",
+      "example_ar": "كانت الغرفة مظلمة لأن الأضواء كانت مطفأة."
+    },
+    {
+      "word_en": "light",
+      "word_ar": "فاتح",
+      "example_en": "She prefers light colors for her bedroom.",
+      "example_ar": "تفضل الألوان الفاتحة لغرفة نومها."
+    },
+    {
+      "word_en": "color",
+      "word_ar": "لون",
+      "example_en": "What's your favorite color?",
+      "example_ar": "ما هو لونك المفضل؟"
+    }
+  ]
+}
 
