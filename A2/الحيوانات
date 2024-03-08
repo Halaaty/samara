@@ -1,1 +1,203 @@
+{
+  "words": [
+    {
+      "word_en": "penguin",
+      "word_ar": "البطريق",
+      "example_en": "The penguin waddled across the ice.",
+      "example_ar": "سرى البطريق عبر الجليد."
+    },
+    {
+      "word_en": "mosquito",
+      "word_ar": "بعوضة",
+      "example_en": "She swatted the mosquito away.",
+      "example_ar": "صفعت البعوضة بعيدًا."
+    },
+    {
+      "word_en": "firefly",
+      "word_ar": "يراعة",
+      "example_en": "They watched the firefly light up the night.",
+      "example_ar": "شاهدوا يراعة تنير الليل."
+    },
+    {
+      "word_en": "camel",
+      "word_ar": "جمل",
+      "example_en": "The camel walked across the desert.",
+      "example_ar": "سار الجمل عبر الصحراء."
+    },
+    {
+      "word_en": "beetle",
+      "word_ar": "خنفساء",
+      "example_en": "She found a colorful beetle in the garden.",
+      "example_ar": "وجدت خنفساء ملونة في الحديقة."
+    },
+    {
+      "word_en": "tiger",
+      "word_ar": "نمر",
+      "example_en": "They spotted a tiger in the jungle.",
+      "example_ar": "رأوا نمرًا في الغابة."
+    },
+    {
+      "word_en": "fox",
+      "word_ar": "ثعلب",
+      "example_en": "The fox darted into the bushes.",
+      "example_ar": "دخل الثعلب بسرعة إلى الأشجار."
+    },
+    {
+      "word_en": "wool",
+      "word_ar": "صوف",
+      "example_en": "She knitted a sweater from wool.",
+      "example_ar": "نسجت كنزة من الصوف."
+    },
+    {
+      "word_en": "egg",
+      "word_ar": "بيضة",
+      "example_en": "She collected eggs from the chicken coop.",
+      "example_ar": "جمعت البيض من ملجأ الدجاج."
+    },
+    {
+      "word_en": "hunt",
+      "word_ar": "صيد",
+      "example_en": "The lion went out to hunt for food.",
+      "example_ar": "خرج الأسد للبحث عن الطعام."
+    },
+    {
+      "word_en": "insect",
+      "word_ar": "حشرة",
+      "example_en": "The insect buzzed around the room.",
+      "example_ar": "طارت الحشرة حول الغرفة."
+    },
+    {
+      "word_en": "type",
+      "word_ar": "نوع",
+      "example_en": "They observed a new type of butterfly.",
+      "example_ar": "لاحظوا نوعًا جديدًا من الفراشات."
+    },
+    {
+      "word_en": "deer",
+      "word_ar": "غزال",
+      "example_en": "They saw a deer in the forest.",
+      "example_ar": "رأوا غزالًا في الغابة."
+    },
+    {
+      "word_en": "spider",
+      "word_ar": "عنكبوت",
+      "example_en": "She watched the spider spin its web.",
+      "example_ar": "راقبت العنكبوت وهو يلف شبكته."
+    },
+    {
+      "word_en": "fly",
+      "word_ar": "ذبابة",
+      "example_en": "The fly buzzed around the room.",
+      "example_ar": "طارت الذبابة حول الغرفة."
+    },
+    {
+      "word_en": "ride",
+      "word_ar": "ركوب",
+      "example_en": "They decided to ride the elephant.",
+      "example_ar": "قرروا ركوب الفيل."
+    },
+    {
+      "word_en": "kind",
+      "word_ar": "نوع",
+      "example_en": "There are many different kinds of birds.",
+      "example_ar": "هناك العديد من أنواع الطيور المختلفة."
+    },
+    {
+      "word_en": "whale",
+      "word_ar": "حوت",
+      "example_en": "They saw a whale breach in the ocean.",
+      "example_ar": "رأوا حوتًا يقفز في المحيط."
+    },
+    {
+      "word_en": "shark",
+      "word_ar": "قرش",
+      "example_en": "They spotted a shark swimming near the shore.",
+      "example_ar": "رصدوا قرشًا يسبح بالقرب من الشاطئ."
+    },
+    {
+      "word_en": "cockroach",
+      "word_ar": "صرصور",
+      "example_en": "She screamed when she saw a cockroach in the kitchen.",
+      "example_ar": "صرخت عندما رأت صرصورًا في المطبخ."
+    },
+    {
+      "word_en": "eagle",
+      "word_ar": "نسر",
+      "example_en": "They watched the eagle soar through the sky.",
+      "example_ar": "راقبوا النسر يتحلق في السماء."
+    },
+    {
+      "word_en": "lamb",
+      "word_ar": "حمل",
+      "example_en": "The lamb frolicked in the field.",
+      "example_ar": "الحمل يتسلق في الحقل."
+    },
+    {
+      "word_en": "wild",
+      "word_ar": "بري",
+      "example_en": "They observed wild animals in their natural habitat.",
+      "example_ar": "لاحظوا الحيوانات البرية في بيئتها الطبيعية."
+    },
+    {
+      "word_en": "hamster",
+      "word_ar": "هامستر",
+      "example_en": "She watched her hamster run on its wheel.",
+      "example_ar": "راقبت هامسترها وهو يجري على العجلة."
+    },
+    {
+      "word_en": "web",
+      "word_ar": "شبكة",
+      "example_en": "The spider spun a web in the corner.",
+      "example_ar": "أنشأ العنكبوت شبكة في الزاوية."
+    },
+    {
+      "word_en": "zoo",
+      "word_ar": "حديقة حيوان",
+      "example_en": "They visited the zoo to see the animals.",
+      "example_ar": "زاروا حديقة الحيوان لرؤية الحيوانات."
+    },
+    {
+      "word_en": "butterfly",
+      "word_ar": "فراشة",
+      "example_en": "The butterfly fluttered among the flowers.",
+      "example_ar": "الفراشة تحلق بين الزهور."
+    },
+    {
+      "word_en": "tail",
+      "word_ar": "ذيل",
+      "example_en": "The cat flicked its tail.",
+      "example_ar": "قام القط بتحريك ذيله."
+    },
+    {
+      "word_en": "penguin",
+      "word_ar": "بطريق",
+      "example_en": "They saw a penguin slide on the ice.",
+      "example_ar": "رأوا بطريقًا يتزحلق على الجليد."
+    },
+    {
+      "word_en": "ladybug",
+      "word_ar": "دعسوقة",
+      "example_en": "She found a ladybug in the garden.",
+      "example_ar": "وجدت دعسوقة في الحديقة."
+    },
+    {
+      "word_en": "hunt",
+      "word_ar": "صيد",
+      "example_en": "The hunt for the lost dog lasted all day.",
+      "example_ar": "استمرت صيدة الكلب المفقود طوال اليوم."
+    },
+    {
+      "word_en": "kind",
+      "word_ar": "طيب",
+      "example_en": "She's always been very kind to animals.",
+      "example_ar": "كانت دائمًا طيبة للغاية مع الحيوانات."
+    },
+    {
+      "word_en": "spider",
+      "word_ar": "عنكبوت",
+      "example_en": "She's terrified of spiders.",
+      "example_ar": "هي مرعوبة من العناكب."
+    }
+  ]
+}
 
