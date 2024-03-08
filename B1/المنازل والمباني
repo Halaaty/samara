@@ -1,1 +1,143 @@
+{
+  "words": [
+    {
+      "word_en": "fireplace",
+      "word_ar": "مدفأة",
+      "example_en": "They gathered around the fireplace to keep warm.",
+      "example_ar": "تجمعوا حول المدفأة للحفاظ على الدفء."
+    },
+    {
+      "word_en": "porch",
+      "word_ar": "شُرفة",
+      "example_en": "They enjoyed their morning coffee on the porch.",
+      "example_ar": "استمتعوا بقهوتهم الصباحية على الشُرفة."
+    },
+    {
+      "word_en": "tower",
+      "word_ar": "برج",
+      "example_en": "The tower loomed over the city skyline.",
+      "example_ar": "البرج يظهر في الأفق الحضري للمدينة."
+    },
+    {
+      "word_en": "guest room",
+      "word_ar": "غرفة الضيوف",
+      "example_en": "The guest room was prepared with fresh linens and towels.",
+      "example_ar": "تم تجهيز غرفة الضيوف بمفروشات ومناشف نظيفة."
+    },
+    {
+      "word_en": "swimming pool",
+      "word_ar": "مسبح",
+      "example_en": "The swimming pool provided relief from the summer heat.",
+      "example_ar": "المسبح يوفر الراحة من حرارة الصيف."
+    },
+    {
+      "word_en": "studio",
+      "word_ar": "استوديو",
+      "example_en": "The artist worked on her latest masterpiece in the studio.",
+      "example_ar": "الفنانة تعمل على روائعها الأخيرة في الاستوديو."
+    },
+    {
+      "word_en": "step",
+      "word_ar": "درج",
+      "example_en": "He climbed the steps to the top of the tower.",
+      "example_ar": "صعد الدرج إلى قمة البرج."
+    },
+    {
+      "word_en": "corridor",
+      "word_ar": "ممر",
+      "example_en": "The corridor was dimly lit with flickering lights.",
+      "example_ar": "كان الممر مضاء بضوء خافت متقطع."
+    },
+    {
+      "word_en": "driveway",
+      "word_ar": "مدخل السيارات",
+      "example_en": "They parked their car in the driveway and walked to the front door.",
+      "example_ar": "قاموا بركن سيارتهم في مدخل السيارات وساروا إلى الباب الأمامي."
+    },
+    {
+      "word_en": "resident",
+      "word_ar": "ساكن",
+      "example_en": "The tower had many residents, each with their own story.",
+      "example_ar": "كان في البرج العديد من السكان، كل واحد له قصته الخاصة."
+    },
+    {
+      "word_en": "apartment building",
+      "word_ar": "مبنى سكني",
+      "example_en": "The apartment building housed families from diverse backgrounds.",
+      "example_ar": "كان المبنى السكني مأوى لعائلات من خلفيات متنوعة."
+    },
+    {
+      "word_en": "shelf",
+      "word_ar": "رف",
+      "example_en": "She placed her books neatly on the shelf.",
+      "example_ar": "وضعت كتبها بانتظام على الرف."
+    },
+    {
+      "word_en": "country house",
+      "word_ar": "منزل في الريف",
+      "example_en": "The country house was nestled among rolling hills.",
+      "example_ar": "كان المنزل الريفي متواجدًا بين تلال متدحرجة."
+    },
+    {
+      "word_en": "palace",
+      "word_ar": "قصر",
+      "example_en": "The palace was adorned with intricate carvings and gold leaf.",
+      "example_ar": "كان القصر مزينًا بنقوش معقدة وورق ذهبي."
+    },
+    {
+      "word_en": "back door",
+      "word_ar": "باب خلفي",
+      "example_en": "They slipped out the back door to avoid the crowd.",
+      "example_ar": "خرجوا من الباب الخلفي لتجنب الحشد."
+    },
+    {
+      "word_en": "accommodations",
+      "word_ar": "إقامة",
+      "example_en": "The accommodations at the guest house were comfortable and inviting.",
+      "example_ar": "كانت إقامة النزلاء في بيت الضيافة مريحة ومغرية."
+    },
+    {
+      "word_en": "cabin",
+      "word_ar": "كوخ",
+      "example_en": "They spent the weekend in a cozy cabin in the mountains.",
+      "example_ar": "قضوا عطلة نهاية الأسبوع في كوخ دافئ في الجبال."
+    },
+    {
+      "word_en": "front door",
+      "word_ar": "باب أمامي",
+      "example_en": "She greeted guests at the front door with a warm smile.",
+      "example_ar": "رحبت بالضيوف عند الباب الأمامي بابتسامة دافئة."
+    },
+    {
+      "word_en": "guest house",
+      "word_ar": "بيت الضيافة",
+      "example_en": "The guest house provided a comfortable retreat for weary travelers.",
+      "example_ar": "كان بيت الضيافة مأوى مريحًا للمسافرين المتعبين."
+    },
+    {
+      "word_en": "store room",
+      "word_ar": "غرفة تخزين",
+      "example_en": "They stored extra supplies in the store room.",
+      "example_ar": "خزنوا اللوازم الإضافية في غرفة التخزين."
+    },
+    {
+      "word_en": "floor",
+      "word_ar": "أرضية",
+      "example_en": "The floor of the tower was made of polished marble.",
+      "example_ar": "كانت أرضية البرج مصنوعة من الرخام المصقول."
+    },
+    {
+      "word_en": "walkway",
+      "word_ar": "ممر مشاة",
+      "example_en": "The walkway led through the garden to the front door.",
+      "example_ar": "أدى الممر المشاة من خلال الحديقة إلى الباب الأمامي."
+    },
+    {
+      "word_en": "drain",
+      "word_ar": "صرف",
+      "example_en": "The drain was clogged with leaves after the storm.",
+      "example_ar": "كان الصرف مسدودًا بالأوراق بعد العاصفة."
+    }
+  ]
+}
 
