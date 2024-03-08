@@ -1,1 +1,77 @@
+{
+  "words": [
+    {
+      "word_en": "name",
+      "word_ar": "اسم",
+      "example_en": "What is your name?",
+      "example_ar": "ما هو اسمك؟"
+    },
+    {
+      "word_en": "last name",
+      "word_ar": "اسم العائلة",
+      "example_en": "Please write your last name here.",
+      "example_ar": "يرجى كتابة اسم العائلة الخاص بك هنا."
+    },
+    {
+      "word_en": "age",
+      "word_ar": "عمر",
+      "example_en": "She is six years old.",
+      "example_ar": "إنها في السادسة من عمرها."
+    },
+    {
+      "word_en": "address",
+      "word_ar": "عنوان",
+      "example_en": "Can you give me your address?",
+      "example_ar": "هل يمكنك أن تعطيني عنوانك؟"
+    },
+    {
+      "word_en": "birthday",
+      "word_ar": "عيد ميلاد",
+      "example_en": "We're celebrating her birthday on Saturday.",
+      "example_ar": "نحن نحتفل بعيد ميلادها يوم السبت."
+    },
+    {
+      "word_en": "birthdate",
+      "word_ar": "تاريخ الميلاد",
+      "example_en": "Her birthdate is in the official records.",
+      "example_ar": "تاريخ ميلادها موجود في السجلات الرسمية."
+    },
+    {
+      "word_en": "single",
+      "word_ar": "أعزب/عازبة",
+      "example_en": "He is currently single.",
+      "example_ar": "هو عازب حالياً."
+    },
+    {
+      "word_en": "married",
+      "word_ar": "متزوج/متزوجة",
+      "example_en": "They have been happily married for ten years.",
+      "example_ar": "لقد كانوا متزوجين بسعادة لمدة عشر سنوات."
+    },
+    {
+      "word_en": "passport",
+      "word_ar": "جواز السفر",
+      "example_en": "Please provide your passport for verification.",
+      "example_ar": "يرجى تقديم جواز السفر الخاص بك للتحقق."
+    },
+    {
+      "word_en": "phone number",
+      "word_ar": "رقم الهاتف",
+      "example_en": "Can I have your phone number, please?",
+      "example_ar": "هل يمكنني الحصول على رقم هاتفك، من فضلك؟"
+    },
+    {
+      "word_en": "question",
+      "word_ar": "سؤال",
+      "example_en": "Do you have any questions?",
+      "example_ar": "هل لديك أي أسئلة؟"
+    },
+    {
+      "word_en": "answer",
+      "word_ar": "جواب",
+      "example_en": "Please write your answer in the space provided.",
+      "example_ar": "يرجى كتابة إجابتك في المساحة المقدمة."
+    }
+  ]
+}
 
