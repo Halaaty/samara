@@ -1,1 +1,190 @@
-
+{
+  "words": [
+    {
+      "word_en": "paw",
+      "word_tr": "pati",
+      "example_en": "The cat extended its paw to play with the toy.",
+      "example_tr": "Kedi, oyuncakla oynamak için patisini uzattı."
+    },
+    {
+      "word_en": "lay",
+      "word_tr": "yerleştirmek",
+      "example_en": "She carefully lay the eggs in the nest.",
+      "example_tr": "Dikkatlice yumurtaları yuvaya yerleştirdi."
+    },
+    {
+      "word_en": "mate",
+      "word_tr": "eşleşmek",
+      "example_en": "The birds began to mate during the breeding season.",
+      "example_tr": "Kuşlar, üreme mevsiminde eşleşmeye başladı."
+    },
+    {
+      "word_en": "chain",
+      "word_tr": "zincir",
+      "example_en": "The dog was tied to a chain in the yard.",
+      "example_tr": "Köpek bahçede bir zincire bağlıydı."
+    },
+    {
+      "word_en": "lay",
+      "word_tr": "yavru",
+      "example_en": "The hen sat on her eggs waiting for them to hatch into chicks.",
+      "example_tr": "Tavuk, yumurtalarının civcivlere dönüşmesini beklerken yumurtalarının üzerine oturdu."
+    },
+    {
+      "word_en": "territory",
+      "word_tr": "bölge",
+      "example_en": "The lion marked its territory with a powerful roar.",
+      "example_tr": "Aslan, güçlü bir kükreme ile bölgesini işaretledi."
+    },
+    {
+      "word_en": "wildlife",
+      "word_tr": "yaban hayatı",
+      "example_en": "The national park is home to a diverse range of wildlife.",
+      "example_tr": "Milli park, çeşitli yaban hayatına ev sahipliği yapıyor."
+    },
+    {
+      "word_en": "bark",
+      "word_tr": "havlamak",
+      "example_en": "The dog began to bark loudly at the passing mailman.",
+      "example_tr": "Köpek, geçen postacıya yüksek sesle havlamaya başladı."
+    },
+    {
+      "word_en": "cheetah",
+      "word_tr": "çita",
+      "example_en": "The cheetah is known for its incredible speed.",
+      "example_tr": "Çita, inanılmaz hızıyla tanınır."
+    },
+    {
+      "word_en": "reindeer",
+      "word_tr": "rens",
+      "example_en": "The reindeer are adapted to the cold climate of the Arctic.",
+      "example_tr": "Rensler, Arktik'in soğuk iklimine uyum sağlamıştır."
+    },
+    {
+      "word_en": "species",
+      "word_tr": "tür",
+      "example_en": "There are thousands of different species of insects.",
+      "example_tr": "Binlerce farklı böcek türü vardır."
+    },
+    {
+      "word_en": "domestic",
+      "word_tr": "evcil",
+      "example_en": "Domestic cats have been companions to humans for centuries.",
+      "example_tr": "Evcil kediler, yüzyıllardır insanların dostları olmuştur."
+    },
+    {
+      "word_en": "territory",
+      "word_tr": "hükmetmek",
+      "example_en": "The wolf's howl echoed through its territory.",
+      "example_tr": "Kurtun uluması bölgesi boyunca yankılandı."
+    },
+    {
+      "word_en": "feather",
+      "word_tr": "tüy",
+      "example_en": "The bird preened its feathers to keep them clean.",
+      "example_tr": "Kuş, tüylerini temiz tutmak için tüylerini düzeltti."
+    },
+    {
+      "word_en": "breed",
+      "word_tr": "ırk",
+      "example_en": "The Labrador is a popular breed of dog.",
+      "example_tr": "Labrador, popüler bir köpek ırkıdır."
+    },
+    {
+      "word_en": "trap",
+      "word_tr": "tuzak",
+      "example_en": "The hunter set a trap to catch the rabbit.",
+      "example_tr": "Avcı, tavşanı yakalamak için bir tuzak kurdu."
+    },
+    {
+      "word_en": "cage",
+      "word_tr": "kafes",
+      "example_en": "The zookeeper cleaned the cages of the animals.",
+      "example_tr": "Hayvanat bahçesi görevlisi, hayvanların kafeslerini temizledi."
+    },
+    {
+      "word_en": "pack",
+      "word_tr": "sürü",
+      "example_en": "The wolves traveled in a pack to increase their chances of hunting.",
+      "example_tr": "Kurtlar, avlanma şanslarını artırmak için bir sürü halinde seyahat ettiler."
+    },
+    {
+      "word_en": "polar bear",
+      "word_tr": "kutup ayısı",
+      "example_en": "The polar bear's fur provides insulation against the cold.",
+      "example_tr": "Kutup ayısının kürkü soğuğa karşı yalıtım sağlar."
+    },
+    {
+      "word_en": "trap",
+      "word_tr": "tuzak",
+      "example_en": "The hunter set a trap to catch the rabbit.",
+      "example_tr": "Avcı, tavşanı yakalamak için bir tuzak kurdu."
+    },
+    {
+      "word_en": "mate",
+      "word_tr": "eş",
+      "example_en": "The male bird displays its colorful feathers to attract a mate.",
+      "example_tr": "Erkek kuş, bir eş çekmek için renkli tüylerini sergiler."
+    },
+    {
+      "word_en": "extinct",
+      "word_tr": "soyu tükenmiş",
+      "example_en": "The dodo bird is an extinct species.",
+      "example_tr": "Dodo kuşu soyu tükenmiş bir türdür."
+    },
+    {
+      "word_en": "mammal",
+      "word_tr": "memeli",
+      "example_en": "Dolphins are aquatic mammals.",
+      "example_tr": "Yunuslar su memelileridir."
+    },
+    {
+      "word_en": "squirrel",
+      "word_tr": "sincap",
+      "example_en": "The squirrel stored nuts for the winter.",
+      "example_tr": "Sincap, kış için fındıklarını depoladı."
+    },
+    {
+      "word_en": "chain",
+      "word_tr": "zincir",
+      "example_en": "The dog was tied to a chain in the yard.",
+      "example_tr": "Köpek bahçede bir zincire bağlıydı."
+    },
+    {
+      "word_en": "reptile",
+      "word_tr": "sürüngen",
+      "example_en": "Snakes and lizards are examples of reptiles.",
+      "example_tr": "Yılanlar ve kertenkeleler sürüngen örnekleridir."
+    },
+    {
+      "word_en": "puppy",
+      "word_tr": "yavru köpek",
+      "example_en": "The family adopted a puppy from the animal shelter.",
+      "example_tr": "Aile, hayvan barınağından bir yavru köpek sahiplendi."
+    },
+    {
+      "word_en": "venom",
+      "word_tr": "zehir",
+      "example_en": "The snake injects venom into its prey to immobilize it.",
+      "example_tr": "Yılan, avına zehir enjekte ederek onu etkisiz hale getirir."
+    },
+    {
+      "word_en": "owl",
+      "word_tr": "baykuş",
+      "example_en": "The owl hunts at night using its keen eyesight.",
+      "example_tr": "Baykuş, keskin görüşünü kullanarak gece avlanır."
+    },
+    {
+      "word_en": "trap",
+      "word_tr": "tuzak",
+      "example_en": "The hunter set a trap to catch the rabbit.",
+      "example_tr": "Avcı, tavşanı yakalamak için bir tuzak kurdu."
+    },
+    {
+      "word_en": "chain",
+      "word_tr": "zincir",
+      "example_en": "The dog was tied to a chain in the yard.",
+      "example_tr": "Köpek bahçede bir zincire bağlıydı."
+    }
+  ]
+}
