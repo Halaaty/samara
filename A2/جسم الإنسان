@@ -1,1 +1,149 @@
+{
+  "words": [
+    {
+      "word_en": "chest",
+      "word_ar": "صدر",
+      "example_en": "He felt pain in his chest.",
+      "example_ar": "شعر بألم في صدره."
+    },
+    {
+      "word_en": "eyelash",
+      "word_ar": "رمش",
+      "example_en": "She admired his long eyelashes.",
+      "example_ar": "أعجبته رموشه الطويلة."
+    },
+    {
+      "word_en": "muscle",
+      "word_ar": "عضلة",
+      "example_en": "He flexed his muscles.",
+      "example_ar": "شد عضلاته."
+    },
+    {
+      "word_en": "throat",
+      "word_ar": "حلق",
+      "example_en": "His throat was sore from shouting.",
+      "example_ar": "كان حلقه يؤلمه من الصراخ."
+    },
+    {
+      "word_en": "breath",
+      "word_ar": "زفير",
+      "example_en": "She took a deep breath.",
+      "example_ar": "أخذت نفسًا عميقًا."
+    },
+    {
+      "word_en": "fat",
+      "word_ar": "دهن",
+      "example_en": "He tried to burn fat by exercising.",
+      "example_ar": "حاول حرق الدهون بالتمرينات."
+    },
+    {
+      "word_en": "skin",
+      "word_ar": "جلد",
+      "example_en": "She moisturized her skin every day.",
+      "example_ar": "كانت ترطب جلدها يوميًا."
+    },
+    {
+      "word_en": "blood",
+      "word_ar": "دم",
+      "example_en": "Blood flowed from the wound.",
+      "example_ar": "تدفق الدم من الجرح."
+    },
+    {
+      "word_en": "bone",
+      "word_ar": "عظم",
+      "example_en": "He broke a bone in his leg.",
+      "example_ar": "كسر عظمًا في ساقه."
+    },
+    {
+      "word_en": "breathing",
+      "word_ar": "تنفس",
+      "example_en": "His breathing was heavy after running.",
+      "example_ar": "كانت تنفسه ثقيلة بعد الجري."
+    },
+    {
+      "word_en": "skull",
+      "word_ar": "جمجمة",
+      "example_en": "They found a skull in the forest.",
+      "example_ar": "وجدوا جمجمة في الغابة."
+    },
+    {
+      "word_en": "wrist",
+      "word_ar": "معصم",
+      "example_en": "She wore a bracelet on her wrist.",
+      "example_ar": "كانت ترتدي سوارًا على معصمها."
+    },
+    {
+      "word_en": "weak",
+      "word_ar": "ضعيف",
+      "example_en": "He felt weak after being sick.",
+      "example_ar": "شعر بالضعف بعد المرض."
+    },
+    {
+      "word_en": "backbone",
+      "word_ar": "عمود فقري",
+      "example_en": "The backbone supports the body.",
+      "example_ar": "يدعم العمود الفقري الجسم."
+    },
+    {
+      "word_en": "gum",
+      "word_ar": "لثة",
+      "example_en": "She brushed her teeth and gums.",
+      "example_ar": "فرشت أسنانها ولثتها."
+    },
+    {
+      "word_en": "palm",
+      "word_ar": "كف اليد",
+      "example_en": "She held the coin in her palm.",
+      "example_ar": "مسكت العملة في كف يدها."
+    },
+    {
+      "word_en": "elbow",
+      "word_ar": "مرفق",
+      "example_en": "He bumped his elbow on the table.",
+      "example_ar": "صدم مرفقه بالطاولة."
+    },
+    {
+      "word_en": "forearm",
+      "word_ar": "ساعد",
+      "example_en": "She had a tattoo on her forearm.",
+      "example_ar": "كانت لديها وشم على ساعدها."
+    },
+    {
+      "word_en": "strong",
+      "word_ar": "قوي",
+      "example_en": "He felt strong after exercising.",
+      "example_ar": "شعر بالقوة بعد ممارسة التمارين الرياضية."
+    },
+    {
+      "word_en": "physical",
+      "word_ar": "جسدي",
+      "example_en": "The physical exam checked his health.",
+      "example_ar": "فحص الجسم الصحيفحص صحته."
+    },
+    {
+      "word_en": "physically",
+      "word_ar": "جسدياً",
+      "example_en": "She was physically exhausted after the hike.",
+      "example_ar": "شعرت بالإرهاق الجسدي بعد الرحلة."
+    },
+    {
+      "word_en": "human",
+      "word_ar": "إنسان",
+      "example_en": "She was fascinated by human behavior.",
+      "example_ar": "كانت مفتونة بسلوك الإنسان."
+    },
+    {
+      "word_en": "heel",
+      "word_ar": "كعب",
+      "example_en": "She wore high heels to the party.",
+      "example_ar": "ارتدت كعبًا عاليًا للحفلة."
+    },
+    {
+      "word_en": "line",
+      "word_ar": "خط",
+      "example_en": "He drew a straight line with a ruler.",
+      "example_ar": "رسم خطًا مستقيمًا بمسطرة."
+    }
+  ]
+}
 
