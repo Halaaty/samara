@@ -1,1 +1,89 @@
+{
+  "words": [
+    {
+      "word_en": "head",
+      "word_ar": "رأس",
+      "example_en": "She rested her head on the pillow.",
+      "example_ar": "وضعت رأسها على الوسادة."
+    },
+    {
+      "word_en": "hair",
+      "word_ar": "شعر",
+      "example_en": "She has long, brown hair.",
+      "example_ar": "لديها شعر طويل باللون البني."
+    },
+    {
+      "word_en": "brain",
+      "word_ar": "دماغ",
+      "example_en": "The brain is the center of the nervous system.",
+      "example_ar": "الدماغ هو مركز الجهاز العصبي."
+    },
+    {
+      "word_en": "neck",
+      "word_ar": "عنق",
+      "example_en": "She wore a necklace around her neck.",
+      "example_ar": "ارتدت قلادة حول عنقها."
+    },
+    {
+      "word_en": "face",
+      "word_ar": "وجه",
+      "example_en": "She has a beautiful face.",
+      "example_ar": "لديها وجه جميل."
+    },
+    {
+      "word_en": "eye",
+      "word_ar": "عين",
+      "example_en": "Her eyes sparkled with joy.",
+      "example_ar": "لمعت عيناها من الفرح."
+    },
+    {
+      "word_en": "eyebrow",
+      "word_ar": "حاجب",
+      "example_en": "She raised her eyebrow in surprise.",
+      "example_ar": "رفعت حاجبها بالدهشة."
+    },
+    {
+      "word_en": "nose",
+      "word_ar": "أنف",
+      "example_en": "He has a small nose.",
+      "example_ar": "لديه أنف صغير."
+    },
+    {
+      "word_en": "ear",
+      "word_ar": "أذن",
+      "example_en": "She whispered in his ear.",
+      "example_ar": "همست في أذنه."
+    },
+    {
+      "word_en": "cheek",
+      "word_ar": "خد",
+      "example_en": "She kissed him on the cheek.",
+      "example_ar": "قبلته على خده."
+    },
+    {
+      "word_en": "chin",
+      "word_ar": "ذقن",
+      "example_en": "Rest your chin on your hand.",
+      "example_ar": "استند بذقنك إلى يدك."
+    },
+    {
+      "word_en": "mouth",
+      "word_ar": "فم",
+      "example_en": "She smiled, showing her teeth.",
+      "example_ar": "ابتسمت، مظهرة أسنانها."
+    },
+    {
+      "word_en": "tooth",
+      "word_ar": "سن",
+      "example_en": "She had a tooth pulled.",
+      "example_ar": "استخرجت سنًا لها."
+    },
+    {
+      "word_en": "lip",
+      "word_ar": "شفة",
+      "example_en": "She applied lip balm to her dry lips.",
+      "example_ar": "وضعت مرطب الشفاه على شفتيها الجافتين."
+    }
+  ]
+}
 
