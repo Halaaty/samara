@@ -1,1 +1,191 @@
+{
+  "words": [
+    {
+      "word_en": "octopus",
+      "word_ar": "أخطبوط",
+      "example_en": "The octopus can change its color to blend with its surroundings.",
+      "example_ar": "يمكن للأخطبوط تغيير لونه ليمتزج مع محيطه."
+    },
+    {
+      "word_en": "crow",
+      "word_ar": "غراب",
+      "example_en": "The crow cawed loudly from the tree branch.",
+      "example_ar": "صاح الغراب بصوت عالٍ من فرع الشجرة."
+    },
+    {
+      "word_en": "gorilla",
+      "word_ar": "غوريلا",
+      "example_en": "The gorilla beat its chest in a display of dominance.",
+      "example_ar": "ضربت الغوريلا صدرها لإظهار السيطرة."
+    },
+    {
+      "word_en": "rooster",
+      "word_ar": "ديك الرومي",
+      "example_en": "The rooster crowed at the break of dawn.",
+      "example_ar": "صاح ديك الرومي عند فجر اليوم الجديد."
+    },
+    {
+      "word_en": "guinea pig",
+      "word_ar": "خنزير غينيا",
+      "example_en": "The new software update served as a guinea pig for potential bugs.",
+      "example_ar": "خدم تحديث البرنامج الجديد كخنزير غينيا للعيوب المحتملة."
+    },
+    {
+      "word_en": "raccoon",
+      "word_ar": "راكون",
+      "example_en": "The raccoon rummaged through the trash bin for food.",
+      "example_ar": "حفر الراكون في سلة القمامة بحثًا عن الطعام."
+    },
+    {
+      "word_en": "zebra",
+      "word_ar": "حمار وحشي",
+      "example_en": "The zebra's stripes provide camouflage in the tall grass.",
+      "example_ar": "توفر خطوط الحمار الوحشي التمويه في العشب الطويل."
+    },
+    {
+      "word_en": "swan",
+      "word_ar": "البجعة",
+      "example_en": "The swan glided gracefully across the calm lake.",
+      "example_ar": "انزلقت البجعة بأناقة عبر البحيرة الهادئة."
+    },
+    {
+      "word_en": "snail",
+      "word_ar": "حلزون",
+      "example_en": "The snail moved slowly across the garden path.",
+      "example_ar": "تحرك الحلزون ببطء عبر مسار الحديقة."
+    },
+    {
+      "word_en": "lizard",
+      "word_ar": "سحلية",
+      "example_en": "The lizard basked in the warmth of the sun on the rock.",
+      "example_ar": "استلقت السحلية تحت أشعة الشمس الدافئة على الصخرة."
+    },
+    {
+      "word_en": "kangaroo",
+      "word_ar": "كنغر",
+      "example_en": "The kangaroo bounded effortlessly across the grasslands.",
+      "example_ar": "قفز الكنغر بسهولة عبر المروج."
+    },
+    {
+      "word_en": "turkey",
+      "word_ar": "ديك رومي",
+      "example_en": "The turkey strutted proudly around the farmyard.",
+      "example_ar": "تمشى الديك الرومي بفخر حول ساحة المزرعة."
+    },
+    {
+      "word_en": "gorilla",
+      "word_ar": "غوريلا",
+      "example_en": "The gorilla swung from vine to vine in the jungle.",
+      "example_ar": "تأرجحت الغوريلا من كرمة إلى أخرى في الغابة."
+    },
+    {
+      "word_en": "cricket",
+      "word_ar": "كريكيت",
+      "example_en": "The sound of cricket chirping filled the evening air.",
+      "example_ar": "ملأت صوت تغريد الكريكيت الهواء المسائي."
+    },
+    {
+      "word_en": "porcupine",
+      "word_ar": "قنافذ",
+      "example_en": "The porcupine raised its quills defensively.",
+      "example_ar": "رفع القنافذ أبراها دفاعًا."
+    },
+    {
+      "word_en": "snake",
+      "word_ar": "ثعبان",
+      "example_en": "The snake slithered silently through the grass.",
+      "example_ar": "زحف الثعبان بصمت عبر العشب."
+    },
+    {
+      "word_en": "trap",
+      "word_ar": "فخ",
+      "example_en": "They set up a trap to catch the mice in the barn.",
+      "example_ar": "نصبوا فخًا لصيد الفئران في الحظيرة."
+    },
+    {
+      "word_en": "lobster",
+      "word_ar": "جمبري",
+      "example_en": "The lobster scuttled across the ocean floor.",
+      "example_ar": "انتقل الجمبري بسرعة عبر قاع المحيط."
+    },
+    {
+      "word_en": "poison",
+      "word_ar": "سم",
+      "example_en": "The poison dart frog is highly toxic.",
+      "example_ar": "الضفدعة ذات السهم السامة سامة للغاية."
+    },
+    {
+      "word_en": "creature",
+      "word_ar": "مخلوق",
+      "example_en": "They encountered a strange creature in the depths of the forest.",
+      "example_ar": "واجهوا مخلوقا غريبا في أعماق الغابة."
+    },
+    {
+      "word_en": "giraffe",
+      "word_ar": "زرافة",
+      "example_en": "The giraffe stretched its long neck to reach the leaves.",
+      "example_ar": "مدت الزرافة عنقها الطويل للوصول إلى الأوراق."
+    },
+    {
+      "word_en": "bite",
+      "word_ar": "عضة",
+      "example_en": "He felt a sharp bite on his ankle.",
+      "example_ar": "شعر بعضة حادة في كاحله."
+    },
+    {
+      "word_en": "bull shark",
+      "word_ar": "قرش الثور",
+      "example_en": "The bull shark patrols the coastal waters in search of prey.",
+      "example_ar": "يقوم قرش الثور بدوريات في المياه الساحلية بحثًا عن فريسته."
+    },
+    {
+      "word_en": "ant",
+      "word_ar": "نملة",
+      "example_en": "The ants marched in a line towards the picnic blanket.",
+      "example_ar": "سارت النمل باتجاه البطانية المناسبة للنزهة."
+    },
+    {
+      "word_en": "chimpanzee",
+      "word_ar": "شمبانزي",
+      "example_en": "The chimpanzee swung from tree to tree in the jungle.",
+      "example_ar": "أرخى الشمبانزي من شجرة إلى شجرة في الغابة."
+    },
+    {
+      "word_en": "wolf",
+      "word_ar": "ذئب",
+      "example_en": "The wolf howled at the full moon.",
+      "example_ar": "عوى الذئب تحت ضوء القمر الكامل."
+    },
+    {
+      "word_en": "goldfish",
+      "word_ar": "سمك الذهب",
+      "example_en": "The goldfish swam gracefully in its bowl.",
+      "example_ar": "سبح السمك الذهبي بأناقة في وعاءه."
+    },
+    {
+      "word_en": "rat",
+      "word_ar": "جرذ",
+      "example_en": "The rat scurried along the edge of the alley.",
+      "example_ar": "ركض الجرذ على طول حافة الزقاق."
+    },
+    {
+      "word_en": "turtle",
+      "word_ar": "سلحفاة",
+      "example_en": "The turtle basked in the warmth of the sun on the rock.",
+      "example_ar": "استلقت السلحفاة تحت أشعة الشمس الدافئة على الصخرة."
+    },
+    {
+      "word_en": "bull",
+      "word_ar": "ثور",
+      "example_en": "The bull pawed the ground before charging.",
+      "example_ar": "حفر الثور الأرض قبل الاندفاع."
+    },
+    {
+      "word_en": "alligator",
+      "word_ar": "تمساح",
+      "example_en": "The alligator lurked in the murky waters of the swamp.",
+      "example_ar": "تربص التمساح في المياه العكرة للمستنقع."
+    }
+  ]
+}
 
