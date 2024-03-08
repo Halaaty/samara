@@ -1,1 +1,143 @@
+{
+  "words": [
+    {
+      "word_en": "fig",
+      "word_ar": "تين",
+      "example_en": "Figs are often enjoyed fresh or dried.",
+      "example_ar": "غالبًا ما يُستمتع بالتين طازجًا أو مجففًا."
+    },
+    {
+      "word_en": "nectarine",
+      "word_ar": "نكتارين",
+      "example_en": "The nectarine was juicy and sweet.",
+      "example_ar": "كان النكتارين عصيريًا وحلوًا."
+    },
+    {
+      "word_en": "apricot",
+      "word_ar": "مشمش",
+      "example_en": "Apricots are delicious when eaten ripe.",
+      "example_ar": "المشمش لذيذ عند تناوله ناضجًا."
+    },
+    {
+      "word_en": "pistachio",
+      "word_ar": "فستق",
+      "example_en": "He snacked on a handful of pistachios.",
+      "example_ar": "أكل كف من الفستق كوجبة خفيفة."
+    },
+    {
+      "word_en": "olive",
+      "word_ar": "زيتون",
+      "example_en": "Olives are a staple in Mediterranean cuisine.",
+      "example_ar": "الزيتون هو جزء أساسي في المطبخ البحر الأبيض المتوسط."
+    },
+    {
+      "word_en": "pomegranate",
+      "word_ar": "رمان",
+      "example_en": "The pomegranate seeds added a burst of flavor to the salad.",
+      "example_ar": "أضافت بذور الرمان لمسة من النكهة إلى السلطة."
+    },
+    {
+      "word_en": "macadamia nut",
+      "word_ar": "جوز مكاديميا",
+      "example_en": "Macadamia nuts are often used in baking.",
+      "example_ar": "غالبًا ما يُستخدم جوز مكاديميا في الخبز."
+    },
+    {
+      "word_en": "lime",
+      "word_ar": "ليمون حامض",
+      "example_en": "She squeezed lime juice over the fish.",
+      "example_ar": "عصرت عصير الليمون الحامض على السمك."
+    },
+    {
+      "word_en": "citrus",
+      "word_ar": "حمضيات",
+      "example_en": "Citrus fruits such as oranges and lemons are rich in vitamin C.",
+      "example_ar": "الفواكه الحمضية مثل البرتقال والليمون غنية بفيتامين سي."
+    },
+    {
+      "word_en": "berry",
+      "word_ar": "توت",
+      "example_en": "She picked wild berries in the forest.",
+      "example_ar": "جمعت التوت البري في الغابة."
+    },
+    {
+      "word_en": "coconut",
+      "word_ar": "جوز الهند",
+      "example_en": "Coconuts are used in many tropical dishes.",
+      "example_ar": "يُستخدم جوز الهند في العديد من الأطباق الاستوائية."
+    },
+    {
+      "word_en": "melon",
+      "word_ar": "بطيخ",
+      "example_en": "He sliced the melon into wedges for easy snacking.",
+      "example_ar": "قطع البطيخ إلى أشرطة لتناوله بسهولة."
+    },
+    {
+      "word_en": "blackberry",
+      "word_ar": "توت أسود",
+      "example_en": "Blackberries grow wild in the countryside.",
+      "example_ar": "ينمو التوت الأسود في البراري."
+    },
+    {
+      "word_en": "chestnut",
+      "word_ar": "كستناء",
+      "example_en": "Roasted chestnuts are a popular snack in the winter.",
+      "example_ar": "تعتبر الكستناء المشوية وجبة خفيفة شائعة في فصل الشتاء."
+    },
+    {
+      "word_en": "tangerine",
+      "word_ar": "يوسفي",
+      "example_en": "She peeled a tangerine and enjoyed its juicy segments.",
+      "example_ar": "قشرت يوسفيًا واستمتعت بأجزائه العصيرية."
+    },
+    {
+      "word_en": "cranberry",
+      "word_ar": "توت عليق",
+      "example_en": "Cranberries are often used in sauces and desserts.",
+      "example_ar": "يُستخدم التوت البري في الصلصات والحلويات غالبًا."
+    },
+    {
+      "word_en": "plum",
+      "word_ar": "خوخ",
+      "example_en": "She bit into the ripe plum, savoring its sweetness.",
+      "example_ar": "عضت في الخوخ الناضج، مستمتعة بحلاوته."
+    },
+    {
+      "word_en": "pumpkin",
+      "word_ar": "يقطين",
+      "example_en": "Pumpkin pie is a classic dessert for Thanksgiving.",
+      "example_ar": "فطيرة اليقطين هي حلوى كلاسيكية لعيد الشكر."
+    },
+    {
+      "word_en": "cashew",
+      "word_ar": "كاجو",
+      "example_en": "Cashews add crunchiness to salads and stir-fries.",
+      "example_ar": "الكاجو يضيف قساوة للسلطات والوجبات المقلية."
+    },
+    {
+      "word_en": "cherry",
+      "word_ar": "كرز",
+      "example_en": "Cherries are often enjoyed fresh or used in desserts.",
+      "example_ar": "غالبًا ما يُستمتع بالكرز طازجًا أو يُستخدم في الحلويات."
+    },
+    {
+      "word_en": "cantaloupe",
+      "word_ar": "شمام",
+      "example_en": "Cantaloupe is refreshing when served chilled on a hot day.",
+      "example_ar": "الشمام منعش عند تقديمه باردًا في يوم حار."
+    },
+    {
+      "word_en": "tangelo",
+      "word_ar": "تانجيلو",
+      "example_en": "Tangelos are a hybrid fruit, a cross between tangerines and grapefruits.",
+      "example_ar": "التانجيلو هي فاكهة متخليطة، عبارة عن مزيج بين اليوسفي والجريب فروت."
+    },
+    {
+      "word_en": "Mandarin",
+      "word_ar": "يوسفي",
+      "example_en": "Mandarins are easy to peel and make a convenient snack.",
+      "example_ar": "اليوسفي سهل القشرة ويُشكل وجبة خفيفة ملائمة."
+    }
+  ]
+}
 
