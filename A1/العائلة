@@ -1,1 +1,131 @@
+{
+  "words": [
+    {
+      "word_en": "parent",
+      "word_ar": "والد",
+      "example_en": "Being a parent is a rewarding experience.",
+      "example_ar": "كون الوالد أمر مجزٍ."
+    },
+    {
+      "word_en": "father",
+      "word_ar": "أب",
+      "example_en": "My father is a doctor.",
+      "example_ar": "والدي طبيب."
+    },
+    {
+      "word_en": "mother",
+      "word_ar": "أم",
+      "example_en": "Her mother is a teacher.",
+      "example_ar": "أمها مدرسة."
+    },
+    {
+      "word_en": "dad",
+      "word_ar": "أب",
+      "example_en": "Dad, can you help me with my homework?",
+      "example_ar": "أبي، هل يمكنك مساعدتي في واجبي المنزلي؟"
+    },
+    {
+      "word_en": "mom",
+      "word_ar": "أم",
+      "example_en": "Mom, can we go to the park today?",
+      "example_ar": "أمي، هل يمكننا الذهاب إلى الحديقة اليوم؟"
+    },
+    {
+      "word_en": "wife",
+      "word_ar": "زوجة",
+      "example_en": "His wife prepares breakfast every morning.",
+      "example_ar": "زوجته تعد الإفطار كل صباح."
+    },
+    {
+      "word_en": "husband",
+      "word_ar": "زوج",
+      "example_en": "Her husband is a pilot.",
+      "example_ar": "زوجها طيار."
+    },
+    {
+      "word_en": "child",
+      "word_ar": "طفل",
+      "example_en": "The children are playing in the garden.",
+      "example_ar": "الأطفال يلعبون في الحديقة."
+    },
+    {
+      "word_en": "son",
+      "word_ar": "ابن",
+      "example_en": "His son wants to be a firefighter when he grows up.",
+      "example_ar": "ابنه يريد أن يصبح رجل إطفاء عندما يكبر."
+    },
+    {
+      "word_en": "daughter",
+      "word_ar": "ابنة",
+      "example_en": "Her daughter is studying medicine.",
+      "example_ar": "ابنتها تدرس الطب."
+    },
+    {
+      "word_en": "sister",
+      "word_ar": "أخت",
+      "example_en": "My sister is older than me.",
+      "example_ar": "أختي أكبر مني."
+    },
+    {
+      "word_en": "brother",
+      "word_ar": "أخ",
+      "example_en": "His brother is a talented musician.",
+      "example_ar": "أخوه موسيقي موهوب."
+    },
+    {
+      "word_en": "family",
+      "word_ar": "عائلة",
+      "example_en": "We are a family of five.",
+      "example_ar": "نحن عائلة مكونة من خمسة أفراد."
+    },
+    {
+      "word_en": "grandmother",
+      "word_ar": "جدة",
+      "example_en": "His grandmother makes the best cookies.",
+      "example_ar": "جدته يصنعون أفضل الكعك."
+    },
+    {
+      "word_en": "grandfather",
+      "word_ar": "جد",
+      "example_en": "Her grandfather tells fascinating stories.",
+      "example_ar": "جدها يحكي قصصًا مذهلة."
+    },
+    {
+      "word_en": "grandchild",
+      "word_ar": "حفيد",
+      "example_en": "Their grandchild is turning one next month.",
+      "example_ar": "حفيدهم يبلغ من العمر سنة الشهر المقبل."
+    },
+    {
+      "word_en": "aunt",
+      "word_ar": "عمة / خالة",
+      "example_en": "His aunt lives in the countryside.",
+      "example_ar": "عمته يعيش في الريف."
+    },
+    {
+      "word_en": "uncle",
+      "word_ar": "عم / خال",
+      "example_en": "Her uncle is a successful businessman.",
+      "example_ar": "عمها رجل أعمال ناجح."
+    },
+    {
+      "word_en": "niece",
+      "word_ar": "ابنة الأخ / ابنة الأخت",
+      "example_en": "His niece is visiting from out of town.",
+      "example_ar": "ابنة أخيه يزور من خارج المدينة."
+    },
+    {
+      "word_en": "nephew",
+      "word_ar": "ابن الأخ / ابن الأخت",
+      "example_en": "Her nephew loves playing video games.",
+      "example_ar": "ابن أختها يحب لعب ألعاب الفيديو."
+    },
+    {
+      "word_en": "cousin",
+      "word_ar": "ابن العم / ابن الخال",
+      "example_en": "Their cousin lives abroad.",
+      "example_ar": "ابن عمهم يعيش في الخارج."
+    }
+  ]
+}
 
