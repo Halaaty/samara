@@ -1,1 +1,155 @@
+{
+  "words": [
+    {
+      "word_en": "lineage",
+      "word_ar": "نسب",
+      "example_en": "He traced his lineage back several generations.",
+      "example_ar": "تتبع نسبه عدة أجيال."
+    },
+    {
+      "word_en": "separation",
+      "word_ar": "انفصال",
+      "example_en": "Their separation was amicable and mutual.",
+      "example_ar": "كان انفصالهم وديًا ومتبادلًا."
+    },
+    {
+      "word_en": "partnership",
+      "word_ar": "شراكة",
+      "example_en": "The two companies formed a partnership to expand their market reach.",
+      "example_ar": "شكلت الشركتان شراكة لتوسيع نطاق سوقهما."
+    },
+    {
+      "word_en": "bond",
+      "word_ar": "رابطة",
+      "example_en": "The bond between siblings is often strong.",
+      "example_ar": "غالبًا ما تكون الرابطة بين الأشقاء قوية."
+    },
+    {
+      "word_en": "affair",
+      "word_ar": "علاقة",
+      "example_en": "Their affair was kept secret for years.",
+      "example_ar": "تم إبقاء علاقتهم سرية لسنوات."
+    },
+    {
+      "word_en": "stepdaughter",
+      "word_ar": "ابنة الزوجة السابقة",
+      "example_en": "His stepdaughter grew to love him as her own father.",
+      "example_ar": "نمت ابنة زوجته السابقة في حبه كأب لها."
+    },
+    {
+      "word_en": "ex",
+      "word_ar": "سابق",
+      "example_en": "They remained friends even after their divorce.",
+      "example_ar": "ظلوا أصدقاء حتى بعد طلاقهما."
+    },
+    {
+      "word_en": "household",
+      "word_ar": "أسرة",
+      "example_en": "Their household consisted of several generations living together.",
+      "example_ar": "كانت أسرتهم تتألف من عدة أجيال تعيش معًا."
+    },
+    {
+      "word_en": "stepson",
+      "word_ar": "ابن الزوج السابق",
+      "example_en": "His stepson admired him for his kindness.",
+      "example_ar": "كان ابن زوجته السابقة يعجب به لطيبته."
+    },
+    {
+      "word_en": "inherit",
+      "word_ar": "يرث",
+      "example_en": "She inherited her grandmother's antique jewelry.",
+      "example_ar": "ورثت مجوهرات جدتها العتيقة."
+    },
+    {
+      "word_en": "cheat on",
+      "word_ar": "يخون",
+      "example_en": "She discovered that her partner had cheated on her.",
+      "example_ar": "اكتشفت أن شريكها خانها."
+    },
+    {
+      "word_en": "adopt",
+      "word_ar": "يتبنى",
+      "example_en": "They decided to adopt a child after years of unsuccessful attempts to conceive.",
+      "example_ar": "قرروا تبني طفل بعد سنوات من المحاولات الغير ناجحة للإنجاب."
+    },
+    {
+      "word_en": "foster parent",
+      "word_ar": "والد متبني",
+      "example_en": "As a foster parent, she provided a loving home for many children in need.",
+      "example_ar": "كونها والدة متبنية، قدمت منزل محب للعديد من الأطفال الذين يحتاجون إليه."
+    },
+    {
+      "word_en": "stepfather",
+      "word_ar": "زوج الأم السابق",
+      "example_en": "Her stepfather treated her as his own daughter.",
+      "example_ar": "عاملها زوج أمها السابق كابنته."
+    },
+    {
+      "word_en": "take after",
+      "word_ar": "يشبه",
+      "example_en": "She takes after her mother in both looks and personality.",
+      "example_ar": "تشبه والدتها في المظهر والشخصية."
+    },
+    {
+      "word_en": "stepchild",
+      "word_ar": "ابن زوج الأم السابق",
+      "example_en": "She treats her stepchild as her own.",
+      "example_ar": "تعامل ابن زوج أمها السابق كابن لها."
+    },
+    {
+      "word_en": "ancestor",
+      "word_ar": "أسلاف",
+      "example_en": "His ancestors hailed from Ireland.",
+      "example_ar": "كان أسلافه من أيرلندا."
+    },
+    {
+      "word_en": "closely",
+      "word_ar": "بشكل وثيق",
+      "example_en": "The siblings were closely bonded despite their age difference.",
+      "example_ar": "كان الأشقاء مرتبطين بشكل وثيق على الرغم من اختلاف أعمارهم."
+    },
+    {
+      "word_en": "lineage",
+      "word_ar": "نسب",
+      "example_en": "She traced her lineage back to a noble family.",
+      "example_ar": "قامت بتتبع نسبها إلى عائلة نبيلة."
+    },
+    {
+      "word_en": "bond",
+      "word_ar": "رابطة",
+      "example_en": "Their shared experiences created a strong bond between them.",
+      "example_ar": "أنشأت تجاربهم المشتركة رابطة قوية بينهم."
+    },
+    {
+      "word_en": "extended family",
+      "word_ar": "عائلة موسعة",
+      "example_en": "Their extended family gathered for a reunion every summer.",
+      "example_ar": "اجتمعت عائلتهم الموسعة للمشاركة في لقاء عائلي كل صيف."
+    },
+    {
+      "word_en": "stepmother",
+      "word_ar": "زوجة الأب السابقة",
+      "example_en": "His stepmother treated him with kindness and affection.",
+      "example_ar": "عاملته زوجة أبه السابقة بلطف ومودة."
+    },
+    {
+      "word_en": "foster parent",
+      "word_ar": "والد متبني",
+      "example_en": "As a foster parent, he provided stability and love to children in difficult situations.",
+      "example_ar": "كونه والد متبني، قدم الاستقرار والحب للأطفال في حالات الصعوبة."
+    },
+    {
+      "word_en": "in-law",
+      "word_ar": "في القانون",
+      "example_en": "He gets along well with his in-laws.",
+      "example_ar": "هو يتفاهم جيدًا مع أقربائه بالقانون."
+    },
+    {
+      "word_en": "sibling",
+      "word_ar": "شقيق",
+      "example_en": "He has a close relationship with his sibling.",
+      "example_ar": "لديه علاقة وثيقة بأخته."
+    }
+  ]
+}
 
