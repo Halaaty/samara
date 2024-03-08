@@ -1,1 +1,215 @@
+{
+  "words": [
+    {
+      "word_en": "profession",
+      "word_ar": "مهنة",
+      "example_en": "Teaching is a noble profession.",
+      "example_ar": "التدريس مهنة نبيلة."
+    },
+    {
+      "word_en": "interview",
+      "word_ar": "مقابلة",
+      "example_en": "She prepared thoroughly for her job interview.",
+      "example_ar": "أعدت بدقة لمقابلة العمل."
+    },
+    {
+      "word_en": "import",
+      "word_ar": "استيراد",
+      "example_en": "The country relies heavily on oil imports.",
+      "example_ar": "تعتمد البلاد بشكل كبير على الاستيراد من النفط."
+    },
+    {
+      "word_en": "deal",
+      "word_ar": "صفقة",
+      "example_en": "They struck a lucrative deal with the overseas supplier.",
+      "example_ar": "أبرموا صفقة مربحة مع المورد الأجنبي."
+    },
+    {
+      "word_en": "export",
+      "word_ar": "تصدير",
+      "example_en": "The country's main export is agricultural products.",
+      "example_ar": "التصدير الرئيسي للبلاد هو المنتجات الزراعية."
+    },
+    {
+      "word_en": "unemployment",
+      "word_ar": "بطالة",
+      "example_en": "The government implemented programs to reduce unemployment.",
+      "example_ar": "نفذت الحكومة برامج لتقليل البطالة."
+    },
+    {
+      "word_en": "agreement",
+      "word_ar": "اتفاقية",
+      "example_en": "Both parties signed the agreement.",
+      "example_ar": "وقعت الطرفان على الاتفاقية."
+    },
+    {
+      "word_en": "opportunity",
+      "word_ar": "فرصة",
+      "example_en": "He saw the job offer as a great opportunity for advancement.",
+      "example_ar": "رأى عرض العمل فرصة عظيمة للتقدم."
+    },
+    {
+      "word_en": "competition",
+      "word_ar": "منافسة",
+      "example_en": "The competition for the position was fierce.",
+      "example_ar": "كانت المنافسة على الوظيفة شرسة."
+    },
+    {
+      "word_en": "business plan",
+      "word_ar": "خطة عمل",
+      "example_en": "They drafted a detailed business plan for their startup.",
+      "example_ar": "صاغوا خطة عمل مفصلة لبدء تشغيلهم."
+    },
+    {
+      "word_en": "invest",
+      "word_ar": "استثمار",
+      "example_en": "They decided to invest in real estate.",
+      "example_ar": "قرروا الاستثمار في العقارات."
+    },
+    {
+      "word_en": "trade",
+      "word_ar": "تجارة",
+      "example_en": "Global trade has increased significantly in recent years.",
+      "example_ar": "زادت التجارة العالمية بشكل كبير في السنوات الأخيرة."
+    },
+    {
+      "word_en": "career",
+      "word_ar": "مهنة",
+      "example_en": "She's had a successful career in finance.",
+      "example_ar": "لقد حققت مهنة ناجحة في المالية."
+    },
+    {
+      "word_en": "offer",
+      "word_ar": "عرض",
+      "example_en": "He received a job offer from a prestigious company.",
+      "example_ar": "تلقى عرض عمل من شركة مرموقة."
+    },
+    {
+      "word_en": "office",
+      "word_ar": "مكتب",
+      "example_en": "She works in a bustling office in the city center.",
+      "example_ar": "تعمل في مكتب مزدحم في وسط المدينة."
+    },
+    {
+      "word_en": "contract",
+      "word_ar": "عقد",
+      "example_en": "They signed a contract with the client.",
+      "example_ar": "وقعوا عقدًا مع العميل."
+    },
+    {
+      "word_en": "commercial",
+      "word_ar": "تجاري",
+      "example_en": "They aired a commercial during the Super Bowl.",
+      "example_ar": "بثوا إعلانًا تجاريًا أثناء سوبر بول."
+    },
+    {
+      "word_en": "promote",
+      "word_ar": "الترويج",
+      "example_en": "They launched a campaign to promote their new product.",
+      "example_ar": "قاموا بإطلاق حملة للترويج لمنتجهم الجديد."
+    },
+    {
+      "word_en": "occupation",
+      "word_ar": "مهنة",
+      "example_en": "Teaching is her chosen occupation.",
+      "example_ar": "التدريس هو المهنة التي اختارتها."
+    },
+    {
+      "word_en": "service",
+      "word_ar": "خدمة",
+      "example_en": "The company offers a wide range of services to its clients.",
+      "example_ar": "تقدم الشركة مجموعة واسعة من الخدمات لعملائها."
+    },
+    {
+      "word_en": "supply",
+      "word_ar": "إمداد",
+      "example_en": "The demand for electricity exceeds the supply during peak hours.",
+      "example_ar": "يفوق الطلب على الكهرباء العرض خلال ساعات الذروة."
+    },
+    {
+      "word_en": "crew",
+      "word_ar": "طاقم",
+      "example_en": "The film crew worked tirelessly to complete the shoot.",
+      "example_ar": "عمل طاقم الفيلم بجد لإكمال التصوير."
+    },
+    {
+      "word_en": "mine",
+      "word_ar": "منجم",
+      "example_en": "The mine produced large quantities of coal.",
+      "example_ar": "أنتج المنجم كميات كبيرة من الفحم."
+    },
+    {
+      "word_en": "plant",
+      "word_ar": "مصنع",
+      "example_en": "The manufacturing plant employs hundreds of workers.",
+      "example_ar": "يوظف المصنع مئات العمال."
+    },
+    {
+      "word_en": "qualified",
+      "word_ar": "مؤهل",
+      "example_en": "She is a highly qualified candidate for the position.",
+      "example_ar": "إنها مرشحة مؤهلة للغاية للمنصب."
+    },
+    {
+      "word_en": "factory",
+      "word_ar": "مصنع",
+      "example_en": "The factory produces automobiles for export.",
+      "example_ar": "المصنع ينتج سيارات للتصدير."
+    },
+    {
+      "word_en": "firm",
+      "word_ar": "شركة",
+      "example_en": "The law firm specializes in corporate law.",
+      "example_ar": "تتخصص الشركة القانونية في القانون التجاري."
+    },
+    {
+      "word_en": "consumer",
+      "word_ar": "مستهلك",
+      "example_en": "The company conducts surveys to better understand consumer preferences.",
+      "example_ar": "تجري الشركة استطلاعات لفهم تفضيلات المستهلكين بشكل أفضل."
+    },
+    {
+      "word_en": "partner",
+      "word_ar": "شريك",
+      "example_en": "They formed a partnership to launch their startup.",
+      "example_ar": "شكلوا شراكة لبدء تشغيلهم."
+    },
+    {
+      "word_en": "garage",
+      "word_ar": "مرآب",
+      "example_en": "The garage is used to store tools and equipment.",
+      "example_ar": "يُستخدم المرآب لتخزين الأدوات والمعدات."
+    },
+    {
+      "word_en": "workshop",
+      "word_ar": "ورشة عمل",
+      "example_en": "The workshop provides hands-on training for aspiring mechanics.",
+      "example_ar": "توفر ورشة العمل تدريبًا عمليًا للفنيين الطموحين."
+    },
+    {
+      "word_en": "resource",
+      "word_ar": "مورد",
+      "example_en": "The company invested in renewable energy resources.",
+      "example_ar": "استثمرت الشركة في موارد الطاقة المتجددة."
+    },
+    {
+      "word_en": "headquarters",
+      "word_ar": "مقر",
+      "example_en": "The company's headquarters are located in downtown.",
+      "example_ar": "يقع مقر الشركة في وسط المدينة."
+    },
+    {
+      "word_en": "demand",
+      "word_ar": "طلب",
+      "example_en": "There is high demand for skilled workers in the tech industry.",
+      "example_ar": "هناك طلب كبير على العمال المهرة في صناعة التكنولوجيا."
+    },
+    {
+      "word_en": "manage",
+      "word_ar": "إدارة",
+      "example_en": "He was hired to manage the company's finances.",
+      "example_ar": "تم تعيينه لإدارة الشؤون المالية للشركة."
+    }
+  ]
+}
 
