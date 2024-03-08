@@ -1,1 +1,221 @@
+{
+  "words": [
+    {
+      "word_en": "partner",
+      "word_ar": "شريك",
+      "example_en": "She worked with her partner on the group project.",
+      "example_ar": "عملت مع شريكها في مشروع الفريق."
+    },
+    {
+      "word_en": "semester",
+      "word_ar": "فصل دراسي",
+      "example_en": "She's looking forward to the next semester.",
+      "example_ar": "تتطلع إلى الفصل الدراسي القادم."
+    },
+    {
+      "word_en": "lesson",
+      "word_ar": "درس",
+      "example_en": "The lesson focused on grammar.",
+      "example_ar": "كان الدرس مركزًا على القواعد النحوية."
+    },
+    {
+      "word_en": "problem",
+      "word_ar": "مشكلة",
+      "example_en": "He encountered a problem with his assignment.",
+      "example_ar": "واجه مشكلة في واجبه."
+    },
+    {
+      "word_en": "activity",
+      "word_ar": "نشاط",
+      "example_en": "They organized a team-building activity.",
+      "example_ar": "نظموا نشاطًا لبناء الفريق."
+    },
+    {
+      "word_en": "subject",
+      "word_ar": "موضوع",
+      "example_en": "The subject of today's lesson is history.",
+      "example_ar": "موضوع الدرس اليوم هو التاريخ."
+    },
+    {
+      "word_en": "classmate",
+      "word_ar": "زميل الصف",
+      "example_en": "She asked her classmate for notes.",
+      "example_ar": "طلبت المذكرات من زميلها في الصف."
+    },
+    {
+      "word_en": "dictionary",
+      "word_ar": "قاموس",
+      "example_en": "She used an English-Turkish dictionary.",
+      "example_ar": "استخدمت قاموسًا إنجليزيًا تركيًا."
+    },
+    {
+      "word_en": "project",
+      "word_ar": "مشروع",
+      "example_en": "She presented her science project last week.",
+      "example_ar": "قدمت مشروعها العلمي الأسبوع الماضي."
+    },
+    {
+      "word_en": "test",
+      "word_ar": "اختبار",
+      "example_en": "The test covered multiple chapters.",
+      "example_ar": "غطى الاختبار عدة فصول."
+    },
+    {
+      "word_en": "major",
+      "word_ar": "رئيسي",
+      "example_en": "She changed her major to computer science.",
+      "example_ar": "غيرت تخصصها إلى علوم الكمبيوتر."
+    },
+    {
+      "word_en": "grade",
+      "word_ar": "درجة",
+      "example_en": "She received a good grade on her essay.",
+      "example_ar": "حصلت على درجة جيدة في مقالها."
+    },
+    {
+      "word_en": "level",
+      "word_ar": "مستوى",
+      "example_en": "She's taking a course at an advanced level.",
+      "example_ar": "تقوم بدراسة دورة على مستوى متقدم."
+    },
+    {
+      "word_en": "to solve",
+      "word_ar": "حل",
+      "example_en": "They worked together to solve the problem.",
+      "example_ar": "عملوا معًا لحل المشكلة."
+    },
+    {
+      "word_en": "practice",
+      "word_ar": "ممارسة",
+      "example_en": "He needs more practice to improve.",
+      "example_ar": "يحتاج إلى مزيد من الممارسة للتحسين."
+    },
+    {
+      "word_en": "exam",
+      "word_ar": "امتحان",
+      "example_en": "She passed her final exam with flying colors.",
+      "example_ar": "نجحت في امتحانها النهائي بنجاح باهر."
+    },
+    {
+      "word_en": "absent",
+      "word_ar": "غائب",
+      "example_en": "He was absent from class yesterday.",
+      "example_ar": "كان غائبًا عن الصف أمس."
+    },
+    {
+      "word_en": "page",
+      "word_ar": "صفحة",
+      "example_en": "She turned the page of her textbook.",
+      "example_ar": "قلبت صفحة كتابها."
+    },
+    {
+      "word_en": "focus",
+      "word_ar": "تركيز",
+      "example_en": "She needed to focus on her research.",
+      "example_ar": "كانت بحاجة إلى التركيز على بحثها."
+    },
+    {
+      "word_en": "fail",
+      "word_ar": "فشل",
+      "example_en": "He didn't want to fail his experiment.",
+      "example_ar": "لم يكن يريد فشل تجربته."
+    },
+    {
+      "word_en": "summary",
+      "word_ar": "ملخص",
+      "example_en": "She wrote a summary of the book.",
+      "example_ar": "كتبت ملخصًا للكتاب."
+    },
+    {
+      "word_en": "list",
+      "word_ar": "قائمة",
+      "example_en": "She made a list of references for her research.",
+      "example_ar": "عملت قائمة بالمراجع لبحثها."
+    },
+    {
+      "word_en": "pass",
+      "word_ar": "تمرير",
+      "example_en": "She passed her research proposal defense.",
+      "example_ar": "نجحت في دفاع مقترح بحثها."
+    },
+    {
+      "word_en": "article",
+      "word_ar": "مقالة",
+      "example_en": "She published an article in a scientific journal.",
+      "example_ar": "نشرت مقالًا في مجلة علمية."
+    },
+    {
+      "word_en": "note",
+      "word_ar": "ملاحظة",
+      "example_en": "She took notes during the research seminar.",
+      "example_ar": "أخذت ملاحظات أثناء الندوة البحثية."
+    },
+    {
+      "word_en": "cafeteria",
+      "word_ar": "كافتيريا",
+      "example_en": "They discussed their research over lunch in the cafeteria.",
+      "example_ar": "ناقشوا أبحاثهم أثناء الغداء في الكافتيريا."
+    },
+    {
+      "word_en": "junior",
+      "word_ar": "طالب سنة ثانية",
+      "example_en": "She is a junior researcher at the university.",
+      "example_ar": "هي باحثة مبتدئة في الجامعة."
+    },
+    {
+      "word_en": "line",
+      "word_ar": "خط",
+      "example_en": "She followed the line of research established by her mentor.",
+      "example_ar": "اتبعت خط البحث الذي وضعه مرشدها."
+    },
+    {
+      "word_en": "pass",
+      "word_ar": "مرور",
+      "example_en": "She made a quick pass through the research findings.",
+      "example_ar": "قامت بمرور سريع على نتائج البحث."
+    },
+    {
+      "word_en": "present",
+      "word_ar": "تقديم",
+      "example_en": "She presented her research at the conference.",
+      "example_ar": "قدمت بحثها في المؤتمر."
+    },
+    {
+      "word_en": "freshman",
+      "word_ar": "طالب سنة أولى",
+      "example_en": "He's a freshman researcher in the lab.",
+      "example_ar": "هو باحث مبتدئ في المختبر."
+    },
+    {
+      "word_en": "research",
+      "word_ar": "بحث",
+      "example_en": "She conducted research on climate change.",
+      "example_ar": "أجرت بحثًا حول تغير المناخ."
+    },
+    {
+      "word_en": "line",
+      "word_ar": "خط",
+      "example_en": "She drew a line connecting her research to previous studies.",
+      "example_ar": "رسمت خطًا يربط بحثها بالدراسات السابقة."
+    },
+    {
+      "word_en": "sophomore",
+      "word_ar": "طالب سنة ثانية",
+      "example_en": "She's a sophomore researcher in the department.",
+      "example_ar": "هي باحثة مبتدئة في القسم."
+    },
+    {
+      "word_en": "senior",
+      "word_ar": "طالب سنة رابعة",
+      "example_en": "He's a senior researcher with years of experience.",
+      "example_ar": "هو باحث متمرس بسنوات من الخبرة."
+    },
+    {
+      "word_en": "whiteboard",
+      "word_ar": "لوحة بيضاء",
+      "example_en": "She used the whiteboard to illustrate her research findings.",
+      "example_ar": "استخدمت لوحة بيضاء لتوضيح نتائج بحثها."
+    }
+  ]
+}
 
