@@ -1,1 +1,245 @@
+{
+  "words": [
+    {
+      "word_en": "understand",
+      "word_ar": "فهم",
+      "example_en": "She couldn't understand why he was upset.",
+      "example_ar": "لم تستطع فهم سبب غضبه."
+    },
+    {
+      "word_en": "social",
+      "word_ar": "اجتماعي",
+      "example_en": "She enjoys being social and meeting new people.",
+      "example_ar": "تستمتع بكونها اجتماعية ولقاء أشخاص جدد."
+    },
+    {
+      "word_en": "misunderstand",
+      "word_ar": "يسيء الفهم",
+      "example_en": "They often misunderstand each other's intentions.",
+      "example_ar": "غالبًا ما يسيء فهم نوايا بعضهما البعض."
+    },
+    {
+      "word_en": "mail",
+      "word_ar": "بريد",
+      "example_en": "She received an important mail today.",
+      "example_ar": "تلقت بريدًا هامًا اليوم."
+    },
+    {
+      "word_en": "argue",
+      "word_ar": "يجادل",
+      "example_en": "They always argue about politics.",
+      "example_ar": "يجادلون دائمًا حول السياسة."
+    },
+    {
+      "word_en": "receive",
+      "word_ar": "يستلم",
+      "example_en": "He received a package in the mail.",
+      "example_ar": "استلم حزمة عبر البريد."
+    },
+    {
+      "word_en": "tell",
+      "word_ar": "يخبر",
+      "example_en": "She told him about her plans.",
+      "example_ar": "حدثته عن خططها."
+    },
+    {
+      "word_en": "visit",
+      "word_ar": "يزور",
+      "example_en": "They plan to visit their grandparents next weekend.",
+      "example_ar": "يخططون لزيارة أجدادهم في نهاية الأسبوع القادم."
+    },
+    {
+      "word_en": "reply",
+      "word_ar": "يجيب",
+      "example_en": "He replied to her message promptly.",
+      "example_ar": "رد على رسالتها على الفور."
+    },
+    {
+      "word_en": "note",
+      "word_ar": "مذكرة",
+      "example_en": "She left him a note on the kitchen counter.",
+      "example_ar": "تركت له مذكرة على السطح المطبخي."
+    },
+    {
+      "word_en": "together",
+      "word_ar": "معًا",
+      "example_en": "They like to spend time together.",
+      "example_ar": "يحبون قضاء الوقت معًا."
+    },
+    {
+      "word_en": "agree",
+      "word_ar": "يوافق",
+      "example_en": "They finally agreed on a movie to watch.",
+      "example_ar": "وافقوا أخيرًا على مشاهدة فيلم معين."
+    },
+    {
+      "word_en": "statement",
+      "word_ar": "بيان",
+      "example_en": "His statement caused a stir in the media.",
+      "example_ar": "أثار بيانه ضجة في وسائل الإعلام."
+    },
+    {
+      "word_en": "hey",
+      "word_ar": "يا",
+      "example_en": "Hey, how are you doing?",
+      "example_ar": "يا، كيف حالك؟"
+    },
+    {
+      "word_en": "envelope",
+      "word_ar": "ظرف",
+      "example_en": "She sealed the letter in the envelope.",
+      "example_ar": "ختمت الرسالة في الظرف."
+    },
+    {
+      "word_en": "reject",
+      "word_ar": "يرفض",
+      "example_en": "They had to reject the proposal.",
+      "example_ar": "اضطروا لرفض الاقتراح."
+    },
+    {
+      "word_en": "say",
+      "word_ar": "يقول",
+      "example_en": "She didn't know what to say.",
+      "example_ar": "لم تعرف ماذا تقول."
+    },
+    {
+      "word_en": "so",
+      "word_ar": "لذلك",
+      "example_en": "It's raining, so we should take umbrellas.",
+      "example_ar": "تمطر، لذلك يجب أن نأخذ مظلات."
+    },
+    {
+      "word_en": "after",
+      "word_ar": "بعد",
+      "example_en": "After the meeting, they went for lunch.",
+      "example_ar": "بعد الاجتماع، ذهبوا لتناول الغداء."
+    },
+    {
+      "word_en": "but",
+      "word_ar": "لكن",
+      "example_en": "She likes chocolate but not vanilla.",
+      "example_ar": "تحب الشوكولاتة لكنها لا تحب الفانيليا."
+    },
+    {
+      "word_en": "as",
+      "word_ar": "كـ",
+      "example_en": "He works as a software engineer.",
+      "example_ar": "يعمل كمهندس برمجيات."
+    },
+    {
+      "word_en": "now",
+      "word_ar": "الآن",
+      "example_en": "Now is the time to act.",
+      "example_ar": "الآن هو الوقت المناسب للتحرك."
+    },
+    {
+      "word_en": "although",
+      "word_ar": "على الرغم من",
+      "example_en": "Although it was raining, they went for a walk.",
+      "example_ar": "على الرغم من أنه كان يمطر، ذهبوا للنزهة."
+    },
+    {
+      "word_en": "or",
+      "word_ar": "أو",
+      "example_en": "Would you like tea or coffee?",
+      "example_ar": "هل ترغب في شاي أو قهوة؟"
+    },
+    {
+      "word_en": "before",
+      "word_ar": "قبل",
+      "example_en": "He wanted to finish his work before lunch.",
+      "example_ar": "أراد أن ينهي عمله قبل الغداء."
+    },
+    {
+      "word_en": "once",
+      "word_ar": "مرة",
+      "example_en": "Once you understand the rules, it's easy.",
+      "example_ar": "بمجرد أن تفهم القواعد، يصبح الأمر سهلًا."
+    },
+    {
+      "word_en": "because",
+      "word_ar": "لأن",
+      "example_en": "She stayed inside because of the rain.",
+      "example_ar": "ظلت في الداخل لأنها كانت تمطر."
+    },
+    {
+      "word_en": "though",
+      "word_ar": "على الرغم من أن",
+      "example_en": "It was cold, though the sun was shining.",
+      "example_ar": "كانت الأجواء باردة، على الرغم من أن الشمس كانت تشرق."
+    },
+    {
+      "word_en": "right",
+      "word_ar": "صحيح",
+      "example_en": "She always tries to do what's right.",
+      "example_ar": "تحاول دائمًا القيام بما هو صحيح."
+    },
+    {
+      "word_en": "if",
+      "word_ar": "إذا",
+      "example_en": "If it rains, we'll stay indoors.",
+      "example_ar": "إذا مطرنا، سنبقى في الداخل."
+    },
+    {
+      "word_en": "conversation",
+      "word_ar": "محادثة",
+      "example_en": "Their conversation lasted for hours.",
+      "example_ar": "استمرت محادثتهم لساعات."
+    },
+    {
+      "word_en": "opinion",
+      "word_ar": "رأي",
+      "example_en": "Everyone has their own opinion.",
+      "example_ar": "كل شخص لديه رأيه الخاص."
+    },
+    {
+      "word_en": "argument",
+      "word_ar": "جدال",
+      "example_en": "They had an argument about politics.",
+      "example_ar": "كان لديهم جدال حول السياسة."
+    },
+    {
+      "word_en": "mail",
+      "word_ar": "بريد",
+      "example_en": "She sent the invitation by mail.",
+      "example_ar": "أرسلت الدعوة عبر البريد."
+    },
+    {
+      "word_en": "call",
+      "word_ar": "اتصال",
+      "example_en": "He decided to call his friend.",
+      "example_ar": "قرر أن يتصل بصديقه."
+    },
+    {
+      "word_en": "discussion",
+      "word_ar": "مناقشة",
+      "example_en": "The discussion became heated.",
+      "example_ar": "أصبحت المناقشة مشتعلة."
+    },
+    {
+      "word_en": "fight",
+      "word_ar": "قتال",
+      "example_en": "They had a fight over the remote control.",
+      "example_ar": "كان لديهم معركة بسبب جهاز التحكم عن بعد."
+    },
+    {
+      "word_en": "letter",
+      "word_ar": "رسالة",
+      "example_en": "She received a love letter from her admirer.",
+      "example_ar": "تلقت رسالة حب من معجبها."
+    },
+    {
+      "word_en": "talk",
+      "word_ar": "حديث",
+      "example_en": "They talked about their future plans.",
+      "example_ar": "تحدثوا عن خططهم المستقبلية."
+    },
+    {
+      "word_en": "cell phone",
+      "word_ar": "هاتف خلوي",
+      "example_en": "She always carries her cell phone with her.",
+      "example_ar": "تحمل هاتفها الخلوي معها دائمًا."
+    }
+  ]
+}
 
