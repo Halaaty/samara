@@ -1,1 +1,148 @@
-
+{
+  "words": [
+    {
+      "word_en": "white meat",
+      "word_ar": "اللحم الأبيض",
+      "example_en": "White meat such as chicken is often considered healthier than red meat.",
+      "example_ar": "غالبًا ما يُعتبر اللحم الأبيض مثل الدجاج أكثر صحة من اللحم الأحمر."
+    },
+    {
+      "word_en": "Swiss cheese",
+      "word_ar": "جبنة سويسرية",
+      "example_en": "Swiss cheese is known for its distinctive flavor and holey texture.",
+      "example_ar": "تُعرف جبنة سويسرية بنكهتها المميزة وقوامها المثقوب."
+    },
+    {
+      "word_en": "rib",
+      "word_ar": "ضلع",
+      "example_en": "The rib meat was slow-cooked until it was tender and flavorful.",
+      "example_ar": "تم طهي لحم الضلع ببطء حتى أصبح لينًا ولذيذًا."
+    },
+    {
+      "word_en": "breast",
+      "word_ar": "صدر",
+      "example_en": "The chicken breast was grilled to perfection.",
+      "example_ar": "تم شوي صدر الدجاج باتقان."
+    },
+    {
+      "word_en": "cut",
+      "word_ar": "قطع",
+      "example_en": "He used a sharp knife to cut the meat into thin slices.",
+      "example_ar": "استخدم سكينًا حادًا لقطع اللحم إلى شرائح رقيقة."
+    },
+    {
+      "word_en": "lobster",
+      "word_ar": "سرطان البحر",
+      "example_en": "The lobster was served with melted butter.",
+      "example_ar": "تم تقديم سرطان البحر مع الزبدة المذابة."
+    },
+    {
+      "word_en": "cream cheese",
+      "word_ar": "جبنة كريمية",
+      "example_en": "Bagels with cream cheese are a popular breakfast choice.",
+      "example_ar": "البيغلز مع جبنة كريمية خيار شائع للإفطار."
+    },
+    {
+      "word_en": "bacon",
+      "word_ar": "لحم بقر مقدد",
+      "example_en": "He fried bacon until it was crispy and golden brown.",
+      "example_ar": "قلّى لحم الخنزير المقدد حتى أصبح مقرمشًا ولونه ذهبيًا."
+    },
+    {
+      "word_en": "blue cheese",
+      "word_ar": "جبنة زرقاء",
+      "example_en": "Blue cheese adds a tangy flavor to salads and sandwiches.",
+      "example_ar": "تضيف جبنة الزرقاء طعمًا حامضًا إلى السلطات والسندويشات."
+    },
+    {
+      "word_en": "flesh",
+      "word_ar": "لحم",
+      "example_en": "The flesh of the fruit was soft and juicy.",
+      "example_ar": "كان لحم الفاكهة ناعمًا وعصيريًا."
+    },
+    {
+      "word_en": "oyster",
+      "word_ar": "محار",
+      "example_en": "He savored the briny taste of the oyster.",
+      "example_ar": "استمتع بطعم المحار المالح."
+    },
+    {
+      "word_en": "duck",
+      "word_ar": "بط",
+      "example_en": "Duck meat is rich and flavorful when cooked properly.",
+      "example_ar": "لحم البط غني ولذيذ عندما يُطهى بشكل صحيح."
+    },
+    {
+      "word_en": "seafood",
+      "word_ar": "مأكولات بحرية",
+      "example_en": "The restaurant specializes in fresh seafood dishes.",
+      "example_ar": "المطعم متخصص في أطباق المأكولات البحرية الطازجة."
+    },
+    {
+      "word_en": "meatball",
+      "word_ar": "كفتة",
+      "example_en": "She served spaghetti and meatballs for dinner.",
+      "example_ar": "قدمت مكرونة سباجيتي وكفتة للعشاء."
+    },
+    {
+      "word_en": "shellfish",
+      "word_ar": "محار",
+      "example_en": "Shellfish such as clams and mussels are popular in seafood dishes.",
+      "example_ar": "المحار مثل السمك والمحار شائعة في أطباق المأكولات البحرية."
+    },
+    {
+      "word_en": "veal",
+      "word_ar": "لحم عجل",
+      "example_en": "Veal is known for its tender texture and delicate flavor.",
+      "example_ar": "يُعرف لحم العجل بقوامه اللين وطعمه الرقيق."
+    },
+    {
+      "word_en": "red meat",
+      "word_ar": "لحم أحمر",
+      "example_en": "He prefers to grill red meat over an open flame.",
+      "example_ar": "يفضل شوي اللحم الأحمر على النار المفتوحة."
+    },
+    {
+      "word_en": "joint",
+      "word_ar": "مفصل",
+      "example_en": "The meat was slow-cooked until it fell off the joint.",
+      "example_ar": "تم طهي اللحم ببطء حتى سقط من المفصل."
+    },
+    {
+      "word_en": "wing",
+      "word_ar": "جناح",
+      "example_en": "He seasoned the chicken wing with spices before grilling.",
+      "example_ar": "قام بتبلي طاجن الدجاج بالتوابل قبل الشواء."
+    },
+    {
+      "word_en": "goose",
+      "word_ar": "إوز",
+      "example_en": "Roast goose is a traditional holiday dish in many cultures.",
+      "example_ar": "الإوز المشوي هو طبق عيد تقليدي في العديد من الثقافات."
+    },
+    {
+      "word_en": "Gouda",
+      "word_ar": "جبنة جودا",
+      "example_en": "Gouda cheese pairs well with fruit and wine.",
+      "example_ar": "تتناسب جبنة جودا بشكل جيد مع الفواكه والنبيذ."
+    },
+    {
+      "word_en": "yolk",
+      "word_ar": "صفار البيض",
+      "example_en": "The egg yolk added richness and color to the dish.",
+      "example_ar": "أضاف صفار البيض الثراء واللون إلى الطبق."
+    },
+    {
+      "word_en": "rabbit",
+      "word_ar": "أرنب",
+      "example_en": "Rabbit meat is lean and low in fat.",
+      "example_ar": "لحم الأرنب هو نباتي وقليل الدهون."
+    },
+    {
+      "word_en": "crab",
+      "word_ar": "سرطان البحر",
+      "example_en": "She cracked open the crab shell to get to the tender meat inside.",
+      "example_ar": "فتحت قشرة سرطان البحر للوصول إلى اللحم الطري الداخلي."
+    }
+  ]
+}
