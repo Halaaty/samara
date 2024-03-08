@@ -1,1 +1,179 @@
+{
+  "words": [
+    {
+      "word_en": "gold",
+      "word_ar": "ذهب",
+      "example_en": "She wore a necklace made of pure gold.",
+      "example_ar": "ارتدت قلادة مصنوعة من الذهب الخالص."
+    },
+    {
+      "word_en": "star",
+      "word_ar": "نجمة",
+      "example_en": "They gazed at the stars in the night sky.",
+      "example_ar": "لقد نظروا إلى النجوم في سماء الليل."
+    },
+    {
+      "word_en": "brightness",
+      "word_ar": "سطوع",
+      "example_en": "The brightness of the sun hurt her eyes.",
+      "example_ar": "أذت سطوع الشمس عينيها."
+    },
+    {
+      "word_en": "darkness",
+      "word_ar": "ظلمة",
+      "example_en": "She was afraid of the darkness.",
+      "example_ar": "كانت تخاف من الظلمة."
+    },
+    {
+      "word_en": "cream",
+      "word_ar": "كريم",
+      "example_en": "She applied some cream to her dry skin.",
+      "example_ar": "وضعت بعض الكريم على بشرتها الجافة."
+    },
+    {
+      "word_en": "round",
+      "word_ar": "دائري",
+      "example_en": "She liked the round shape of the table.",
+      "example_ar": "أحبت شكل الطاولة الدائري."
+    },
+    {
+      "word_en": "to color",
+      "word_ar": "تلوين",
+      "example_en": "They used crayons to color the picture.",
+      "example_ar": "استخدموا الألوان الزيتية لتلوين الصورة."
+    },
+    {
+      "word_en": "to draw",
+      "word_ar": "رسم",
+      "example_en": "She drew a portrait of her friend.",
+      "example_ar": "رسمت صورة لصديقتها."
+    },
+    {
+      "word_en": "line",
+      "word_ar": "خط",
+      "example_en": "He drew a straight line with a ruler.",
+      "example_ar": "رسم خطًا مستقيمًا بمسطرة."
+    },
+    {
+      "word_en": "diamond",
+      "word_ar": "ماسة",
+      "example_en": "She wore diamond earrings to the party.",
+      "example_ar": "ارتدت أقراط ماسية للحفلة."
+    },
+    {
+      "word_en": "center",
+      "word_ar": "مركز",
+      "example_en": "The town square was at the center of the city.",
+      "example_ar": "كانت ساحة المدينة في وسط المدينة."
+    },
+    {
+      "word_en": "pale",
+      "word_ar": "شاحب",
+      "example_en": "Her face turned pale when she heard the news.",
+      "example_ar": "تحول وجهها إلى الشاحب عندما سمعت الخبر."
+    },
+    {
+      "word_en": "silver",
+      "word_ar": "فضة",
+      "example_en": "She wore a silver bracelet on her wrist.",
+      "example_ar": "ارتدت سوار فضي على معصمها."
+    },
+    {
+      "word_en": "square",
+      "word_ar": "مربع",
+      "example_en": "The room had a square-shaped window.",
+      "example_ar": "كانت الغرفة تحتوي على نافذة بشكل مربع."
+    },
+    {
+      "word_en": "side",
+      "word_ar": "جانب",
+      "example_en": "He stood by her side during the difficult times.",
+      "example_ar": "وقف إلى جانبها خلال الأوقات الصعبة."
+    },
+    {
+      "word_en": "surface",
+      "word_ar": "سطح",
+      "example_en": "The surface of the water was calm.",
+      "example_ar": "كان سطح الماء هادئًا."
+    },
+    {
+      "word_en": "bright",
+      "word_ar": "مشرق",
+      "example_en": "She wore a bright yellow dress to the party.",
+      "example_ar": "ارتدت فستانًا أصفر مشرقًا للحفلة."
+    },
+    {
+      "word_en": "to fit",
+      "word_ar": "تناسب",
+      "example_en": "The shoes didn't fit her properly.",
+      "example_ar": "لم تتناسب الأحذية معها بشكل صحيح."
+    },
+    {
+      "word_en": "to take off",
+      "word_ar": "خلع",
+      "example_en": "She took off her coat when she entered the house.",
+      "example_ar": "خلعت معطفها عندما دخلت المنزل."
+    },
+    {
+      "word_en": "to change",
+      "word_ar": "تغيير",
+      "example_en": "He changed his clothes after getting wet in the rain.",
+      "example_ar": "غير ملابسه بعد أن بلل في المطر."
+    },
+    {
+      "word_en": "colored",
+      "word_ar": "ملون",
+      "example_en": "She liked to wear brightly colored clothes.",
+      "example_ar": "كانت تحب ارتداء ملابس ملونة بشكل مشرق."
+    },
+    {
+      "word_en": "whole",
+      "word_ar": "كامل",
+      "example_en": "She ate the whole cake by herself.",
+      "example_ar": "أكلت الكعكة كاملة بنفسها."
+    },
+    {
+      "word_en": "shape",
+      "word_ar": "شكل",
+      "example_en": "The clouds formed interesting shapes in the sky.",
+      "example_ar": "تكونت السحب أشكالًا مثيرة في السماء."
+    },
+    {
+      "word_en": "paint",
+      "word_ar": "دهان",
+      "example_en": "He used watercolor paint to create his masterpiece.",
+      "example_ar": "استخدم الدهان المائي لإنشاء روائعه."
+    },
+    {
+      "word_en": "dot",
+      "word_ar": "نقطة",
+      "example_en": "She placed a dot on the paper with a pen.",
+      "example_ar": "وضعت نقطة على الورقة بقلم."
+    },
+    {
+      "word_en": "to color",
+      "word_ar": "تلوين",
+      "example_en": "She colored the walls of her room pink.",
+      "example_ar": "لونت جدران غرفتها باللون الوردي."
+    },
+    {
+      "word_en": "flat",
+      "word_ar": "مسطح",
+      "example_en": "The road was flat and straight for miles.",
+      "example_ar": "كانت الطريق مسطحة ومستقيمة لمسافات طويلة."
+    },
+    {
+      "word_en": "cross",
+      "word_ar": "صليب",
+      "example_en": "The cross was a symbol of Christianity.",
+      "example_ar": "كان الصليب رمزًا للمسيحية."
+    },
+    {
+      "word_en": "to draw",
+      "word_ar": "رسم",
+      "example_en": "He drew a map to show the way.",
+      "example_ar": "رسم خريطة ليظهر الطريق."
+    }
+  ]
+}
 
