@@ -1,1 +1,185 @@
+{
+  "words": [
+    {
+      "word_en": "artwork",
+      "word_ar": "عمل فني",
+      "example_en": "The gallery displayed a variety of artwork, from paintings to sculptures.",
+      "example_ar": "عرضت المعرض مجموعة متنوعة من الأعمال الفنية، من اللوحات إلى التماثيل."
+    },
+    {
+      "word_en": "background",
+      "word_ar": "خلفية",
+      "example_en": "The background of the painting depicted a serene countryside.",
+      "example_ar": "وصفت خلفية اللوحة ريفًا هادئًا."
+    },
+    {
+      "word_en": "foreground",
+      "word_ar": "المقدمة",
+      "example_en": "The flowers in the foreground added depth to the artwork.",
+      "example_ar": "أضافت الزهور في المقدمة عمقًا للعمل الفني."
+    },
+    {
+      "word_en": "collector",
+      "word_ar": "مجمع",
+      "example_en": "The collector sought out rare and valuable pieces of art.",
+      "example_ar": "سعى المجمع للعثور على قطع نادرة وقيمة من الفنون."
+    },
+    {
+      "word_en": "graphic artist",
+      "word_ar": "فنان جرافيك",
+      "example_en": "The graphic artist created stunning illustrations for the book.",
+      "example_ar": "خلق الفنان الجرافيك رسومات مذهلة للكتاب."
+    },
+    {
+      "word_en": "masterpiece",
+      "word_ar": "تحفة",
+      "example_en": "The painting is considered a masterpiece of Renaissance art.",
+      "example_ar": "تعتبر اللوحة تحفة من فن النهضة."
+    },
+    {
+      "word_en": "exhibit",
+      "word_ar": "معرض",
+      "example_en": "The museum hosted an exhibit featuring works by local artists.",
+      "example_ar": "استضاف المتحف معرضًا يضم أعمالًا لفنانين محليين."
+    },
+    {
+      "word_en": "image",
+      "word_ar": "صورة",
+      "example_en": "The artist used vibrant colors to create a striking image.",
+      "example_ar": "استخدم الفنان ألوانًا حية لإنشاء صورة مذهلة."
+    },
+    {
+      "word_en": "landscape",
+      "word_ar": "منظر طبيعي",
+      "example_en": "The painting depicted a breathtaking landscape.",
+      "example_ar": "وصفت اللوحة منظرًا طبيعيًا رائعًا."
+    },
+    {
+      "word_en": "self-portrait",
+      "word_ar": "صورة شخصية",
+      "example_en": "The artist painted a self-portrait as a reflection of her inner self.",
+      "example_ar": "رسمت الفنانة صورة شخصية كتعبير عن ذاتها الداخلية."
+    },
+    {
+      "word_en": "subject matter",
+      "word_ar": "موضوع",
+      "example_en": "The subject matter of the artwork was inspired by nature.",
+      "example_ar": "كان موضوع العمل الفني مستوحى من الطبيعة."
+    },
+    {
+      "word_en": "shade",
+      "word_ar": "ظل",
+      "example_en": "The artist used light and shade to create depth in the painting.",
+      "example_ar": "استخدم الفنان الضوء والظل لإضفاء عمق على اللوحة."
+    },
+    {
+      "word_en": "ink",
+      "word_ar": "حبر",
+      "example_en": "The artist preferred to work with ink for its fluidity and depth of color.",
+      "example_ar": "الفنان يفضل العمل بالحبر بسبب سلاسته وعمق لونه."
+    },
+    {
+      "word_en": "paint",
+      "word_ar": "دهان",
+      "example_en": "The artist used acrylic paint for its vibrant colors and quick drying time.",
+      "example_ar": "استخدم الفنان الدهان الأكريليك بسبب ألوانه الزاهية ووقت جفافه السريع."
+    },
+    {
+      "word_en": "watercolor",
+      "word_ar": "ألوان مائية",
+      "example_en": "She painted the landscape using watercolor, giving it a soft and dreamy quality.",
+      "example_ar": "رسمت المنظر الطبيعي باستخدام الألوان المائية، مما منحه جودة ناعمة وحالمة."
+    },
+    {
+      "word_en": "abstract",
+      "word_ar": "مجرد",
+      "example_en": "The painting was an abstract representation of the artist's emotions.",
+      "example_ar": "كانت اللوحة تمثيلًا مجردًا لعواطف الفنان."
+    },
+    {
+      "word_en": "artistic",
+      "word_ar": "فني",
+      "example_en": "She had a natural artistic talent from a young age.",
+      "example_ar": "كانت لديها موهبة فنية طبيعية منذ صغرها."
+    },
+    {
+      "word_en": "realistic",
+      "word_ar": "واقعي",
+      "example_en": "The painting was so realistic, it looked like a photograph.",
+      "example_ar": "كانت اللوحة واقعية لدرجة أنها بدت كصورة فوتوغرافية."
+    },
+    {
+      "word_en": "classic",
+      "word_ar": "كلاسيكي",
+      "example_en": "The artwork was influenced by classic Greek sculptures.",
+      "example_ar": "كانت الأعمال الفنية متأثرة بالنحت اليوناني الكلاسيكي."
+    },
+    {
+      "word_en": "modern",
+      "word_ar": "حديث",
+      "example_en": "Her artwork had a modern and innovative style.",
+      "example_ar": "كانت لأعمالها الفنية أسلوب حديث ومبتكر."
+    },
+    {
+      "word_en": "contemporary",
+      "word_ar": "معاصر",
+      "example_en": "The gallery featured contemporary artwork from local artists.",
+      "example_ar": "عرضت المعرض أعمالًا فنية معاصرة من فنانين محليين."
+    },
+    {
+      "word_en": "visual",
+      "word_ar": "بصري",
+      "example_en": "The visual impact of the artwork was powerful and immediate.",
+      "example_ar": "كان للتأثير البصري للعمل الفني قوة وتأثير فوري."
+    },
+    {
+      "word_en": "vivid",
+      "word_ar": "حيوي",
+      "example_en": "The painting used vivid colors to create a sense of energy and life.",
+      "example_ar": "استخدمت اللوحة ألوانًا حية لإيجاد شعور بالطاقة والحياة."
+    },
+    {
+      "word_en": "depict",
+      "word_ar": "وصف",
+      "example_en": "The artwork depicted scenes from everyday life.",
+      "example_ar": "وصف العمل الفني مشاهد من الحياة اليومية."
+    },
+    {
+      "word_en": "display",
+      "word_ar": "عرض",
+      "example_en": "The artist was proud to display her artwork in the gallery.",
+      "example_ar": "كانت الفنانة فخورة بعرض أعمالها الفنية في المعرض."
+    },
+    {
+      "word_en": "exhibit",
+      "word_ar": "عرض",
+      "example_en": "He will exhibit his artwork at the upcoming art show.",
+      "example_ar": "سيعرض أعماله الفنية في المعرض الفني القادم."
+    },
+    {
+      "word_en": "frame",
+      "word_ar": "إطار",
+      "example_en": "The painting was beautifully framed and displayed on the wall.",
+      "example_ar": "كانت اللوحة مُحَشَّاة بشكل جميل وعُرضت على الحائط."
+    },
+    {
+      "word_en": "inspire",
+      "word_ar": "يلهم",
+      "example_en": "Her travels around the world inspired her artwork.",
+      "example_ar": "ألهمتها رحلاتها حول العالم لإنتاج أعمال فنية."
+    },
+    {
+      "word_en": "model",
+      "word_ar": "نموذج",
+      "example_en": "She used her friend as a model for the portrait.",
+      "example_ar": "استخدمت صديقتها كنموذج للبورتريه."
+    },
+    {
+      "word_en": "restore",
+      "word_ar": "استعادة",
+      "example_en": "The museum is working to restore the ancient artwork.",
+      "example_ar": "يعمل المتحف على استعادة الأعمال الفنية القديمة."
+    }
+  ]
+}
 
