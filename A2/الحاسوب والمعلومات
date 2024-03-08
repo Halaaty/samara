@@ -1,1 +1,197 @@
+{
+  "words": [
+    {
+      "word_en": "comment",
+      "word_ar": "تعليق",
+      "example_en": "She left a comment on the blog post.",
+      "example_ar": "تركت تعليقًا على مقالة المدونة."
+    },
+    {
+      "word_en": "address",
+      "word_ar": "عنوان",
+      "example_en": "He typed in the website's address.",
+      "example_ar": "كتب عنوان الموقع الإلكتروني."
+    },
+    {
+      "word_en": "website",
+      "word_ar": "موقع الكتروني",
+      "example_en": "They created a website for their business.",
+      "example_ar": "أنشأوا موقعًا إلكترونيًا لأعمالهم."
+    },
+    {
+      "word_en": "download",
+      "word_ar": "تنزيل",
+      "example_en": "She clicked the download button to save the file.",
+      "example_ar": "نقرت على زر التنزيل لحفظ الملف."
+    },
+    {
+      "word_en": "message",
+      "word_ar": "رسالة",
+      "example_en": "He sent a message to his friend.",
+      "example_ar": "أرسل رسالة إلى صديقه."
+    },
+    {
+      "word_en": "click",
+      "word_ar": "انقر",
+      "example_en": "She clicked on the link to open the webpage.",
+      "example_ar": "نقرت على الرابط لفتح الصفحة الإلكترونية."
+    },
+    {
+      "word_en": "upload",
+      "word_ar": "تحميل",
+      "example_en": "He uploaded the photos to his social media account.",
+      "example_ar": "قام بتحميل الصور إلى حسابه على وسائل التواصل الاجتماعي."
+    },
+    {
+      "word_en": "mouse",
+      "word_ar": "فأرة",
+      "example_en": "She moved the mouse to navigate the computer.",
+      "example_ar": "حركت الفأرة للتنقل في الحاسوب."
+    },
+    {
+      "word_en": "information",
+      "word_ar": "معلومات",
+      "example_en": "The website provided useful information.",
+      "example_ar": "قدم الموقع معلومات مفيدة."
+    },
+    {
+      "word_en": "web page",
+      "word_ar": "صفحة ويب",
+      "example_en": "They designed a new web page for the company.",
+      "example_ar": "صمموا صفحة ويب جديدة للشركة."
+    },
+    {
+      "word_en": "laptop",
+      "word_ar": "حاسوب محمول",
+      "example_en": "She brought her laptop to the coffee shop.",
+      "example_ar": "جلبت حاسوبها المحمول إلى مقهى القهوة."
+    },
+    {
+      "word_en": "screen",
+      "word_ar": "شاشة",
+      "example_en": "He cleaned the screen of his computer.",
+      "example_ar": "نظف شاشة حاسوبه."
+    },
+    {
+      "word_en": "post",
+      "word_ar": "منشور",
+      "example_en": "She shared a new post on her social media profile.",
+      "example_ar": "شاركت منشورًا جديدًا على ملفها الشخصي على وسائل التواصل الاجتماعي."
+    },
+    {
+      "word_en": "online",
+      "word_ar": "عبر الإنترنت",
+      "example_en": "He spent most of his time online.",
+      "example_ar": "قضى معظم وقته عبر الإنترنت."
+    },
+    {
+      "word_en": "keyboard",
+      "word_ar": "لوحة المفاتيح",
+      "example_en": "She typed quickly on the keyboard.",
+      "example_ar": "كتبت بسرعة على لوحة المفاتيح."
+    },
+    {
+      "word_en": "document",
+      "word_ar": "وثيقة",
+      "example_en": "He saved the document to his computer.",
+      "example_ar": "حفظ الوثيقة على حاسوبه."
+    },
+    {
+      "word_en": "calculator",
+      "word_ar": "آلة حاسبة",
+      "example_en": "She used the calculator to do her math homework.",
+      "example_ar": "استخدمت الآلة الحاسبة لإنجاز واجب الرياضيات الخاص بها."
+    },
+    {
+      "word_en": "to draw",
+      "word_ar": "رسم",
+      "example_en": "He used a drawing program to draw a picture.",
+      "example_ar": "استخدم برنامج الرسم لرسم صورة."
+    },
+    {
+      "word_en": "username",
+      "word_ar": "اسم المستخدم",
+      "example_en": "She forgot her username and couldn't log in.",
+      "example_ar": "نسيت اسم المستخدم الخاص بها ولم تتمكن من تسجيل الدخول."
+    },
+    {
+      "word_en": "printer",
+      "word_ar": "طابعة",
+      "example_en": "They printed out the documents for the meeting.",
+      "example_ar": "طبعوا الوثائق للاجتماع."
+    },
+    {
+      "word_en": "to color",
+      "word_ar": "تلوين",
+      "example_en": "She used markers to color the drawing.",
+      "example_ar": "استخدمت الأقلام لتلوين الرسمة."
+    },
+    {
+      "word_en": "the Internet",
+      "word_ar": "الإنترنت",
+      "example_en": "The Internet connects people from all over the world.",
+      "example_ar": "الإنترنت يربط بين الناس من جميع أنحاء العالم."
+    },
+    {
+      "word_en": "to change",
+      "word_ar": "تغيير",
+      "example_en": "He changed the settings on his computer.",
+      "example_ar": "غير الإعدادات على حاسوبه."
+    },
+    {
+      "word_en": "to sign out",
+      "word_ar": "تسجيل الخروج",
+      "example_en": "She forgot to sign out of her email account.",
+      "example_ar": "نسيت تسجيل الخروج من حساب البريد الإلكتروني الخاص بها."
+    },
+    {
+      "word_en": "copy",
+      "word_ar": "نسخة",
+      "example_en": "She made a copy of the document for her records.",
+      "example_ar": "صنعت نسخة من الوثيقة لسجلاتها."
+    },
+    {
+      "word_en": "digital",
+      "word_ar": "رقمي",
+      "example_en": "They stored their photos in digital format.",
+      "example_ar": "قاموا بتخزين صورهم بتنسيق رقمي."
+    },
+    {
+      "word_en": "news",
+      "word_ar": "أخبار",
+      "example_en": "She checked the news online every morning.",
+      "example_ar": "كانت تتحقق من الأخبار عبر الإنترنت كل صباح."
+    },
+    {
+      "word_en": "email",
+      "word_ar": "بريد إلكتروني",
+      "example_en": "He sent an email to his boss.",
+      "example_ar": "أرسل بريدًا إلكترونيًا إلى رئيسه."
+    },
+    {
+      "word_en": "google",
+      "word_ar": "البحث",
+      "example_en": "She googled the answer to her question.",
+      "example_ar": "قامت بالبحث عن الإجابة على سؤالها."
+    },
+    {
+      "word_en": "to sign in",
+      "word_ar": "تسجيل الدخول",
+      "example_en": "He forgot his password and couldn't sign in.",
+      "example_ar": "نسي كلمة المرور ولم يتمكن من تسجيل الدخول."
+    },
+    {
+      "word_en": "to make",
+      "word_ar": "صنع",
+      "example_en": "She made a new document for the project.",
+      "example_ar": "صنعت وثيقة جديدة للمشروع."
+    },
+    {
+      "word_en": "video",
+      "word_ar": "فيديو",
+      "example_en": "They watched a funny video on the Internet.",
+      "example_ar": "شاهدوا فيديو مضحك على الإنترنت."
+    }
+  ]
+}
 
