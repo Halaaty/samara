@@ -1,1 +1,65 @@
+{
+  "words": [
+    {
+      "word_en": "body",
+      "word_ar": "جسم",
+      "example_en": "The human body is a complex organism.",
+      "example_ar": "الجسم البشري هو كائن معقد."
+    },
+    {
+      "word_en": "hand",
+      "word_ar": "يد",
+      "example_en": "She waved her hand to say hello.",
+      "example_ar": "هزت يدها لتقول مرحبًا."
+    },
+    {
+      "word_en": "finger",
+      "word_ar": "إصبع",
+      "example_en": "She wore a ring on her finger.",
+      "example_ar": "ارتدت خاتمًا على إصبعها."
+    },
+    {
+      "word_en": "arm",
+      "word_ar": "ذراع",
+      "example_en": "He broke his arm while playing football.",
+      "example_ar": "كسر ذراعه أثناء لعب كرة القدم."
+    },
+    {
+      "word_en": "foot",
+      "word_ar": "قدم",
+      "example_en": "She hurt her foot while hiking.",
+      "example_ar": "جرحت قدمها أثناء التنزه."
+    },
+    {
+      "word_en": "leg",
+      "word_ar": "ساق",
+      "example_en": "He injured his leg in a skiing accident.",
+      "example_ar": "أصيبت ساقه في حادث تزلج."
+    },
+    {
+      "word_en": "knee",
+      "word_ar": "ركبة",
+      "example_en": "She fell and scraped her knee.",
+      "example_ar": "سقطت وخدشت ركبتها."
+    },
+    {
+      "word_en": "back",
+      "word_ar": "ظهر",
+      "example_en": "He carries a heavy backpack on his back.",
+      "example_ar": "يحمل حقيبة ظهر ثقيلة على ظهره."
+    },
+    {
+      "word_en": "heart",
+      "word_ar": "قلب",
+      "example_en": "Exercise is good for the heart.",
+      "example_ar": "التمرين جيد للقلب."
+    },
+    {
+      "word_en": "stomach",
+      "word_ar": "معدة",
+      "example_en": "Her stomach hurt after eating too much.",
+      "example_ar": "ألمت معدتها بعد تناول الكثير من الطعام."
+    }
+  ]
+}
 
