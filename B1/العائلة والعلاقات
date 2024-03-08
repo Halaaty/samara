@@ -1,1 +1,191 @@
+{
+  "words": [
+    {
+      "word_en": "generation",
+      "word_ar": "جيل",
+      "example_en": "Their family spans across several generations.",
+      "example_ar": "تمتد عائلتهم عبر عدة أجيال."
+    },
+    {
+      "word_en": "daughter-in-law",
+      "word_ar": "زوجة الابن",
+      "example_en": "His daughter-in-law is a talented artist.",
+      "example_ar": "زوجة ابنه فنانة موهوبة."
+    },
+    {
+      "word_en": "sister-in-law",
+      "word_ar": "أخت الزوج",
+      "example_en": "She gets along well with her sister-in-law.",
+      "example_ar": "تفهم جيدًا مع أخت زوجها."
+    },
+    {
+      "word_en": "abandon",
+      "word_ar": "تخلى",
+      "example_en": "He made the difficult decision to abandon his old life.",
+      "example_ar": "اتخذ القرار الصعب بالتخلي عن حياته القديمة."
+    },
+    {
+      "word_en": "parents-in-law",
+      "word_ar": "والدي الزوج",
+      "example_en": "Her parents-in-law treat her like their own daughter.",
+      "example_ar": "يعاملها والديها كابنتهما الحقيقية."
+    },
+    {
+      "word_en": "related",
+      "word_ar": "متصل",
+      "example_en": "Their families are not related.",
+      "example_ar": "عائلاتهم غير متصلة."
+    },
+    {
+      "word_en": "leave",
+      "word_ar": "مغادرة",
+      "example_en": "She decided to leave her hometown and start anew.",
+      "example_ar": "قررت مغادرة مسقط رأسها والبدء من جديد."
+    },
+    {
+      "word_en": "love at first sight",
+      "word_ar": "حب من أول نظرة",
+      "example_en": "Their love story began with love at first sight.",
+      "example_ar": "بدأت قصة حبهم بالحب من أول نظرة."
+    },
+    {
+      "word_en": "son-in-law",
+      "word_ar": "زوج الابنة",
+      "example_en": "Her son-in-law is an engineer.",
+      "example_ar": "زوج ابنتها مهندس."
+    },
+    {
+      "word_en": "close",
+      "word_ar": "قريب",
+      "example_en": "They have a very close relationship with their grandparents.",
+      "example_ar": "لديهم علاقة قريبة جدًا مع جدتهم وجدهم."
+    },
+    {
+      "word_en": "bring up",
+      "word_ar": "تربية",
+      "example_en": "They bring up their children to be kind and respectful.",
+      "example_ar": "يقومون بتربية أطفالهم ليكونوا لطفاء ومحترمين."
+    },
+    {
+      "word_en": "cheat",
+      "word_ar": "خيانة",
+      "example_en": "She discovered that her partner had cheated on her.",
+      "example_ar": "اكتشفت أن شريكها قد خانها."
+    },
+    {
+      "word_en": "father-in-law",
+      "word_ar": "والد الزوج",
+      "example_en": "His father-in-law taught him many valuable life lessons.",
+      "example_ar": "علمه والده الزوج العديد من الدروس الحياتية القيمة."
+    },
+    {
+      "word_en": "separate",
+      "word_ar": "فصل",
+      "example_en": "After many years together, they decided to separate.",
+      "example_ar": "بعد سنوات عديدة معًا ، قرروا الانفصال."
+    },
+    {
+      "word_en": "brother-in-law",
+      "word_ar": "أخ الزوجة",
+      "example_en": "Her brother-in-law is a firefighter.",
+      "example_ar": "أخت زوجته رجل إطفاء."
+    },
+    {
+      "word_en": "groom",
+      "word_ar": "العريس",
+      "example_en": "The groom looked dashing in his tuxedo.",
+      "example_ar": "العريس بدا جذابًا في بدلته السوداء."
+    },
+    {
+      "word_en": "motherhood",
+      "word_ar": "الأمومة",
+      "example_en": "She embraced motherhood with joy.",
+      "example_ar": "احتضنت الأمومة بفرح."
+    },
+    {
+      "word_en": "separated",
+      "word_ar": "منفصل",
+      "example_en": "After years of marriage, they finally separated.",
+      "example_ar": "بعد سنوات من الزواج ، انفصلوا أخيرًا."
+    },
+    {
+      "word_en": "relationship",
+      "word_ar": "علاقة",
+      "example_en": "Their relationship has faced many challenges.",
+      "example_ar": "واجهت علاقتهم العديد من التحديات."
+    },
+    {
+      "word_en": "friendship",
+      "word_ar": "صداقة",
+      "example_en": "Their friendship grew stronger over the years.",
+      "example_ar": "نمت صداقتهم وتعززت على مر السنين."
+    },
+    {
+      "word_en": "single parent",
+      "word_ar": "والدين واحد",
+      "example_en": "She raised her children as a single parent.",
+      "example_ar": "ربت أطفالها كأم واحدة."
+    },
+    {
+      "word_en": "relative",
+      "word_ar": "قريب",
+      "example_en": "She has many relatives living abroad.",
+      "example_ar": "لديها العديد من الأقارب يعيشون في الخارج."
+    },
+    {
+      "word_en": "spouse",
+      "word_ar": "الزوج",
+      "example_en": "She and her spouse celebrated their anniversary.",
+      "example_ar": "احتفلت هي وزوجها بالذكرى السنوية لزواجهما."
+    },
+    {
+      "word_en": "fatherhood",
+      "word_ar": "الأبوة",
+      "example_en": "He embraced fatherhood with pride.",
+      "example_ar": "احتضن الأبوة بالفخر."
+    },
+    {
+      "word_en": "unmarried",
+      "word_ar": "غير متزوج",
+      "example_en": "She remained unmarried throughout her life.",
+      "example_ar": "ظلت غير متزوجة طوال حياتها."
+    },
+    {
+      "word_en": "bride",
+      "word_ar": "العروس",
+      "example_en": "The bride looked stunning in her wedding gown.",
+      "example_ar": "العروس بدت مذهلة في فستان الزفاف الخاص بها."
+    },
+    {
+      "word_en": "child",
+      "word_ar": "طفل",
+      "example_en": "They have three children, two boys and a girl.",
+      "example_ar": "لديهم ثلاثة أطفال ، اثنان من الأولاد وفتاة واحدة."
+    },
+    {
+      "word_en": "mother-in-law",
+      "word_ar": "والدة الزوج",
+      "example_en": "Her mother-in-law is very supportive.",
+      "example_ar": "والدة زوجها داعمة جدًا."
+    },
+    {
+      "word_en": "engaged",
+      "word_ar": "مخطوب",
+      "example_en": "They got engaged on Valentine's Day.",
+      "example_ar": "خطبوا في يوم الحب."
+    },
+    {
+      "word_en": "fatherhood",
+      "word_ar": "الأبوة",
+      "example_en": "He found joy in fatherhood.",
+      "example_ar": "وجد الفرح في الأبوة."
+    },
+    {
+      "word_en": "family tree",
+      "word_ar": "شجرة العائلة",
+      "example_en": "She traced her family tree back several generations.",
+      "example_ar": "تتبعت شجرة عائلتها لعدة أجيال إلى الوراء."
+    }
+  ]
+}
 
