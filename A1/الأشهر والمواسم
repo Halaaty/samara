@@ -1,1 +1,113 @@
+{
+  "words": [
+    {
+      "word_en": "month",
+      "word_ar": "شهر",
+      "example_en": "My birthday is in the month of August.",
+      "example_ar": "عيد ميلادي في شهر أغسطس."
+    },
+    {
+      "word_en": "January",
+      "word_ar": "يناير",
+      "example_en": "We celebrate New Year's Day in January.",
+      "example_ar": "نحتفل بعيد رأس السنة في شهر يناير."
+    },
+    {
+      "word_en": "February",
+      "word_ar": "فبراير",
+      "example_en": "Valentine's Day is in February.",
+      "example_ar": "يوم الحب في شهر فبراير."
+    },
+    {
+      "word_en": "March",
+      "word_ar": "مارس",
+      "example_en": "We usually have spring break in March.",
+      "example_ar": "نحن عادة نأخذ عطلة الربيع في شهر مارس."
+    },
+    {
+      "word_en": "April",
+      "word_ar": "أبريل",
+      "example_en": "April showers bring May flowers.",
+      "example_ar": "أمطار أبريل تجلب زهور مايو."
+    },
+    {
+      "word_en": "May",
+      "word_ar": "مايو",
+      "example_en": "May is a beautiful month for outdoor activities.",
+      "example_ar": "مايو شهر جميل للأنشطة في الهواء الطلق."
+    },
+    {
+      "word_en": "June",
+      "word_ar": "يونيو",
+      "example_en": "June is the beginning of summer.",
+      "example_ar": "يونيو هو بداية الصيف."
+    },
+    {
+      "word_en": "July",
+      "word_ar": "يوليو",
+      "example_en": "We have a family reunion every July.",
+      "example_ar": "نحن نجتمع كعائلة كل شهر يوليو."
+    },
+    {
+      "word_en": "August",
+      "word_ar": "أغسطس",
+      "example_en": "August is usually hot and sunny.",
+      "example_ar": "أغسطس عادة مشمس وحار."
+    },
+    {
+      "word_en": "September",
+      "word_ar": "سبتمبر",
+      "example_en": "September marks the beginning of autumn.",
+      "example_ar": "سبتمبر يشير إلى بداية الخريف."
+    },
+    {
+      "word_en": "October",
+      "word_ar": "أكتوبر",
+      "example_en": "October is known for Halloween.",
+      "example_ar": "أكتوبر معروف بالهالوين."
+    },
+    {
+      "word_en": "November",
+      "word_ar": "نوفمبر",
+      "example_en": "November is a month of gratitude.",
+      "example_ar": "نوفمبر هو شهر الامتنان."
+    },
+    {
+      "word_en": "December",
+      "word_ar": "ديسمبر",
+      "example_en": "We celebrate Christmas in December.",
+      "example_ar": "نحتفل بعيد الميلاد في شهر ديسمبر."
+    },
+    {
+      "word_en": "season",
+      "word_ar": "فصل",
+      "example_en": "Spring is my favorite season.",
+      "example_ar": "الربيع هو موسمي المفضل."
+    },
+    {
+      "word_en": "spring",
+      "word_ar": "ربيع",
+      "example_en": "Flowers bloom in spring.",
+      "example_ar": "الزهور تتفتح في الربيع."
+    },
+    {
+      "word_en": "summer",
+      "word_ar": "صيف",
+      "example_en": "We love going to the beach in the summer.",
+      "example_ar": "نحن نحب الذهاب إلى الشاطئ في الصيف."
+    },
+    {
+      "word_en": "fall",
+      "word_ar": "خريف",
+      "example_en": "Leaves change colors in the fall.",
+      "example_ar": "تتغير ألوان الأوراق في الخريف."
+    },
+    {
+      "word_en": "winter",
+      "word_ar": "شتاء",
+      "example_en": "We often get snow in the winter.",
+      "example_ar": "غالبا ما تتساقط الثلوج في الشتاء."
+    }
+  ]
+}
 
