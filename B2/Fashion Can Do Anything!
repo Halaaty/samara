@@ -1,1 +1,191 @@
+{
+  "words": [
+    {
+      "word_en": "lining",
+      "word_ar": "بطانة",
+      "example_en": "The jacket's lining kept me warm in the cold weather.",
+      "example_ar": "بقيت بطانة السترة دافئة في الطقس البارد."
+    },
+    {
+      "word_en": "hood",
+      "word_ar": "غطاء الرأس",
+      "example_en": "She pulled her hood over her head to shield herself from the rain.",
+      "example_ar": "جذبت غطاء رأسها فوق رأسها لتحمي نفسها من المطر."
+    },
+    {
+      "word_en": "mini",
+      "word_ar": "صغير",
+      "example_en": "She wore a mini skirt to the party.",
+      "example_ar": "ارتدت تنورة صغيرة إلى الحفلة."
+    },
+    {
+      "word_en": "helmet",
+      "word_ar": "خوذة",
+      "example_en": "The construction worker put on his helmet before entering the site.",
+      "example_ar": "وضع العامل في البناء خوذته قبل دخول الموقع."
+    },
+    {
+      "word_en": "denim",
+      "word_ar": "جينز",
+      "example_en": "Denim jeans are a popular choice for casual wear.",
+      "example_ar": "الجينز الدنيم هو اختيار شائع للبس العارض."
+    },
+    {
+      "word_en": "mask",
+      "word_ar": "قناع",
+      "example_en": "She wore a mask to the masquerade ball.",
+      "example_ar": "ارتدت قناعًا لحفلة الماسكارا."
+    },
+    {
+      "word_en": "wooly",
+      "word_ar": "صوفي",
+      "example_en": "The wooly sweater kept him warm in the winter.",
+      "example_ar": "السترة الصوفية الدافئة أبقته دافئًا في الشتاء."
+    },
+    {
+      "word_en": "outfit",
+      "word_ar": "زي",
+      "example_en": "She put together a stylish outfit for the event.",
+      "example_ar": "جمعت ملابس أنيقة للحدث."
+    },
+    {
+      "word_en": "collection",
+      "word_ar": "مجموعة",
+      "example_en": "The fashion designer showcased her latest collection on the runway.",
+      "example_ar": "عرضت مصممة الأزياء مجموعتها الأخيرة على منصة العرض."
+    },
+    {
+      "word_en": "mask",
+      "word_ar": "قناع",
+      "example_en": "She wore a mask to protect herself from airborne particles.",
+      "example_ar": "ارتدت قناعًا لحماية نفسها من الجسيمات العالقة في الهواء."
+    },
+    {
+      "word_en": "zipper",
+      "word_ar": "سحاب",
+      "example_en": "He zipped up his jacket to keep out the cold wind.",
+      "example_ar": "أغلق سحاب سترته لمنع دخول الرياح الباردة."
+    },
+    {
+      "word_en": "silk",
+      "word_ar": "حرير",
+      "example_en": "The gown was made from luxurious silk.",
+      "example_ar": "كانت الفستان مصنوعًا من الحرير الفاخر."
+    },
+    {
+      "word_en": "sandal",
+      "word_ar": "صندل",
+      "example_en": "She slipped on her sandals before heading to the beach.",
+      "example_ar": "انزلقت على صنادلها قبل الذهاب إلى الشاطئ."
+    },
+    {
+      "word_en": "lace",
+      "word_ar": "دانتيل",
+      "example_en": "The wedding dress was adorned with delicate lace.",
+      "example_ar": "كان فستان الزفاف مزينًا بدانتيل رقيق."
+    },
+    {
+      "word_en": "badge",
+      "word_ar": "شارة",
+      "example_en": "He proudly displayed his badge of honor.",
+      "example_ar": "عرض شارة الشرف بفخر."
+    },
+    {
+      "word_en": "plain",
+      "word_ar": "بسيط",
+      "example_en": "She prefers plain colors over bold patterns.",
+      "example_ar": "تفضل الألوان البسيطة على الأنماط الجريئة."
+    },
+    {
+      "word_en": "masquerade",
+      "word_ar": "حفلة ماسكارا",
+      "example_en": "They attended a masquerade ball for Halloween.",
+      "example_ar": "حضروا حفلة ماسكارا لعيد الهالوين."
+    },
+    {
+      "word_en": "cardigan",
+      "word_ar": "كارديغان",
+      "example_en": "She wrapped herself in a cozy cardigan on chilly evenings.",
+      "example_ar": "لفت نفسها بكارديغان دافئ في المساء البارد."
+    },
+    {
+      "word_en": "fabric",
+      "word_ar": "نسيج",
+      "example_en": "The dress was made from a soft, breathable fabric.",
+      "example_ar": "تم صنع الفستان من نسيج ناعم وقابل للتنفس."
+    },
+    {
+      "word_en": "jersey",
+      "word_ar": "جيرسي",
+      "example_en": "He wore a basketball jersey to support his favorite team.",
+      "example_ar": "ارتدى جيرسي كرة السلة لدعم فريقه المفضل."
+    },
+    {
+      "word_en": "vest",
+      "word_ar": "سترة",
+      "example_en": "He wore a vest under his suit for added warmth.",
+      "example_ar": "ارتدى سترة تحت بدلته للحصول على المزيد من الدفء."
+    },
+    {
+      "word_en": "matching",
+      "word_ar": "متطابق",
+      "example_en": "She wore a matching scarf and gloves.",
+      "example_ar": "ارتدت وشاحًا وقفازات متطابقة."
+    },
+    {
+      "word_en": "sandal",
+      "word_ar": "صندل",
+      "example_en": "She slipped on her sandals before heading to the beach.",
+      "example_ar": "انزلقت على صنادلها قبل الذهاب إلى الشاطئ."
+    },
+    {
+      "word_en": "modeling",
+      "word_ar": "تمثيل",
+      "example_en": "She pursued a career in modeling after winning a local beauty contest.",
+      "example_ar": "سعت لمهنة في التمثيل بعد فوزها بمسابقة جمال محلية."
+    },
+    {
+      "word_en": "costume",
+      "word_ar": "زي",
+      "example_en": "He dressed up in a superhero costume for the costume party.",
+      "example_ar": "ارتدى زي خارق للأبطال لحفلة الأزياء."
+    },
+    {
+      "word_en": "pattern",
+      "word_ar": "نمط",
+      "example_en": "The dress had a floral pattern.",
+      "example_ar": "كان الفستان له نمط زهري."
+    },
+    {
+      "word_en": "style",
+      "word_ar": "أسلوب",
+      "example_en": "Her style is elegant and sophisticated.",
+      "example_ar": "أسلوبها أنيق ومتطور."
+    },
+    {
+      "word_en": "jersey",
+      "word_ar": "جيرسي",
+      "example_en": "He wore a football jersey to show support for his favorite team.",
+      "example_ar": "ارتدى جيرسي كرة القدم للتعبير عن دعمه لفريقه المفضل."
+    },
+    {
+      "word_en": "masquerade",
+      "word_ar": "حفلة ماسكارا",
+      "example_en": "The masquerade was full of mystery and intrigue.",
+      "example_ar": "كانت الحفلة الماسكارا مليئة بالغموض والفضول."
+    },
+    {
+      "word_en": "style",
+      "word_ar": "أسلوب",
+      "example_en": "Her style is unique and eclectic.",
+      "example_ar": "أسلوبها فريد ومتنوع."
+    },
+    {
+      "word_en": "glamorous",
+      "word_ar": "ساحر",
+      "example_en": "She wore a glamorous gown to the awards ceremony.",
+      "example_ar": "ارتدت فستانًا ساحرًا في حفل توزيع الجوائز."
+    }
+  ]
+}
 
