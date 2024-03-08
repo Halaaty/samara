@@ -1,1 +1,161 @@
+{
+  "words": [
+    {
+      "word_en": "bracelet",
+      "word_ar": "سوار",
+      "example_en": "She wore a gold bracelet on her wrist.",
+      "example_ar": "ارتدت سوارًا ذهبيًا على معصمها."
+    },
+    {
+      "word_en": "to put on",
+      "word_ar": "يضع",
+      "example_en": "He put on his coat before going outside.",
+      "example_ar": "ارتدى معطفه قبل الخروج."
+    },
+    {
+      "word_en": "umbrella",
+      "word_ar": "مظلة",
+      "example_en": "She carried an umbrella to protect herself from the rain.",
+      "example_ar": "حملت مظلة لحماية نفسها من المطر."
+    },
+    {
+      "word_en": "jewelry",
+      "word_ar": "مجوهرات",
+      "example_en": "She admired the sparkling jewelry in the display case.",
+      "example_ar": "أعجبتها المجوهرات اللامعة في العرض."
+    },
+    {
+      "word_en": "cap",
+      "word_ar": "قبعة",
+      "example_en": "He wore a baseball cap to shield his eyes from the sun.",
+      "example_ar": "ارتدى قبعة بيسبول لحماية عينيه من الشمس."
+    },
+    {
+      "word_en": "to try on",
+      "word_ar": "يجرب",
+      "example_en": "She tried on several dresses before choosing one.",
+      "example_ar": "جربت عدة فساتين قبل اختيار واحدة."
+    },
+    {
+      "word_en": "to change",
+      "word_ar": "يتغير",
+      "example_en": "He changed into his pajamas before going to bed.",
+      "example_ar": "غيّر ملابسه إلى بيجامته قبل النوم."
+    },
+    {
+      "word_en": "to take off",
+      "word_ar": "يخلع",
+      "example_en": "She took off her shoes before entering the house.",
+      "example_ar": "خلعت حذائها قبل دخول المنزل."
+    },
+    {
+      "word_en": "glasses",
+      "word_ar": "نظارات",
+      "example_en": "He wore glasses to improve his vision.",
+      "example_ar": "ارتدى نظارات لتحسين رؤيته."
+    },
+    {
+      "word_en": "pocket",
+      "word_ar": "جيب",
+      "example_en": "He kept his keys in his pocket.",
+      "example_ar": "احتفظ بمفاتيحه في جيبه."
+    },
+    {
+      "word_en": "watch",
+      "word_ar": "ساعة",
+      "example_en": "She checked her watch to see the time.",
+      "example_ar": "فحصت ساعتها لمعرفة الوقت."
+    },
+    {
+      "word_en": "button",
+      "word_ar": "زر",
+      "example_en": "She sewed the button back onto her shirt.",
+      "example_ar": "خيطت الزر مرة أخرى على قميصها."
+    },
+    {
+      "word_en": "to change",
+      "word_ar": "يتغير",
+      "example_en": "She changed her outfit three times before deciding on one.",
+      "example_ar": "غيّرت ملابسها ثلاث مرات قبل أن تقرر واحدة."
+    },
+    {
+      "word_en": "necklace",
+      "word_ar": "قلادة",
+      "example_en": "She wore a diamond necklace to the gala.",
+      "example_ar": "ارتدت قلادة الماس إلى المأدبة."
+    },
+    {
+      "word_en": "perfume",
+      "word_ar": "عطر",
+      "example_en": "He sprayed some perfume on before going out.",
+      "example_ar": "رش العطر قبل الخروج."
+    },
+    {
+      "word_en": "accessory",
+      "word_ar": "إكسسوار",
+      "example_en": "She liked to wear bold accessories with her outfits.",
+      "example_ar": "كانت تحب ارتداء إكسسوارات جريئة مع ملابسها."
+    },
+    {
+      "word_en": "shorts",
+      "word_ar": "سراويل قصيرة",
+      "example_en": "He wore shorts and a T-shirt in the hot weather.",
+      "example_ar": "ارتدى سراويل قصيرة وقميصًا في الطقس الحار."
+    },
+    {
+      "word_en": "blouse",
+      "word_ar": "بلوزة",
+      "example_en": "She wore a silk blouse to the party.",
+      "example_ar": "ارتدت بلوزة حريرية إلى الحفلة."
+    },
+    {
+      "word_en": "wallet",
+      "word_ar": "محفظة",
+      "example_en": "He kept his money and cards in his wallet.",
+      "example_ar": "احتفظ بماله وبطاقاته في محفظته."
+    },
+    {
+      "word_en": "tights",
+      "word_ar": "جوارب ضيقة",
+      "example_en": "She wore black tights under her skirt.",
+      "example_ar": "ارتدت جوارب ضيقة سوداء تحت تنورتها."
+    },
+    {
+      "word_en": "loose",
+      "word_ar": "فضفاض",
+      "example_en": "She preferred to wear loose-fitting clothes in the summer.",
+      "example_ar": "كانت تفضل ارتداء ملابس فضفاضة في الصيف."
+    },
+    {
+      "word_en": "ring",
+      "word_ar": "خاتم",
+      "example_en": "She wore a diamond ring on her finger.",
+      "example_ar": "ارتدت خاتم الماس على إصبعها."
+    },
+    {
+      "word_en": "to fit",
+      "word_ar": "يناسب",
+      "example_en": "The dress didn't fit her properly.",
+      "example_ar": "الفستان لم يناسبها بشكل صحيح."
+    },
+    {
+      "word_en": "uniform",
+      "word_ar": "زي",
+      "example_en": "He wore a uniform to work every day.",
+      "example_ar": "كان يرتدي زيًا للعمل كل يوم."
+    },
+    {
+      "word_en": "earring",
+      "word_ar": "قرط",
+      "example_en": "She wore silver earrings with her evening gown.",
+      "example_ar": "ارتدت قرطاً من الفضة مع فستانها المسائي."
+    },
+    {
+      "word_en": "broken",
+      "word_ar": "مكسور",
+      "example_en": "Her necklace was broken and needed repair.",
+      "example_ar": "كانت قلادتها مكسورة وتحتاج إلى إصلاح."
+    }
+  ]
+}
 
