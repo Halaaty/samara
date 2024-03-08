@@ -1,1 +1,125 @@
+{
+  "words": [
+    {
+      "word_en": "Champagne",
+      "word_ar": "شمبانيا",
+      "example_en": "Champagne is often served at celebrations and special occasions.",
+      "example_ar": "غالبًا ما يتم تقديم الشمبانيا في الاحتفالات والمناسبات الخاصة."
+    },
+    {
+      "word_en": "wine",
+      "word_ar": "نبيذ",
+      "example_en": "She enjoys a glass of red wine with dinner.",
+      "example_ar": "تستمتع بكأس من النبيذ الأحمر مع العشاء."
+    },
+    {
+      "word_en": "cocoa",
+      "word_ar": "كاكاو",
+      "example_en": "Hot cocoa is perfect for warming up on a cold day.",
+      "example_ar": "الكاكاو الساخن مثالي للتدفئة في يوم بارد."
+    },
+    {
+      "word_en": "milkshake",
+      "word_ar": "ميلك شيك",
+      "example_en": "She ordered a chocolate milkshake with whipped cream on top.",
+      "example_ar": "طلبت ميلك شيك بالشوكولاتة مع كريمة مخفوقة على القمة."
+    },
+    {
+      "word_en": "soft drink",
+      "word_ar": "مشروب غازي",
+      "example_en": "He prefers to drink water rather than soft drinks.",
+      "example_ar": "يفضل شرب الماء بدلاً من المشروبات الغازية."
+    },
+    {
+      "word_en": "whiskey",
+      "word_ar": "ويسكي",
+      "example_en": "Whiskey is often enjoyed neat or on the rocks.",
+      "example_ar": "غالبًا ما يتم استمتاع بالويسكي بدون ثلج أو مع الثلج."
+    },
+    {
+      "word_en": "tequila",
+      "word_ar": "تكيلا",
+      "example_en": "She took a shot of tequila with a wedge of lime.",
+      "example_ar": "شربت شريطًا من تكيلا مع قطعة من الليمون."
+    },
+    {
+      "word_en": "beer",
+      "word_ar": "بيرة",
+      "example_en": "He ordered a pint of beer at the pub.",
+      "example_ar": "طلب بيرة بمقدار باينت في الحانة."
+    },
+    {
+      "word_en": "Tonic",
+      "word_ar": "تونك",
+      "example_en": "Tonic water is often used as a mixer in cocktails.",
+      "example_ar": "يتم استخدام ماء التونك غالبًا كمزيج في الكوكتيلات."
+    },
+    {
+      "word_en": "non alcoholic",
+      "word_ar": "غير كحولي",
+      "example_en": "She prefers non-alcoholic beverages like fruit juice.",
+      "example_ar": "تفضل المشروبات غير الكحولية مثل عصير الفاكهة."
+    },
+    {
+      "word_en": "mineral water",
+      "word_ar": "ماء معدني",
+      "example_en": "Mineral water is bottled directly from natural springs.",
+      "example_ar": "يتم تعبئة ماء المعدنية مباشرة من الينابيع الطبيعية."
+    },
+    {
+      "word_en": "sparkling",
+      "word_ar": "فوار",
+      "example_en": "She enjoys a glass of sparkling water with her meal.",
+      "example_ar": "تستمتع بكأس من الماء الفوار مع وجبتها."
+    },
+    {
+      "word_en": "cocktail",
+      "word_ar": "كوكتيل",
+      "example_en": "He mixed vodka and cranberry juice to make a cocktail.",
+      "example_ar": "خلط الفودكا وعصير التوت البري لصنع كوكتيل."
+    },
+    {
+      "word_en": "lemonade",
+      "word_ar": "ليموناضة",
+      "example_en": "She squeezed fresh lemons to make homemade lemonade.",
+      "example_ar": "عصرت الليمون الطازج لصنع ليموناضة منزلية الصنع."
+    },
+    {
+      "word_en": "alcoholic",
+      "word_ar": "كحولي",
+      "example_en": "Some people prefer alcoholic beverages while others prefer non-alcoholic ones.",
+      "example_ar": "بعض الناس يفضلون المشروبات الكحولية بينما يفضل آخرون غير الكحولية."
+    },
+    {
+      "word_en": "drink",
+      "word_ar": "شرب",
+      "example_en": "He likes to drink a cold beverage on a hot day.",
+      "example_ar": "يحب شرب مشروب بارد في يوم حار."
+    },
+    {
+      "word_en": "brandy",
+      "word_ar": "براندي",
+      "example_en": "Brandy is often enjoyed as a digestif after a meal.",
+      "example_ar": "غالبًا ما يتم استمتاع بالبراندي كمايستمتع بعد الوجبة."
+    },
+    {
+      "word_en": "energy drink",
+      "word_ar": "مشروب طاقة",
+      "example_en": "Energy drinks are popular among athletes and students for their stimulating effects.",
+      "example_ar": "تحظى مشروبات الطاقة بشعبية بين الرياضيين والطلاب بسبب تأثيراتها المحفزة."
+    },
+    {
+      "word_en": "alcohol",
+      "word_ar": "كحول",
+      "example_en": "The legal drinking age for alcohol varies from country to country.",
+      "example_ar": "تختلف الحد القانوني لشرب الكحول من بلد إلى آخر."
+    },
+    {
+      "word_en": "smoothie",
+      "word_ar": "سموذي",
+      "example_en": "She blended strawberries and bananas to make a delicious smoothie.",
+      "example_ar": "خلطت الفراولة والموز لتحضير سموذي لذيذ."
+    }
+  ]
+}
 
