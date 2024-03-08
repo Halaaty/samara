@@ -1,1 +1,173 @@
+{
+  "words": [
+    {
+      "word_en": "hide",
+      "word_ar": "إخفاء",
+      "example_en": "He tried to hide his disappointment.",
+      "example_ar": "حاول أن يخفي خيبة أمله."
+    },
+    {
+      "word_en": "cute",
+      "word_ar": "لطيف",
+      "example_en": "The puppy was so cute.",
+      "example_ar": "كان الجرو لطيفًا جدًا."
+    },
+    {
+      "word_en": "show",
+      "word_ar": "عرض",
+      "example_en": "She wanted to show her new dress.",
+      "example_ar": "أرادت أن تعرض فستانها الجديد."
+    },
+    {
+      "word_en": "straight",
+      "word_ar": "مستقيم",
+      "example_en": "She had long, straight hair.",
+      "example_ar": "كانت شعرها طويلًا ومستقيمًا."
+    },
+    {
+      "word_en": "smile",
+      "word_ar": "ابتسامة",
+      "example_en": "His smile brightened her day.",
+      "example_ar": "ابتسامته جعلت يومها أكثر سعادة."
+    },
+    {
+      "word_en": "skinny",
+      "word_ar": "نحيف",
+      "example_en": "She was naturally skinny.",
+      "example_ar": "كانت نحيفة بطبيعتها."
+    },
+    {
+      "word_en": "curly",
+      "word_ar": "مجعد",
+      "example_en": "She loved her curly hair.",
+      "example_ar": "كانت تحب شعرها المجعد."
+    },
+    {
+      "word_en": "appear",
+      "word_ar": "يظهر",
+      "example_en": "The sun began to appear from behind the clouds.",
+      "example_ar": "بدأت الشمس في الظهور من وراء السحب."
+    },
+    {
+      "word_en": "attractive",
+      "word_ar": "جذاب",
+      "example_en": "She found him very attractive.",
+      "example_ar": "وجدته جذابًا جدًا."
+    },
+    {
+      "word_en": "lovely",
+      "word_ar": "جميل",
+      "example_en": "It was a lovely day for a picnic.",
+      "example_ar": "كان يومًا جميلًا للنزهة."
+    },
+    {
+      "word_en": "brush",
+      "word_ar": "فرشاة",
+      "example_en": "She brushed her hair before bed.",
+      "example_ar": "فرشت شعرها قبل النوم."
+    },
+    {
+      "word_en": "bald",
+      "word_ar": "أصلع",
+      "example_en": "He started going bald in his twenties.",
+      "example_ar": "بدأ بالصلع في العشرينات من عمره."
+    },
+    {
+      "word_en": "female",
+      "word_ar": "أنثى",
+      "example_en": "She has a female cat named Luna.",
+      "example_ar": "لديها قطة أنثى تدعى لونا."
+    },
+    {
+      "word_en": "pretty",
+      "word_ar": "جميل",
+      "example_en": "She wore a pretty dress to the party.",
+      "example_ar": "ارتدت فستانًا جميلًا للحفلة."
+    },
+    {
+      "word_en": "fit",
+      "word_ar": "يناسب",
+      "example_en": "The dress fit her perfectly.",
+      "example_ar": "الفستان يناسبها تمامًا."
+    },
+    {
+      "word_en": "male",
+      "word_ar": "ذكر",
+      "example_en": "He has a male dog named Max.",
+      "example_ar": "لديه كلب ذكر يدعى ماكس."
+    },
+    {
+      "word_en": "good-looking",
+      "word_ar": "جذاب",
+      "example_en": "He's quite good-looking.",
+      "example_ar": "إنه جذاب جدًا."
+    },
+    {
+      "word_en": "look",
+      "word_ar": "ينظر",
+      "example_en": "She looked at him with concern.",
+      "example_ar": "نظرت إليه بقلق."
+    },
+    {
+      "word_en": "mustache",
+      "word_ar": "شارب",
+      "example_en": "He trimmed his mustache.",
+      "example_ar": "قص شاربه."
+    },
+    {
+      "word_en": "tiny",
+      "word_ar": "صغير جداً",
+      "example_en": "The baby had tiny fingers.",
+      "example_ar": "كان لدى الطفل أصابع صغيرة جدًا."
+    },
+    {
+      "word_en": "handsome",
+      "word_ar": "وسيم",
+      "example_en": "He's very handsome.",
+      "example_ar": "إنه وسيم جدًا."
+    },
+    {
+      "word_en": "describe",
+      "word_ar": "يصف",
+      "example_en": "She struggled to describe her feelings.",
+      "example_ar": "كافحت لوصف مشاعرها."
+    },
+    {
+      "word_en": "slim",
+      "word_ar": "نحيف",
+      "example_en": "She had a slim figure.",
+      "example_ar": "كانت لديها قوام نحيف."
+    },
+    {
+      "word_en": "line",
+      "word_ar": "خط",
+      "example_en": "She drew a straight line.",
+      "example_ar": "رسمت خطًا مستقيمًا."
+    },
+    {
+      "word_en": "beard",
+      "word_ar": "لحية",
+      "example_en": "He decided to grow a beard.",
+      "example_ar": "قرر أن ينمي لحيته."
+    },
+    {
+      "word_en": "appear",
+      "word_ar": "يظهر",
+      "example_en": "She appeared from behind the curtain.",
+      "example_ar": "ظهرت من وراء الستارة."
+    },
+    {
+      "word_en": "male",
+      "word_ar": "ذكر",
+      "example_en": "The male lion roared loudly.",
+      "example_ar": "أطلق الأسد الذكر صوتًا عاليًا."
+    },
+    {
+      "word_en": "pretty",
+      "word_ar": "جميل",
+      "example_en": "She found a pretty flower in the garden.",
+      "example_ar": "وجدت زهرة جميلة في الحديقة."
+    }
+  ]
+}
 
