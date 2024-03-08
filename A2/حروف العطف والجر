@@ -1,1 +1,239 @@
+{
+  "words": [
+    {
+      "word_en": "for",
+      "word_ar": "لـ",
+      "example_en": "He bought flowers for his mother.",
+      "example_ar": "اشترى الزهور لأمه."
+    },
+    {
+      "word_en": "from",
+      "word_ar": "من",
+      "example_en": "She will be on vacation from Monday.",
+      "example_ar": "ستكون في إجازة اعتبارًا من يوم الاثنين."
+    },
+    {
+      "word_en": "whether",
+      "word_ar": "سواء",
+      "example_en": "He didn't know whether to laugh or cry.",
+      "example_ar": "لم يكن يعرف سواء يضحك أم يبكي."
+    },
+    {
+      "word_en": "whereas",
+      "word_ar": "بينما",
+      "example_en": "She likes coffee whereas he prefers tea.",
+      "example_ar": "هي تحب القهوة بينما يفضل الشاي."
+    },
+    {
+      "word_en": "until",
+      "word_ar": "حتى",
+      "example_en": "The store is open until 9 PM.",
+      "example_ar": "المتجر مفتوح حتى الساعة 9 مساءً."
+    },
+    {
+      "word_en": "about",
+      "word_ar": "حول",
+      "example_en": "She told me a story about her trip.",
+      "example_ar": "أخبرتني قصة عن رحلتها."
+    },
+    {
+      "word_en": "through",
+      "word_ar": "خلال",
+      "example_en": "They walked through the forest.",
+      "example_ar": "ساروا خلال الغابة."
+    },
+    {
+      "word_en": "during",
+      "word_ar": "خلال",
+      "example_en": "He fell asleep during the movie.",
+      "example_ar": "نام أثناء المشاهدة."
+    },
+    {
+      "word_en": "when",
+      "word_ar": "متى",
+      "example_en": "When will they arrive?",
+      "example_ar": "متى سيصلون؟"
+    },
+    {
+      "word_en": "except",
+      "word_ar": "إلا",
+      "example_en": "Everyone came except John.",
+      "example_ar": "جاء الجميع إلا جون."
+    },
+    {
+      "word_en": "during",
+      "word_ar": "خلال",
+      "example_en": "During the summer, they went to the beach.",
+      "example_ar": "خلال الصيف، ذهبوا إلى الشاطئ."
+    },
+    {
+      "word_en": "like",
+      "word_ar": "مثل",
+      "example_en": "She looks like her mother.",
+      "example_ar": "تبدو مثل والدتها."
+    },
+    {
+      "word_en": "against",
+      "word_ar": "ضد",
+      "example_en": "They played against each other.",
+      "example_ar": "لعبوا ضد بعضهم البعض."
+    },
+    {
+      "word_en": "apart from",
+      "word_ar": "بعيداً عن",
+      "example_en": "Apart from the noise, it was a peaceful evening.",
+      "example_ar": "بعيداً عن الضجيج، كان مساءً هادئًا."
+    },
+    {
+      "word_en": "inside",
+      "word_ar": "داخل",
+      "example_en": "She found her keys inside the drawer.",
+      "example_ar": "وجدت مفاتيحها داخل الدرج."
+    },
+    {
+      "word_en": "around",
+      "word_ar": "حول",
+      "example_en": "They sat around the campfire.",
+      "example_ar": "جلسوا حول نار المخيم."
+    },
+    {
+      "word_en": "by",
+      "word_ar": "بواسطة",
+      "example_en": "The book was written by a famous author.",
+      "example_ar": "تم كتابة الكتاب بواسطة مؤلف مشهور."
+    },
+    {
+      "word_en": "where",
+      "word_ar": "أين",
+      "example_en": "Where is the nearest gas station?",
+      "example_ar": "أين أقرب محطة وقود؟"
+    },
+    {
+      "word_en": "of",
+      "word_ar": "من",
+      "example_en": "The color of the sky was blue.",
+      "example_ar": "لون السماء كان أزرق."
+    },
+    {
+      "word_en": "nor",
+      "word_ar": "لا",
+      "example_en": "Neither Peter nor Mary could attend.",
+      "example_ar": "لا يمكن لبيتر ولا ماري الحضور."
+    },
+    {
+      "word_en": "whenever",
+      "word_ar": "كلما",
+      "example_en": "You can call me whenever you need help.",
+      "example_ar": "يمكنك الاتصال بي كلما احتجت إلى مساعدة."
+    },
+    {
+      "word_en": "than",
+      "word_ar": "من",
+      "example_en": "She's taller than her sister.",
+      "example_ar": "هي أطول من أختها."
+    },
+    {
+      "word_en": "now",
+      "word_ar": "الآن",
+      "example_en": "We can leave now.",
+      "example_ar": "يمكننا المغادرة الآن."
+    },
+    {
+      "word_en": "because",
+      "word_ar": "لأن",
+      "example_en": "She stayed home because she was sick.",
+      "example_ar": "بقيت في المنزل لأنها مريضة."
+    },
+    {
+      "word_en": "so",
+      "word_ar": "حتى",
+      "example_en": "It was raining, so we stayed indoors.",
+      "example_ar": "كانت تمطر، لذا بقينا في الداخل."
+    },
+    {
+      "word_en": "or",
+      "word_ar": "أو",
+      "example_en": "Would you like tea or coffee?",
+      "example_ar": "هل ترغب في الشاي أم القهوة؟"
+    },
+    {
+      "word_en": "though",
+      "word_ar": "على الرغم من",
+      "example_en": "She went out though it was raining.",
+      "example_ar": "خرجت على الرغم من أنه كان يمطر."
+    },
+    {
+      "word_en": "and",
+      "word_ar": "و",
+      "example_en": "She likes tea and I like coffee.",
+      "example_ar": "هي تحب الشاي وأنا أحب القهوة."
+    },
+    {
+      "word_en": "if",
+      "word_ar": "إذا",
+      "example_en": "If it rains, we'll stay home.",
+      "example_ar": "إذا مطرنا، سنبقى في المنزل."
+    },
+    {
+      "word_en": "but",
+      "word_ar": "ولكن",
+      "example_en": "She is tired but happy.",
+      "example_ar": "هي متعبة ولكن سعيدة."
+    },
+    {
+      "word_en": "as",
+      "word_ar": "كـ",
+      "example_en": "He works as a teacher.",
+      "example_ar": "يعمل كمعلم."
+    },
+    {
+      "word_en": "after",
+      "word_ar": "بعد",
+      "example_en": "She arrived home after dark.",
+      "example_ar": "وصلت إلى المنزل بعد الظلام."
+    },
+    {
+      "word_en": "before",
+      "word_ar": "قبل",
+      "example_en": "Please wash your hands before eating.",
+      "example_ar": "يرجى غسل يديك قبل الأكل."
+    },
+    {
+      "word_en": "once",
+      "word_ar": "مرة واحدة",
+      "example_en": "She visited Paris once.",
+      "example_ar": "زارت باريس مرة واحدة."
+    },
+    {
+      "word_en": "although",
+      "word_ar": "على الرغم من أن",
+      "example_en": "Although it was cold, she went for a walk.",
+      "example_ar": "على الرغم من أن الطقس كان باردًا، خرجت للتنزه."
+    },
+    {
+      "word_en": "since",
+      "word_ar": "منذ",
+      "example_en": "She has been there since yesterday.",
+      "example_ar": "هي هناك منذ الأمس."
+    },
+    {
+      "word_en": "after",
+      "word_ar": "بعد",
+      "example_en": "After the meeting, they went for lunch.",
+      "example_ar": "بعد الاجتماع، ذهبوا لتناول الغداء."
+    },
+    {
+      "word_en": "or",
+      "word_ar": "أو",
+      "example_en": "Would you like cake or ice cream?",
+      "example_ar": "هل ترغب في الكعك أم الآيس كريم؟"
+    },
+    {
+      "word_en": "that",
+      "word_ar": "أن",
+      "example_en": "He said that he would come.",
+      "example_ar": "قال أنه سيأتي."
+    }
+  ]
+}
 
