@@ -1,1 +1,143 @@
+{
+  "words": [
+    {
+      "word_en": "outdated",
+      "word_ar": "قديم الطراز",
+      "example_en": "Her computer was outdated and in need of an upgrade.",
+      "example_ar": "كان كمبيوترها متقادمًا وبحاجة إلى تحديث."
+    },
+    {
+      "word_en": "novel",
+      "word_ar": "جديد",
+      "example_en": "The smartphone boasted novel features not seen in previous models.",
+      "example_ar": "كان الهاتف الذكي يتميز بميزات جديدة لم تكن موجودة في النماذج السابقة."
+    },
+    {
+      "word_en": "drain",
+      "word_ar": "صرف",
+      "example_en": "Leaving apps running in the background can drain your phone's battery quickly.",
+      "example_ar": "تشغيل التطبيقات في الخلفية يمكن أن يصرف بطارية هاتفك بسرعة."
+    },
+    {
+      "word_en": "charger",
+      "word_ar": "شاحن",
+      "example_en": "He plugged in his phone to the charger overnight.",
+      "example_ar": "قام بتوصيل هاتفه بالشاحن طوال الليل."
+    },
+    {
+      "word_en": "boot",
+      "word_ar": "تشغيل",
+      "example_en": "The computer takes a long time to boot up in the morning.",
+      "example_ar": "يستغرق الكمبيوتر وقتًا طويلاً للتشغيل في الصباح."
+    },
+    {
+      "word_en": "mechanical",
+      "word_ar": "ميكانيكي",
+      "example_en": "The old clock was a mechanical marvel.",
+      "example_ar": "كان الساعة القديمة عجيبة ميكانيكيًا."
+    },
+    {
+      "word_en": "latest",
+      "word_ar": "أحدث",
+      "example_en": "She always wanted to have the latest gadgets and technology.",
+      "example_ar": "كانت ترغب دائمًا في امتلاك أحدث الأجهزة والتكنولوجيا."
+    },
+    {
+      "word_en": "screen",
+      "word_ar": "شاشة",
+      "example_en": "He replaced the cracked screen on his phone.",
+      "example_ar": "قام بتغيير الشاشة المتصدعة على هاتفه."
+    },
+    {
+      "word_en": "cable",
+      "word_ar": "كابل",
+      "example_en": "He connected his computer to the printer with a USB cable.",
+      "example_ar": "قام بتوصيل كمبيوتره بالطابعة باستخدام كابل USB."
+    },
+    {
+      "word_en": "controller",
+      "word_ar": "متحكم",
+      "example_en": "The game controller allowed for precise movements in the game.",
+      "example_ar": "سمح متحكم اللعبة بحركات دقيقة في اللعبة."
+    },
+    {
+      "word_en": "battery",
+      "word_ar": "بطارية",
+      "example_en": "She replaced the battery in her watch.",
+      "example_ar": "قامت بتغيير البطارية في ساعتها."
+    },
+    {
+      "word_en": "obsolete",
+      "word_ar": "مهمل",
+      "example_en": "The company discontinued support for its obsolete software.",
+      "example_ar": "أوقفت الشركة دعم برمجياتها المهملة."
+    },
+    {
+      "word_en": "gadget",
+      "word_ar": "جهاز",
+      "example_en": "He loved to collect the latest electronic gadgets.",
+      "example_ar": "كان يحب جمع أحدث الأجهزة الإلكترونية."
+    },
+    {
+      "word_en": "control panel",
+      "word_ar": "لوحة التحكم",
+      "example_en": "She adjusted the settings using the control panel.",
+      "example_ar": "قامت بضبط الإعدادات باستخدام لوحة التحكم."
+    },
+    {
+      "word_en": "memory",
+      "word_ar": "ذاكرة",
+      "example_en": "The computer's memory was quickly filled with large files.",
+      "example_ar": "امتلأت ذاكرة الكمبيوتر بسرعة بالملفات الكبيرة."
+    },
+    {
+      "word_en": "process",
+      "word_ar": "عملية",
+      "example_en": "The computer went through a lengthy process to install the software.",
+      "example_ar": "خضع الكمبيوتر لعملية طويلة لتثبيت البرنامج."
+    },
+    {
+      "word_en": "update",
+      "word_ar": "تحديث",
+      "example_en": "She installed the latest update on her smartphone.",
+      "example_ar": "قامت بتثبيت أحدث تحديث على هاتفها الذكي."
+    },
+    {
+      "word_en": "electronic",
+      "word_ar": "إلكتروني",
+      "example_en": "The electronic device stopped working after getting wet.",
+      "example_ar": "توقف الجهاز الإلكتروني عن العمل بعد البلل."
+    },
+    {
+      "word_en": "ingenious",
+      "word_ar": "مبتكر",
+      "example_en": "The inventor came up with an ingenious solution to the problem.",
+      "example_ar": "وجد المخترع حلاً مبتكرًا للمشكلة."
+    },
+    {
+      "word_en": "charge",
+      "word_ar": "شحن",
+      "example_en": "He forgot to charge his phone overnight.",
+      "example_ar": "نسي شحن هاتفه طوال الليل."
+    },
+    {
+      "word_en": "microscope",
+      "word_ar": "مجهر",
+      "example_en": "He used a microscope to examine the tiny organisms.",
+      "example_ar": "استخدم مجهرًا لفحص الكائنات الصغيرة."
+    },
+    {
+      "word_en": "touch screen",
+      "word_ar": "شاشة اللمس",
+      "example_en": "The tablet had a responsive touch screen.",
+      "example_ar": "كان للوحي شاشة لمس سريعة الاستجابة."
+    },
+    {
+      "word_en": "power",
+      "word_ar": "طاقة",
+      "example_en": "The power went out during the storm.",
+      "example_ar": "انقطعت الكهرباء أثناء العاصفة."
+    }
+  ]
+}
 
