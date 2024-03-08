@@ -1,1 +1,149 @@
+{
+  "words": [
+    {
+      "word_en": "gentle",
+      "word_ar": "لطيف",
+      "example_en": "He had a gentle touch, comforting those around him.",
+      "example_ar": "كان لديه لمسة لطيفة، تريح أولئك من حوله."
+    },
+    {
+      "word_en": "patient",
+      "word_ar": "صبور",
+      "example_en": "She remained patient despite facing many challenges.",
+      "example_ar": "ظلت صبورة على الرغم من مواجهتها للعديد من التحديات."
+    },
+    {
+      "word_en": "independent",
+      "word_ar": "مستقل",
+      "example_en": "He valued his independence and autonomy.",
+      "example_ar": "كان يقدر استقلاله وحريته."
+    },
+    {
+      "word_en": "experienced",
+      "word_ar": "متمرس",
+      "example_en": "She was hired for the job because of her experienced background.",
+      "example_ar": "تم توظيفها للوظيفة بسبب خلفيتها المتمرسة."
+    },
+    {
+      "word_en": "sociable",
+      "word_ar": "اجتماعي",
+      "example_en": "She was naturally sociable, making friends wherever she went.",
+      "example_ar": "كانت اجتماعية بشكل طبيعي، وتصادق مع الناس أينما ذهبت."
+    },
+    {
+      "word_en": "cool",
+      "word_ar": "بارد",
+      "example_en": "He remained cool under pressure.",
+      "example_ar": "ظل باردًا تحت الضغط."
+    },
+    {
+      "word_en": "curious",
+      "word_ar": "فضولي",
+      "example_en": "The child's curious nature led her to explore the world around her.",
+      "example_ar": "طبيعة الفضول لدى الطفلة أدت بها لاستكشاف العالم من حولها."
+    },
+    {
+      "word_en": "bully",
+      "word_ar": "متنمر",
+      "example_en": "The bully intimidated others to assert dominance.",
+      "example_ar": "المتنمر يهدد الآخرين لتأكيد سيطرته."
+    },
+    {
+      "word_en": "warm",
+      "word_ar": "دافئ",
+      "example_en": "Her warm smile brightened up the room.",
+      "example_ar": "ابتسامتها الدافئة أضاءت الغرفة."
+    },
+    {
+      "word_en": "talented",
+      "word_ar": "موهوب",
+      "example_en": "She was recognized for her talented artwork.",
+      "example_ar": "اعتُرِف بها بفنها الموهوب."
+    },
+    {
+      "word_en": "honest",
+      "word_ar": "صادق",
+      "example_en": "He was known for his honest and straightforward approach.",
+      "example_ar": "كان معروفًا بنهجه الصادق والمباشر."
+    },
+    {
+      "word_en": "negative",
+      "word_ar": "سلبي",
+      "example_en": "She tried to avoid negative thoughts and focus on the positive.",
+      "example_ar": "حاولت تجنب الأفكار السلبية والتركيز على الإيجابيات."
+    },
+    {
+      "word_en": "positive",
+      "word_ar": "إيجابي",
+      "example_en": "He maintained a positive attitude even during difficult times.",
+      "example_ar": "حافظ على موقف إيجابي حتى خلال الأوقات الصعبة."
+    },
+    {
+      "word_en": "annoying",
+      "word_ar": "مزعج",
+      "example_en": "Her constant complaining became annoying to her friends.",
+      "example_ar": "أصبحت شكواها المستمرة مزعجة لأصدقائها."
+    },
+    {
+      "word_en": "stubborn",
+      "word_ar": "عنيد",
+      "example_en": "Despite the evidence, he remained stubborn in his beliefs.",
+      "example_ar": "على الرغم من الأدلة، بقي عنيدًا في معتقداته."
+    },
+    {
+      "word_en": "brave",
+      "word_ar": "شجاع",
+      "example_en": "She showed bravery in the face of danger.",
+      "example_ar": "أظهرت الشجاعة في مواجهة الخطر."
+    },
+    {
+      "word_en": "cruel",
+      "word_ar": "قاسي",
+      "example_en": "His cruel treatment of animals was unacceptable.",
+      "example_ar": "كانت معاملته القاسية للحيوانات غير مقبولة."
+    },
+    {
+      "word_en": "selfish",
+      "word_ar": "أناني",
+      "example_en": "She was criticized for her selfish behavior.",
+      "example_ar": "تمت محاكمتها بسبب سلوكها الأناني."
+    },
+    {
+      "word_en": "proud",
+      "word_ar": "فخور",
+      "example_en": "She felt proud of her accomplishments.",
+      "example_ar": "شعرت بالفخر بإنجازاتها."
+    },
+    {
+      "word_en": "doubtful",
+      "word_ar": "مشكك",
+      "example_en": "He was doubtful about the outcome of the experiment.",
+      "example_ar": "كان مشككًا في نتيجة التجربة."
+    },
+    {
+      "word_en": "needy",
+      "word_ar": "محتاج",
+      "example_en": "The charity provided support for the needy in the community.",
+      "example_ar": "قدمت الجمعية الخيرية دعمًا للمحتاجين في المجتمع."
+    },
+    {
+      "word_en": "understanding",
+      "word_ar": "متفهم",
+      "example_en": "She was understanding of his situation and offered her support.",
+      "example_ar": "كانت متفهمة لوضعه وقدمت له الدعم."
+    },
+    {
+      "word_en": "keen",
+      "word_ar": "حريص",
+      "example_en": "She was keen to learn new skills and improve herself.",
+      "example_ar": "كانت حريصة على تعلم مهارات جديدة وتحسين نفسها."
+    },
+    {
+      "word_en": "generous",
+      "word_ar": "كريم",
+      "example_en": "He was known for his generous donations to charity.",
+      "example_ar": "كان معروفًا بتبرعاته السخية للجمعيات الخيرية."
+    }
+  ]
+}
 
