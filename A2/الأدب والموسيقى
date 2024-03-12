@@ -1,0 +1,184 @@
+{
+  "words": [
+    {
+      "word_en": "pop",
+      "word_ar": "بوب",
+      "example_en": "Pop music is popular among teenagers.",
+      "example_ar": "الموسيقى البوب شائعة بين المراهقين."
+    },
+    {
+      "word_en": "tour",
+      "word_ar": "جولة",
+      "example_en": "The band is going on a world tour.",
+      "example_ar": "الفرقة ستقوم بجولة عالمية."
+    },
+    {
+      "word_en": "guitarist",
+      "word_ar": "عازف الجيتار",
+      "example_en": "She's a talented guitarist.",
+      "example_ar": "إنها عازفة جيتار موهوبة."
+    },
+    {
+      "word_en": "jazz",
+      "word_ar": "جاز",
+      "example_en": "They're going to a jazz concert tonight.",
+      "example_ar": "سيحضرون حفلة جاز هذه الليلة."
+    },
+    {
+      "word_en": "painting",
+      "word_ar": "رسم",
+      "example_en": "She's an artist who specializes in painting.",
+      "example_ar": "هي فنانة متخصصة في الرسم."
+    },
+    {
+      "word_en": "instrumental",
+      "word_ar": "موسيقى مصاحبة",
+      "example_en": "They played an instrumental piece at the event.",
+      "example_ar": "لعبوا قطعة موسيقية مصاحبة في الحدث."
+    },
+    {
+      "word_en": "rock",
+      "word_ar": "روك",
+      "example_en": "She's a fan of rock music.",
+      "example_ar": "هي من محبي موسيقى الروك."
+    },
+    {
+      "word_en": "concert",
+      "word_ar": "حفلة موسيقية",
+      "example_en": "We're going to a concert tonight.",
+      "example_ar": "سنذهب إلى حفلة موسيقية الليلة."
+    },
+    {
+      "word_en": "art",
+      "word_ar": "فن",
+      "example_en": "Art reflects culture.",
+      "example_ar": "الفن يعكس الثقافة."
+    },
+    {
+      "word_en": "musician",
+      "word_ar": "موسيقي",
+      "example_en": "He's a talented musician.",
+      "example_ar": "إنه موسيقي موهوب."
+    },
+    {
+      "word_en": "voice",
+      "word_ar": "صوت",
+      "example_en": "She has a beautiful singing voice.",
+      "example_ar": "لديها صوت جميل للغناء."
+    },
+    {
+      "word_en": "picture",
+      "word_ar": "صورة",
+      "example_en": "I love that picture on the wall.",
+      "example_ar": "أحب هذه الصورة على الحائط."
+    },
+    {
+      "word_en": "work",
+      "word_ar": "عمل",
+      "example_en": "Her latest work received critical acclaim.",
+      "example_ar": "حصل عملها الأخير على إشادة من النقاد."
+    },
+    {
+      "word_en": "hit",
+      "word_ar": "ضربة",
+      "example_en": "Their new song became an instant hit.",
+      "example_ar": "أصبحت أغنيتهم الجديدة ضربة فورية."
+    },
+    {
+      "word_en": "dancer",
+      "word_ar": "راقص",
+      "example_en": "She's a professional dancer.",
+      "example_ar": "هي راقصة محترفة."
+    },
+    {
+      "word_en": "painter",
+      "word_ar": "رسام",
+      "example_en": "She's a talented painter.",
+      "example_ar": "هي رسامة موهوبة."
+    },
+    {
+      "word_en": "novel",
+      "word_ar": "رواية",
+      "example_en": "Her latest novel received critical acclaim.",
+      "example_ar": "حصلت روايتها الأخيرة على إشادة من النقاد."
+    },
+    {
+      "word_en": "musical",
+      "word_ar": "موسيقي",
+      "example_en": "They're going to see a musical tonight.",
+      "example_ar": "سيذهبون لمشاهدة مسرحية موسيقية الليلة."
+    },
+    {
+      "word_en": "loud",
+      "word_ar": "بصوت عال",
+      "example_en": "The music was too loud for me.",
+      "example_ar": "كانت الموسيقى بصوت عال جداً بالنسبة لي."
+    },
+    {
+      "word_en": "dance",
+      "word_ar": "رقص",
+      "example_en": "They danced all night long.",
+      "example_ar": "رقصوا طوال الليل."
+    },
+    {
+      "word_en": "story",
+      "word_ar": "قصة",
+      "example_en": "She wrote a captivating story.",
+      "example_ar": "كتبت قصة جذابة."
+    },
+    {
+      "word_en": "song",
+      "word_ar": "أغنية",
+      "example_en": "Their new song became an instant hit.",
+      "example_ar": "أصبحت أغنيتهم الجديدة ضربة فورية."
+    },
+    {
+      "word_en": "drum",
+      "word_ar": "طبل",
+      "example_en": "He's learning to play the drum.",
+      "example_ar": "هو يتعلم العزف على الطبل."
+    },
+    {
+      "word_en": "poet",
+      "word_ar": "شاعر",
+      "example_en": "She's a talented poet.",
+      "example_ar": "هي شاعرة موهوبة."
+    },
+    {
+      "word_en": "play",
+      "word_ar": "لعب",
+      "example_en": "They're going to play in the park.",
+      "example_ar": "سيذهبون للعب في الحديقة."
+    },
+    {
+      "word_en": "player",
+      "word_ar": "لاعب",
+      "example_en": "He's a skilled soccer player.",
+      "example_ar": "هو لاعب كرة قدم ماهر."
+    },
+    {
+      "word_en": "classical",
+      "word_ar": "كلاسيكي",
+      "example_en": "She enjoys listening to classical music.",
+      "example_ar": "تستمتع بالاستماع إلى الموسيقى الكلاسيكية."
+    },
+    {
+      "word_en": "loudly",
+      "word_ar": "بصوت عال",
+      "example_en": "She laughed loudly at the joke.",
+      "example_ar": "ضحكت بصوت عال على النكتة."
+    },
+    {
+      "word_en": "sing",
+      "word_ar": "يغني",
+      "example_en": "They sang together at the concert.",
+      "example_ar": "غنوا معًا في الحفلة الموسيقية."
+    },
+    {
+      "word_en": "opera",
+      "word_ar": "أوبرا",
+      "example_en": "They're going to see an opera tonight.",
+      "example_ar": "سيذهبون لمشاهدة أوبرا الليلة."
+    }
+  ]
+}
