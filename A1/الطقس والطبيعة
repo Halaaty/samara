@@ -1,0 +1,154 @@
+{
+  "words": [
+    {
+      "word_en": "weather",
+      "word_ar": "الطقس",
+      "example_en": "The weather was warm and sunny.",
+      "example_ar": "كان الطقس دافئًا ومشمسًا."
+    },
+    {
+      "word_en": "fire",
+      "word_ar": "نار",
+      "example_en": "They built a fire to keep warm.",
+      "example_ar": "بنوا نارًا للدفء."
+    },
+    {
+      "word_en": "hot",
+      "word_ar": "حار",
+      "example_en": "It's hot outside, so wear light clothes.",
+      "example_ar": "الطقس حار، لذا ارتدي ملابس خفيفة."
+    },
+    {
+      "word_en": "cold",
+      "word_ar": "بارد",
+      "example_en": "Don't forget to wear a coat in the cold weather.",
+      "example_ar": "لا تنسى ارتداء معطف في الطقس البارد."
+    },
+    {
+      "word_en": "sunny",
+      "word_ar": "مشمس",
+      "example_en": "It's sunny today, perfect for a picnic.",
+      "example_ar": "اليوم مشمس، مثالي للنزهة."
+    },
+    {
+      "word_en": "cloud",
+      "word_ar": "سحابة",
+      "example_en": "The sky was filled with fluffy white clouds.",
+      "example_ar": "كانت السماء مليئة بالسحب البيضاء الهوائية."
+    },
+    {
+      "word_en": "cloudy",
+      "word_ar": "غائم",
+      "example_en": "It's a bit cloudy, but it might clear up later.",
+      "example_ar": "الطقس غائم قليلاً، لكنه قد يتحسن لاحقًا."
+    },
+    {
+      "word_en": "rain",
+      "word_ar": "مطر",
+      "example_en": "Don't forget your umbrella, it might rain.",
+      "example_ar": "لا تنسى مظلتك، قد يمطر."
+    },
+    {
+      "word_en": "rainy",
+      "word_ar": "ممطر",
+      "example_en": "It's been a rainy week, bring your raincoat.",
+      "example_ar": "كانت أسبوعًا ممطرًا، احضر معك معطفك المطري."
+    },
+    {
+      "word_en": "snowy",
+      "word_ar": "ثلجي",
+      "example_en": "The kids love playing in the snowy yard.",
+      "example_ar": "الأطفال يحبون اللعب في الحديقة المغطاة بالثلوج."
+    },
+    {
+      "word_en": "ice",
+      "word_ar": "ثلج",
+      "example_en": "Be careful, the path is covered in ice.",
+      "example_ar": "كن حذرًا، المسار مغطى بالثلج."
+    },
+    {
+      "word_en": "nature",
+      "word_ar": "طبيعة",
+      "example_en": "They went hiking to enjoy nature.",
+      "example_ar": "ذهبوا للمشي للاستمتاع بالطبيعة."
+    },
+    {
+      "word_en": "sun",
+      "word_ar": "شمس",
+      "example_en": "The sun was setting behind the mountains.",
+      "example_ar": "كانت الشمس تغيب خلف الجبال."
+    },
+    {
+      "word_en": "moon",
+      "word_ar": "قمر",
+      "example_en": "The full moon lit up the night sky.",
+      "example_ar": "أضاء القمر الكامل سماء الليل."
+    },
+    {
+      "word_en": "Earth",
+      "word_ar": "أرض",
+      "example_en": "We must protect the Earth for future generations.",
+      "example_ar": "علينا حماية الأرض للأجيال القادمة."
+    },
+    {
+      "word_en": "sky",
+      "word_ar": "سماء",
+      "example_en": "The sky was clear and blue.",
+      "example_ar": "كانت السماء صافية وزرقاء."
+    },
+    {
+      "word_en": "river",
+      "word_ar": "نهر",
+      "example_en": "They went canoeing down the river.",
+      "example_ar": "ذهبوا للتجديف في النهر."
+    },
+    {
+      "word_en": "sea",
+      "word_ar": "بحر",
+      "example_en": "They spent the day swimming in the sea.",
+      "example_ar": "قضوا اليوم في السباحة في البحر."
+    },
+    {
+      "word_en": "mountain",
+      "word_ar": "جبل",
+      "example_en": "They climbed the mountain to enjoy the view.",
+      "example_ar": "تسلقوا الجبل للاستمتاع بالمنظر."
+    },
+    {
+      "word_en": "beach",
+      "word_ar": "شاطئ",
+      "example_en": "They built sandcastles on the beach.",
+      "example_ar": "بنوا قلاعًا من الرمال على الشاطئ."
+    },
+    {
+      "word_en": "forest",
+      "word_ar": "غابة",
+      "example_en": "They went hiking in the forest.",
+      "example_ar": "ذهبوا للمشي في الغابة."
+    },
+    {
+      "word_en": "island",
+      "word_ar": "جزيرة",
+      "example_en": "They went snorkeling around the island.",
+      "example_ar": "ذهبوا للغوص بالشنوركل حول الجزيرة."
+    },
+    {
+      "word_en": "star",
+      "word_ar": "نجمة",
+      "example_en": "They gazed at the stars in the night sky.",
+      "example_ar": "التفتوا إلى النجوم في سماء الليل."
+    },
+    {
+      "word_en": "tree",
+      "word_ar": "شجرة",
+      "example_en": "They sat under the shade of a large tree.",
+      "example_ar": "جلسوا تحت ظل شجرة كبيرة."
+    },
+    {
+      "word_en": "flower",
+      "word_ar": "زهرة",
+      "example_en": "She picked a bouquet of wildflowers.",
+      "example_ar": "قطفت باقة من الزهور البرية."
+    }
+  ]
+}
