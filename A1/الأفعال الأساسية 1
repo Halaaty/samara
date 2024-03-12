@@ -1,0 +1,184 @@
+{
+  "words": [
+    {
+      "word_en": "be",
+      "word_ar": "يكون",
+      "example_en": "To be or not to be, that is the question.",
+      "example_ar": "أن تكون أم ألا تكون، هذا هو السؤال."
+    },
+    {
+      "word_en": "wake up",
+      "word_ar": "يستيقظ",
+      "example_en": "I usually wake up early in the morning.",
+      "example_ar": "عادةً ما أستيقظ في الصباح الباكر."
+    },
+    {
+      "word_en": "sleep",
+      "word_ar": "ينام",
+      "example_en": "Try to sleep at least seven hours every night.",
+      "example_ar": "حاول أن تنام لمدة سبع ساعات على الأقل كل ليلة."
+    },
+    {
+      "word_en": "work",
+      "word_ar": "يعمل",
+      "example_en": "She works as a software engineer.",
+      "example_ar": "تعمل كمهندسة برمجيات."
+    },
+    {
+      "word_en": "drive",
+      "word_ar": "يقود",
+      "example_en": "He learned to drive when he was sixteen.",
+      "example_ar": "تعلم قيادة السيارة عندما كان عمره ستة عشر عامًا."
+    },
+    {
+      "word_en": "buy",
+      "word_ar": "يشتري",
+      "example_en": "I need to buy groceries for the week.",
+      "example_ar": "أحتاج إلى شراء البقالة لهذا الأسبوع."
+    },
+    {
+      "word_en": "sell",
+      "word_ar": "يبيع",
+      "example_en": "She decided to sell her old furniture.",
+      "example_ar": "قررت بيع أثاثها القديم."
+    },
+    {
+      "word_en": "read",
+      "word_ar": "يقرأ",
+      "example_en": "He loves to read science fiction novels.",
+      "example_ar": "يحب قراءة روايات الخيال العلمي."
+    },
+    {
+      "word_en": "write",
+      "word_ar": "يكتب",
+      "example_en": "She writes poetry in her free time.",
+      "example_ar": "تكتب الشعر في أوقات فراغها."
+    },
+    {
+      "word_en": "play",
+      "word_ar": "يلعب",
+      "example_en": "They play basketball every Saturday.",
+      "example_ar": "يلعبون كرة السلة كل يوم سبت."
+    },
+    {
+      "word_en": "pay",
+      "word_ar": "يدفع",
+      "example_en": "Please pay the bill at the counter.",
+      "example_ar": "يرجى دفع الفاتورة عند الكاونتر."
+    },
+    {
+      "word_en": "rest",
+      "word_ar": "يستريح",
+      "example_en": "After a long day, she likes to rest on the couch.",
+      "example_ar": "بعد يوم طويل، تحب الاسترخاء على الأريكة."
+    },
+    {
+      "word_en": "wash",
+      "word_ar": "يغسل",
+      "example_en": "She washes the dishes after dinner.",
+      "example_ar": "تغسل الأطباق بعد العشاء."
+    },
+    {
+      "word_en": "drink",
+      "word_ar": "يشرب",
+      "example_en": "Remember to drink plenty of water throughout the day.",
+      "example_ar": "تذكر أن تشرب الكثير من الماء طوال اليوم."
+    },
+    {
+      "word_en": "cook",
+      "word_ar": "يطبخ",
+      "example_en": "He can cook a variety of delicious dishes.",
+      "example_ar": "يستطيع طهي مجموعة متنوعة من الأطباق الشهية."
+    },
+    {
+      "word_en": "eat",
+      "word_ar": "يأكل",
+      "example_en": "She eats breakfast before going to work.",
+      "example_ar": "تتناول الإفطار قبل الذهاب إلى العمل."
+    },
+    {
+      "word_en": "have",
+      "word_ar": "يمتلك",
+      "example_en": "We have dinner together every evening.",
+      "example_ar": "نتناول العشاء معًا كل مساء."
+    },
+    {
+      "word_en": "make",
+      "word_ar": "يصنع",
+      "example_en": "He likes to make his own furniture.",
+      "example_ar": "يحب صنع أثاثه الخاص."
+    },
+    {
+      "word_en": "wear",
+      "word_ar": "يرتدي",
+      "example_en": "She wears a red dress to the party.",
+      "example_ar": "ترتدي فستانًا أحمر في الحفلة."
+    },
+    {
+      "word_en": "clean",
+      "word_ar": "ينظف",
+      "example_en": "He cleans the house every weekend.",
+      "example_ar": "ينظف المنزل كل نهاية أسبوع."
+    },
+    {
+      "word_en": "think",
+      "word_ar": "يفكر",
+      "example_en": "I often think about my future.",
+      "example_ar": "غالبًا ما أفكر في مستقبلي."
+    },
+    {
+      "word_en": "take",
+      "word_ar": "يأخذ",
+      "example_en": "She needs to take her medicine before bedtime.",
+      "example_ar": "تحتاج إلى أخذ دوائها قبل النوم."
+    },
+    {
+      "word_en": "stand",
+      "word_ar": "يقف",
+      "example_en": "Please stand up when the national anthem is played.",
+      "example_ar": "يرجى الوقوف عندما يتم تشغيل النشيد الوطني."
+    },
+    {
+      "word_en": "speak",
+      "word_ar": "يتكلم",
+      "example_en": "He can speak three languages fluently.",
+      "example_ar": "يمكنه التحدث بثلاث لغات بطلاقة."
+    },
+    {
+      "word_en": "spell",
+      "word_ar": "يتهجى",
+      "example_en": "Can you spell your name, please?",
+      "example_ar": "هل يمكنك تهجئة اسمك، من فضلك؟"
+    },
+    {
+      "word_en": "dislike",
+      "word_ar": "يكره",
+      "example_en": "I dislike mushrooms, they taste terrible.",
+      "example_ar": "أنا لا أحب الفطر، لأنها تذوق بشكل فظيع."
+    },
+    {
+      "word_en": "add",
+      "word_ar": "يضيف",
+      "example_en": "Add a pinch of salt to enhance the flavor.",
+      "example_ar": "أضف قليلًا من الملح لتعزيز النكهة."
+    },
+    {
+      "word_en": "call",
+      "word_ar": "يتصل",
+      "example_en": "I'll call you as soon as I arrive.",
+      "example_ar": "سأتصل بك فور وصولي."
+    },
+    {
+      "word_en": "create",
+      "word_ar": "يخلق",
+      "example_en": "She likes to create art in her spare time.",
+      "example_ar": "تحب إنشاء الفن في وقت فراغها."
+    },
+    {
+      "word_en": "cut",
+      "word_ar": "يقطع",
+      "example_en": "He cut the cake into equal slices.",
+      "example_ar": "قطع الكعك إلى شرائح متساوية."
+    }
+  ]
+}
