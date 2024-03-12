@@ -1,0 +1,172 @@
+{
+  "words": [
+    {
+      "word_en": "hear",
+      "word_ar": "سمع",
+      "example_en": "I can hear the birds chirping outside.",
+      "example_ar": "أستطيع سماع غرز الطيور خارجًا."
+    },
+    {
+      "word_en": "listen",
+      "word_ar": "استمع",
+      "example_en": "Please listen carefully to what I'm saying.",
+      "example_ar": "يرجى الاستماع بعناية إلى ما أقوله."
+    },
+    {
+      "word_en": "see",
+      "word_ar": "رأى",
+      "example_en": "I see a beautiful sunset from my window.",
+      "example_ar": "أرى غروبًا جميلًا من نافذتي."
+    },
+    {
+      "word_en": "look",
+      "word_ar": "نظرة",
+      "example_en": "Look at the stars, they're so bright tonight.",
+      "example_ar": "انظر إلى النجوم، إنها مشرقة جدًا الليلة."
+    },
+    {
+      "word_en": "watch",
+      "word_ar": "مشاهدة",
+      "example_en": "Let's watch a movie tonight.",
+      "example_ar": "لنشاهد فيلمًا الليلة."
+    },
+    {
+      "word_en": "touch",
+      "word_ar": "لمس",
+      "example_en": "The fabric feels soft to the touch.",
+      "example_ar": "القماش يشعر بالنعومة عند اللمس."
+    },
+    {
+      "word_en": "feel",
+      "word_ar": "شعور",
+      "example_en": "I feel happy when I'm with my friends.",
+      "example_ar": "أشعر بالسعادة عندما أكون مع أصدقائي."
+    },
+    {
+      "word_en": "talk",
+      "word_ar": "حديث",
+      "example_en": "We need to talk about our plans for the weekend.",
+      "example_ar": "نحن بحاجة إلى الحديث عن خططنا لعطلة نهاية الأسبوع."
+    },
+    {
+      "word_en": "call",
+      "word_ar": "دعوة",
+      "example_en": "I'll call you later.",
+      "example_ar": "سأتصل بك لاحقًا."
+    },
+    {
+      "word_en": "like",
+      "word_ar": "مثل",
+      "example_en": "I like chocolate ice cream.",
+      "example_ar": "أنا أحب الآيس كريم بالشوكولاتة."
+    },
+    {
+      "word_en": "love",
+      "word_ar": "حب",
+      "example_en": "I love spending time with my family.",
+      "example_ar": "أحب قضاء الوقت مع عائلتي."
+    },
+    {
+      "word_en": "hate",
+      "word_ar": "يكره",
+      "example_en": "I hate waiting in long lines.",
+      "example_ar": "أكره الانتظار في الطوابير الطويلة."
+    },
+    {
+      "word_en": "know",
+      "word_ar": "معرفة",
+      "example_en": "Do you know how to swim?",
+      "example_ar": "هل تعرف كيف تسبح؟"
+    },
+    {
+      "word_en": "learn",
+      "word_ar": "يتعلم",
+      "example_en": "I want to learn how to play the guitar.",
+      "example_ar": "أريد أن أتعلم كيف أعزف الجيتار."
+    },
+    {
+      "word_en": "ask",
+      "word_ar": "يطلب",
+      "example_en": "Don't be afraid to ask questions.",
+      "example_ar": "لا تخاف من طرح الأسئلة."
+    },
+    {
+      "word_en": "study",
+      "word_ar": "دراسة",
+      "example_en": "I need to study for my exams.",
+      "example_ar": "أحتاج للدراسة من أجل امتحاناتي."
+    },
+    {
+      "word_en": "teach",
+      "word_ar": "تدريس",
+      "example_en": "She loves to teach children how to read.",
+      "example_ar": "تحب تدريس الأطفال كيفية القراءة."
+    },
+    {
+      "word_en": "need",
+      "word_ar": "بحاجة",
+      "example_en": "We need to buy groceries.",
+      "example_ar": "نحن بحاجة إلى شراء بعض البقالة."
+    },
+    {
+      "word_en": "want",
+      "word_ar": "يريد",
+      "example_en": "I want to travel the world.",
+      "example_ar": "أريد السفر حول العالم."
+    },
+    {
+      "word_en": "share",
+      "word_ar": "يشترك",
+      "example_en": "Let's share our snacks.",
+      "example_ar": "لنشارك الوجبات الخفيفة الخاصة بنا."
+    },
+    {
+      "word_en": "put",
+      "word_ar": "يضع",
+      "example_en": "Please put your shoes in the closet.",
+      "example_ar": "يرجى وضع حذائك في الخزانة."
+    },
+    {
+      "word_en": "prepare",
+      "word_ar": "إعداد",
+      "example_en": "She needs time to prepare for the presentation.",
+      "example_ar": "تحتاج إلى وقت للتحضير للعرض."
+    },
+    {
+      "word_en": "plan",
+      "word_ar": "خطة",
+      "example_en": "Let's plan a trip for next month.",
+      "example_ar": "لنخطط لرحلة الشهر المقبل."
+    },
+    {
+      "word_en": "explain",
+      "word_ar": "يشرح",
+      "example_en": "Can you explain how this works?",
+      "example_ar": "هل يمكنك شرح كيف يعمل هذا؟"
+    },
+    {
+      "word_en": "fill",
+      "word_ar": "ملء",
+      "example_en": "Please fill out this form.",
+      "example_ar": "يرجى ملء هذا النموذج."
+    },
+    {
+      "word_en": "fly",
+      "word_ar": "طيران",
+      "example_en": "They flew to Paris for their honeymoon.",
+      "example_ar": "طاروا إلى باريس لقضاء شهر العسل الخاص بهم."
+    },
+    {
+      "word_en": "get",
+      "word_ar": "الحصول على",
+      "example_en": "I need to get some groceries from the store.",
+      "example_ar": "أحتاج إلى الحصول على بعض المقاضي من المتجر."
+    },
+    {
+      "word_en": "become",
+      "word_ar": "يصبح",
+      "example_en": "She wants to become a doctor when she grows up.",
+      "example_ar": "تريد أن تصبح طبيبة عندما تكبر."
+    }
+  ]
+}
