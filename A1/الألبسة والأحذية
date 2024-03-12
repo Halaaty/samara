@@ -1,0 +1,118 @@
+{
+  "words": [
+    {
+      "word_en": "pants",
+      "word_ar": "سروال",
+      "example_en": "He wore black pants and a white shirt.",
+      "example_ar": "ارتدى سروالاً أسود وقميصاً أبيض."
+    },
+    {
+      "word_en": "boot",
+      "word_ar": "حذاء",
+      "example_en": "She bought a new pair of boots for the winter.",
+      "example_ar": "اشترت زوجًا جديدًا من الأحذية للشتاء."
+    },
+    {
+      "word_en": "dress",
+      "word_ar": "فستان",
+      "example_en": "She wore a beautiful red dress to the party.",
+      "example_ar": "ارتدت فستانًا أحمر جميلًا للحفلة."
+    },
+    {
+      "word_en": "sweater",
+      "word_ar": "سترة صوفية",
+      "example_en": "He put on a warm sweater before going outside.",
+      "example_ar": "وضع سترة صوفية دافئة قبل الخروج."
+    },
+    {
+      "word_en": "jacket",
+      "word_ar": "جاكيت",
+      "example_en": "She hung her jacket on the coat rack.",
+      "example_ar": "علقت جاكيتها على حامل المعاطف."
+    },
+    {
+      "word_en": "shirt",
+      "word_ar": "قميص",
+      "example_en": "He ironed his shirt before going to work.",
+      "example_ar": "كوى قميصه قبل الذهاب للعمل."
+    },
+    {
+      "word_en": "swimsuit",
+      "word_ar": "ملابس سباحة",
+      "example_en": "She packed her swimsuit for the beach vacation.",
+      "example_ar": "حزمت ملابس السباحة لعطلة الشاطئ."
+    },
+    {
+      "word_en": "tie",
+      "word_ar": "ربطة عنق",
+      "example_en": "He wore a blue tie with his suit.",
+      "example_ar": "ارتدى ربطة عنق زرقاء مع بدلته."
+    },
+    {
+      "word_en": "T-shirt",
+      "word_ar": "قميص قصير الأكمام",
+      "example_en": "She bought a plain white T-shirt.",
+      "example_ar": "اشترت قميصًا أبيضًا عاديًا."
+    },
+    {
+      "word_en": "purse",
+      "word_ar": "حقيبة يد",
+      "example_en": "She carried her wallet in her purse.",
+      "example_ar": "حملت محفظتها في حقيبتها."
+    },
+    {
+      "word_en": "skirt",
+      "word_ar": "تنورة",
+      "example_en": "She wore a floral skirt to the picnic.",
+      "example_ar": "ارتدت تنورة زهرية إلى نزهة السفرة."
+    },
+    {
+      "word_en": "sock",
+      "word_ar": "جورب",
+      "example_en": "She put on a pair of warm socks.",
+      "example_ar": "ارتدت زوجًا من الجوارب الدافئة."
+    },
+    {
+      "word_en": "shoe",
+      "word_ar": "حذاء",
+      "example_en": "She bought new running shoes for her marathon.",
+      "example_ar": "اشترت حذاءً رياضيًا جديدًا لماراثونها."
+    },
+    {
+      "word_en": "coat",
+      "word_ar": "معطف",
+      "example_en": "He hung his coat on the hook by the door.",
+      "example_ar": "علق معطفه على الخطاف بجانب الباب."
+    },
+    {
+      "word_en": "suit",
+      "word_ar": "بدلة",
+      "example_en": "He wore a black suit to the wedding.",
+      "example_ar": "ارتدى بدلة سوداء إلى الزفاف."
+    },
+    {
+      "word_en": "underwear",
+      "word_ar": "ملابس داخلية",
+      "example_en": "She packed clean underwear for her trip.",
+      "example_ar": "حزمت ملابس داخلية نظيفة لرحلتها."
+    },
+    {
+      "word_en": "pajamas",
+      "word_ar": "بيجامة",
+      "example_en": "He changed into his pajamas before bed.",
+      "example_ar": "غير إلى بيجامته قبل النوم."
+    },
+    {
+      "word_en": "jeans",
+      "word_ar": "جينز",
+      "example_en": "She wore ripped jeans and a graphic T-shirt.",
+      "example_ar": "ارتدت جينزًا ممزقًا وقميصًا غرافيكيًا."
+    },
+    {
+      "word_en": "police officer",
+      "word_ar": "ضابط شرطة",
+      "example_en": "The police officer arrested the suspect.",
+      "example_ar": "اعتقل ضابط الشرطة المشتبه به."
+    }
+  ]
+}
