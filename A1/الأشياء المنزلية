@@ -1,0 +1,118 @@
+{
+  "words": [
+    {
+      "word_en": "dish",
+      "word_ar": "طبق",
+      "example_en": "The restaurant serves a variety of delicious dishes.",
+      "example_ar": "يقدم المطعم مجموعة متنوعة من الأطباق اللذيذة."
+    },
+    {
+      "word_en": "spoon",
+      "word_ar": "ملعقة",
+      "example_en": "Stir the soup with a spoon.",
+      "example_ar": "حرك الحساء بالملعقة."
+    },
+    {
+      "word_en": "fork",
+      "word_ar": "شوكة",
+      "example_en": "Use a fork to eat spaghetti.",
+      "example_ar": "استخدم شوكة لتناول السباغيتي."
+    },
+    {
+      "word_en": "knife",
+      "word_ar": "سكين",
+      "example_en": "She used a knife to cut the cake.",
+      "example_ar": "استخدمت سكينًا لقطع الكعكة."
+    },
+    {
+      "word_en": "plate",
+      "word_ar": "صحن",
+      "example_en": "Place the chicken on a plate.",
+      "example_ar": "ضع الدجاج على صحن."
+    },
+    {
+      "word_en": "glass",
+      "word_ar": "كوب",
+      "example_en": "Pour some water into the glass.",
+      "example_ar": "اسكب بعض الماء في الكوب."
+    },
+    {
+      "word_en": "bottle",
+      "word_ar": "زجاجة",
+      "example_en": "He drinks milk from a bottle.",
+      "example_ar": "يشرب الحليب من الزجاجة."
+    },
+    {
+      "word_en": "cup",
+      "word_ar": "كوب",
+      "example_en": "She drinks tea from a cup every morning.",
+      "example_ar": "تشرب الشاي من الكوب كل صباح."
+    },
+    {
+      "word_en": "towel",
+      "word_ar": "منشفة",
+      "example_en": "Use a towel to dry your hands.",
+      "example_ar": "استخدم منشفة لتجفيف يديك."
+    },
+    {
+      "word_en": "soap",
+      "word_ar": "صابون",
+      "example_en": "Please wash your hands with soap.",
+      "example_ar": "يرجى غسل يديك بالصابون."
+    },
+    {
+      "word_en": "brush",
+      "word_ar": "فرشاة",
+      "example_en": "She uses a brush to comb her hair.",
+      "example_ar": "تستخدم فرشاة لتمشيط شعرها."
+    },
+    {
+      "word_en": "toothbrush",
+      "word_ar": "فرشاة الأسنان",
+      "example_en": "Don't forget to brush your teeth with a toothbrush.",
+      "example_ar": "لا تنسى تنظيف أسنانك بفرشاة الأسنان."
+    },
+    {
+      "word_en": "pillow",
+      "word_ar": "وسادة",
+      "example_en": "She likes to sleep with two pillows.",
+      "example_ar": "تحب النوم مع وسادتين."
+    },
+    {
+      "word_en": "trash can",
+      "word_ar": "صندوق القمامة",
+      "example_en": "Please throw the trash in the trash can.",
+      "example_ar": "يرجى رمي القمامة في صندوق القمامة."
+    },
+    {
+      "word_en": "box",
+      "word_ar": "صندوق",
+      "example_en": "She keeps her jewelry in a small box.",
+      "example_ar": "تحتفظ بمجوهراتها في صندوق صغير."
+    },
+    {
+      "word_en": "toy",
+      "word_ar": "لعبة",
+      "example_en": "He has many toys in his room.",
+      "example_ar": "لديه العديد من الألعاب في غرفته."
+    },
+    {
+      "word_en": "thing",
+      "word_ar": "شيء",
+      "example_en": "Put the thing back where you found it.",
+      "example_ar": "ضع الشيء مرة أخرى حيث وجدته."
+    },
+    {
+      "word_en": "ball",
+      "word_ar": "كرة",
+      "example_en": "They played soccer with a ball in the park.",
+      "example_ar": "لعبوا كرة القدم بكرة في الحديقة."
+    },
+    {
+      "word_en": "doll",
+      "word_ar": "دمية",
+      "example_en": "She loves to play with her dolls.",
+      "example_ar": "تحب اللعب بدميتها."
+    }
+  ]
+}
