@@ -1,0 +1,136 @@
+{
+  "words": [
+    {
+      "word_en": "ride",
+      "word_ar": "ركوب",
+      "example_en": "We enjoyed a camel ride in the desert.",
+      "example_ar": "استمتعنا بركوب الجمل في الصحراء."
+    },
+    {
+      "word_en": "gate",
+      "word_ar": "بوابة",
+      "example_en": "Our gate is number 12.",
+      "example_ar": "بوابتنا رقم 12."
+    },
+    {
+      "word_en": "fare",
+      "word_ar": "أجرة",
+      "example_en": "The fare for the bus ride is reasonable.",
+      "example_ar": "الأجرة لرحلة الحافلة معقولة."
+    },
+    {
+      "word_en": "sightseeing",
+      "word_ar": "مشاهدة المعالم السياحية",
+      "example_en": "We spent the day sightseeing around the city.",
+      "example_ar": "قضينا اليوم في مشاهدة المعالم السياحية في المدينة."
+    },
+    {
+      "word_en": "platform",
+      "word_ar": "منصة",
+      "example_en": "The train arrived at platform 3.",
+      "example_ar": "وصل القطار إلى المنصة رقم 3."
+    },
+    {
+      "word_en": "round-trip ticket",
+      "word_ar": "تذكرة ذهاب وإياب",
+      "example_en": "She bought a round-trip ticket for her vacation.",
+      "example_ar": "اشترت تذكرة ذهاب وإياب لعطلتها."
+    },
+    {
+      "word_en": "guide",
+      "word_ar": "مرشد",
+      "example_en": "The guide showed us all the important landmarks.",
+      "example_ar": "عرض المرشد علينا جميع المعالم الهامة."
+    },
+    {
+      "word_en": "baggage",
+      "word_ar": "أمتعة",
+      "example_en": "We had to wait a while for our baggage at the airport.",
+      "example_ar": "اضطررنا إلى الانتظار قليلاً لاستلام أمتعتنا في المطار."
+    },
+    {
+      "word_en": "boarding pass",
+      "word_ar": "بطاقة الصعود",
+      "example_en": "Make sure you have your boarding pass with you.",
+      "example_ar": "تأكد من أن بطاقة الصعود معك."
+    },
+    {
+      "word_en": "twin bed",
+      "word_ar": "سرير توأم",
+      "example_en": "The hotel room had two twin beds.",
+      "example_ar": "كانت غرفة الفندق بها سريرين توأم."
+    },
+    {
+      "word_en": "single bed",
+      "word_ar": "سرير منفرد",
+      "example_en": "He prefers a single bed when he travels alone.",
+      "example_ar": "يفضل سريرًا منفردًا عندما يسافر وحده."
+    },
+    {
+      "word_en": "reception",
+      "word_ar": "استقبال",
+      "example_en": "We checked in at the hotel reception.",
+      "example_ar": "قمنا بالتسجيل في استقبال الفندق."
+    },
+    {
+      "word_en": "airline",
+      "word_ar": "شركة طيران",
+      "example_en": "Which airline are you flying with?",
+      "example_ar": "بأي شركة طيران ستسافر؟"
+    },
+    {
+      "word_en": "route",
+      "word_ar": "مسار",
+      "example_en": "They took a scenic route to the beach.",
+      "example_ar": "اتجهوا إلى الشاطئ عبر مسار منظر طبيعي."
+    },
+    {
+      "word_en": "miss",
+      "word_ar": "فات",
+      "example_en": "Don't miss the bus!",
+      "example_ar": "لا تفوت الحافلة!"
+    },
+    {
+      "word_en": "passenger",
+      "word_ar": "راكب",
+      "example_en": "The train was crowded with passengers.",
+      "example_ar": "كان القطار مزدحمًا بالركاب."
+    },
+    {
+      "word_en": "book",
+      "word_ar": "حجز",
+      "example_en": "I need to book a hotel for next week.",
+      "example_ar": "أحتاج إلى حجز فندق للأسبوع المقبل."
+    },
+    {
+      "word_en": "way",
+      "word_ar": "طريق",
+      "example_en": "We found our way back to the hotel.",
+      "example_ar": "وجدنا طريقنا العودة إلى الفندق."
+    },
+    {
+      "word_en": "train",
+      "word_ar": "قطار",
+      "example_en": "The train to the airport leaves every hour.",
+      "example_ar": "يغادر القطار إلى المطار كل ساعة."
+    },
+    {
+      "word_en": "public transportation",
+      "word_ar": "وسائل النقل العامة",
+      "example_en": "He prefers to use public transportation in the city.",
+      "example_ar": "يفضل استخدام وسائل النقل العامة في المدينة."
+    },
+    {
+      "word_en": "catch",
+      "word_ar": "التقاط",
+      "example_en": "We need to catch the train at 9 o'clock.",
+      "example_ar": "نحن بحاجة للوصول إلى القطار في الساعة التاسعة."
+    },
+    {
+      "word_en": "ride",
+      "word_ar": "ركوب",
+      "example_en": "We enjoyed a camel ride in the desert.",
+      "example_ar": "استمتعنا بركوب الجمل في الصحراء."
+    }
+  ]
+}
