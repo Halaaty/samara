@@ -1,0 +1,226 @@
+{
+  "words": [
+    {
+      "word_en": "bean",
+      "word_ar": "فاصوليا",
+      "example_en": "She likes to add beans to her salad.",
+      "example_ar": "تحب إضافة الفاصوليا إلى سلطتها."
+    },
+    {
+      "word_en": "order",
+      "word_ar": "طلبية",
+      "example_en": "I'd like to place an order for delivery, please.",
+      "example_ar": "أود تقديم طلبية للتوصيل، من فضلك."
+    },
+    {
+      "word_en": "fresh",
+      "word_ar": "طازج",
+      "example_en": "I prefer to buy fresh produce from the market.",
+      "example_ar": "أفضل شراء المنتجات الطازجة من السوق."
+    },
+    {
+      "word_en": "mushroom",
+      "word_ar": "فطر",
+      "example_en": "He's cooking a dish with mushrooms.",
+      "example_ar": "هو يطهو طبقًا يحتوي على الفطر."
+    },
+    {
+      "word_en": "flavor",
+      "word_ar": "نكهة",
+      "example_en": "The ice cream has a delicious flavor.",
+      "example_ar": "للآيس كريم نكهة لذيذة."
+    },
+    {
+      "word_en": "pea",
+      "word_ar": "بازلاء",
+      "example_en": "She doesn't like peas.",
+      "example_ar": "هي لا تحب البازلاء."
+    },
+    {
+      "word_en": "noodle",
+      "word_ar": "مكرونة",
+      "example_en": "He's cooking noodles for dinner.",
+      "example_ar": "هو يطهو مكرونة للعشاء."
+    },
+    {
+      "word_en": "sauce",
+      "word_ar": "صلصة",
+      "example_en": "She made a delicious sauce for the pasta.",
+      "example_ar": "صنعت صلصة لذيذة للمعكرونة."
+    },
+    {
+      "word_en": "dessert",
+      "word_ar": "حلوى",
+      "example_en": "They ordered dessert after dinner.",
+      "example_ar": "قاموا بطلب الحلوى بعد العشاء."
+    },
+    {
+      "word_en": "hot dog",
+      "word_ar": "هوت دوج",
+      "example_en": "She loves to eat hot dogs at baseball games.",
+      "example_ar": "تحب أن تأكل الهوت دوج في مباريات البيسبول."
+    },
+    {
+      "word_en": "hot chocolate",
+      "word_ar": "شوكولاتة ساخنة",
+      "example_en": "She enjoys a cup of hot chocolate on cold days.",
+      "example_ar": "تستمتع بكوب من الشوكولاتة الساخنة في الأيام الباردة."
+    },
+    {
+      "word_en": "pie",
+      "word_ar": "فطيرة",
+      "example_en": "She baked an apple pie for dessert.",
+      "example_ar": "خبزت فطيرة التفاح للحلوى."
+    },
+    {
+      "word_en": "sausage",
+      "word_ar": "نقانق",
+      "example_en": "He grilled sausages for the barbecue.",
+      "example_ar": "شوَّى النقانق للشواء."
+    },
+    {
+      "word_en": "fast food",
+      "word_ar": "وجبات سريعة",
+      "example_en": "She grabbed some fast food on her way home.",
+      "example_ar": "أخذت بعض الوجبات السريعة في طريقها إلى المنزل."
+    },
+    {
+      "word_en": "toast",
+      "word_ar": "توست",
+      "example_en": "He likes to have toast with his breakfast.",
+      "example_ar": "يحب أن يتناول توست مع فطوره."
+    },
+    {
+      "word_en": "delicious",
+      "word_ar": "لذيذ",
+      "example_en": "The cake was delicious.",
+      "example_ar": "الكعك كان لذيذاً."
+    },
+    {
+      "word_en": "French fries",
+      "word_ar": "بطاطس مقلية",
+      "example_en": "I ordered a burger with French fries.",
+      "example_ar": "طلبت همبرغر مع بطاطس مقلية."
+    },
+    {
+      "word_en": "snack",
+      "word_ar": "وجبة خفيفة",
+      "example_en": "I like to have a snack in the afternoon.",
+      "example_ar": "أحب أن أتناول وجبة خفيفة في فترة الظهيرة."
+    },
+    {
+      "word_en": "taste",
+      "word_ar": "مذاق",
+      "example_en": "The soup has a unique taste.",
+      "example_ar": "الحساء له مذاق فريد."
+    },
+    {
+      "word_en": "hot dog",
+      "word_ar": "هوت دوج",
+      "example_en": "He bought a hot dog from the food truck.",
+      "example_ar": "اشترى هوت دوج من شاحنة الطعام."
+    },
+    {
+      "word_en": "serve",
+      "word_ar": "يقدم",
+      "example_en": "They serve breakfast until 11 AM.",
+      "example_ar": "يقدمون الفطور حتى الساعة 11 صباحًا."
+    },
+    {
+      "word_en": "potato chip",
+      "word_ar": "شريحة بطاطس",
+      "example_en": "I enjoy eating potato chips while watching movies.",
+      "example_ar": "أحب تناول شرائح البطاطس أثناء مشاهدة الأفلام."
+    },
+    {
+      "word_en": "sweet",
+      "word_ar": "حلو",
+      "example_en": "I have a sweet tooth.",
+      "example_ar": "لدي شهية للحلويات."
+    },
+    {
+      "word_en": "salty",
+      "word_ar": "مالح",
+      "example_en": "I prefer salty snacks over sweet ones.",
+      "example_ar": "أفضل الوجبات الخفيفة المالحة على الحلويات."
+    },
+    {
+      "word_en": "dessert",
+      "word_ar": "حلوى",
+      "example_en": "I'll have the chocolate cake for dessert.",
+      "example_ar": "سأتناول كعكة الشوكولاتة كحلوى."
+    },
+    {
+      "word_en": "sour",
+      "word_ar": "حامض",
+      "example_en": "The lemonade was too sour for my taste.",
+      "example_ar": "كانت الليموناضة حامضة جدًا بالنسبة لذوقي."
+    },
+    {
+      "word_en": "junk food",
+      "word_ar": "طعام غير صحي",
+      "example_en": "He tries to avoid eating junk food.",
+      "example_ar": "يحاول تجنب تناول الطعام غير الصحي."
+    },
+    {
+      "word_en": "fresh",
+      "word_ar": "طازج",
+      "example_en": "I love the smell of fresh bread.",
+      "example_ar": "أحب رائحة الخبز الطازج."
+    },
+    {
+      "word_en": "order",
+      "word_ar": "طلبية",
+      "example_en": "I'd like to place an order for delivery.",
+      "example_ar": "أود تقديم طلبية للتوصيل."
+    },
+    {
+      "word_en": "toast",
+      "word_ar": "توست",
+      "example_en": "I usually have toast and coffee for breakfast.",
+      "example_ar": "غالبًا ما أتناول توست وقهوة في الفطور."
+    },
+    {
+      "word_en": "coffee shop",
+      "word_ar": "مقهى",
+      "example_en": "Let's meet at the coffee shop tomorrow.",
+      "example_ar": "لنلتقي في المقهى غدًا."
+    },
+    {
+      "word_en": "flavor",
+      "word_ar": "نكهة",
+      "example_en": "This ice cream has a unique flavor.",
+      "example_ar": "للآيس كريم نكهة فريدة."
+    },
+    {
+      "word_en": "bean",
+      "word_ar": "فاصوليا",
+      "example_en": "She likes to add beans to her salad.",
+      "example_ar": "تحب إضافة الفاصوليا إلى سلطتها."
+    },
+    {
+      "word_en": "mushroom",
+      "word_ar": "فطر",
+      "example_en": "I'm not a fan of mushrooms.",
+      "example_ar": "أنا لست من محبي الفطر."
+    },
+    {
+      "word_en": "sauce",
+      "word_ar": "صلصة",
+      "example_en": "The pasta sauce was delicious.",
+      "example_ar": "كانت صلصة المعكرونة لذيذة."
+    },
+    {
+      "word_en": "fast food",
+      "word_ar": "وجبات سريعة",
+      "example_en": "He grabbed some fast food for lunch.",
+      "example_ar": "أخذ بعض الوجبات السريعة لتناول الغداء."
+    },
+    {
+      "word_en": "hot chocolate",
+      "word_ar": "شوكولاتة ساخنة",
+      "example_en": "I like to drink hot chocolate on cold days.",
+      "example_ar": "أحب شرب الشوكولاتة الساخنة في الأيام الباردة."
+    }
+  ]
+}
