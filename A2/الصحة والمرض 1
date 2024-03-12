@@ -1,0 +1,172 @@
+{
+  "words": [
+    {
+      "word_en": "disease",
+      "word_ar": "مرض",
+      "example_en": "Heart disease is a common health problem.",
+      "example_ar": "مرض القلب مشكلة صحية شائعة."
+    },
+    {
+      "word_en": "life",
+      "word_ar": "حياة",
+      "example_en": "Regular exercise can improve your quality of life.",
+      "example_ar": "التمرين المنتظم يمكن أن يحسن جودة حياتك."
+    },
+    {
+      "word_en": "stomach ache",
+      "word_ar": "ألم في المعدة",
+      "example_en": "She took some medicine for her stomach ache.",
+      "example_ar": "تناولت بعض الدواء لألم في معدتها."
+    },
+    {
+      "word_en": "energy",
+      "word_ar": "طاقة",
+      "example_en": "A good night's sleep can boost your energy levels.",
+      "example_ar": "النوم الجيد ليلاً يمكن أن يرفع مستويات طاقتك."
+    },
+    {
+      "word_en": "flu",
+      "word_ar": "إنفلونزا",
+      "example_en": "He got the flu and had to stay home.",
+      "example_ar": "إصابته بالإنفلونزا جعلته يضطر للبقاء في المنزل."
+    },
+    {
+      "word_en": "headache",
+      "word_ar": "صداع",
+      "example_en": "She took some painkillers for her headache.",
+      "example_ar": "تناولت بعض المسكنات لصداعها."
+    },
+    {
+      "word_en": "habit",
+      "word_ar": "عادة",
+      "example_en": "Exercising regularly is a good habit.",
+      "example_ar": "التمرين بانتظام هو عادة جيدة."
+    },
+    {
+      "word_en": "backache",
+      "word_ar": "ألم في الظهر",
+      "example_en": "His backache got worse after lifting heavy boxes.",
+      "example_ar": "ألم ظهره تفاقم بعد رفعه لصناديق ثقيلة."
+    },
+    {
+      "word_en": "toothache",
+      "word_ar": "ألم في الأسنان",
+      "example_en": "She went to the dentist because of her toothache.",
+      "example_ar": "ذهبت إلى طبيب الأسنان بسبب ألمها في الأسنان."
+    },
+    {
+      "word_en": "effect",
+      "word_ar": "تأثير",
+      "example_en": "The medicine had some side effects.",
+      "example_ar": "كان للدواء بعض الآثار الجانبية."
+    },
+    {
+      "word_en": "illness",
+      "word_ar": "مرض",
+      "example_en": "He recovered from his illness quickly.",
+      "example_ar": "تعافى من مرضه بسرعة."
+    },
+    {
+      "word_en": "death",
+      "word_ar": "موت",
+      "example_en": "Death is a natural part of life.",
+      "example_ar": "الموت جزء طبيعي من الحياة."
+    },
+    {
+      "word_en": "diet",
+      "word_ar": "حمية",
+      "example_en": "She follows a strict diet to lose weight.",
+      "example_ar": "تتبع حمية صارمة لخسارة الوزن."
+    },
+    {
+      "word_en": "earache",
+      "word_ar": "ألم في الأذن",
+      "example_en": "She had an earache and couldn't hear properly.",
+      "example_ar": "كانت تعاني من ألم في الأذن ولم تتمكن من السماع بشكل جيد."
+    },
+    {
+      "word_en": "fever",
+      "word_ar": "حمى",
+      "example_en": "His fever went down after taking medicine.",
+      "example_ar": "نزلت حماته بعد تناوله الدواء."
+    },
+    {
+      "word_en": "die",
+      "word_ar": "يموت",
+      "example_en": "All living things eventually die.",
+      "example_ar": "كل الكائنات الحية في النهاية تموت."
+    },
+    {
+      "word_en": "medication",
+      "word_ar": "دواء",
+      "example_en": "She took some medication to relieve her symptoms.",
+      "example_ar": "تناولت بعض الدواء لتخفيف أعراضها."
+    },
+    {
+      "word_en": "cure",
+      "word_ar": "علاج",
+      "example_en": "There is still no cure for the common cold.",
+      "example_ar": "لا يزال لا يوجد علاج لنزلات البرد الشائعة."
+    },
+    {
+      "word_en": "sneeze",
+      "word_ar": "عطسة",
+      "example_en": "He couldn't stop sneezing because of his allergies.",
+      "example_ar": "لم يستطع التوقف عن العطس بسبب حساسيته."
+    },
+    {
+      "word_en": "cold",
+      "word_ar": "برد",
+      "example_en": "She caught a cold after being out in the rain.",
+      "example_ar": "إصابتها بالبرد بعد الخروج في المطر."
+    },
+    {
+      "word_en": "live",
+      "word_ar": "يعيش",
+      "example_en": "He chose to live a healthier lifestyle.",
+      "example_ar": "اختار أن يعيش نمط حياة أكثر صحة."
+    },
+    {
+      "word_en": "leper",
+      "word_ar": "مصاب بالجذام",
+      "example_en": "In ancient times, lepers were often isolated from society.",
+      "example_ar": "في العصور القديمة، كان يعزل المصابون بالجذام غالبًا عن المجتمع."
+    },
+    {
+      "word_en": "need",
+      "word_ar": "حاجة",
+      "example_en": "She felt the need to rest after a long day at work.",
+      "example_ar": "شعرت بحاجة للراحة بعد يوم طويل من العمل."
+    },
+    {
+      "word_en": "rest",
+      "word_ar": "راحة",
+      "example_en": "He's taking a break to rest and recharge.",
+      "example_ar": "هو يأخذ استراحة للراحة وإعادة الشحن."
+    },
+    {
+      "word_en": "patient",
+      "word_ar": "مريض",
+      "example_en": "The hospital has many patients with various conditions.",
+      "example_ar": "المستشفى يحتوي على العديد من المرضى بظروف مختلفة."
+    },
+    {
+      "word_en": "cough",
+      "word_ar": "سعال",
+      "example_en": "His persistent cough kept him awake at night.",
+      "example_ar": "حافظ سعاله المستمر على عدم قدرته على النوم في الليل."
+    },
+    {
+      "word_en": "sore throat",
+      "word_ar": "التهاب في الحلق",
+      "example_en": "She drank some hot tea to soothe her sore throat.",
+      "example_ar": "شربت بعض الشاي الساخن لتخفيف التهاب حلقها."
+    },
+    {
+      "word_en": "pill",
+      "word_ar": "حبة",
+      "example_en": "He took a pill to relieve his headache.",
+      "example_ar": "تناول حبة لتخفيف صداعه."
+    }
+  ]
+}
