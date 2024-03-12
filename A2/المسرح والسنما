@@ -1,0 +1,184 @@
+{
+  "words": [
+    {
+      "word_en": "fantasy",
+      "word_ar": "خيال",
+      "example_en": "She loves reading fantasy novels.",
+      "example_ar": "تحب قراءة روايات الخيال."
+    },
+    {
+      "word_en": "horror",
+      "word_ar": "رعب",
+      "example_en": "I'm not a fan of horror movies.",
+      "example_ar": "أنا لست من محبي أفلام الرعب."
+    },
+    {
+      "word_en": "scene",
+      "word_ar": "مشهد",
+      "example_en": "The scene was shot in Paris.",
+      "example_ar": "تم تصوير المشهد في باريس."
+    },
+    {
+      "word_en": "drama",
+      "word_ar": "دراما",
+      "example_en": "The play was a gripping drama.",
+      "example_ar": "كانت المسرحية درامية مثيرة."
+    },
+    {
+      "word_en": "director",
+      "word_ar": "مخرج",
+      "example_en": "The director won an award for his latest film.",
+      "example_ar": "فاز المخرج بجائزة عن فيلمه الأخير."
+    },
+    {
+      "word_en": "documentary",
+      "word_ar": "وثائقي",
+      "example_en": "We watched a fascinating documentary about wildlife.",
+      "example_ar": "شاهدنا وثائقياً رائعاً عن الحياة البرية."
+    },
+    {
+      "word_en": "science fiction",
+      "word_ar": "خيال علمي",
+      "example_en": "He's a fan of science fiction movies.",
+      "example_ar": "هو من محبي أفلام الخيال العلمي."
+    },
+    {
+      "word_en": "actor",
+      "word_ar": "ممثل",
+      "example_en": "He's a talented actor.",
+      "example_ar": "إنه ممثل موهوب."
+    },
+    {
+      "word_en": "role",
+      "word_ar": "دور",
+      "example_en": "She played the lead role in the movie.",
+      "example_ar": "قامت بدور البطولة في الفيلم."
+    },
+    {
+      "word_en": "screen",
+      "word_ar": "شاشة",
+      "example_en": "The film will be shown on the big screen.",
+      "example_ar": "سيتم عرض الفيلم على الشاشة الكبيرة."
+    },
+    {
+      "word_en": "adventure story",
+      "word_ar": "قصة مغامرة",
+      "example_en": "She wrote an exciting adventure story.",
+      "example_ar": "كتبت قصة مغامرة مثيرة."
+    },
+    {
+      "word_en": "cartoon",
+      "word_ar": "رسوم متحركة",
+      "example_en": "My kids love watching cartoons.",
+      "example_ar": "أطفالي يحبون مشاهدة الرسوم المتحركة."
+    },
+    {
+      "word_en": "comedy",
+      "word_ar": "كوميديا",
+      "example_en": "We watched a hilarious comedy last night.",
+      "example_ar": "شاهدنا كوميديا مضحكة الليلة الماضية."
+    },
+    {
+      "word_en": "detective story",
+      "word_ar": "قصة تحقيق",
+      "example_en": "She enjoys reading detective stories.",
+      "example_ar": "تستمتع بقراءة قصص التحقيق."
+    },
+    {
+      "word_en": "ending",
+      "word_ar": "نهاية",
+      "example_en": "The ending of the movie was unexpected.",
+      "example_ar": "كانت نهاية الفيلم غير متوقعة."
+    },
+    {
+      "word_en": "hero",
+      "word_ar": "بطل",
+      "example_en": "He's always been my hero.",
+      "example_ar": "كان دائمًا بطلي."
+    },
+    {
+      "word_en": "heroine",
+      "word_ar": "بطلة",
+      "example_en": "She portrayed the heroine in the epic movie.",
+      "example_ar": "قامت بتجسيد البطلة في الفيلم الشهير."
+    },
+    {
+      "word_en": "review",
+      "word_ar": "مراجعة",
+      "example_en": "The movie received mixed reviews from critics.",
+      "example_ar": "حصل الفيلم على مراجعات مختلطة من النقاد."
+    },
+    {
+      "word_en": "performance",
+      "word_ar": "أداء",
+      "example_en": "Her performance in the play was outstanding.",
+      "example_ar": "كان أداؤها في المسرحية متميزاً."
+    },
+    {
+      "word_en": "festival",
+      "word_ar": "مهرجان",
+      "example_en": "We are going to a film festival this weekend.",
+      "example_ar": "سنذهب إلى مهرجان سينمائي في نهاية هذا الأسبوع."
+    },
+    {
+      "word_en": "artist",
+      "word_ar": "فنان",
+      "example_en": "She's a talented artist.",
+      "example_ar": "إنها فنانة موهوبة."
+    },
+    {
+      "word_en": "audience",
+      "word_ar": "جمهور",
+      "example_en": "The audience applauded at the end of the play.",
+      "example_ar": "صفق الجمهور في نهاية المسرحية."
+    },
+    {
+      "word_en": "role",
+      "word_ar": "دور",
+      "example_en": "She played the lead role in the movie.",
+      "example_ar": "قامت بدور البطولة في الفيلم."
+    },
+    {
+      "word_en": "Hollywood",
+      "word_ar": "هوليوود",
+      "example_en": "She dreams of making it big in Hollywood.",
+      "example_ar": "تحلم بالنجاح الكبير في هوليوود."
+    },
+    {
+      "word_en": "actor",
+      "word_ar": "ممثل",
+      "example_en": "He's a talented actor.",
+      "example_ar": "إنه ممثل موهوب."
+    },
+    {
+      "word_en": "scene",
+      "word_ar": "مشهد",
+      "example_en": "The scene was shot in Paris.",
+      "example_ar": "تم تصوير المشهد في باريس."
+    },
+    {
+      "word_en": "documentary",
+      "word_ar": "وثائقي",
+      "example_en": "We watched a fascinating documentary about wildlife.",
+      "example_ar": "شاهدنا وثائقياً رائعاً عن الحياة البرية."
+    },
+    {
+      "word_en": "performance",
+      "word_ar": "أداء",
+      "example_en": "Her performance in the play was outstanding.",
+      "example_ar": "كان أداؤها في المسرحية متميزاً."
+    },
+    {
+      "word_en": "review",
+      "word_ar": "مراجعة",
+      "example_en": "The movie received mixed reviews from critics.",
+      "example_ar": "حصل الفيلم على مراجعات مختلطة من النقاد."
+    },
+    {
+      "word_en": "role",
+      "word_ar": "دور",
+      "example_en": "She played the lead role in the movie.",
+      "example_ar": "قامت بدور البطولة في الفيلم."
+    }
+  ]
+}
