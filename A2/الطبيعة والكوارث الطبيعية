@@ -1,0 +1,214 @@
+{
+  "words": [
+    {
+      "word_en": "world",
+      "word_ar": "العالم",
+      "example_en": "The world is full of wonders.",
+      "example_ar": "العالم مليء بالعجائب."
+    },
+    {
+      "word_en": "environment",
+      "word_ar": "البيئة",
+      "example_en": "We need to protect the environment for future generations.",
+      "example_ar": "نحن بحاجة لحماية البيئة للأجيال القادمة."
+    },
+    {
+      "word_en": "plant",
+      "word_ar": "نبات",
+      "example_en": "The plant needs sunlight and water to grow.",
+      "example_ar": "النبات يحتاج إلى ضوء الشمس والماء للنمو."
+    },
+    {
+      "word_en": "ground",
+      "word_ar": "أرض",
+      "example_en": "She sat on the ground and watched the sunset.",
+      "example_ar": "جلست على الأرض وشاهدت الغروب."
+    },
+    {
+      "word_en": "field",
+      "word_ar": "حقل",
+      "example_en": "They played soccer in the field behind the school.",
+      "example_ar": "لعبوا كرة القدم في الحقل خلف المدرسة."
+    },
+    {
+      "word_en": "landscape",
+      "word_ar": "منظر طبيعي",
+      "example_en": "The landscape was breathtakingly beautiful.",
+      "example_ar": "كان المنظر الطبيعي جميلًا بشكل مبهر."
+    },
+    {
+      "word_en": "view",
+      "word_ar": "منظر",
+      "example_en": "From the top of the hill, we had a magnificent view of the city below.",
+      "example_ar": "من أعلى التل ، كان لدينا منظر رائع للمدينة أسفلها."
+    },
+    {
+      "word_en": "grass",
+      "word_ar": "عشب",
+      "example_en": "They picnicked on the soft grass by the river.",
+      "example_ar": "نزهوا على العشب الناعم بجانب النهر."
+    },
+    {
+      "word_en": "coast",
+      "word_ar": "ساحل",
+      "example_en": "The beach was quiet and secluded, with a beautiful coast.",
+      "example_ar": "كانت الشاطئ هادئًا ومنعزلًا ، مع ساحل جميل."
+    },
+    {
+      "word_en": "hill",
+      "word_ar": "تل",
+      "example_en": "They climbed to the top of the hill to enjoy the view.",
+      "example_ar": "صعدوا إلى قمة التل للاستمتاع بالمنظر."
+    },
+    {
+      "word_en": "rock",
+      "word_ar": "صخرة",
+      "example_en": "They sat on the warm rocks by the river.",
+      "example_ar": "جلسوا على الصخور الدافئة بجانب النهر."
+    },
+    {
+      "word_en": "valley",
+      "word_ar": "وادي",
+      "example_en": "The valley was lush and green, surrounded by mountains.",
+      "example_ar": "كان الوادي خضراء وخصبة ، محاطًا بالجبال."
+    },
+    {
+      "word_en": "lake",
+      "word_ar": "بحيرة",
+      "example_en": "The lake shimmered in the moonlight.",
+      "example_ar": "لمعت البحيرة في ضوء القمر."
+    },
+    {
+      "word_en": "the ocean",
+      "word_ar": "المحيط",
+      "example_en": "The ocean stretches as far as the eye can see.",
+      "example_ar": "يمتد المحيط حتى تصل العين."
+    },
+    {
+      "word_en": "rainforest",
+      "word_ar": "غابة مطيرة",
+      "example_en": "The rainforest is home to countless species of plants and animals.",
+      "example_ar": "الغابة المطيرة هي موطن لعدد لا يحصى من أنواع النباتات والحيوانات."
+    },
+    {
+      "word_en": "wood",
+      "word_ar": "غابة",
+      "example_en": "They took a peaceful walk through the wood.",
+      "example_ar": "أخذوا نزهة هادئة في الغابة."
+    },
+    {
+      "word_en": "area",
+      "word_ar": "منطقة",
+      "example_en": "The area is known for its beautiful scenery.",
+      "example_ar": "تشتهر المنطقة بمناظرها الجميلة."
+    },
+    {
+      "word_en": "path",
+      "word_ar": "مسار",
+      "example_en": "They followed the narrow path through the forest.",
+      "example_ar": "تبعوا المسار الضيق خلال الغابة."
+    },
+    {
+      "word_en": "natural",
+      "word_ar": "طبيعي",
+      "example_en": "They enjoyed the natural beauty of the countryside.",
+      "example_ar": "استمتعوا بجمال الطبيعة في الريف."
+    },
+    {
+      "word_en": "disaster",
+      "word_ar": "كارثة",
+      "example_en": "The earthquake was a terrible disaster for the region.",
+      "example_ar": "كان الزلزال كارثة فظيعة للمنطقة."
+    },
+    {
+      "word_en": "flood",
+      "word_ar": "فيضان",
+      "example_en": "The flood caused extensive damage to homes and infrastructure.",
+      "example_ar": "أحدث الفيضان أضرارًا واسعة النطاق في المنازل والبنية التحتية."
+    },
+    {
+      "word_en": "earthquake",
+      "word_ar": "زلزال",
+      "example_en": "The earthquake shook the entire city.",
+      "example_ar": "هز الزلزال المدينة بأكملها."
+    },
+    {
+      "word_en": "hurricane",
+      "word_ar": "إعصار",
+      "example_en": "The hurricane left a trail of destruction in its wake.",
+      "example_ar": "ترك الإعصار آثار دمار في أعقابه."
+    },
+    {
+      "word_en": "tornado",
+      "word_ar": "إعصار",
+      "example_en": "The tornado tore through the town, destroying everything in its path.",
+      "example_ar": "شق الإعصار طريقه عبر المدينة ، مدمرًا كل شيء في طريقه."
+    },
+    {
+      "word_en": "famine",
+      "word_ar": "مجاعة",
+      "example_en": "The famine led to widespread suffering and death.",
+      "example_ar": "أدت المجاعة إلى معاناة واسعة النطاق والوفاة."
+    },
+    {
+      "word_en": "avalanche",
+      "word_ar": "إنهيار ثلجي",
+      "example_en": "An avalanche buried several houses under tons of snow.",
+      "example_ar": "دفنت الثلوج العديد من المنازل تحت طن من الثلج."
+    },
+    {
+      "word_en": "drought",
+      "word_ar": "جفاف",
+      "example_en": "The drought dried up the rivers and devastated the crops.",
+      "example_ar": "جفاف النهر جرف المحاصيل."
+    },
+    {
+      "word_en": "climate change",
+      "word_ar": "تغير المناخ",
+      "example_en": "Climate change is a serious threat to the planet.",
+      "example_ar": "تغير المناخ تهديد خطير للكوكب."
+    },
+    {
+      "word_en": "happen",
+      "word_ar": "يحدث",
+      "example_en": "The hurricane happened suddenly, catching everyone off guard.",
+      "example_ar": "حدث الإعصار فجأة ، وقد أذهل الجميع."
+    },
+    {
+      "word_en": "terrible",
+      "word_ar": "رهيب",
+      "example_en": "The aftermath of the hurricane was terrible, with widespread destruction.",
+      "example_ar": "كانت نتائج الإعصار رهيبة ، مع تدمير واسع النطاق."
+    },
+    {
+      "word_en": "northeast",
+      "word_ar": "شمال شرق",
+      "example_en": "The hurricane hit the northeast coast with great force.",
+      "example_ar": "ضرب الإعصار الساحل الشمالي الشرقي بقوة كبيرة."
+    },
+    {
+      "word_en": "northwest",
+      "word_ar": "شمال غرب",
+      "example_en": "The northwest region experienced heavy rainfall during the hurricane.",
+      "example_ar": "شهدت منطقة الشمال الغربي أمطارًا غزيرة خلال الإعصار."
+    },
+    {
+      "word_en": "southeast",
+      "word_ar": "جنوب شرق",
+      "example_en": "The southeast was hit by strong winds during the hurricane.",
+      "example_ar": "ضربت الرياح القوية جنوب شرق خلال الإعصار."
+    },
+    {
+      "word_en": "southwest",
+      "word_ar": "جنوب غرب",
+      "example_en": "The southwest suffered flooding as a result of the hurricane.",
+      "example_ar": "تعرض الجنوب الغربي لفيضانات نتيجة الإعصار."
+    },
+    {
+      "word_en": "desert",
+      "word_ar": "صحراء",
+      "example_en": "The drought turned the fertile land into a desert.",
+      "example_ar": "حول الجفاف الأراضي الخصبة إلى صحراء."
+    }
+  ]
+}
