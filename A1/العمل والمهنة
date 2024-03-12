@@ -1,0 +1,94 @@
+{
+  "words": [
+    {
+      "word_en": "employee",
+      "word_ar": "موظف",
+      "example_en": "She is a dedicated employee.",
+      "example_ar": "إنها موظفة مخلصة."
+    },
+    {
+      "word_en": "work",
+      "word_ar": "عمل",
+      "example_en": "He has a lot of work to do.",
+      "example_ar": "لديه الكثير من العمل للقيام به."
+    },
+    {
+      "word_en": "money",
+      "word_ar": "مال",
+      "example_en": "She earns a lot of money.",
+      "example_ar": "تكسب الكثير من المال."
+    },
+    {
+      "word_en": "nurse",
+      "word_ar": "ممرضة",
+      "example_en": "The nurse took care of the patients.",
+      "example_ar": "الممرضة اعتنت بالمرضى."
+    },
+    {
+      "word_en": "teacher",
+      "word_ar": "معلمة",
+      "example_en": "The teacher explained the lesson clearly.",
+      "example_ar": "شرحت المعلمة الدرس بوضوح."
+    },
+    {
+      "word_en": "actor",
+      "word_ar": "ممثل",
+      "example_en": "The actor performed brilliantly in the play.",
+      "example_ar": "قدم الممثل أداءً رائعًا في المسرحية."
+    },
+    {
+      "word_en": "waitress",
+      "word_ar": "نادلة",
+      "example_en": "The waitress brought the drinks to the table.",
+      "example_ar": "جلبت النادلة المشروبات إلى الطاولة."
+    },
+    {
+      "word_en": "job",
+      "word_ar": "وظيفة",
+      "example_en": "She's looking for a new job.",
+      "example_ar": "هي تبحث عن وظيفة جديدة."
+    },
+    {
+      "word_en": "engineer",
+      "word_ar": "مهندس",
+      "example_en": "The engineer designed the new bridge.",
+      "example_ar": "صمم المهندس الجسر الجديد."
+    },
+    {
+      "word_en": "actress",
+      "word_ar": "ممثلة",
+      "example_en": "The actress played the lead role in the movie.",
+      "example_ar": "لعبت الممثلة الدور الرئيسي في الفيلم."
+    },
+    {
+      "word_en": "police officer",
+      "word_ar": "ضابط شرطة",
+      "example_en": "The police officer arrested the suspect.",
+      "example_ar": "الضابط الشرطة اعتقل الشبهة."
+    },
+    {
+      "word_en": "dentist",
+      "word_ar": "طبيب أسنان",
+      "example_en": "She visited the dentist for a checkup.",
+      "example_ar": "زارت طبيب الأسنان لإجراء فحص."
+    },
+    {
+      "word_en": "driver",
+      "word_ar": "سائق",
+      "example_en": "The driver stopped the bus at the station.",
+      "example_ar": "توقف السائق الحافلة في المحطة."
+    },
+    {
+      "word_en": "waiter",
+      "word_ar": "نادل",
+      "example_en": "The waiter took their orders.",
+      "example_ar": "النادل أخذ طلباتهم."
+    },
+    {
+      "word_en": "doctor",
+      "word_ar": "طبيب",
+      "example_en": "The doctor treated the patient's illness.",
+      "example_ar": "عالج الطبيب مرض المريض."
+    }
+  ]
+}
