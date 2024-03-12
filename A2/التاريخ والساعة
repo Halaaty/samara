@@ -1,0 +1,160 @@
+{
+  "words": [
+    {
+      "word_en": "lunchtime",
+      "word_ar": "وقت الغداء",
+      "example_en": "Let's have lunch at lunchtime.",
+      "example_ar": "لنتناول الغداء في وقت الغداء."
+    },
+    {
+      "word_en": "century",
+      "word_ar": "قرن",
+      "example_en": "The 20th century saw many technological advancements.",
+      "example_ar": "شهد القرن العشرين العديد من التطورات التكنولوجية."
+    },
+    {
+      "word_en": "long",
+      "word_ar": "طويل",
+      "example_en": "The movie felt very long.",
+      "example_ar": "شعرت أن الفيلم طويل جدًا."
+    },
+    {
+      "word_en": "short",
+      "word_ar": "قصير",
+      "example_en": "She wore a short skirt.",
+      "example_ar": "ارتدت تنورة قصيرة."
+    },
+    {
+      "word_en": "moment",
+      "word_ar": "لحظة",
+      "example_en": "It was a moment of great happiness.",
+      "example_ar": "كانت لحظة سعادة كبيرة."
+    },
+    {
+      "word_en": "daily",
+      "word_ar": "يوميًا",
+      "example_en": "He writes in his diary daily.",
+      "example_ar": "يكتب في يومياته يوميًا."
+    },
+    {
+      "word_en": "recently",
+      "word_ar": "مؤخرًا",
+      "example_en": "I haven't seen her recently.",
+      "example_ar": "لم أرها مؤخرًا."
+    },
+    {
+      "word_en": "late",
+      "word_ar": "متأخر",
+      "example_en": "Don't be late for the meeting.",
+      "example_ar": "لا تتأخر عن الاجتماع."
+    },
+    {
+      "word_en": "tomorrow",
+      "word_ar": "غدًا",
+      "example_en": "We'll go to the beach tomorrow.",
+      "example_ar": "سنذهب إلى الشاطئ غدًا."
+    },
+    {
+      "word_en": "before",
+      "word_ar": "قبل",
+      "example_en": "He had never visited that place before.",
+      "example_ar": "لم يزر ذلك المكان من قبل."
+    },
+    {
+      "word_en": "tonight",
+      "word_ar": "الليلة",
+      "example_en": "Let's watch a movie tonight.",
+      "example_ar": "لنشاهد فيلمًا الليلة."
+    },
+    {
+      "word_en": "late",
+      "word_ar": "متأخر",
+      "example_en": "I stayed up late last night.",
+      "example_ar": "بقيت مستيقظًا حتى وقت متأخر من الليلة الماضية."
+    },
+    {
+      "word_en": "modern",
+      "word_ar": "حديث",
+      "example_en": "Their apartment has a modern design.",
+      "example_ar": "تصميم شقتهم حديث."
+    },
+    {
+      "word_en": "a.m.",
+      "word_ar": "صباحًا",
+      "example_en": "The train leaves at 8 a.m.",
+      "example_ar": "القطار يغادر الساعة الثامنة صباحًا."
+    },
+    {
+      "word_en": "future",
+      "word_ar": "مستقبل",
+      "example_en": "We should plan for the future.",
+      "example_ar": "يجب أن نخطط للمستقبل."
+    },
+    {
+      "word_en": "yesterday",
+      "word_ar": "أمس",
+      "example_en": "We went for a walk yesterday.",
+      "example_ar": "ذهبنا للنزهة أمس."
+    },
+    {
+      "word_en": "on time",
+      "word_ar": "في الوقت المحدد",
+      "example_en": "The train arrived on time.",
+      "example_ar": "وصل القطار في الوقت المحدد."
+    },
+    {
+      "word_en": "calendar",
+      "word_ar": "تقويم",
+      "example_en": "Mark the date on your calendar.",
+      "example_ar": "ضع علامة على التاريخ في تقويمك."
+    },
+    {
+      "word_en": "weekly",
+      "word_ar": "أسبوعيًا",
+      "example_en": "She attends a yoga class weekly.",
+      "example_ar": "تحضر درسًا لليوغا أسبوعيًا."
+    },
+    {
+      "word_en": "monthly",
+      "word_ar": "شهريًا",
+      "example_en": "The magazine is published monthly.",
+      "example_ar": "يتم نشر المجلة شهريًا."
+    },
+    {
+      "word_en": "moment",
+      "word_ar": "لحظة",
+      "example_en": "It was a moment of great happiness.",
+      "example_ar": "كانت لحظة سعادة كبيرة."
+    },
+    {
+      "word_en": "immediately",
+      "word_ar": "فورًا",
+      "example_en": "Please respond immediately.",
+      "example_ar": "يرجى الرد فورًا."
+    },
+    {
+      "word_en": "before",
+      "word_ar": "قبل",
+      "example_en": "Please arrive ten minutes before the meeting.",
+      "example_ar": "يرجى الوصول قبل عشر دقائق من الاجتماع."
+    },
+    {
+      "word_en": "pass",
+      "word_ar": "يمر",
+      "example_en": "He needed to pass the exam to graduate.",
+      "example_ar": "كان يحتاج لاجتياز الامتحان ليتخرج."
+    },
+    {
+      "word_en": "future",
+      "word_ar": "مستقبل",
+      "example_en": "We should plan for the future.",
+      "example_ar": "يجب أن نخطط للمستقبل."
+    },
+    {
+      "word_en": "a.m.",
+      "word_ar": "صباحًا",
+      "example_en": "The train leaves at 8 a.m.",
+      "example_ar": "القطار يغادر الساعة الثامنة صباحًا."
+    }
+  ]
+}
