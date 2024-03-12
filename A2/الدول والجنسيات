@@ -1,0 +1,124 @@
+{
+  "words": [
+    {
+      "word_en": "Egypt",
+      "word_ar": "مصر",
+      "example_en": "The pyramids are located in Egypt.",
+      "example_ar": "الأهرامات موجودة في مصر."
+    },
+    {
+      "word_en": "Saudi Arabia",
+      "word_ar": "المملكة العربية السعودية",
+      "example_en": "Saudi Arabia is known for its oil reserves.",
+      "example_ar": "تشتهر المملكة العربية السعودية باحتياطياتها من النفط."
+    },
+    {
+      "word_en": "Vietnam",
+      "word_ar": "فيتنام",
+      "example_en": "I've always wanted to visit Vietnam.",
+      "example_ar": "لطالما أردت زيارة فيتنام."
+    },
+    {
+      "word_en": "Greece",
+      "word_ar": "اليونان",
+      "example_en": "Greece has a rich history.",
+      "example_ar": "اليونان لديها تاريخ غني."
+    },
+    {
+      "word_en": "Poland",
+      "word_ar": "بولندا",
+      "example_en": "Krakow is a popular city in Poland.",
+      "example_ar": "كراكوف هي مدينة شهيرة في بولندا."
+    },
+    {
+      "word_en": "Sweden",
+      "word_ar": "السويد",
+      "example_en": "Sweden is known for its quality of life.",
+      "example_ar": "السويد معروفة بجودة حياتها."
+    },
+    {
+      "word_en": "Norway",
+      "word_ar": "النرويج",
+      "example_en": "The fjords in Norway are breathtaking.",
+      "example_ar": "الفيوردات في النرويج رائعة."
+    },
+    {
+      "word_en": "the Netherlands",
+      "word_ar": "هولندا",
+      "example_en": "The Netherlands is famous for its windmills.",
+      "example_ar": "هولندا مشهورة بطواحينها الهوائية."
+    },
+    {
+      "word_en": "Austria",
+      "word_ar": "النمسا",
+      "example_en": "Vienna is the capital city of Austria.",
+      "example_ar": "فيينا عاصمة النمسا."
+    },
+    {
+      "word_en": "Switzerland",
+      "word_ar": "سويسرا",
+      "example_en": "Switzerland is known for its beautiful landscapes.",
+      "example_ar": "سويسرا معروفة بمناظرها الجميلة."
+    },
+    {
+      "word_en": "Australia",
+      "word_ar": "أستراليا",
+      "example_en": "Kangaroos are native to Australia.",
+      "example_ar": "الكنغر هو من أصل أستراليا."
+    },
+    {
+      "word_en": "Saudi",
+      "word_ar": "سعودي",
+      "example_en": "I have a friend from Saudi Arabia.",
+      "example_ar": "لدي صديق من المملكة العربية السعودية."
+    },
+    {
+      "word_en": "Vietnamese",
+      "word_ar": "فيتنامي",
+      "example_en": "I love Vietnamese cuisine.",
+      "example_ar": "أحب المأكولات الفيتنامية."
+    },
+    {
+      "word_en": "Greek",
+      "word_ar": "يوناني",
+      "example_en": "Greek mythology is fascinating.",
+      "example_ar": "الأساطير اليونانية مثيرة للاهتمام."
+    },
+    {
+      "word_en": "Norwegian",
+      "word_ar": "نرويجي",
+      "example_en": "My favorite author is Norwegian.",
+      "example_ar": "كاتبي المفضل هو نرويجي."
+    },
+    {
+      "word_en": "Swiss",
+      "word_ar": "سويسري",
+      "example_en": "Swiss chocolate is delicious.",
+      "example_ar": "الشوكولاتة السويسرية لذيذة."
+    },
+    {
+      "word_en": "Dutch",
+      "word_ar": "هولندي",
+      "example_en": "I have a Dutch friend.",
+      "example_ar": "لدي صديق هولندي."
+    },
+    {
+      "word_en": "Australian",
+      "word_ar": "أسترالي",
+      "example_en": "Sydney is an Australian city.",
+      "example_ar": "سيدني هي مدينة أسترالية."
+    },
+    {
+      "word_en": "Egyptian",
+      "word_ar": "مصري",
+      "example_en": "I've always been fascinated by Egyptian history.",
+      "example_ar": "لطالما كنت مفتونًا بتاريخ مصر."
+    },
+    {
+      "word_en": "Austrian",
+      "word_ar": "نمساوي",
+      "example_en": "Mozart was Austrian.",
+      "example_ar": "موزارت كان نمساويًا."
+    }
+  ]
+}
