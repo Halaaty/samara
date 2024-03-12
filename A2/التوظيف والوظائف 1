@@ -1,0 +1,190 @@
+{
+  "words": [
+    {
+      "word_en": "pilot",
+      "word_ar": "طيار",
+      "example_en": "The pilot announced that we would be landing shortly.",
+      "example_ar": "أعلن الطيار أننا سنهبط قريبًا."
+    },
+    {
+      "word_en": "boss",
+      "word_ar": "رئيس",
+      "example_en": "My boss gave me a bonus for my hard work.",
+      "example_ar": "أعطاني رئيسي مكافأة على عملي الجاد."
+    },
+    {
+      "word_en": "business",
+      "word_ar": "عمل",
+      "example_en": "She runs her own business.",
+      "example_ar": "تدير عملها الخاص."
+    },
+    {
+      "word_en": "businessman",
+      "word_ar": "رجل أعمال",
+      "example_en": "The businessman negotiated a deal with the investors.",
+      "example_ar": "تفاوض رجل الأعمال صفقة مع المستثمرين."
+    },
+    {
+      "word_en": "businesswoman",
+      "word_ar": "سيدة أعمال",
+      "example_en": "The businesswoman is known for her successful leadership.",
+      "example_ar": "تُعرف السيدة الأعمال بقيادتها الناجحة."
+    },
+    {
+      "word_en": "expert",
+      "word_ar": "خبير",
+      "example_en": "He's an expert in computer programming.",
+      "example_ar": "هو خبير في برمجة الكمبيوتر."
+    },
+    {
+      "word_en": "manager",
+      "word_ar": "مدير",
+      "example_en": "The manager is responsible for the daily operations of the company.",
+      "example_ar": "المدير مسؤول عن العمليات اليومية للشركة."
+    },
+    {
+      "word_en": "assistant",
+      "word_ar": "مساعد",
+      "example_en": "She works as an assistant to the CEO.",
+      "example_ar": "تعمل كمساعدة للرئيس التنفيذي."
+    },
+    {
+      "word_en": "receptionist",
+      "word_ar": "موظف استقبال",
+      "example_en": "The receptionist greeted guests as they entered the hotel.",
+      "example_ar": "استقبل موظف الاستقبال الضيوف عند دخولهم الفندق."
+    },
+    {
+      "word_en": "detective",
+      "word_ar": "محقق",
+      "example_en": "The detective solved the mystery.",
+      "example_ar": "حل المحقق اللغز."
+    },
+    {
+      "word_en": "model",
+      "word_ar": "نموذج",
+      "example_en": "She works as a fashion model.",
+      "example_ar": "تعمل كعارضة أزياء."
+    },
+    {
+      "word_en": "cook",
+      "word_ar": "طباخ",
+      "example_en": "The cook prepared a delicious meal.",
+      "example_ar": "أعد الطباخ وجبة شهية."
+    },
+    {
+      "word_en": "pharmacist",
+      "word_ar": "صيدلي",
+      "example_en": "The pharmacist filled the prescription for the patient.",
+      "example_ar": "قام الصيدلي بتعبئة الوصفة الطبية للمريض."
+    },
+    {
+      "word_en": "journalist",
+      "word_ar": "صحفي",
+      "example_en": "The journalist interviewed the politician.",
+      "example_ar": "أجرى الصحفي مقابلة مع السياسي."
+    },
+    {
+      "word_en": "writer",
+      "word_ar": "كاتب",
+      "example_en": "She's a talented writer.",
+      "example_ar": "هي كاتبة موهوبة."
+    },
+    {
+      "word_en": "singer",
+      "word_ar": "مطرب",
+      "example_en": "The singer performed at the concert.",
+      "example_ar": "أحيا المطرب الحفلة."
+    },
+    {
+      "word_en": "professor",
+      "word_ar": "أستاذ",
+      "example_en": "The professor gave a lecture on biology.",
+      "example_ar": "قدم الأستاذ محاضرة عن علم الأحياء."
+    },
+    {
+      "word_en": "researcher",
+      "word_ar": "باحث",
+      "example_en": "The researcher conducted experiments in the lab.",
+      "example_ar": "أجرى الباحث تجارب في المختبر."
+    },
+    {
+      "word_en": "hairdresser",
+      "word_ar": "حلاق",
+      "example_en": "She works as a hairdresser at the salon.",
+      "example_ar": "تعمل كحلاقة في الصالون."
+    },
+    {
+      "word_en": "designer",
+      "word_ar": "مصمم",
+      "example_en": "The designer created a stunning dress.",
+      "example_ar": "صمم المصمم فستاناً رائعاً."
+    },
+    {
+      "word_en": "cleaner",
+      "word_ar": "عامل تنظيف",
+      "example_en": "The cleaner mopped the floors.",
+      "example_ar": "نظف عامل التنظيف الأرضيات."
+    },
+    {
+      "word_en": "painter",
+      "word_ar": "رسام",
+      "example_en": "The painter used bold colors in his artwork.",
+      "example_ar": "استخدم الرسام ألوان جريئة في عمله الفني."
+    },
+    {
+      "word_en": "instructor",
+      "word_ar": "مدرب",
+      "example_en": "She works as an instructor at the gym.",
+      "example_ar": "تعمل كمدربة في النادي الرياضي."
+    },
+    {
+      "word_en": "employment",
+      "word_ar": "توظيف",
+      "example_en": "The company offers various employment opportunities.",
+      "example_ar": "تقدم الشركة فرص عمل متنوعة."
+    },
+    {
+      "word_en": "department",
+      "word_ar": "قسم",
+      "example_en": "He heads the marketing department.",
+      "example_ar": "يترأس قسم التسويق."
+    },
+    {
+      "word_en": "payment",
+      "word_ar": "دفع",
+      "example_en": "She made a payment for the goods.",
+      "example_ar": "قامت بدفع المبلغ للسلع."
+    },
+    {
+      "word_en": "shift",
+      "word_ar": "وردية",
+      "example_en": "He works the night shift.",
+      "example_ar": "يعمل في الوردية الليلية."
+    },
+    {
+      "word_en": "employ",
+      "word_ar": "يوظف",
+      "example_en": "The company plans to employ new staff next month.",
+      "example_ar": "تخطط الشركة لتوظيف موظفين جدد الشهر المقبل."
+    },
+    {
+      "word_en": "retire",
+      "word_ar": "يتقاعد",
+      "example_en": "He retired after working for thirty years.",
+      "example_ar": "تقاعد بعد العمل لمدة ثلاثين عامًا."
+    },
+    {
+      "word_en": "successful",
+      "word_ar": "ناجح",
+      "example_en": "She's a successful businesswoman.",
+      "example_ar": "هي سيدة أعمال ناجحة."
+    },
+    {
+      "word_en": "company",
+      "word_ar": "شركة",
+      "example_en": "The company manufactures electronic devices.",
+      "example_ar": "تصنع الشركة أجهزة إلكترونية."
+    }
+  ]
+}
