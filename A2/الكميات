@@ -1,0 +1,160 @@
+{
+  "words": [
+    {
+      "word_en": "too",
+      "word_ar": "جدًا",
+      "example_en": "There is too much noise here.",
+      "example_ar": "هناك ضجيج كثير جدًا هنا."
+    },
+    {
+      "word_en": "great",
+      "word_ar": "رائع",
+      "example_en": "That was a great movie.",
+      "example_ar": "كان ذلك فيلمًا رائعًا."
+    },
+    {
+      "word_en": "either",
+      "word_ar": "أيًا منهما",
+      "example_en": "You can choose either option.",
+      "example_ar": "يمكنك اختيار أيًا منهما."
+    },
+    {
+      "word_en": "completely",
+      "word_ar": "تمامًا",
+      "example_en": "I completely forgot about our meeting.",
+      "example_ar": "لقد نسيت تمامًا اجتماعنا."
+    },
+    {
+      "word_en": "pretty",
+      "word_ar": "جميل",
+      "example_en": "It's pretty warm today.",
+      "example_ar": "الطقس دافئ جدًا اليوم."
+    },
+    {
+      "word_en": "fairly",
+      "word_ar": "إلى حد ما",
+      "example_en": "She did fairly well on the test.",
+      "example_ar": "قامت بأداء جيد إلى حد ما في الاختبار."
+    },
+    {
+      "word_en": "rather",
+      "word_ar": "بالفعل",
+      "example_en": "The movie was rather boring.",
+      "example_ar": "كان الفيلم مملًا إلى حد ما."
+    },
+    {
+      "word_en": "so",
+      "word_ar": "جدًا",
+      "example_en": "I'm so tired.",
+      "example_ar": "أنا متعب جدًا."
+    },
+    {
+      "word_en": "less",
+      "word_ar": "أقل",
+      "example_en": "There are less people here today.",
+      "example_ar": "هناك أقل عدد من الناس هنا اليوم."
+    },
+    {
+      "word_en": "few",
+      "word_ar": "قليل",
+      "example_en": "There were few students in the classroom.",
+      "example_ar": "كان هناك قليل من الطلاب في الصف."
+    },
+    {
+      "word_en": "much",
+      "word_ar": "كثيرًا",
+      "example_en": "There is much work to do.",
+      "example_ar": "هناك الكثير من العمل للقيام به."
+    },
+    {
+      "word_en": "quite",
+      "word_ar": "إلى حد كبير",
+      "example_en": "The book was quite interesting.",
+      "example_ar": "كان الكتاب مثيرًا للاهتمام إلى حد كبير."
+    },
+    {
+      "word_en": "too",
+      "word_ar": "أيضًا",
+      "example_en": "The coffee is too hot to drink.",
+      "example_ar": "القهوة ساخنة جدًا للشرب."
+    },
+    {
+      "word_en": "more",
+      "word_ar": "أكثر",
+      "example_en": "I need more time to finish this project.",
+      "example_ar": "أحتاج المزيد من الوقت لإنهاء هذا المشروع."
+    },
+    {
+      "word_en": "most",
+      "word_ar": "الأكثر",
+      "example_en": "He has the most experience in the team.",
+      "example_ar": "لديه أكبر خبرة في الفريق."
+    },
+    {
+      "word_en": "least",
+      "word_ar": "الأقل",
+      "example_en": "She has the least amount of homework.",
+      "example_ar": "لديها أقل كمية من الواجبات المنزلية."
+    },
+    {
+      "word_en": "all",
+      "word_ar": "الكل",
+      "example_en": "All the students passed the exam.",
+      "example_ar": "جميع الطلاب اجتازوا الامتحان."
+    },
+    {
+      "word_en": "little",
+      "word_ar": "قليل",
+      "example_en": "There is little milk left in the fridge.",
+      "example_ar": "هناك قليل من الحليب المتبقي في الثلاجة."
+    },
+    {
+      "word_en": "very",
+      "word_ar": "جدًا",
+      "example_en": "I am very happy to see you.",
+      "example_ar": "أنا سعيد جدًا لرؤيتك."
+    },
+    {
+      "word_en": "either",
+      "word_ar": "إما",
+      "example_en": "You can choose either option.",
+      "example_ar": "يمكنك اختيار إما الخيار."
+    },
+    {
+      "word_en": "most",
+      "word_ar": "الأكثر",
+      "example_en": "He has the most experience in the team.",
+      "example_ar": "لديه أكبر خبرة في الفريق."
+    },
+    {
+      "word_en": "quite",
+      "word_ar": "إلى حد كبير",
+      "example_en": "The book was quite interesting.",
+      "example_ar": "كان الكتاب مثيرًا للاهتمام إلى حد كبير."
+    },
+    {
+      "word_en": "rather",
+      "word_ar": "بالفعل",
+      "example_en": "The movie was rather boring.",
+      "example_ar": "كان الفيلم مملًا إلى حد ما."
+    },
+    {
+      "word_en": "totally",
+      "word_ar": "تمامًا",
+      "example_en": "I'm totally exhausted after work.",
+      "example_ar": "أنا متعب تمامًا بعد العمل."
+    },
+    {
+      "word_en": "unusually",
+      "word_ar": "بشكل غير عادي",
+      "example_en": "She behaved unusually at the party.",
+      "example_ar": "تصرفت بشكل غير عادي في الحفلة."
+    },
+    {
+      "word_en": "fairly",
+      "word_ar": "إلى حد ما",
+      "example_en": "She did fairly well on the test.",
+      "example_ar": "قامت بأداء جيد إلى حد ما في الاختبار."
+    }
+  ]
+}
