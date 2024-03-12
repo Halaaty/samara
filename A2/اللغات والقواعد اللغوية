@@ -1,0 +1,148 @@
+{
+  "words": [
+    {
+      "word_en": "adjective",
+      "word_ar": "صفة",
+      "example_en": "She has a beautiful voice.",
+      "example_ar": "لديها صوت جميل."
+    },
+    {
+      "word_en": "Japanese",
+      "word_ar": "اليابانية",
+      "example_en": "I'm learning Japanese.",
+      "example_ar": "أنا أتعلم اللغة اليابانية."
+    },
+    {
+      "word_en": "Portuguese",
+      "word_ar": "البرتغالية",
+      "example_en": "He speaks Portuguese fluently.",
+      "example_ar": "يتحدث البرتغالية بطلاقة."
+    },
+    {
+      "word_en": "noun",
+      "word_ar": "اسم",
+      "example_en": "The cat is on the mat.",
+      "example_ar": "القطة على البساط."
+    },
+    {
+      "word_en": "Chinese",
+      "word_ar": "الصينية",
+      "example_en": "Chinese cuisine is delicious.",
+      "example_ar": "المأكولات الصينية لذيذة."
+    },
+    {
+      "word_en": "German",
+      "word_ar": "الألمانية",
+      "example_en": "I can speak German.",
+      "example_ar": "أستطيع التحدث باللغة الألمانية."
+    },
+    {
+      "word_en": "grammar",
+      "word_ar": "قواعد اللغة",
+      "example_en": "Good grammar is essential for clear communication.",
+      "example_ar": "القواعد اللغوية الجيدة ضرورية للتواصل الواضح."
+    },
+    {
+      "word_en": "Hindi",
+      "word_ar": "الهندية",
+      "example_en": "She is fluent in Hindi.",
+      "example_ar": "هي متمكنة من اللغة الهندية."
+    },
+    {
+      "word_en": "Russian",
+      "word_ar": "الروسية",
+      "example_en": "I want to learn Russian.",
+      "example_ar": "أريد تعلم اللغة الروسية."
+    },
+    {
+      "word_en": "vocabulary",
+      "word_ar": "مفردات",
+      "example_en": "Expand your vocabulary by reading.",
+      "example_ar": "قم بتوسيع مفرداتك عن طريق القراءة."
+    },
+    {
+      "word_en": "French",
+      "word_ar": "الفرنسية",
+      "example_en": "She is studying French.",
+      "example_ar": "هي تدرس اللغة الفرنسية."
+    },
+    {
+      "word_en": "adverb",
+      "word_ar": "ظرف",
+      "example_en": "He ran quickly.",
+      "example_ar": "ركض بسرعة."
+    },
+    {
+      "word_en": "Italian",
+      "word_ar": "الإيطالية",
+      "example_en": "Italian food is delicious.",
+      "example_ar": "الطعام الإيطالي لذيذ."
+    },
+    {
+      "word_en": "Dutch",
+      "word_ar": "الهولندية",
+      "example_en": "I speak a little Dutch.",
+      "example_ar": "أتحدث الهولندية قليلاً."
+    },
+    {
+      "word_en": "Persian",
+      "word_ar": "الفارسية",
+      "example_en": "She can speak Persian fluently.",
+      "example_ar": "هي تستطيع التحدث بالفارسية بطلاقة."
+    },
+    {
+      "word_en": "Arabic",
+      "word_ar": "العربية",
+      "example_en": "Arabic is spoken in many countries.",
+      "example_ar": "يتحدث العربية في العديد من البلدان."
+    },
+    {
+      "word_en": "clause",
+      "word_ar": "جملة فرعية",
+      "example_en": "The main clause is followed by a subordinate clause.",
+      "example_ar": "الجملة الرئيسية تتبعها جملة فرعية."
+    },
+    {
+      "word_en": "Vietnamese",
+      "word_ar": "الفيتنامية",
+      "example_en": "She's learning Vietnamese.",
+      "example_ar": "هي تتعلم اللغة الفيتنامية."
+    },
+    {
+      "word_en": "word",
+      "word_ar": "كلمة",
+      "example_en": "Please write down this word.",
+      "example_ar": "يرجى كتابة هذه الكلمة."
+    },
+    {
+      "word_en": "American",
+      "word_ar": "الأمريكية",
+      "example_en": "She is from American.",
+      "example_ar": "هي من أصل أمريكي."
+    },
+    {
+      "word_en": "English",
+      "word_ar": "الإنجليزية",
+      "example_en": "English is spoken worldwide.",
+      "example_ar": "يتحدث الإنجليزية في جميع أنحاء العالم."
+    },
+    {
+      "word_en": "phrase",
+      "word_ar": "عبارة",
+      "example_en": "The phrase 'time flies' means time passes quickly.",
+      "example_ar": "العبارة 'الوقت يطير' تعني أن الوقت يمر بسرعة."
+    },
+    {
+      "word_en": "British English",
+      "word_ar": "الإنجليزية البريطانية",
+      "example_en": "She speaks British English.",
+      "example_ar": "هي تتحدث الإنجليزية البريطانية."
+    },
+    {
+      "word_en": "letter",
+      "word_ar": "رسالة",
+      "example_en": "I received a letter from my friend.",
+      "example_ar": "لقد تلقيت رسالة من صديقي."
+    }
+  ]
+}
