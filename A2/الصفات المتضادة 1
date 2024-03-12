@@ -1,0 +1,214 @@
+{
+  "words": [
+    {
+      "word_en": "lucky",
+      "word_ar": "محظوظ",
+      "example_en": "She felt lucky to win the lottery.",
+      "example_ar": "شعرت بالحظ عند فوزها باليانصيب."
+    },
+    {
+      "word_en": "unlucky",
+      "word_ar": "غير محظوظ",
+      "example_en": "He was unlucky in his attempts.",
+      "example_ar": "كان غير محظوظ في محاولاته."
+    },
+    {
+      "word_en": "complete",
+      "word_ar": "كامل",
+      "example_en": "The puzzle is complete.",
+      "example_ar": "اللغز مكتمل."
+    },
+    {
+      "word_en": "incomplete",
+      "word_ar": "غير مكتمل",
+      "example_en": "The work remains incomplete.",
+      "example_ar": "العمل لم يكتمل بعد."
+    },
+    {
+      "word_en": "healthy",
+      "word_ar": "صحي",
+      "example_en": "Eating fruits and vegetables is healthy.",
+      "example_ar": "تناول الفواكه والخضروات صحي."
+    },
+    {
+      "word_en": "unhealthy",
+      "word_ar": "غير صحي",
+      "example_en": "Fast food is unhealthy.",
+      "example_ar": "الوجبات السريعة غير صحية."
+    },
+    {
+      "word_en": "popular",
+      "word_ar": "مشهور",
+      "example_en": "The movie became popular among viewers.",
+      "example_ar": "أصبح الفيلم شهيرًا بين المشاهدين."
+    },
+    {
+      "word_en": "unpopular",
+      "word_ar": "غير محبوب",
+      "example_en": "The unpopular decision disappointed many.",
+      "example_ar": "القرار غير المحبوب أحبط الكثيرين."
+    },
+    {
+      "word_en": "safe",
+      "word_ar": "آمن",
+      "example_en": "The neighborhood is safe.",
+      "example_ar": "الحي آمن."
+    },
+    {
+      "word_en": "unsafe",
+      "word_ar": "غير آمن",
+      "example_en": "The area is considered unsafe at night.",
+      "example_ar": "تعتبر المنطقة غير آمنة في الليل."
+    },
+    {
+      "word_en": "well",
+      "word_ar": "جيدًا",
+      "example_en": "She slept well last night.",
+      "example_ar": "نمت جيدًا الليلة الماضية."
+    },
+    {
+      "word_en": "unwell",
+      "word_ar": "مريض",
+      "example_en": "He's feeling unwell today.",
+      "example_ar": "هو يشعر بعدم الارتياح اليوم."
+    },
+    {
+      "word_en": "important",
+      "word_ar": "مهم",
+      "example_en": "This is an important matter.",
+      "example_ar": "هذه مسألة مهمة."
+    },
+    {
+      "word_en": "unimportant",
+      "word_ar": "غير مهم",
+      "example_en": "His comments are unimportant.",
+      "example_ar": "تعليقاته غير مهمة."
+    },
+    {
+      "word_en": "possible",
+      "word_ar": "ممكن",
+      "example_en": "It's possible to arrive early.",
+      "example_ar": "من الممكن الوصول مبكرًا."
+    },
+    {
+      "word_en": "impossible",
+      "word_ar": "مستحيل",
+      "example_en": "It's impossible to go back in time.",
+      "example_ar": "من المستحيل العودة إلى الوراء في الزمن."
+    },
+    {
+      "word_en": "formal",
+      "word_ar": "رسمي",
+      "example_en": "The meeting is a formal event.",
+      "example_ar": "الاجتماع حدث رسمي."
+    },
+    {
+      "word_en": "informal",
+      "word_ar": "غير رسمي",
+      "example_en": "The gathering was informal and relaxed.",
+      "example_ar": "كان التجمع غير رسمي ومريح."
+    },
+    {
+      "word_en": "own",
+      "word_ar": "خاص",
+      "example_en": "She has her own house.",
+      "example_ar": "لديها منزلها الخاص."
+    },
+    {
+      "word_en": "other",
+      "word_ar": "آخر",
+      "example_en": "What are the other options?",
+      "example_ar": "ما هي الخيارات الأخرى؟"
+    },
+    {
+      "word_en": "same",
+      "word_ar": "نفس",
+      "example_en": "They bought the same car.",
+      "example_ar": "اشتروا نفس السيارة."
+    },
+    {
+      "word_en": "dead",
+      "word_ar": "ميت",
+      "example_en": "The plant is dead.",
+      "example_ar": "النبات ميت."
+    },
+    {
+      "word_en": "alive",
+      "word_ar": "حي",
+      "example_en": "The flowers are alive.",
+      "example_ar": "الزهور حية."
+    },
+    {
+      "word_en": "intelligent",
+      "word_ar": "ذكي",
+      "example_en": "She's very intelligent and quick to learn.",
+      "example_ar": "إنها ذكية للغاية وسريعة التعلم."
+    },
+    {
+      "word_en": "unintelligent",
+      "word_ar": "غير ذكي",
+      "example_en": "His actions were unintelligent.",
+      "example_ar": "كانت أفعاله غير ذكية."
+    },
+    {
+      "word_en": "pleasant",
+      "word_ar": "ممتع",
+      "example_en": "It's a pleasant day for a walk.",
+      "example_ar": "إنه يوم ممتع للنزهة."
+    },
+    {
+      "word_en": "unpleasant",
+      "word_ar": "غير ممتع",
+      "example_en": "The smell was very unpleasant.",
+      "example_ar": "كان الرائحة غير ممتعة للغاية."
+    },
+    {
+      "word_en": "careful",
+      "word_ar": "حذر",
+      "example_en": "Be careful not to slip on the ice.",
+      "example_ar": "كن حذرًا لا تنزلق على الجليد."
+    },
+    {
+      "word_en": "careless",
+      "word_ar": "مهمل",
+      "example_en": "He lost his keys due to his careless attitude.",
+      "example_ar": "فقد مفاتيحه بسبب موقفه المهمل."
+    },
+    {
+      "word_en": "polite",
+      "word_ar": "مهذب",
+      "example_en": "She is always polite and respectful.",
+      "example_ar": "هي دائمًا مهذبة ومحترمة."
+    },
+    {
+      "word_en": "impolite",
+      "word_ar": "غير مهذب",
+      "example_en": "It's impolite to interrupt others while they speak.",
+      "example_ar": "من غير المهذب قاطع الآخرين أثناء حديثهم."
+    },
+    {
+      "word_en": "friendly",
+      "word_ar": "ودي",
+      "example_en": "They greeted us with a friendly smile.",
+      "example_ar": "رحبوا بنا بابتسامة ودية."
+    },
+    {
+      "word_en": "unfriendly",
+      "word_ar": "غير ودي",
+      "example_en": "The reception was unfriendly and cold.",
+      "example_ar": "كان الاستقبال غير ودي وبارد."
+    },
+    {
+      "word_en": "usual",
+      "word_ar": "معتاد",
+      "example_en": "His behavior was usual for him.",
+      "example_ar": "كان سلوكه معتادًا بالنسبة له."
+    },
+    {
+      "word_en": "unusual",
+      "word_ar": "غير معتاد",
+      "example_en": "The weather is unusually warm for this time of year.",
+      "example_ar": "الطقس دافئ بشكل غير عادي لهذا الوقت من السنة."
+    }
+  ]
+}
