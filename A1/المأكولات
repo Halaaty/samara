@@ -1,0 +1,148 @@
+{
+  "words": [
+    {
+      "word_en": "food",
+      "word_ar": "طعام",
+      "example_en": "We need food to survive.",
+      "example_ar": "نحن بحاجة إلى الطعام للبقاء على قيد الحياة."
+    },
+    {
+      "word_en": "meat",
+      "word_ar": "لحم",
+      "example_en": "She doesn't eat meat because she's a vegetarian.",
+      "example_ar": "إنها لا تأكل اللحم لأنها نباتية."
+    },
+    {
+      "word_en": "fish",
+      "word_ar": "سمك",
+      "example_en": "Grilled fish is his favorite dish.",
+      "example_ar": "السمك المشوي هو طبقه المفضل."
+    },
+    {
+      "word_en": "chicken",
+      "word_ar": "دجاج",
+      "example_en": "She cooked chicken for dinner.",
+      "example_ar": "طهت الدجاج للعشاء."
+    },
+    {
+      "word_en": "vegetable",
+      "word_ar": "خضار",
+      "example_en": "Eating vegetables is good for your health.",
+      "example_ar": "تناول الخضار جيد لصحتك."
+    },
+    {
+      "word_en": "cucumber",
+      "word_ar": "خيار",
+      "example_en": "She sliced the cucumber for the salad.",
+      "example_ar": "قطعت الخيار لصنع السلطة."
+    },
+    {
+      "word_en": "potato",
+      "word_ar": "بطاطس",
+      "example_en": "She mashed the potatoes for the dinner.",
+      "example_ar": "سحقت البطاطس للعشاء."
+    },
+    {
+      "word_en": "onion",
+      "word_ar": "بصل",
+      "example_en": "Chop the onion finely for the soup.",
+      "example_ar": "اقطع البصل إلى قطع صغيرة للحساء."
+    },
+    {
+      "word_en": "tomato",
+      "word_ar": "طماطم",
+      "example_en": "He likes to eat tomatoes raw.",
+      "example_ar": "يحب تناول الطماطم طازجة."
+    },
+    {
+      "word_en": "carrot",
+      "word_ar": "جزر",
+      "example_en": "She grated the carrot for the salad.",
+      "example_ar": "حكت الجزر لصنع السلطة."
+    },
+    {
+      "word_en": "pepper",
+      "word_ar": "فلفل",
+      "example_en": "Add some pepper to taste.",
+      "example_ar": "أضف بعض الفلفل للتذوق."
+    },
+    {
+      "word_en": "fruit",
+      "word_ar": "فاكهة",
+      "example_en": "She likes to eat fresh fruit every day.",
+      "example_ar": "تحب تناول الفواكه الطازجة يومياً."
+    },
+    {
+      "word_en": "apple",
+      "word_ar": "تفاحة",
+      "example_en": "She took a bite of the juicy apple.",
+      "example_ar": "أخذت قضمة من التفاح العصير."
+    },
+    {
+      "word_en": "orange",
+      "word_ar": "برتقال",
+      "example_en": "He peeled the orange and ate the segments.",
+      "example_ar": "قشر البرتقالة وأكل الشرائح."
+    },
+    {
+      "word_en": "grape",
+      "word_ar": "عنب",
+      "example_en": "She enjoyed eating grapes in the vineyard.",
+      "example_ar": "استمتعت بتناول العنب في الكرم."
+    },
+    {
+      "word_en": "banana",
+      "word_ar": "موز",
+      "example_en": "She packed a banana for a snack.",
+      "example_ar": "حزمت موزة كوجبة خفيفة."
+    },
+    {
+      "word_en": "peach",
+      "word_ar": "خوخ",
+      "example_en": "The peach was ripe and juicy.",
+      "example_ar": "كان الخوخ ناضجًا وعصيريًا."
+    },
+    {
+      "word_en": "lemon",
+      "word_ar": "ليمون",
+      "example_en": "Squeeze some lemon juice into the tea.",
+      "example_ar": "اعصر بعض عصير الليمون في الشاي."
+    },
+    {
+      "word_en": "milk",
+      "word_ar": "حليب",
+      "example_en": "He poured some milk into his cereal.",
+      "example_ar": "صب بعض الحليب في حبوب الإفطار."
+    },
+    {
+      "word_en": "chocolate milk",
+      "word_ar": "حليب شوكولاتة",
+      "example_en": "She likes to drink chocolate milk after exercising.",
+      "example_ar": "تحب شرب حليب الشوكولاتة بعد التمرين."
+    },
+    {
+      "word_en": "cheese",
+      "word_ar": "جبنة",
+      "example_en": "The cheese was melted on top of the pizza.",
+      "example_ar": "كانت الجبنة مذابة على قمة البيتزا."
+    },
+    {
+      "word_en": "butter",
+      "word_ar": "زبدة",
+      "example_en": "He spread butter on the toast.",
+      "example_ar": "نشر الزبدة على التوست."
+    },
+    {
+      "word_en": "egg",
+      "word_ar": "بيضة",
+      "example_en": "She boiled an egg for breakfast.",
+      "example_ar": "غليت بيضة لتناول الفطور."
+    },
+    {
+      "word_en": "cream",
+      "word_ar": "كريم",
+      "example_en": "She topped the dessert with whipped cream.",
+      "example_ar": "وضعت كريمة خفق على الحلوى."
+    }
+  ]
+}
