@@ -1,0 +1,112 @@
+{
+  "words": [
+    {
+      "word_en": "school",
+      "word_ar": "مدرسة",
+      "example_en": "I go to school every day.",
+      "example_ar": "أذهب إلى المدرسة كل يوم."
+    },
+    {
+      "word_en": "college",
+      "word_ar": "كلية",
+      "example_en": "She is studying engineering at college.",
+      "example_ar": "هي تدرس الهندسة في الكلية."
+    },
+    {
+      "word_en": "university",
+      "word_ar": "جامعة",
+      "example_en": "He graduated from university last year.",
+      "example_ar": "تخرج من الجامعة العام الماضي."
+    },
+    {
+      "word_en": "preschool",
+      "word_ar": "رياض الأطفال",
+      "example_en": "My daughter starts preschool next week.",
+      "example_ar": "ابنتي ستبدأ رياض الأطفال الأسبوع المقبل."
+    },
+    {
+      "word_en": "classroom",
+      "word_ar": "صف دراسي",
+      "example_en": "We have math class in room 203.",
+      "example_ar": "لدينا درس الرياضيات في الغرفة 203."
+    },
+    {
+      "word_en": "student",
+      "word_ar": "طالب",
+      "example_en": "She is a hardworking student.",
+      "example_ar": "هي طالبة مجتهدة."
+    },
+    {
+      "word_en": "book",
+      "word_ar": "كتاب",
+      "example_en": "I forgot my book at home.",
+      "example_ar": "نسيت كتابي في البيت."
+    },
+    {
+      "word_en": "notebook",
+      "word_ar": "دفتر",
+      "example_en": "I take notes in my notebook during lectures.",
+      "example_ar": "أكتب ملاحظاتي في دفتري أثناء المحاضرات."
+    },
+    {
+      "word_en": "bag",
+      "word_ar": "حقيبة",
+      "example_en": "She carries her books in her school bag.",
+      "example_ar": "تحمل كتبها في حقيبتها المدرسية."
+    },
+    {
+      "word_en": "pen",
+      "word_ar": "قلم",
+      "example_en": "Can I borrow a pen, please?",
+      "example_ar": "هل يمكنني استعارة قلم، من فضلك؟"
+    },
+    {
+      "word_en": "pencil",
+      "word_ar": "قلم رصاص",
+      "example_en": "He sharpened his pencil before the test.",
+      "example_ar": "شحذ قلمه الرصاص قبل الاختبار."
+    },
+    {
+      "word_en": "eraser",
+      "word_ar": "ممحاة",
+      "example_en": "I need to erase my mistake.",
+      "example_ar": "أحتاج لمحو خطأي."
+    },
+    {
+      "word_en": "marker",
+      "word_ar": "علامة",
+      "example_en": "The teacher wrote the lesson on the board with a marker.",
+      "example_ar": "كتب المعلم الدرس على اللوحة بواسطة علامة."
+    },
+    {
+      "word_en": "homework",
+      "word_ar": "واجب منزلي",
+      "example_en": "I have a lot of homework to do tonight.",
+      "example_ar": "لدي الكثير من الواجبات المنزلية للقيام بها الليلة."
+    },
+    {
+      "word_en": "history",
+      "word_ar": "تاريخ",
+      "example_en": "I enjoy studying history.",
+      "example_ar": "أستمتع بدراسة التاريخ."
+    },
+    {
+      "word_en": "language",
+      "word_ar": "لغة",
+      "example_en": "She speaks three languages fluently.",
+      "example_ar": "تتحدث ثلاث لغات بطلاقة."
+    },
+    {
+      "word_en": "science",
+      "word_ar": "علم",
+      "example_en": "Physics is a branch of science.",
+      "example_ar": "الفيزياء هي فرع من فروع العلوم."
+    },
+    {
+      "word_en": "class",
+      "word_ar": "صف",
+      "example_en": "We have art class on Fridays.",
+      "example_ar": "لدينا درس فنون يوم الجمعة."
+    }
+  ]
+}
