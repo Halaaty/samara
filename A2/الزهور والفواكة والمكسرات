@@ -1,0 +1,184 @@
+{
+  "words": [
+    {
+      "word_en": "hazelnut",
+      "word_ar": "بندق",
+      "example_en": "She likes hazelnuts in her chocolate spread.",
+      "example_ar": "تحب البندق في انتشار الشوكولاتة لديها."
+    },
+    {
+      "word_en": "soft",
+      "word_ar": "ناعم",
+      "example_en": "The fabric of the blanket was soft to the touch.",
+      "example_ar": "كان نسيج البطانية ناعماً عند اللمس."
+    },
+    {
+      "word_en": "pecan",
+      "word_ar": "جوز البقان",
+      "example_en": "Pecan pie is a traditional Southern dessert.",
+      "example_ar": "فطيرة جوز البقان هي حلوى تقليدية جنوبية."
+    },
+    {
+      "word_en": "hard",
+      "word_ar": "صعب",
+      "example_en": "The apple was too hard to bite into.",
+      "example_ar": "كان التفاح صعباً جداً للعض."
+    },
+    {
+      "word_en": "almond",
+      "word_ar": "لوز",
+      "example_en": "Almonds are a popular ingredient in baking.",
+      "example_ar": "اللوز مكون شائع في الخبز."
+    },
+    {
+      "word_en": "walnut",
+      "word_ar": "جوز",
+      "example_en": "Walnuts are a good source of omega-3 fatty acids.",
+      "example_ar": "الجوز مصدر جيد للأحماض الدهنية أوميغا 3."
+    },
+    {
+      "word_en": "peanut",
+      "word_ar": "فول السوداني",
+      "example_en": "She enjoys peanut butter on her toast.",
+      "example_ar": "تستمتع بزبدة الفول السوداني على توستها."
+    },
+    {
+      "word_en": "nut",
+      "word_ar": "جوز",
+      "example_en": "Nuts are a nutritious snack.",
+      "example_ar": "المكسرات وجبة خفيفة غنية بالعناصر الغذائية."
+    },
+    {
+      "word_en": "cactus",
+      "word_ar": "صبار",
+      "example_en": "Cacti are well-suited to dry climates.",
+      "example_ar": "الصبار مناسب جيداً للمناخات الجافة."
+    },
+    {
+      "word_en": "sunflower",
+      "word_ar": "دوار الشمس",
+      "example_en": "Sunflowers sway gently in the breeze.",
+      "example_ar": "يتمايل دوار الشمس بلطف في الهواء العليل."
+    },
+    {
+      "word_en": "orchid",
+      "word_ar": "أوركيد",
+      "example_en": "She received a potted orchid as a gift.",
+      "example_ar": "تلقت أوركيدة مزروعة في وعاء كهدية."
+    },
+    {
+      "word_en": "lily",
+      "word_ar": "زنبق",
+      "example_en": "The lilies in the pond bloomed beautifully.",
+      "example_ar": "تفتحت الزنابق في البركة بجمال."
+    },
+    {
+      "word_en": "rose",
+      "word_ar": "وردة",
+      "example_en": "The garden is full of beautiful roses.",
+      "example_ar": "الحديقة مليئة بالورود الجميلة."
+    },
+    {
+      "word_en": "grapefruit",
+      "word_ar": "جريب فروت",
+      "example_en": "She enjoys grapefruit juice with breakfast.",
+      "example_ar": "تستمتع بعصير الجريب فروت في الإفطار."
+    },
+    {
+      "word_en": "avocado",
+      "word_ar": "أفوكادو",
+      "example_en": "Avocados are a good source of healthy fats.",
+      "example_ar": "الأفوكادو مصدر جيد للدهون الصحية."
+    },
+    {
+      "word_en": "kiwi",
+      "word_ar": "كيوي",
+      "example_en": "Kiwi is a delicious and nutritious fruit.",
+      "example_ar": "الكيوي فاكهة لذيذة ومغذية."
+    },
+    {
+      "word_en": "mango",
+      "word_ar": "مانجو",
+      "example_en": "She enjoys eating ripe mangoes in the summer.",
+      "example_ar": "تستمتع بأكل المانجو الناضجة في الصيف."
+    },
+    {
+      "word_en": "pineapple",
+      "word_ar": "أناناس",
+      "example_en": "Pineapples grow in tropical regions.",
+      "example_ar": "ينمو الأناناس في المناطق الاستوائية."
+    },
+    {
+      "word_en": "pear",
+      "word_ar": "كمثرى",
+      "example_en": "He enjoys biting into a juicy pear.",
+      "example_ar": "يستمتع بعض الثمرة اللذيذة."
+    },
+    {
+      "word_en": "watermelon",
+      "word_ar": "بطيخ",
+      "example_en": "Watermelon is a refreshing summer fruit.",
+      "example_ar": "البطيخ فاكهة منعشة في الصيف."
+    },
+    {
+      "word_en": "blueberry",
+      "word_ar": "توت أزرق",
+      "example_en": "She likes to sprinkle blueberries on her cereal.",
+      "example_ar": "تحب رش التوت الأزرق على الحبوب الخاصة بها."
+    },
+    {
+      "word_en": "strawberry",
+      "word_ar": "فراولة",
+      "example_en": "Strawberries are ripe and ready to be picked.",
+      "example_ar": "الفراولة ناضجة وجاهزة للقطاف."
+    },
+    {
+      "word_en": "feed",
+      "word_ar": "يطعم",
+      "example_en": "They feed the cattle hay and grain.",
+      "example_ar": "يطعمون الماشية التبن والحبوب."
+    },
+    {
+      "word_en": "produce",
+      "word_ar": "ينتج",
+      "example_en": "The farm produces a variety of fruits and vegetables.",
+      "example_ar": "تنتج المزرعة مجموعة متنوعة من الفواكه والخضروات."
+    },
+    {
+      "word_en": "grow",
+      "word_ar": "ينمو",
+      "example_en": "These tomatoes grow well in warm climates.",
+      "example_ar": "تنمو هذه الطماطم جيداً في المناخات الدافئة."
+    },
+    {
+      "word_en": "water",
+      "word_ar": "يسقي",
+      "example_en": "They water the crops every morning.",
+      "example_ar": "يسقون المحاصيل كل صباح."
+    },
+    {
+      "word_en": "plant",
+      "word_ar": "يزرع",
+      "example_en": "They plant new seeds in the spring.",
+      "example_ar": "يزرعون بذوراً جديدة في الربيع."
+    },
+    {
+      "word_en": "pick",
+      "word_ar": "يقطف",
+      "example_en": "They pick apples from the orchard in the fall.",
+      "example_ar": "يقطفون التفاح من البساتين في فصل الخريف."
+    },
+    {
+      "word_en": "farming",
+      "word_ar": "زراعة",
+      "example_en": "She enjoys learning about organic farming practices.",
+      "example_ar": "تستمتع بتعلم ممارسات الزراعة العضوية."
+    },
+    {
+      "word_en": "farm",
+      "word_ar": "مزرعة",
+      "example_en": "The family owns a small farm in the countryside.",
+      "example_ar": "تمتلك العائلة مزرعة صغيرة في الريف."
+    }
+  ]
+}
