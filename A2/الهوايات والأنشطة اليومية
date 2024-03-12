@@ -1,0 +1,226 @@
+{
+  "words": [
+    {
+      "word_en": "tent",
+      "word_ar": "خيمة",
+      "example_en": "We pitched our tent near the lake.",
+      "example_ar": "قمنا بتركيب خيمتنا بالقرب من البحيرة."
+    },
+    {
+      "word_en": "card game",
+      "word_ar": "لعبة الورق",
+      "example_en": "We played a fun card game with friends last night.",
+      "example_ar": "لعبنا لعبة الورق الممتعة مع الأصدقاء الليلة الماضية."
+    },
+    {
+      "word_en": "bath",
+      "word_ar": "حمام",
+      "example_en": "He likes to take a hot bath after a long day.",
+      "example_ar": "يحب أن يأخذ حمامًا ساخنًا بعد يوم طويل."
+    },
+    {
+      "word_en": "picnic",
+      "word_ar": "نزهة",
+      "example_en": "We had a lovely picnic in the park last weekend.",
+      "example_ar": "كان لدينا نزهة جميلة في الحديقة في نهاية الأسبوع الماضي."
+    },
+    {
+      "word_en": "fish",
+      "word_ar": "سمك",
+      "example_en": "We caught a lot of fish on our fishing trip.",
+      "example_ar": "لقد صطادنا الكثير من الأسماك في رحلتنا الصيد."
+    },
+    {
+      "word_en": "walk",
+      "word_ar": "مشي",
+      "example_en": "Let's go for a walk in the woods.",
+      "example_ar": "لنذهب للمشي في الغابة."
+    },
+    {
+      "word_en": "ball game",
+      "word_ar": "لعبة الكرة",
+      "example_en": "We had a blast playing ball games at the beach.",
+      "example_ar": "كان لدينا وقت ممتع نلعب فيه لعبة الكرة على الشاطئ."
+    },
+    {
+      "word_en": "club",
+      "word_ar": "نادي",
+      "example_en": "He's a member of the local fishing club.",
+      "example_ar": "هو عضو في نادي الصيد المحلي."
+    },
+    {
+      "word_en": "shower",
+      "word_ar": "دش",
+      "example_en": "I'll take a quick shower before dinner.",
+      "example_ar": "سأأخذ دش سريع قبل العشاء."
+    },
+    {
+      "word_en": "campsite",
+      "word_ar": "موقع التخييم",
+      "example_en": "The campsite was surrounded by beautiful scenery.",
+      "example_ar": "كان موقع التخييم محاطًا بمناظر جميلة."
+    },
+    {
+      "word_en": "camping",
+      "word_ar": "تخييم",
+      "example_en": "Camping in the mountains is always an adventure.",
+      "example_ar": "التخييم في الجبال دائمًا مغامرة."
+    },
+    {
+      "word_en": "barbecue",
+      "word_ar": "شواء",
+      "example_en": "We had a barbecue in the backyard last Sunday.",
+      "example_ar": "كان لدينا شواء في الفناء الخلفي يوم الأحد الماضي."
+    },
+    {
+      "word_en": "yoga",
+      "word_ar": "يوغا",
+      "example_en": "She practices yoga every morning to relax.",
+      "example_ar": "تمارس اليوغا كل صباح للراحة."
+    },
+    {
+      "word_en": "laundry",
+      "word_ar": "غسيل الملابس",
+      "example_en": "She's doing the laundry right now.",
+      "example_ar": "هي تقوم بغسيل الملابس الآن."
+    },
+    {
+      "word_en": "table tennis",
+      "word_ar": "تنس الطاولة",
+      "example_en": "We played table tennis at the community center.",
+      "example_ar": "لعبنا تنس الطاولة في مركز المجتمع."
+    },
+    {
+      "word_en": "relax",
+      "word_ar": "استرخاء",
+      "example_en": "She likes to relax by reading a book.",
+      "example_ar": "تحب الاسترخاء من خلال قراءة كتاب."
+    },
+    {
+      "word_en": "bored",
+      "word_ar": "ملل",
+      "example_en": "He felt bored after finishing all his tasks.",
+      "example_ar": "شعر بالملل بعد الانتهاء من جميع مهامه."
+    },
+    {
+      "word_en": "party",
+      "word_ar": "حفلة",
+      "example_en": "They threw a big party for her birthday.",
+      "example_ar": "نظموا حفلة كبيرة بمناسبة عيد ميلادها."
+    },
+    {
+      "word_en": "water park",
+      "word_ar": "حديقة مائية",
+      "example_en": "We spent the day at the water park.",
+      "example_ar": "قضينا اليوم في حديقة الماء."
+    },
+    {
+      "word_en": "fun",
+      "word_ar": "مرح",
+      "example_en": "Playing games with friends is always fun.",
+      "example_ar": "لعب الألعاب مع الأصدقاء دائمًا ممتع."
+    },
+    {
+      "word_en": "cleaning",
+      "word_ar": "تنظيف",
+      "example_en": "She finds cleaning therapeutic.",
+      "example_ar": "تجد التنظيف علاجياً."
+    },
+    {
+      "word_en": "begin",
+      "word_ar": "بداية",
+      "example_en": "Let's begin the game.",
+      "example_ar": "لنبدأ اللعبة."
+    },
+    {
+      "word_en": "smoke",
+      "word_ar": "دخان",
+      "example_en": "Smoke rose from the chimney.",
+      "example_ar": "ارتفع الدخان من الشاحنة."
+    },
+    {
+      "word_en": "cooking",
+      "word_ar": "طهي",
+      "example_en": "She enjoys cooking new recipes.",
+      "example_ar": "تستمتع بطهي وصفات جديدة."
+    },
+    {
+      "word_en": "surprising",
+      "word_ar": "مفاجئ",
+      "example_en": "The ending of the movie was surprising.",
+      "example_ar": "كانت نهاية الفيلم مفاجئة."
+    },
+    {
+      "word_en": "enjoyable",
+      "word_ar": "ممتع",
+      "example_en": "It was an enjoyable evening with friends.",
+      "example_ar": "كانت ليلة ممتعة مع الأصدقاء."
+    },
+    {
+      "word_en": "delightful",
+      "word_ar": "رائع",
+      "example_en": "The garden is a delightful place to relax.",
+      "example_ar": "الحديقة مكان رائع للاسترخاء."
+    },
+    {
+      "word_en": "pleased",
+      "word_ar": "سعيد",
+      "example_en": "She was pleased with the results.",
+      "example_ar": "كانت سعيدة بالنتائج."
+    },
+    {
+      "word_en": "cooking",
+      "word_ar": "طهي",
+      "example_en": "She enjoys cooking new recipes.",
+      "example_ar": "تستمتع بطهي وصفات جديدة."
+    },
+    {
+      "word_en": "ball game",
+      "word_ar": "لعبة الكرة",
+      "example_en": "They played a ball game in the park.",
+      "example_ar": "لعبوا لعبة الكرة في الحديقة."
+    },
+    {
+      "word_en": "yoga",
+      "word_ar": "يوغا",
+      "example_en": "She practices yoga every morning.",
+      "example_ar": "تمارس اليوغا كل صباح."
+    },
+    {
+      "word_en": "tent",
+      "word_ar": "خيمة",
+      "example_en": "They set up their tent by the lake.",
+      "example_ar": "نصبوا خيمتهم بجانب البحيرة."
+    },
+    {
+      "word_en": "shower",
+      "word_ar": "دش",
+      "example_en": "She took a quick shower before dinner.",
+      "example_ar": "أخذت دشًا سريعًا قبل العشاء."
+    },
+    {
+      "word_en": "picnic",
+      "word_ar": "نزهة",
+      "example_en": "They had a picnic in the park.",
+      "example_ar": "لديهم نزهة في الحديقة."
+    },
+    {
+      "word_en": "ball game",
+      "word_ar": "لعبة الكرة",
+      "example_en": "They played a ball game in the park.",
+      "example_ar": "لعبوا لعبة الكرة في الحديقة."
+    },
+    {
+      "word_en": "campsite",
+      "word_ar": "موقع التخييم",
+      "example_en": "They set up their tent at the campsite.",
+      "example_ar": "نصبوا خيمتهم في موقع التخييم."
+    },
+    {
+      "word_en": "camp",
+      "word_ar": "تخييم",
+      "example_en": "They went camping in the mountains.",
+      "example_ar": "ذهبوا للتخييم في الجبال."
+    }
+  ]
+}
