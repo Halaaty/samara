@@ -1,0 +1,130 @@
+{
+  "words": [
+    {
+      "word_en": "meal",
+      "word_ar": "وجبة",
+      "example_en": "We had a delicious meal at the restaurant.",
+      "example_ar": "تناولنا وجبة لذيذة في المطعم."
+    },
+    {
+      "word_en": "breakfast",
+      "word_ar": "فطور",
+      "example_en": "She usually eats eggs for breakfast.",
+      "example_ar": "تأكل عادة البيض في الفطور."
+    },
+    {
+      "word_en": "lunch",
+      "word_ar": "غداء",
+      "example_en": "They went out for lunch together.",
+      "example_ar": "خرجوا لتناول الغداء معًا."
+    },
+    {
+      "word_en": "dinner",
+      "word_ar": "عشاء",
+      "example_en": "We had a family dinner on Sunday.",
+      "example_ar": "تناولنا عشاء عائليا يوم الأحد."
+    },
+    {
+      "word_en": "tea",
+      "word_ar": "شاي",
+      "example_en": "She likes to have a cup of tea in the afternoon.",
+      "example_ar": "تحب شرب فنجان من الشاي بعد الظهر."
+    },
+    {
+      "word_en": "coffee",
+      "word_ar": "قهوة",
+      "example_en": "He drinks black coffee in the morning.",
+      "example_ar": "يشرب القهوة السوداء في الصباح."
+    },
+    {
+      "word_en": "cake",
+      "word_ar": "كعكة",
+      "example_en": "She baked a chocolate cake for his birthday.",
+      "example_ar": "خبزت كعكة شوكولاتة لعيد ميلاده."
+    },
+    {
+      "word_en": "cookie",
+      "word_ar": "كوكيز",
+      "example_en": "She likes to snack on chocolate chip cookies.",
+      "example_ar": "تحب تناول الكوكيز برقاقة الشوكولاتة كوجبة خفيفة."
+    },
+    {
+      "word_en": "bread",
+      "word_ar": "خبز",
+      "example_en": "She bought a loaf of bread from the bakery.",
+      "example_ar": "اشترت رغيف خبز من المخبز."
+    },
+    {
+      "word_en": "honey",
+      "word_ar": "عسل",
+      "example_en": "She sweetened her tea with honey.",
+      "example_ar": "حلى شايها بالعسل."
+    },
+    {
+      "word_en": "jam",
+      "word_ar": "مربى",
+      "example_en": "She spread strawberry jam on her toast.",
+      "example_ar": "وزعت مربى الفراولة على توستها."
+    },
+    {
+      "word_en": "juice",
+      "word_ar": "عصير",
+      "example_en": "He squeezed some oranges to make juice.",
+      "example_ar": "عصر بعض البرتقال لصنع عصير."
+    },
+    {
+      "word_en": "ice cream",
+      "word_ar": "آيس كريم",
+      "example_en": "They enjoyed eating ice cream on a hot day.",
+      "example_ar": "استمتعوا بتناول الآيس كريم في يوم حار."
+    },
+    {
+      "word_en": "water",
+      "word_ar": "ماء",
+      "example_en": "She drank a glass of water after exercising.",
+      "example_ar": "شربت كوبًا من الماء بعد ممارسة الرياضة."
+    },
+    {
+      "word_en": "rice",
+      "word_ar": "أرز",
+      "example_en": "She cooked rice to serve with the curry.",
+      "example_ar": "طهيت الأرز لتقديمه مع الكاري."
+    },
+    {
+      "word_en": "soup",
+      "word_ar": "حساء",
+      "example_en": "He made a big pot of soup for dinner.",
+      "example_ar": "أعد وعاءً كبيرًا من الحساء للعشاء."
+    },
+    {
+      "word_en": "salad",
+      "word_ar": "سلطة",
+      "example_en": "She tossed the salad with a light dressing.",
+      "example_ar": "خلطت السلطة بصلصة خفيفة."
+    },
+    {
+      "word_en": "pizza",
+      "word_ar": "بيتزا",
+      "example_en": "They ordered a large pizza for movie night.",
+      "example_ar": "طلبوا بيتزا كبيرة ليلة مشاهدة الأفلام."
+    },
+    {
+      "word_en": "sandwich",
+      "word_ar": "ساندويتش",
+      "example_en": "He made a turkey sandwich for lunch.",
+      "example_ar": "صنع ساندويتش ديك رومي لتناول الغداء."
+    },
+    {
+      "word_en": "sugar",
+      "word_ar": "سكر",
+      "example_en": "She added a spoonful of sugar to her coffee.",
+      "example_ar": "أضافت ملعقة من السكر إلى قهوتها."
+    },
+    {
+      "word_en": "salt",
+      "word_ar": "ملح",
+      "example_en": "He sprinkled some salt on his food.",
+      "example_ar": "رش بعض الملح على طعامه."
+    }
+  ]
+}
