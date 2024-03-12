@@ -1,0 +1,100 @@
+{
+  "words": [
+    {
+      "word_en": "snake",
+      "word_ar": "ثعبان",
+      "example_en": "The snake slithered silently through the grass.",
+      "example_ar": "تحرك الثعبان بصمت عبر العشب."
+    },
+    {
+      "word_en": "chicken",
+      "word_ar": "دجاجة",
+      "example_en": "They roasted a whole chicken for dinner.",
+      "example_ar": "قاموا بشوي دجاجة كاملة لتناول العشاء."
+    },
+    {
+      "word_en": "fish",
+      "word_ar": "سمكة",
+      "example_en": "He caught a big fish while fishing.",
+      "example_ar": "أمسك بسمكة كبيرة أثناء الصيد."
+    },
+    {
+      "word_en": "bear",
+      "word_ar": "دب",
+      "example_en": "They saw a bear in the woods.",
+      "example_ar": "رأوا دبا في الغابة."
+    },
+    {
+      "word_en": "cat",
+      "word_ar": "قطة",
+      "example_en": "The cat stretched lazily in the sun.",
+      "example_ar": "تمددت القطة بكسل تحت الشمس."
+    },
+    {
+      "word_en": "rabbit",
+      "word_ar": "أرنب",
+      "example_en": "They saw a rabbit hopping in the field.",
+      "example_ar": "رأوا أرنبًا يقفز في الحقل."
+    },
+    {
+      "word_en": "dog",
+      "word_ar": "كلب",
+      "example_en": "The dog wagged its tail happily.",
+      "example_ar": "هز كلب ذيله بسعادة."
+    },
+    {
+      "word_en": "elephant",
+      "word_ar": "فيل",
+      "example_en": "The elephant sprayed itself with water.",
+      "example_ar": "رش الفيل نفسه بالماء."
+    },
+    {
+      "word_en": "horse",
+      "word_ar": "حصان",
+      "example_en": "She rode her horse through the countryside.",
+      "example_ar": "ركبت حصانها عبر الريف."
+    },
+    {
+      "word_en": "lion",
+      "word_ar": "أسد",
+      "example_en": "The lion roared loudly in the jungle.",
+      "example_ar": "زمجر الأسد بصوت عالٍ في الغابة."
+    },
+    {
+      "word_en": "mouse",
+      "word_ar": "فأر",
+      "example_en": "The mouse scurried across the kitchen floor.",
+      "example_ar": "ركض الفأر عبر أرضية المطبخ."
+    },
+    {
+      "word_en": "bird",
+      "word_ar": "طائر",
+      "example_en": "They heard the birds chirping in the trees.",
+      "example_ar": "سمعوا غرّة الطيور في الأشجار."
+    },
+    {
+      "word_en": "sheep",
+      "word_ar": "خروف",
+      "example_en": "The sheep grazed peacefully in the meadow.",
+      "example_ar": "استراح الخرفان بسلام في المرج."
+    },
+    {
+      "word_en": "cow",
+      "word_ar": "بقرة",
+      "example_en": "The cow chewed its cud in the pasture.",
+      "example_ar": "مضغت البقرة غلتها في المرعى."
+    },
+    {
+      "word_en": "monkey",
+      "word_ar": "قرد",
+      "example_en": "The monkey swung from branch to branch in the jungle.",
+      "example_ar": "تأرجح القرد من فرع إلى فرع في الغابة."
+    },
+    {
+      "word_en": "pig",
+      "word_ar": "خنزير",
+      "example_en": "The pig rolled in the mud.",
+      "example_ar": "دحرج الخنزير في الطين."
+    }
+  ]
+}
