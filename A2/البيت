@@ -1,0 +1,130 @@
+{
+  "words": [
+    {
+      "word_en": "mailbox",
+      "word_ar": "صندوق بريد",
+      "example_en": "Check your mailbox for the letter.",
+      "example_ar": "تحقق من صندوق بريدك للرسالة."
+    },
+    {
+      "word_en": "stair",
+      "word_ar": "سلم",
+      "example_en": "Take the stairs instead of the elevator.",
+      "example_ar": "استخدم السلم بدلاً من المصعد."
+    },
+    {
+      "word_en": "move",
+      "word_ar": "الانتقال",
+      "example_en": "They decided to move to a bigger house.",
+      "example_ar": "قرروا الانتقال إلى منزل أكبر."
+    },
+    {
+      "word_en": "gate",
+      "word_ar": "بوابة",
+      "example_en": "The gate to the garden was left open.",
+      "example_ar": "تركت بوابة الحديقة مفتوحة."
+    },
+    {
+      "word_en": "light",
+      "word_ar": "ضوء",
+      "example_en": "She turned off the light before leaving.",
+      "example_ar": "أطفأت الضوء قبل المغادرة."
+    },
+    {
+      "word_en": "fence",
+      "word_ar": "سياج",
+      "example_en": "They built a fence around their backyard.",
+      "example_ar": "بنوا سياجًا حول فناء منزلهم الخلفي."
+    },
+    {
+      "word_en": "live",
+      "word_ar": "يعيش",
+      "example_en": "They live in the city center.",
+      "example_ar": "يعيشون في وسط المدينة."
+    },
+    {
+      "word_en": "neighborhood",
+      "word_ar": "الحي",
+      "example_en": "It's a quiet neighborhood.",
+      "example_ar": "إنه حي هادئ."
+    },
+    {
+      "word_en": "heating",
+      "word_ar": "تدفئة",
+      "example_en": "The heating system broke down.",
+      "example_ar": "تعطل نظام التدفئة."
+    },
+    {
+      "word_en": "cozy",
+      "word_ar": "مريح",
+      "example_en": "The apartment has a cozy atmosphere.",
+      "example_ar": "الشقة لديها أجواء مريحة."
+    },
+    {
+      "word_en": "landlord",
+      "word_ar": "مالك العقار",
+      "example_en": "The landlord fixed the leaky faucet.",
+      "example_ar": "قام مالك العقار بإصلاح المرحاض المتسرب."
+    },
+    {
+      "word_en": "utility",
+      "word_ar": "مرفق",
+      "example_en": "Water and electricity are essential utilities.",
+      "example_ar": "الماء والكهرباء من المرافق الأساسية."
+    },
+    {
+      "word_en": "emergency exit",
+      "word_ar": "مخرج الطوارئ",
+      "example_en": "The emergency exit is located at the back of the building.",
+      "example_ar": "يقع مخرج الطوارئ في الجزء الخلفي من المبنى."
+    },
+    {
+      "word_en": "level",
+      "word_ar": "مستوى",
+      "example_en": "Their apartment is on the fifth level.",
+      "example_ar": "شقتهم في الطابق الخامس."
+    },
+    {
+      "word_en": "cable",
+      "word_ar": "كابل",
+      "example_en": "The cable company provides internet service.",
+      "example_ar": "توفر شركة الكابل خدمة الإنترنت."
+    },
+    {
+      "word_en": "tenant",
+      "word_ar": "مستأجر",
+      "example_en": "The tenant pays rent monthly.",
+      "example_ar": "المستأجر يدفع الإيجار شهريًا."
+    },
+    {
+      "word_en": "entrance",
+      "word_ar": "مدخل",
+      "example_en": "Please use the side entrance.",
+      "example_ar": "يرجى استخدام المدخل الجانبي."
+    },
+    {
+      "word_en": "gas",
+      "word_ar": "غاز",
+      "example_en": "They cook with gas instead of electricity.",
+      "example_ar": "يطبخون بالغاز بدلاً من الكهرباء."
+    },
+    {
+      "word_en": "lease",
+      "word_ar": "عقد إيجار",
+      "example_en": "They signed a lease for one year.",
+      "example_ar": "وقعوا عقد إيجار لمدة سنة واحدة."
+    },
+    {
+      "word_en": "move in",
+      "word_ar": "الانتقال إلى الداخل",
+      "example_en": "They plan to move in next week.",
+      "example_ar": "يخططون للانتقال إلى الداخل الأسبوع المقبل."
+    },
+    {
+      "word_en": "move out",
+      "word_ar": "الانتقال خارجًا",
+      "example_en": "They need to move out by the end of the month.",
+      "example_ar": "يحتاجون إلى الانتقال خارجًا بحلول نهاية الشهر."
+    }
+  ]
+}
