@@ -1,0 +1,184 @@
+{
+  "words": [
+    {
+      "word_en": "cash",
+      "word_ar": "نقداً",
+      "example_en": "I prefer to pay with cash rather than a card.",
+      "example_ar": "أفضل الدفع نقداً بدلاً من البطاقة."
+    },
+    {
+      "word_en": "dollar",
+      "word_ar": "دولار",
+      "example_en": "The price is quoted in dollars.",
+      "example_ar": "السعر مذكور بالدولار."
+    },
+    {
+      "word_en": "euro",
+      "word_ar": "يورو",
+      "example_en": "You can exchange dollars for euros at the bank.",
+      "example_ar": "يمكنك استبدال الدولار باليورو في البنك."
+    },
+    {
+      "word_en": "pound",
+      "word_ar": "جنيه",
+      "example_en": "The price is in pounds because we're in the UK.",
+      "example_ar": "السعر بالجنيه لأننا في المملكة المتحدة."
+    },
+    {
+      "word_en": "cent",
+      "word_ar": "سنت",
+      "example_en": "It costs ninety-nine cents.",
+      "example_ar": "يكلف تسعة وتسعين سنتاً."
+    },
+    {
+      "word_en": "penny",
+      "word_ar": "قرش",
+      "example_en": "She found a lucky penny on the sidewalk.",
+      "example_ar": "وجدت قرشاً محظوظاً على الرصيف."
+    },
+    {
+      "word_en": "check",
+      "word_ar": "شيك",
+      "example_en": "He paid by check.",
+      "example_ar": "دفع بالشيك."
+    },
+    {
+      "word_en": "receipt",
+      "word_ar": "إيصال",
+      "example_en": "Make sure to keep your receipt in case you need to return the item.",
+      "example_ar": "تأكد من الاحتفاظ بإيصالك في حالة الحاجة إلى إرجاع العنصر."
+    },
+    {
+      "word_en": "bill",
+      "word_ar": "فاتورة",
+      "example_en": "The waiter brought the bill after we finished our meal.",
+      "example_ar": "جلب النادل الفاتورة بعد انتهائنا من تناول الطعام."
+    },
+    {
+      "word_en": "price",
+      "word_ar": "السعر",
+      "example_en": "What's the price of this shirt?",
+      "example_ar": "ما هو سعر هذا القميص؟"
+    },
+    {
+      "word_en": "cost",
+      "word_ar": "التكلفة",
+      "example_en": "The cost of living in this city is quite high.",
+      "example_ar": "تكلفة المعيشة في هذه المدينة مرتفعة جداً."
+    },
+    {
+      "word_en": "shopping",
+      "word_ar": "التسوق",
+      "example_en": "I enjoy shopping for clothes.",
+      "example_ar": "أحب التسوق للملابس."
+    },
+    {
+      "word_en": "store",
+      "word_ar": "متجر",
+      "example_en": "There's a new store opening downtown.",
+      "example_ar": "هناك متجر جديد يفتتح في وسط المدينة."
+    },
+    {
+      "word_en": "clothes store",
+      "word_ar": "متجر الملابس",
+      "example_en": "Let's go to the clothes store and see what they have.",
+      "example_ar": "لنذهب إلى متجر الملابس ونرى ما لديهم."
+    },
+    {
+      "word_en": "shopping bag",
+      "word_ar": "حقيبة التسوق",
+      "example_en": "Don't forget to bring your shopping bags to the grocery store.",
+      "example_ar": "لا تنسى إحضار حقيبة التسوق الخاصة بك إلى السوبر ماركت."
+    },
+    {
+      "word_en": "sale",
+      "word_ar": "تخفيض",
+      "example_en": "There's a big sale at the mall this weekend.",
+      "example_ar": "هناك تخفيض كبير في المركز التجاري هذا العطلة."
+    },
+    {
+      "word_en": "cart",
+      "word_ar": "عربة",
+      "example_en": "She filled her cart with groceries at the supermarket.",
+      "example_ar": "ملأت عربتها بالمشتريات في السوبر ماركت."
+    },
+    {
+      "word_en": "advertisement",
+      "word_ar": "إعلان",
+      "example_en": "The advertisement caught my attention.",
+      "example_ar": "الإعلان لفت انتباهي."
+    },
+    {
+      "word_en": "available",
+      "word_ar": "متوفر",
+      "example_en": "The new product will be available next month.",
+      "example_ar": "المنتج الجديد سيكون متوفراً الشهر المقبل."
+    },
+    {
+      "word_en": "free",
+      "word_ar": "مجاني",
+      "example_en": "The event is free for everyone to attend.",
+      "example_ar": "الحدث مجاني للجميع لحضوره."
+    },
+    {
+      "word_en": "open",
+      "word_ar": "مفتوح",
+      "example_en": "The store is open until 10 PM.",
+      "example_ar": "المتجر مفتوح حتى الساعة 10 مساءً."
+    },
+    {
+      "word_en": "closed",
+      "word_ar": "مغلق",
+      "example_en": "The restaurant is closed on Mondays.",
+      "example_ar": "المطعم مغلق يوم الاثنين."
+    },
+    {
+      "word_en": "spend",
+      "word_ar": "ينفق",
+      "example_en": "I tend to spend too much money when I go shopping.",
+      "example_ar": "أميل إلى إنفاق الكثير من المال عندما أذهب للتسوق."
+    },
+    {
+      "word_en": "offer",
+      "word_ar": "عرض",
+      "example_en": "They have a special offer on electronics this week.",
+      "example_ar": "لديهم عرض خاص على الإلكترونيات هذا الأسبوع."
+    },
+    {
+      "word_en": "save",
+      "word_ar": "يوفر",
+      "example_en": "You can save money by buying in bulk.",
+      "example_ar": "يمكنك توفير المال عن طريق الشراء بالجملة."
+    },
+    {
+      "word_en": "amount",
+      "word_ar": "الكمية",
+      "example_en": "Please enter the amount you wish to pay.",
+      "example_ar": "الرجاء إدخال المبلغ الذي ترغب في دفعه."
+    },
+    {
+      "word_en": "shopping center",
+      "word_ar": "مركز تسوق",
+      "example_en": "Let's meet at the shopping center at 3 PM.",
+      "example_ar": "لنلتقي في مركز التسوق في الساعة 3 مساءً."
+    },
+    {
+      "word_en": "department",
+      "word_ar": "قسم",
+      "example_en": "The electronics department is on the second floor.",
+      "example_ar": "قسم الإلكترونيات في الطابق الثاني."
+    },
+    {
+      "word_en": "customer",
+      "word_ar": "زبون",
+      "example_en": "The customer complained about the service.",
+      "example_ar": "اشتكى الزبون من الخدمة."
+    },
+    {
+      "word_en": "item",
+      "word_ar": "عنصر",
+      "example_en": "Please return the item if you're not satisfied.",
+      "example_ar": "الرجاء إرجاع العنصر إذا لم تكن راضياً."
+    }
+  ]
+}
