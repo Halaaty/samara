@@ -1,0 +1,172 @@
+{
+  "words": [
+    {
+      "word_en": "breeze",
+      "word_ar": "نسيم",
+      "example_en": "The breeze felt refreshing on a hot day.",
+      "example_ar": "كانت النسيم منعشة في يوم حار."
+    },
+    {
+      "word_en": "blizzard",
+      "word_ar": "عاصفة ثلجية",
+      "example_en": "The blizzard covered the town in snow.",
+      "example_ar": "غطت العاصفة الثلجية المدينة بالثلج."
+    },
+    {
+      "word_en": "change",
+      "word_ar": "تغيير",
+      "example_en": "We can expect a change in the weather tomorrow.",
+      "example_ar": "يمكننا توقع تغيير في الطقس غدًا."
+    },
+    {
+      "word_en": "dark",
+      "word_ar": "داكن",
+      "example_en": "It gets dark early in the winter.",
+      "example_ar": "يصبح الظلام مبكرًا في الشتاء."
+    },
+    {
+      "word_en": "dry",
+      "word_ar": "جاف",
+      "example_en": "The desert climate is typically dry.",
+      "example_ar": "يكون مناخ الصحراء عادة جافًا."
+    },
+    {
+      "word_en": "mild",
+      "word_ar": "لطيف",
+      "example_en": "We're expecting mild temperatures next week.",
+      "example_ar": "نتوقع درجات حرارة لطيفة الأسبوع القادم."
+    },
+    {
+      "word_en": "light",
+      "word_ar": "خفيف",
+      "example_en": "There was a light breeze blowing through the trees.",
+      "example_ar": "كان هناك نسيم خفيف يتوهج من خلال الأشجار."
+    },
+    {
+      "word_en": "wet",
+      "word_ar": "مبلل",
+      "example_en": "Remember to bring an umbrella, it's wet outside.",
+      "example_ar": "تذكر أن تحضر مظلة، الجو مبلل خارجًا."
+    },
+    {
+      "word_en": "chilly",
+      "word_ar": "بارد",
+      "example_en": "It's chilly outside, so wear a jacket.",
+      "example_ar": "الجو بارد خارجًا، لذا ارتدي معطفًا."
+    },
+    {
+      "word_en": "stormy",
+      "word_ar": "عاصف",
+      "example_en": "The forecast predicts stormy weather tonight.",
+      "example_ar": "يتنبأ التوقعات بطقس عاصف هذه الليلة."
+    },
+    {
+      "word_en": "severe",
+      "word_ar": "شديد",
+      "example_en": "We experienced severe weather conditions during the hurricane.",
+      "example_ar": "شهدنا ظروفًا جوية شديدة أثناء الإعصار."
+    },
+    {
+      "word_en": "snowy",
+      "word_ar": "مثلج",
+      "example_en": "The landscape becomes beautiful when it's snowy.",
+      "example_ar": "تصبح المناظر الطبيعية جميلة عندما يكون الجو مثلجًا."
+    },
+    {
+      "word_en": "clear",
+      "word_ar": "صافي",
+      "example_en": "The sky is clear today, perfect for stargazing.",
+      "example_ar": "السماء صافية اليوم، مثالية لمشاهدة النجوم."
+    },
+    {
+      "word_en": "foggy",
+      "word_ar": "ضبابي",
+      "example_en": "The morning was foggy, making it difficult to see.",
+      "example_ar": "كان الصباح ضبابيًا، مما جعل الرؤية صعبة."
+    },
+    {
+      "word_en": "heat",
+      "word_ar": "حرارة",
+      "example_en": "The heat of summer can be unbearable.",
+      "example_ar": "يمكن أن تكون حرارة الصيف لا تطاق."
+    },
+    {
+      "word_en": "rain",
+      "word_ar": "مطر",
+      "example_en": "Bring an umbrella, it's going to rain.",
+      "example_ar": "أحضر مظلة، ستمطر."
+    },
+    {
+      "word_en": "snow",
+      "word_ar": "ثلج",
+      "example_en": "It rarely snows in this region.",
+      "example_ar": "نادرًا ما يتساقط الثلج في هذه المنطقة."
+    },
+    {
+      "word_en": "warm",
+      "word_ar": "دافئ",
+      "example_en": "The weather is warm and sunny today.",
+      "example_ar": "الجو دافئ ومشمس اليوم."
+    },
+    {
+      "word_en": "awful",
+      "word_ar": "رهيب",
+      "example_en": "The weather was awful during our vacation.",
+      "example_ar": "كان الطقس رهيبًا خلال عطلتنا."
+    },
+    {
+      "word_en": "freezing",
+      "word_ar": "تجمد",
+      "example_en": "It's freezing outside, don't forget your coat.",
+      "example_ar": "الجو يتجمد خارجًا، لا تنسى معطفك."
+    },
+    {
+      "word_en": "air",
+      "word_ar": "هواء",
+      "example_en": "The air was crisp and cool in the morning.",
+      "example_ar": "كان الهواء نقيًا وباردًا في الصباح."
+    },
+    {
+      "word_en": "climate",
+      "word_ar": "مناخ",
+      "example_en": "The city has a mild climate throughout the year.",
+      "example_ar": "المدينة لديها مناخ لطيف طوال العام."
+    },
+    {
+      "word_en": "condition",
+      "word_ar": "حالة",
+      "example_en": "The weather condition was perfect for outdoor activities.",
+      "example_ar": "كانت حالة الطقس مثالية للأنشطة في الهواء الطلق."
+    },
+    {
+      "word_en": "hail",
+      "word_ar": "برد",
+      "example_en": "The storm brought heavy hail.",
+      "example_ar": "أحضرت العاصفة بردًا ثقيلاً."
+    },
+    {
+      "word_en": "storm",
+      "word_ar": "عاصفة",
+      "example_en": "The storm caused damage to many buildings.",
+      "example_ar": "تسببت العاصفة في تدمير العديد من المباني."
+    },
+    {
+      "word_en": "wind",
+      "word_ar": "رياح",
+      "example_en": "The wind was blowing strongly.",
+      "example_ar": "كانت الرياح تهب بقوة."
+    },
+    {
+      "word_en": "heat",
+      "word_ar": "حر",
+      "example_en": "The heat of the desert was unbearable.",
+      "example_ar": "كان حر الصحراء لا يُطاق."
+    },
+    {
+      "word_en": "fog",
+      "word_ar": "ضباب",
+      "example_en": "The fog made it difficult to see the road.",
+      "example_ar": "جعل الضباب من الصعب رؤية الطريق."
+    }
+  ]
+}
