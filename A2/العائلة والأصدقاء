@@ -1,0 +1,136 @@
+{
+  "words": [
+    {
+      "word_en": "marry",
+      "word_ar": "يتزوج",
+      "example_en": "They decided to marry in the spring.",
+      "example_ar": "قرروا الزواج في الربيع."
+    },
+    {
+      "word_en": "group",
+      "word_ar": "مجموعة",
+      "example_en": "She joined a study group for her biology class.",
+      "example_ar": "انضمت إلى مجموعة دراسة لمادة الأحياء."
+    },
+    {
+      "word_en": "break up",
+      "word_ar": "ينفصل",
+      "example_en": "After many arguments, they finally decided to break up.",
+      "example_ar": "بعد العديد من الخلافات، قرروا أخيرًا الانفصال."
+    },
+    {
+      "word_en": "kid",
+      "word_ar": "طفل",
+      "example_en": "The kids played in the park until sunset.",
+      "example_ar": "لعب الأطفال في الحديقة حتى غروب الشمس."
+    },
+    {
+      "word_en": "miss",
+      "word_ar": "آنسة",
+      "example_en": "Miss Johnson is our new math teacher.",
+      "example_ar": "الآنسة جونسون معلمة الرياضيات الجديدة لدينا."
+    },
+    {
+      "word_en": "twin",
+      "word_ar": "توأم",
+      "example_en": "Tom and Tim are identical twins.",
+      "example_ar": "توم وتيم توأمان متطابقان."
+    },
+    {
+      "word_en": "care",
+      "word_ar": "يرعى",
+      "example_en": "She took great care of her garden.",
+      "example_ar": "أعتنت بحديقتها بشكل كبير."
+    },
+    {
+      "word_en": "mommy",
+      "word_ar": "أمي",
+      "example_en": "Mommy baked cookies for the school bake sale.",
+      "example_ar": "أمي خبزت الكعك لبيعها في المدرسة."
+    },
+    {
+      "word_en": "grandson",
+      "word_ar": "حفيد",
+      "example_en": "My grandson loves playing soccer.",
+      "example_ar": "حفيدي يحب لعب كرة القدم."
+    },
+    {
+      "word_en": "daddy",
+      "word_ar": "أبي",
+      "example_en": "Daddy taught me how to ride a bike.",
+      "example_ar": "أبي علمني كيف أركب الدراجة."
+    },
+    {
+      "word_en": "neighbor",
+      "word_ar": "جار",
+      "example_en": "Our new neighbors invited us over for dinner.",
+      "example_ar": "جيراننا الجدد دعونا للعشاء عندهم."
+    },
+    {
+      "word_en": "middle name",
+      "word_ar": "الاسم الثاني",
+      "example_en": "Her middle name is Elizabeth.",
+      "example_ar": "اسمها الثاني إليزابيث."
+    },
+    {
+      "word_en": "pen pal",
+      "word_ar": "صديق بريدي",
+      "example_en": "She has a pen pal in Japan.",
+      "example_ar": "لديها صديق بريدي في اليابان."
+    },
+    {
+      "word_en": "grow",
+      "word_ar": "ينمو",
+      "example_en": "Plants need sunlight to grow.",
+      "example_ar": "تحتاج النباتات إلى أشعة الشمس للنمو."
+    },
+    {
+      "word_en": "family name",
+      "word_ar": "اسم العائلة",
+      "example_en": "My family name is Smith.",
+      "example_ar": "اسم عائلتي سميث."
+    },
+    {
+      "word_en": "partner",
+      "word_ar": "شريك",
+      "example_en": "She's been my partner in business for ten years.",
+      "example_ar": "كانت شريكتي في العمل لمدة عشر سنوات."
+    },
+    {
+      "word_en": "raise",
+      "word_ar": "يربي",
+      "example_en": "She raised three children on her own.",
+      "example_ar": "ربت ثلاثة أطفال بمفردها."
+    },
+    {
+      "word_en": "grandparent",
+      "word_ar": "جد/جدة",
+      "example_en": "My grandparents live in the countryside.",
+      "example_ar": "جداي يعيشان في الريف."
+    },
+    {
+      "word_en": "grandpa",
+      "word_ar": "جدي",
+      "example_en": "Grandpa tells the best stories.",
+      "example_ar": "جدي يحكي أفضل القصص."
+    },
+    {
+      "word_en": "dude",
+      "word_ar": "صاحبي",
+      "example_en": "Hey dude, what's up?",
+      "example_ar": "مرحبًا يا صاحبي، كيف الأمور؟"
+    },
+    {
+      "word_en": "guest",
+      "word_ar": "ضيف",
+      "example_en": "We had many guests at the party.",
+      "example_ar": "كان لدينا العديد من الضيوف في الحفلة."
+    },
+    {
+      "word_en": "background",
+      "word_ar": "خلفية",
+      "example_en": "She comes from an artistic background.",
+      "example_ar": "تأتي من خلفية فنية."
+    }
+  ]
+}
