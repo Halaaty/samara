@@ -1,0 +1,142 @@
+{
+  "words": [
+    {
+      "word_en": "building",
+      "word_ar": "بناء",
+      "example_en": "The building was made of red bricks.",
+      "example_ar": "كان البناء مصنوعًا من الطوب الأحمر."
+    },
+    {
+      "word_en": "house",
+      "word_ar": "منزل",
+      "example_en": "They have a beautiful house in the countryside.",
+      "example_ar": "لديهم منزل جميل في الريف."
+    },
+    {
+      "word_en": "home",
+      "word_ar": "منزل",
+      "example_en": "There's no place like home.",
+      "example_ar": "لا مكان كالمنزل."
+    },
+    {
+      "word_en": "apartment",
+      "word_ar": "شقة",
+      "example_en": "She lives in a small apartment in the city.",
+      "example_ar": "تعيش في شقة صغيرة في المدينة."
+    },
+    {
+      "word_en": "floor",
+      "word_ar": "طابق",
+      "example_en": "Their apartment is on the fifth floor.",
+      "example_ar": "شقتهم في الطابق الخامس."
+    },
+    {
+      "word_en": "door",
+      "word_ar": "باب",
+      "example_en": "Please close the door behind you.",
+      "example_ar": "يرجى إغلاق الباب خلفك."
+    },
+    {
+      "word_en": "window",
+      "word_ar": "نافذة",
+      "example_en": "She opened the window to let in some fresh air.",
+      "example_ar": "فتحت النافذة لتدخل الهواء النقي."
+    },
+    {
+      "word_en": "wall",
+      "word_ar": "جدار",
+      "example_en": "They painted the walls white.",
+      "example_ar": "لقد طليوا الجدران بالأبيض."
+    },
+    {
+      "word_en": "room",
+      "word_ar": "غرفة",
+      "example_en": "Her room is tidy and organized.",
+      "example_ar": "غرفتها نظيفة ومنظمة."
+    },
+    {
+      "word_en": "roof",
+      "word_ar": "سقف",
+      "example_en": "The snow was melting on the roof.",
+      "example_ar": "كان الثلج يذوب على السطح."
+    },
+    {
+      "word_en": "ceiling",
+      "word_ar": "سقف",
+      "example_en": "The spider crawled across the ceiling.",
+      "example_ar": "زحلق العنكبوت عبر السقف."
+    },
+    {
+      "word_en": "living room",
+      "word_ar": "غرفة المعيشة",
+      "example_en": "We spent the evening in the living room.",
+      "example_ar": "قضينا الليلة في غرفة المعيشة."
+    },
+    {
+      "word_en": "dining room",
+      "word_ar": "غرفة الطعام",
+      "example_en": "They had a family dinner in the dining room.",
+      "example_ar": "كان لديهم عشاء عائلي في غرفة الطعام."
+    },
+    {
+      "word_en": "kitchen",
+      "word_ar": "مطبخ",
+      "example_en": "She's cooking dinner in the kitchen.",
+      "example_ar": "هي تطبخ العشاء في المطبخ."
+    },
+    {
+      "word_en": "bedroom",
+      "word_ar": "غرفة نوم",
+      "example_en": "Their bedroom is painted blue.",
+      "example_ar": "غرفة نومهم مطلية باللون الأزرق."
+    },
+    {
+      "word_en": "bathroom",
+      "word_ar": "حمام",
+      "example_en": "The bathroom sink is leaking.",
+      "example_ar": "حوض الحمام يتسرب."
+    },
+    {
+      "word_en": "garden",
+      "word_ar": "حديقة",
+      "example_en": "They have a beautiful garden with flowers and trees.",
+      "example_ar": "لديهم حديقة جميلة مع الزهور والأشجار."
+    },
+    {
+      "word_en": "upstairs",
+      "word_ar": "في الطابق العلوي",
+      "example_en": "The bedrooms are upstairs.",
+      "example_ar": "الغرف نحو الطابق العلوي."
+    },
+    {
+      "word_en": "downstairs",
+      "word_ar": "في الطابق السفلي",
+      "example_en": "The kitchen is downstairs.",
+      "example_ar": "المطبخ نحو الطابق السفلي."
+    },
+    {
+      "word_en": "closet",
+      "word_ar": "خزانة",
+      "example_en": "She hung her clothes in the closet.",
+      "example_ar": "علقت ملابسها في الخزانة."
+    },
+    {
+      "word_en": "part",
+      "word_ar": "جزء",
+      "example_en": "The house has a separate part for guests.",
+      "example_ar": "المنزل له جزء منفصل للضيوف."
+    },
+    {
+      "word_en": "elevator",
+      "word_ar": "مصعد",
+      "example_en": "Take the elevator to the tenth floor.",
+      "example_ar": "استخدم المصعد للوصول إلى الطابق العاشر."
+    },
+    {
+      "word_en": "yard",
+      "word_ar": "فناء",
+      "example_en": "They had a barbecue in the yard.",
+      "example_ar": "كان لديهم حفل شواء في الفناء."
+    }
+  ]
+}
