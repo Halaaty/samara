@@ -1,0 +1,178 @@
+{
+  "words": [
+    {
+      "word_en": "exercise",
+      "word_ar": "تمرين",
+      "example_en": "She does regular exercise to stay fit.",
+      "example_ar": "تمارس التمارين الرياضية بانتظام للحفاظ على لياقتها."
+    },
+    {
+      "word_en": "field",
+      "word_ar": "ميدان",
+      "example_en": "The soccer match will be held at the field.",
+      "example_ar": "سيُقام المباراة في الميدان."
+    },
+    {
+      "word_en": "kick",
+      "word_ar": "ركلة",
+      "example_en": "He scored a goal with a powerful kick.",
+      "example_ar": "سجل هدفاً بركلة قوية."
+    },
+    {
+      "word_en": "throw",
+      "word_ar": "رمي",
+      "example_en": "He can throw the ball very far.",
+      "example_ar": "يستطيع رمي الكرة بعيداً جداً."
+    },
+    {
+      "word_en": "baseball",
+      "word_ar": "البيسبول",
+      "example_en": "They play baseball in the park.",
+      "example_ar": "يُلعب البيسبول في الحديقة."
+    },
+    {
+      "word_en": "hit",
+      "word_ar": "ضرب",
+      "example_en": "She hit the ball with a tennis racket.",
+      "example_ar": "ضربت الكرة بمضرب التنس."
+    },
+    {
+      "word_en": "catch",
+      "word_ar": "التقاط",
+      "example_en": "He caught the ball with one hand.",
+      "example_ar": "أمسك الكرة بيد واحدة."
+    },
+    {
+      "word_en": "hockey",
+      "word_ar": "هوكي",
+      "example_en": "They practice hockey on the ice.",
+      "example_ar": "يمارسون لعبة الهوكي على الجليد."
+    },
+    {
+      "word_en": "golf",
+      "word_ar": "جولف",
+      "example_en": "He enjoys playing golf on the weekends.",
+      "example_ar": "يستمتع بلعب الجولف في عطلة نهاية الأسبوع."
+    },
+    {
+      "word_en": "rugby",
+      "word_ar": "رجبي",
+      "example_en": "Rugby is a popular sport in many countries.",
+      "example_ar": "الرجبي هو رياضة شعبية في العديد من البلدان."
+    },
+    {
+      "word_en": "cricket",
+      "word_ar": "لعبة الكريكيت",
+      "example_en": "They play cricket in the backyard.",
+      "example_ar": "يُلعب الكريكيت في الفناء الخلفي."
+    },
+    {
+      "word_en": "diving",
+      "word_ar": "الغوص",
+      "example_en": "She enjoys scuba diving in the ocean.",
+      "example_ar": "تستمتع بالغوص بالغطس الذي يستخدم فيه تجهيزات في البحر."
+    },
+    {
+      "word_en": "dive",
+      "word_ar": "الغوص",
+      "example_en": "He made a graceful dive into the pool.",
+      "example_ar": "قام بغوصة أنيقة في المسبح."
+    },
+    {
+      "word_en": "training",
+      "word_ar": "تدريب",
+      "example_en": "He undergoes rigorous training for the marathon.",
+      "example_ar": "يخضع لتدريب شاق لسباق الماراثون."
+    },
+    {
+      "word_en": "train",
+      "word_ar": "تدريب",
+      "example_en": "She trains hard to improve her skills.",
+      "example_ar": "تتدرب بجد لتحسين مهاراتها."
+    },
+    {
+      "word_en": "competition",
+      "word_ar": "مسابقة",
+      "example_en": "She won the competition with her outstanding performance.",
+      "example_ar": "فازت بالمسابقة بفضل أداءها المتميز."
+    },
+    {
+      "word_en": "compete",
+      "word_ar": "تتنافس",
+      "example_en": "They compete in the annual marathon.",
+      "example_ar": "يتنافسون في الماراثون السنوي."
+    },
+    {
+      "word_en": "jogging",
+      "word_ar": "ركض",
+      "example_en": "She enjoys morning jogging to stay fit.",
+      "example_ar": "تستمتع بالركض في الصباح الباكر للبقاء في حالة صحية جيدة."
+    },
+    {
+      "word_en": "jog",
+      "word_ar": "ركض",
+      "example_en": "He likes to jog in the park.",
+      "example_ar": "يحب الركض في الحديقة."
+    },
+    {
+      "word_en": "climbing",
+      "word_ar": "تسلق",
+      "example_en": "They practice climbing on the mountain.",
+      "example_ar": "يمارسون تسلق الجبال."
+    },
+    {
+      "word_en": "climb",
+      "word_ar": "تسلق",
+      "example_en": "He can climb to the top of the tree.",
+      "example_ar": "يمكنه تسلق قمة الشجرة."
+    },
+    {
+      "word_en": "player",
+      "word_ar": "لاعب",
+      "example_en": "He is a talented basketball player.",
+      "example_ar": "هو لاعب كرة سلة موهوب."
+    },
+    {
+      "word_en": "goal",
+      "word_ar": "هدف",
+      "example_en": "She scored a goal in the soccer match.",
+      "example_ar": "سجلت هدفاً في مباراة كرة القدم."
+    },
+    {
+      "word_en": "score",
+      "word_ar": "التسجيل",
+      "example_en": "He scored the winning goal in the final.",
+      "example_ar": "سجل هدف الفوز في المباراة النهائية."
+    },
+    {
+      "word_en": "coach",
+      "word_ar": "مدرب",
+      "example_en": "The coach motivates the team before the match.",
+      "example_ar": "يحفز المدرب الفريق قبل المباراة."
+    },
+    {
+      "word_en": "athlete",
+      "word_ar": "رياضي",
+      "example_en": "She is a professional athlete.",
+      "example_ar": "هي رياضية محترفة."
+    },
+    {
+      "word_en": "cup",
+      "word_ar": "كأس",
+      "example_en": "They won the championship cup.",
+      "example_ar": "فازوا بكأس البطولة."
+    },
+    {
+      "word_en": "tired",
+      "word_ar": "متعب",
+      "example_en": "After the race, he felt very tired.",
+      "example_ar": "بعد السباق، شعر بالتعب الشديد."
+    },
+    {
+      "word_en": "join",
+      "word_ar": "انضم",
+      "example_en": "She decided to join the marathon.",
+      "example_ar": "قررت الانضمام إلى سباق الماراثون."
+    }
+  ]
+}
