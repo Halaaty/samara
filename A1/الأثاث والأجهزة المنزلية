@@ -1,0 +1,76 @@
+{
+  "words": [
+    {
+      "word_en": "table",
+      "word_ar": "طاولة",
+      "example_en": "They gathered around the table for dinner.",
+      "example_ar": "تجمعوا حول الطاولة لتناول العشاء."
+    },
+    {
+      "word_en": "sofa",
+      "word_ar": "صوفا",
+      "example_en": "She lounged on the sofa, reading a book.",
+      "example_ar": "استرخت على الصوفا، تقرأ كتابًا."
+    },
+    {
+      "word_en": "cabinet",
+      "word_ar": "خزانة",
+      "example_en": "She stored her dishes in the cabinet.",
+      "example_ar": "حفظت أطباقها في الخزانة."
+    },
+    {
+      "word_en": "chair",
+      "word_ar": "كرسي",
+      "example_en": "He pulled up a chair and sat down at the table.",
+      "example_ar": "جلب كرسيًا وجلس على الطاولة."
+    },
+    {
+      "word_en": "refrigerator",
+      "word_ar": "ثلاجة",
+      "example_en": "She put the groceries in the refrigerator.",
+      "example_ar": "وضعت المشتريات في الثلاجة."
+    },
+    {
+      "word_en": "carpet",
+      "word_ar": "سجادة",
+      "example_en": "They rolled out a new carpet in the living room.",
+      "example_ar": "فرشوا سجادة جديدة في غرفة المعيشة."
+    },
+    {
+      "word_en": "television",
+      "word_ar": "تلفاز",
+      "example_en": "They watched a movie together on television.",
+      "example_ar": "شاهدوا فيلمًا معًا على التلفاز."
+    },
+    {
+      "word_en": "desk",
+      "word_ar": "مكتب",
+      "example_en": "She sat at her desk, ready to start her work.",
+      "example_ar": "جلست على مكتبها، مستعدة لبدء عملها."
+    },
+    {
+      "word_en": "rug",
+      "word_ar": "سجادة",
+      "example_en": "They bought a colorful rug for the hallway.",
+      "example_ar": "اشتروا سجادة ملونة للردهة."
+    },
+    {
+      "word_en": "bed",
+      "word_ar": "سرير",
+      "example_en": "She crawled into bed and fell asleep quickly.",
+      "example_ar": "زحفت إلى السرير ونامت بسرعة."
+    },
+    {
+      "word_en": "stove",
+      "word_ar": "موقد",
+      "example_en": "She cooked dinner on the stove.",
+      "example_ar": "طهت العشاء على الموقد."
+    },
+    {
+      "word_en": "furniture",
+      "word_ar": "أثاث",
+      "example_en": "They moved the furniture around to make more space.",
+      "example_ar": "حركوا الأثاث لصنع المزيد من المساحة."
+    }
+  ]
+}
