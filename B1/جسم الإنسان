@@ -1,0 +1,154 @@
+{
+  "words": [
+    {
+      "word_en": "hearing",
+      "example_en": "His hearing has improved after the surgery.",
+      "word_ar": "سمع",
+      "example_ar": "تحسن سمعه بعد الجراحة."
+    },
+    {
+      "word_en": "armpit",
+      "example_en": "She applied deodorant to her armpit.",
+      "word_ar": "إبط",
+      "example_ar": "وضعت مزيل العرق على إبطها."
+    },
+    {
+      "word_en": "taste",
+      "example_en": "This soup has a strange taste.",
+      "word_ar": "مذاق",
+      "example_ar": "هذه الحساء له مذاق غريب."
+    },
+    {
+      "word_en": "thumb",
+      "example_en": "He accidentally hit his thumb with a hammer.",
+      "word_ar": "إبهام اليد",
+      "example_ar": "ضرب إبهام يده بالمطرقة بالخطأ."
+    },
+    {
+      "word_en": "toenail",
+      "example_en": "She painted her toenails red.",
+      "word_ar": "ظفر القدم",
+      "example_ar": "طليت أظافر قدميها باللون الأحمر."
+    },
+    {
+      "word_en": "sight",
+      "example_en": "The sight of the mountains took her breath away.",
+      "word_ar": "بصر",
+      "example_ar": "أخذ منظر الجبال أنفاسها."
+    },
+    {
+      "word_en": "temple",
+      "example_en": "He rubbed his temple to ease the headache.",
+      "word_ar": "مقدمة الرأس",
+      "example_ar": "فرك مقدمة رأسه لتخفيف الصداع."
+    },
+    {
+      "word_en": "waist",
+      "example_en": "She tied the belt around her waist.",
+      "word_ar": "خصر",
+      "example_ar": "ربطت الحزام حول خصرها."
+    },
+    {
+      "word_en": "joint",
+      "example_en": "He injured his knee joint while playing football.",
+      "word_ar": "مفصل",
+      "example_ar": "أصيب بمفصل ركبته أثناء لعب كرة القدم."
+    },
+    {
+      "word_en": "circulation",
+      "example_en": "Exercise improves blood circulation.",
+      "word_ar": "دوران الدم",
+      "example_ar": "التمرين يحسن دوران الدم."
+    },
+    {
+      "word_en": "hormone",
+      "example_en": "Hormonal changes can affect mood.",
+      "word_ar": "هرمون",
+      "example_ar": "يمكن أن تؤثر التغيرات الهرمونية على المزاج."
+    },
+    {
+      "word_en": "nerve",
+      "example_en": "The dentist hit a nerve while drilling.",
+      "word_ar": "عصب",
+      "example_ar": "أصاب الطبيب العصب أثناء الحفر."
+    },
+    {
+      "word_en": "sense",
+      "example_en": "She lost her sense of smell after the accident.",
+      "word_ar": "حاسة",
+      "example_ar": "فقدت حاسة الشم بعد الحادث."
+    },
+    {
+      "word_en": "rib",
+      "example_en": "He felt pain in his rib after the fall.",
+      "word_ar": "ضلع",
+      "example_ar": "شعر بألم في ضلعه بعد السقوط."
+    },
+    {
+      "word_en": "to catch (a) cold",
+      "example_en": "She caught a cold after getting soaked in the rain.",
+      "word_ar": "الإصابة بالبرد",
+      "example_ar": "أصابها البرد بعد البلل في المطر."
+    },
+    {
+      "word_en": "breathe",
+      "example_en": "Close your eyes and take a deep breath.",
+      "word_ar": "تنفس",
+      "example_ar": "أغلق عينيك وخذ نفسًا عميقًا."
+    },
+    {
+      "word_en": "smell",
+      "example_en": "The smell of flowers filled the room.",
+      "word_ar": "رائحة",
+      "example_ar": "ملأت رائحة الزهور الغرفة."
+    },
+    {
+      "word_en": "sole",
+      "example_en": "The sole of her foot was sore after the long walk.",
+      "word_ar": "نعل القدم",
+      "example_ar": "كان نعل قدمها مؤلمًا بعد المشي الطويل."
+    },
+    {
+      "word_en": "fingernail",
+      "example_en": "She painted her fingernails pink.",
+      "word_ar": "ظفر",
+      "example_ar": "طليت أظافرها باللون الوردي."
+    },
+    {
+      "word_en": "gesture",
+      "example_en": "He made a gesture of apology.",
+      "word_ar": "إيماءة",
+      "example_ar": "قدم إيماءة اعتذار."
+    },
+    {
+      "word_en": "blood sugar",
+      "example_en": "He checked his blood sugar level after eating.",
+      "word_ar": "سكر الدم",
+      "example_ar": "فحص مستوى سكر الدم بعد الأكل."
+    },
+    {
+      "word_en": "kidney stone",
+      "example_en": "The pain was caused by a kidney stone.",
+      "word_ar": "حصى الكلى",
+      "example_ar": "الألم ناجم عن حصى الكلى."
+    },
+    {
+      "word_en": "touch",
+      "example_en": "The touch of her hand was comforting.",
+      "word_ar": "لمس",
+      "example_ar": "كان لمس يدها مريحًا."
+    },
+    {
+      "word_en": "eyeball",
+      "example_en": "The optometrist examined her eyeball.",
+      "word_ar": "كرة العين",
+      "example_ar": "فحص طبيب العيون كرة عينها."
+    },
+    {
+      "word_en": "tissue",
+      "example_en": "The tissue around the wound was swollen.",
+      "word_ar": "نسيج",
+      "example_ar": "كان النسيج المحيط بالجرح منتفخًا."
+    }
+  ]
+}
