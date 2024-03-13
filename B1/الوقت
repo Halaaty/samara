@@ -1,0 +1,202 @@
+{
+  "words": [
+    {
+      "word_en": "late",
+      "example_en": "She arrived late to the party.",
+      "word_ar": "متأخر",
+      "example_ar": "وصلت متأخرة إلى الحفلة."
+    },
+    {
+      "word_en": "nighttime",
+      "example_en": "The city looks beautiful in nighttime.",
+      "word_ar": "وقت الليل",
+      "example_ar": "تبدو المدينة جميلة في وقت الليل."
+    },
+    {
+      "word_en": "while",
+      "example_en": "He read a book while waiting for the bus.",
+      "word_ar": "بينما",
+      "example_ar": "قرأ كتابًا بينما ينتظر الحافلة."
+    },
+    {
+      "word_en": "regularly",
+      "example_en": "She exercises regularly to stay fit.",
+      "word_ar": "بانتظام",
+      "example_ar": "تمارس الرياضة بانتظام للبقاء في حالة صحية جيدة."
+    },
+    {
+      "word_en": "afterward",
+      "example_en": "She regretted her decision afterward.",
+      "word_ar": "بعد ذلك",
+      "example_ar": "ندمت على قرارها بعد ذلك."
+    },
+    {
+      "word_en": "future",
+      "example_en": "We need to plan for the future.",
+      "word_ar": "المستقبل",
+      "example_ar": "نحن بحاجة للتخطيط للمستقبل."
+    },
+    {
+      "word_en": "instantly",
+      "example_en": "The pain disappeared instantly after taking the medicine.",
+      "word_ar": "في الحال",
+      "example_ar": "اختفى الألم في الحال بعد تناول الدواء."
+    },
+    {
+      "word_en": "meanwhile",
+      "example_en": "Meanwhile, he continued working on his project.",
+      "word_ar": "في الوقت نفسه",
+      "example_ar": "في الوقت نفسه، واصل العمل على مشروعه."
+    },
+    {
+      "word_en": "hourly",
+      "example_en": "The bus runs hourly.",
+      "word_ar": "بشكل ساعي",
+      "example_ar": "الحافلة تعمل بشكل ساعي."
+    },
+    {
+      "word_en": "far",
+      "example_en": "The nearest gas station is far from here.",
+      "word_ar": "بعيد",
+      "example_ar": "أقرب محطة وقود بعيدة من هنا."
+    },
+    {
+      "word_en": "regular",
+      "example_en": "She goes for regular walks in the morning.",
+      "word_ar": "منتظم",
+      "example_ar": "تذهب للمشي بانتظام في الصباح."
+    },
+    {
+      "word_en": "past",
+      "example_en": "He was much happier in the past.",
+      "word_ar": "الماضي",
+      "example_ar": "كان أكثر سعادة في الماضي."
+    },
+    {
+      "word_en": "daytime",
+      "example_en": "Most people are active during the daytime.",
+      "word_ar": "فترة النهار",
+      "example_ar": "معظم الناس نشطون خلال فترة النهار."
+    },
+    {
+      "word_en": "throughout",
+      "example_en": "He was restless throughout the night.",
+      "word_ar": "طوال",
+      "example_ar": "كان مضطربًا طوال الليل."
+    },
+    {
+      "word_en": "sudden",
+      "example_en": "They were caught off guard by the sudden change in weather.",
+      "word_ar": "مفاجئ",
+      "example_ar": "أُخِذوا بشكل غير متوقع بتغيير مفاجئ في الطقس."
+    },
+    {
+      "word_en": "daylight",
+      "example_en": "The robbery occurred in broad daylight.",
+      "word_ar": "ضوء النهار",
+      "example_ar": "حدثت السرقة في ضوء النهار."
+    },
+    {
+      "word_en": "at times",
+      "example_en": "He can be very helpful at times.",
+      "word_ar": "في بعض الأحيان",
+      "example_ar": "يمكن أن يكون مفيدًا للغاية في بعض الأحيان."
+    },
+    {
+      "word_en": "immediate",
+      "example_en": "They need immediate assistance.",
+      "word_ar": "فوري",
+      "example_ar": "يحتاجون إلى مساعدة فورية."
+    },
+    {
+      "word_en": "take",
+      "example_en": "The project will take six months to complete.",
+      "word_ar": "يستغرق",
+      "example_ar": "سيستغرق المشروع ستة أشهر للانتهاء."
+    },
+    {
+      "word_en": "all the time",
+      "example_en": "She talks on the phone all the time.",
+      "word_ar": "طوال الوقت",
+      "example_ar": "تتحدث في الهاتف طوال الوقت."
+    },
+    {
+      "word_en": "last",
+      "example_en": "The meeting lasted for three hours.",
+      "word_ar": "استمر",
+      "example_ar": "استمرت الاجتماع لثلاث ساعات."
+    },
+    {
+      "word_en": "present",
+      "example_en": "She is currently present in the meeting.",
+      "word_ar": "حاضر",
+      "example_ar": "هي حاليًا حاضرة في الاجتماع."
+    },
+    {
+      "word_en": "midday",
+      "example_en": "The sun was directly overhead at midday.",
+      "word_ar": "وقت الظهيرة",
+      "example_ar": "كانت الشمس مباشرة فوق الرأس في وقت الظهيرة."
+    },
+    {
+      "word_en": "ahead of time",
+      "example_en": "She finished her work ahead of time.",
+      "word_ar": "قبل الموعد",
+      "example_ar": "أنهت عملها قبل الموعد."
+    },
+    {
+      "word_en": "meanwhile",
+      "example_en": "Meanwhile, he continued working on his project.",
+      "word_ar": "في الوقت نفسه",
+      "example_ar": "في الوقت نفسه، واصل العمل على مشروعه."
+    },
+    {
+      "word_en": "daytime",
+      "example_en": "Most people are active during the daytime.",
+      "word_ar": "فترة النهار",
+      "example_ar": "معظم الناس نشطون خلال فترة النهار."
+    },
+    {
+      "word_en": "regularly",
+      "example_en": "She exercises regularly to stay fit.",
+      "word_ar": "بانتظام",
+      "example_ar": "تمارس الرياضة بانتظام للبقاء في حالة صحية جيدة."
+    },
+    {
+      "word_en": "far",
+      "example_en": "The nearest gas station is far from here.",
+      "word_ar": "بعيد",
+      "example_ar": "أقرب محطة وقود بعيدة من هنا."
+    },
+    {
+      "word_en": "instantly",
+      "example_en": "The pain disappeared instantly after taking the medicine.",
+      "word_ar": "في الحال",
+      "example_ar": "اختفى الألم في الحال بعد تناول الدواء."
+    },
+    {
+      "word_en": "past",
+      "example_en": "He was much happier in the past.",
+      "word_ar": "الماضي",
+      "example_ar": "كان أكثر سعادة في الماضي."
+    },
+    {
+      "word_en": "immediate",
+      "example_en": "They need immediate assistance.",
+      "word_ar": "فوري",
+      "example_ar": "يحتاجون إلى مساعدة فورية."
+    },
+    {
+      "word_en": "all the time",
+      "example_en": "She talks on the phone all the time.",
+      "word_ar": "طوال الوقت",
+      "example_ar": "تتحدث في الهاتف طوال الوقت."
+    },
+    {
+      "word_en": "throughout",
+      "example_en": "He was restless throughout the night.",
+      "word_ar": "طوال",
+      "example_ar": "كان مضطربًا طوال الليل."
+    }
+  ]
+}
