@@ -1,0 +1,148 @@
+{
+  "words": [
+    {
+      "word_en": "canyon",
+      "example_en": "The Grand Canyon is a famous natural landmark.",
+      "word_ar": "الوادي العميق",
+      "example_ar": "يُعتبر الوادي العميق من أشهر المعالم الطبيعية."
+    },
+    {
+      "word_en": "sea level",
+      "example_en": "The city is just above sea level.",
+      "word_ar": "مستوى سطح البحر",
+      "example_ar": "المدينة تقع قرب مستوى سطح البحر."
+    },
+    {
+      "word_en": "meadow",
+      "example_en": "The cows grazed peacefully in the meadow.",
+      "word_ar": "مرج",
+      "example_ar": "الأبقار كانت ترعى بسلام في المرج."
+    },
+    {
+      "word_en": "volcano",
+      "example_en": "Mount Vesuvius is an active volcano in Italy.",
+      "word_ar": "بركان",
+      "example_ar": "جبل فيزوف هو بركان نشط في إيطاليا."
+    },
+    {
+      "word_en": "rocky",
+      "example_en": "The trail became rocky as they ascended the mountain.",
+      "word_ar": "صخري",
+      "example_ar": "أصبحت الدرب صخريًا مع صعودهم الجبل."
+    },
+    {
+      "word_en": "coastline",
+      "example_en": "They enjoyed a scenic drive along the coastline.",
+      "word_ar": "الساحل",
+      "example_ar": "استمتعوا برحلة جميلة على طول الساحل."
+    },
+    {
+      "word_en": "Arctic",
+      "example_en": "Polar bears are well adapted to the harsh Arctic environment.",
+      "word_ar": "القطبية",
+      "example_ar": "الدببة القطبية قد تكيفت جيدًا مع البيئة القاسية في القطبية."
+    },
+    {
+      "word_en": "land",
+      "example_en": "The plane landed safely at the airport.",
+      "word_ar": "يهبط",
+      "example_ar": "هبط الطائرة بأمان في المطار."
+    },
+    {
+      "word_en": "woodland",
+      "example_en": "They went for a hike through the peaceful woodland.",
+      "word_ar": "غابة",
+      "example_ar": "ذهبوا للمشي في الغابة الهادئة."
+    },
+    {
+      "word_en": "waterfall",
+      "example_en": "The waterfall cascaded down the rocky cliff.",
+      "word_ar": "شلال",
+      "example_ar": "الشلال يتدفق بين الصخور."
+    },
+    {
+      "word_en": "mountain range",
+      "example_en": "The Andes is the longest mountain range in the world.",
+      "word_ar": "سلسلة جبلية",
+      "example_ar": "جبال الأنديز هي أطول سلسلة جبلية في العالم."
+    },
+    {
+      "word_en": "national park",
+      "example_en": "Yellowstone National Park is known for its geysers and wildlife.",
+      "word_ar": "منتزه وطني",
+      "example_ar": "يتميز متنزه يلوستون الوطني بين الينابيع الساخنة والحياة البرية."
+    },
+    {
+      "word_en": "jungle",
+      "example_en": "They explored the dense jungle in search of rare animals.",
+      "word_ar": "غابة",
+      "example_ar": "استكشفوا الغابة الكثيفة بحثًا عن الحيوانات النادرة."
+    },
+    {
+      "word_en": "highland",
+      "example_en": "The highland region is known for its breathtaking views.",
+      "word_ar": "مرتفعات",
+      "example_ar": "المنطقة المرتفعة معروفة بمناظرها الساحرة."
+    },
+    {
+      "word_en": "bank",
+      "example_en": "They enjoyed a picnic by the river bank.",
+      "word_ar": "ضفة النهر",
+      "example_ar": "استمتعوا بنزهة على ضفة النهر."
+    },
+    {
+      "word_en": "channel",
+      "example_en": "They navigated the narrow channel with caution.",
+      "word_ar": "قناة",
+      "example_ar": "تنقلوا عبر القناة الضيقة بحذر."
+    },
+    {
+      "word_en": "Antarctic",
+      "example_en": "Penguins are well adapted to the extreme conditions of the Antarctic.",
+      "word_ar": "القطب الجنوبي",
+      "example_ar": "البطاريق قد تكيفت جيدًا مع الظروف المتطرفة في القطب الجنوبي."
+    },
+    {
+      "word_en": "location",
+      "example_en": "The hotel has a prime location near the beach.",
+      "word_ar": "موقع",
+      "example_ar": "يحتوي الفندق على موقع متميز قرب الشاطئ."
+    },
+    {
+      "word_en": "mountainous",
+      "example_en": "They trekked through the mountainous terrain.",
+      "word_ar": "جبلي",
+      "example_ar": "ساروا عبر التضاريس الجبلية."
+    },
+    {
+      "word_en": "sand",
+      "example_en": "The children built sandcastles on the beach.",
+      "word_ar": "رمل",
+      "example_ar": "بنوا الأطفال قصورًا من الرمال على الشاطئ."
+    },
+    {
+      "word_en": "mud",
+      "example_en": "The path was covered in thick mud after the rain.",
+      "word_ar": "طين",
+      "example_ar": "غطى المسار بالطين السميك بعد الأمطار."
+    },
+    {
+      "word_en": "cliff",
+      "example_en": "They stood at the edge of the cliff, admiring the view.",
+      "word_ar": "منحدر",
+      "example_ar": "وقفوا على حافة المنحدر، يعجبون من المنظر."
+    },
+    {
+      "word_en": "canal",
+      "example_en": "The boat traveled along the narrow canal.",
+      "word_ar": "قناة",
+      "example_ar": "سافر القارب عبر القناة الضيقة."
+    },
+    {
+      "word_en": "location",
+      "example_en": "The hotel has a prime location near the beach.",
+      "word_ar": "موقع",
+      "example_ar": "يحتوي الفندق على موقع متميز قرب الشاطئ."
+    }
+  ]
+}
