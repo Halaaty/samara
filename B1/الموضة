@@ -1,0 +1,172 @@
+{
+  "words": [
+    {
+      "word_en": "bathing suit",
+      "example_en": "She bought a new bathing suit for her vacation.",
+      "word_ar": "ملابس السباحة",
+      "example_ar": "اشترت ملابس سباحة جديدة لعطلتها."
+    },
+    {
+      "word_en": "hoodie",
+      "example_en": "He wore a hoodie to stay warm in the chilly weather.",
+      "word_ar": "هودي",
+      "example_ar": "ارتدى هودي للبقاء دافئًا في الطقس البارد."
+    },
+    {
+      "word_en": "leather",
+      "example_en": "The jacket was made of soft, supple leather.",
+      "word_ar": "جلد",
+      "example_ar": "كانت السترة مصنوعة من جلد ناعم ومرن."
+    },
+    {
+      "word_en": "baggy",
+      "example_en": "He prefers wearing baggy pants for comfort.",
+      "word_ar": "فضفاض",
+      "example_ar": "يفضل ارتداء السراويل الفضفاضة للراحة."
+    },
+    {
+      "word_en": "sleeve",
+      "example_en": "She rolled up her sleeves and got to work.",
+      "word_ar": "كم",
+      "example_ar": "لفت أكمامها وبدأت العمل."
+    },
+    {
+      "word_en": "bra",
+      "example_en": "She bought a new bra that provides better support.",
+      "word_ar": "حمالة صدر",
+      "example_ar": "اشترت حمالة صدر جديدة توفر دعمًا أفضل."
+    },
+    {
+      "word_en": "pattern",
+      "example_en": "The dress had a floral pattern.",
+      "word_ar": "نمط",
+      "example_ar": "كانت الفستان له نمط زهري."
+    },
+    {
+      "word_en": "collar",
+      "example_en": "He adjusted his collar before stepping out.",
+      "word_ar": "ياقة",
+      "example_ar": "ضبط ياقته قبل الخروج."
+    },
+    {
+      "word_en": "backpack",
+      "example_en": "She packed her backpack with snacks for the hike.",
+      "word_ar": "حقيبة ظهر",
+      "example_ar": "حشدت حقيبة ظهرها بالوجبات الخفيفة للمشي لمسافات طويلة."
+    },
+    {
+      "word_en": "top",
+      "example_en": "She wore a colorful top with jeans.",
+      "word_ar": "قمة",
+      "example_ar": "ارتدت قمة ملونة مع جينز."
+    },
+    {
+      "word_en": "in",
+      "example_en": "Skinny jeans are in this season.",
+      "word_ar": "في الموضة",
+      "example_ar": "الجينز الضيق في الموضة هذا الموسم."
+    },
+    {
+      "word_en": "common",
+      "example_en": "Blue jeans are a common choice for everyday wear.",
+      "word_ar": "شائع",
+      "example_ar": "الجينز الأزرق هو خيار شائع للارتداء اليومي."
+    },
+    {
+      "word_en": "dress",
+      "example_en": "She wore a beautiful dress to the party.",
+      "word_ar": "فستان",
+      "example_ar": "ارتدت فستانًا جميلاً للحفلة."
+    },
+    {
+      "word_en": "fasten",
+      "example_en": "She struggled to fasten the buttons on her coat.",
+      "word_ar": "ربط",
+      "example_ar": "تكافحت لربط الأزرار على معطفها."
+    },
+    {
+      "word_en": "denim",
+      "example_en": "He wore denim jeans and a white T-shirt.",
+      "word_ar": "دينيم",
+      "example_ar": "ارتدى جينزًا دينيم وقميصًا أبيض."
+    },
+    {
+      "word_en": "fur",
+      "example_en": "She wore a coat trimmed with faux fur.",
+      "word_ar": "فرو",
+      "example_ar": "ارتدت معطفًا مزينًا بفرو صناعي."
+    },
+    {
+      "word_en": "suit",
+      "example_en": "He wore a tailored suit to the wedding.",
+      "word_ar": "بدلة",
+      "example_ar": "ارتدى بدلة مصممة لحضور الزفاف."
+    },
+    {
+      "word_en": "button",
+      "example_en": "She sewed the buttons back onto her shirt.",
+      "word_ar": "زر",
+      "example_ar": "خيطت الأزرار مرة أخرى على قميصها."
+    },
+    {
+      "word_en": "underpants",
+      "example_en": "He put on a clean pair of underpants.",
+      "word_ar": "سراويل داخلية",
+      "example_ar": "ارتدى زوجًا نظيفًا من السراويل الداخلية."
+    },
+    {
+      "word_en": "cotton",
+      "example_en": "The shirt was made of soft cotton.",
+      "word_ar": "قطن",
+      "example_ar": "كان القميص مصنوعًا من القطن الناعم."
+    },
+    {
+      "word_en": "stripe",
+      "example_en": "He wore a shirt with blue and white stripes.",
+      "word_ar": "شريط",
+      "example_ar": "ارتدى قميصًا بخطوط زرقاء وبيضاء."
+    },
+    {
+      "word_en": "design",
+      "example_en": "She studied fashion design in college.",
+      "word_ar": "تصميم",
+      "example_ar": "درست تصميم الأزياء في الكلية."
+    },
+    {
+      "word_en": "overcoat",
+      "example_en": "He wore a heavy overcoat to stay warm in the snow.",
+      "word_ar": "معطف خارجي",
+      "example_ar": "ارتدى معطفًا خارجيًا ثقيلًا للبقاء دافئًا في الثلج."
+    },
+    {
+      "word_en": "sweatshirt",
+      "example_en": "She put on a sweatshirt to go jogging.",
+      "word_ar": "سويت شيرت",
+      "example_ar": "ارتدت سويت شيرت للذهاب للجري."
+    },
+    {
+      "word_en": "wool",
+      "example_en": "The sweater was made of warm wool.",
+      "word_ar": "صوف",
+      "example_ar": "كان الكنزة مصنوعة من الصوف الدافئ."
+    },
+    {
+      "word_en": "trendy",
+      "example_en": "Chunky sneakers are trendy this year.",
+      "word_ar": "عصري",
+      "example_ar": "حذاء الرياضة السميكة عصري هذا العام."
+    },
+    {
+      "word_en": "cloth",
+      "example_en": "She bought a piece of cloth to make curtains.",
+      "word_ar": "قماش",
+      "example_ar": "اشترت قطعة قماش لصنع الستائر."
+    },
+    {
+      "word_en": "fur",
+      "example_en": "She wore a fur coat to keep warm in the winter.",
+      "word_ar": "فرو",
+      "example_ar": "ارتدت معطفًا من الفرو للبقاء دافئة في الشتاء."
+    }
+  ]
+}
