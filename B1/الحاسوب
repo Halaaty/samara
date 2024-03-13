@@ -1,0 +1,148 @@
+{
+  "words": [
+    {
+      "word_en": "window",
+      "example_en": "She opened the window to let in some fresh air.",
+      "word_ar": "نافذة",
+      "example_ar": "فتحت النافذة لتدخل بعض الهواء النقي."
+    },
+    {
+      "word_en": "install",
+      "example_en": "He needs to install the latest updates for the software.",
+      "word_ar": "تثبيت",
+      "example_ar": "يحتاج إلى تثبيت أحدث التحديثات للبرنامج."
+    },
+    {
+      "word_en": "connect",
+      "example_en": "The printer is not connecting to the network.",
+      "word_ar": "الاتصال",
+      "example_ar": "الطابعة لا تتصل بالشبكة."
+    },
+    {
+      "word_en": "operating system",
+      "example_en": "Windows and macOS are examples of operating systems.",
+      "word_ar": "نظام التشغيل",
+      "example_ar": "نظاما التشغيل Windows و macOS أمثلة على أنظمة التشغيل."
+    },
+    {
+      "word_en": "folder",
+      "example_en": "He organized his documents into different folders.",
+      "word_ar": "مجلد",
+      "example_ar": "نظم مستنداته في مجلدات مختلفة."
+    },
+    {
+      "word_en": "hardware",
+      "example_en": "He upgraded his computer's hardware to improve performance.",
+      "word_ar": "معدات",
+      "example_ar": "قام بترقية الأجهزة الخاصة بجهاز الكمبيوتر الخاص به لتحسين الأداء."
+    },
+    {
+      "word_en": "version",
+      "example_en": "The latest version of the software includes many new features.",
+      "word_ar": "الإصدار",
+      "example_ar": "يتضمن الإصدار الأحدث من البرنامج العديد من الميزات الجديدة."
+    },
+    {
+      "word_en": "quit",
+      "example_en": "She decided to quit the program without saving her work.",
+      "word_ar": "الخروج",
+      "example_ar": "قررت الخروج من البرنامج دون حفظ عملها."
+    },
+    {
+      "word_en": "software",
+      "example_en": "She specializes in developing educational software.",
+      "word_ar": "برمجيات",
+      "example_ar": "هي متخصصة في تطوير البرمجيات التعليمية."
+    },
+    {
+      "word_en": "wireless",
+      "example_en": "They set up a wireless network at their office.",
+      "word_ar": "لاسلكي",
+      "example_ar": "أنشأوا شبكة لاسلكية في مكتبهم."
+    },
+    {
+      "word_en": "access",
+      "example_en": "You need a password to access the secure files.",
+      "word_ar": "الوصول",
+      "example_ar": "تحتاج إلى كلمة مرور للوصول إلى الملفات الآمنة."
+    },
+    {
+      "word_en": "log off",
+      "example_en": "He forgot to log off from his account before leaving.",
+      "word_ar": "تسجيل الخروج",
+      "example_ar": "نسي تسجيل الخروج من حسابه قبل المغادرة."
+    },
+    {
+      "word_en": "data",
+      "example_en": "The data is backed up on a remote server.",
+      "word_ar": "بيانات",
+      "example_ar": "يتم نسخ البيانات على خادم بعيد المسافة."
+    },
+    {
+      "word_en": "error",
+      "example_en": "She encountered an error while installing the software.",
+      "word_ar": "خطأ",
+      "example_ar": "واجهت خطأ أثناء تثبيت البرنامج."
+    },
+    {
+      "word_en": "program",
+      "example_en": "He's learning how to code in a programming language.",
+      "word_ar": "برنامج",
+      "example_ar": "يتعلم كيفية كتابة الشيفرة بلغة البرمجة."
+    },
+    {
+      "word_en": "type",
+      "example_en": "Please type your username and password.",
+      "word_ar": "اكتب",
+      "example_ar": "يرجى كتابة اسم المستخدم وكلمة المرور الخاصة بك."
+    },
+    {
+      "word_en": "click",
+      "example_en": "Click on the icon to open the application.",
+      "word_ar": "انقر",
+      "example_ar": "انقر على الرمز لفتح التطبيق."
+    },
+    {
+      "word_en": "button",
+      "example_en": "Press the button to start the machine.",
+      "word_ar": "زر",
+      "example_ar": "اضغط على الزر لبدء التشغيل."
+    },
+    {
+      "word_en": "scroll",
+      "example_en": "You can scroll down to see more content.",
+      "word_ar": "تمرير",
+      "example_ar": "يمكنك التمرير لأسفل لرؤية المزيد من المحتوى."
+    },
+    {
+      "word_en": "delete",
+      "example_en": "He accidentally deleted the important file.",
+      "word_ar": "حذف",
+      "example_ar": "حذف الشخص بالخطأ الملف المهم."
+    },
+    {
+      "word_en": "drag",
+      "example_en": "You can drag and drop files to move them.",
+      "word_ar": "سحب",
+      "example_ar": "يمكنك سحب وإفلات الملفات لنقلها."
+    },
+    {
+      "word_en": "system",
+      "example_en": "The new system has improved efficiency.",
+      "word_ar": "نظام",
+      "example_ar": "نظام جديد قد زاد من كفاءة العمل."
+    },
+    {
+      "word_en": "application program",
+      "example_en": "She uses various application programs for her work.",
+      "word_ar": "برنامج التطبيق",
+      "example_ar": "تستخدم مجموعة متنوعة من برامج التطبيقات في عملها."
+    },
+    {
+      "word_en": "virus",
+      "example_en": "He scanned his computer for viruses.",
+      "word_ar": "فيروس",
+      "example_ar": "فحص جهاز الكمبيوتر الخاص به من الفيروسات."
+    }
+  ]
+}
