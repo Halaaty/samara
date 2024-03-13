@@ -1,0 +1,172 @@
+{
+  "words": [
+    {
+      "word_en": "thick",
+      "example_en": "She has thick, luscious hair.",
+      "word_ar": "سميك",
+      "example_ar": "لديها شعر سميك ولامع."
+    },
+    {
+      "word_en": "frown",
+      "example_en": "He had a deep frown on his face.",
+      "word_ar": "عبوس",
+      "example_ar": "كانت عبوسة على وجهه."
+    },
+    {
+      "word_en": "hairstyle",
+      "example_en": "She got a new hairstyle for the wedding.",
+      "word_ar": "تسريحة الشعر",
+      "example_ar": "حصلت على تسريحة شعر جديدة لحفل الزفاف."
+    },
+    {
+      "word_en": "race",
+      "example_en": "She won the race by a narrow margin.",
+      "word_ar": "سباق",
+      "example_ar": "فازت بالسباق بفارق ضئيل."
+    },
+    {
+      "word_en": "attractiveness",
+      "example_en": "Her attractiveness drew many admirers.",
+      "word_ar": "جاذبية",
+      "example_ar": "جاذبيتها جذبت العديد من المعجبين."
+    },
+    {
+      "word_en": "well-dressed",
+      "example_en": "He always looks well-dressed at parties.",
+      "word_ar": "ملابس جيدة",
+      "example_ar": "يبدو دائمًا بملابس جيدة في الحفلات."
+    },
+    {
+      "word_en": "expression",
+      "example_en": "His expression was one of surprise.",
+      "word_ar": "تعبير",
+      "example_ar": "كان تعبيره عبارة عن مفاجأة."
+    },
+    {
+      "word_en": "shave",
+      "example_en": "He needs to shave every morning.",
+      "word_ar": "حلق",
+      "example_ar": "يحتاج إلى الحلاقة كل صباح."
+    },
+    {
+      "word_en": "shiny",
+      "example_en": "Her hair was shiny and smooth.",
+      "word_ar": "لامع",
+      "example_ar": "كان شعرها لامعًا وناعمًا."
+    },
+    {
+      "word_en": "stunning",
+      "example_en": "She looked stunning in her evening gown.",
+      "word_ar": "مذهل",
+      "example_ar": "بدت مذهلة في فستانها المسائي."
+    },
+    {
+      "word_en": "pale",
+      "example_en": "Her face turned pale with fear.",
+      "word_ar": "شاحب",
+      "example_ar": "تحول وجهها إلى الشاحب مع الخوف."
+    },
+    {
+      "word_en": "freckle",
+      "example_en": "She has a cute freckle on her nose.",
+      "word_ar": "نمش",
+      "example_ar": "لديها نمش لطيف على أنفها."
+    },
+    {
+      "word_en": "red",
+      "example_en": "Her cheeks turned red with embarrassment.",
+      "word_ar": "أحمر",
+      "example_ar": "تحولت خديها إلى الأحمر من الإحراج."
+    },
+    {
+      "word_en": "ugliness",
+      "example_en": "He was mocked for his ugliness.",
+      "word_ar": "قبح",
+      "example_ar": "تم سخريته لقبحه."
+    },
+    {
+      "word_en": "comb",
+      "example_en": "She combed her hair before going out.",
+      "word_ar": "مشط",
+      "example_ar": "شقرفت شعرها قبل الخروج."
+    },
+    {
+      "word_en": "chubby",
+      "example_en": "The baby had chubby cheeks.",
+      "word_ar": "ممتلئ الخدود",
+      "example_ar": "كان لدى الطفل خدين ممتلئين."
+    },
+    {
+      "word_en": "ginger",
+      "example_en": "She had beautiful ginger hair.",
+      "word_ar": "زنجبيل",
+      "example_ar": "كان لديها شعر زنجبيل جميل."
+    },
+    {
+      "word_en": "little",
+      "example_en": "He had little freckles on his nose.",
+      "word_ar": "قليل",
+      "example_ar": "كان لديه بعض النمش القليل على أنفه."
+    },
+    {
+      "word_en": "spot",
+      "example_en": "She had a dark spot on her chin.",
+      "word_ar": "بقعة",
+      "example_ar": "كان لديها بقعة داكنة على ذقنها."
+    },
+    {
+      "word_en": "obese",
+      "example_en": "He became obese due to overeating.",
+      "word_ar": "سمين",
+      "example_ar": "أصبح سمينًا بسبب الأكل الزائد."
+    },
+    {
+      "word_en": "underweight",
+      "example_en": "She was underweight for her height.",
+      "word_ar": "نحيل",
+      "example_ar": "كانت نحيفة بالنسبة لطولها."
+    },
+    {
+      "word_en": "haircut",
+      "example_en": "He got a trendy haircut.",
+      "word_ar": "قصة الشعر",
+      "example_ar": "حصل على قصة شعر عصرية."
+    },
+    {
+      "word_en": "gorgeous",
+      "example_en": "She looked absolutely gorgeous in her wedding dress.",
+      "word_ar": "رائع",
+      "example_ar": "بدت رائعة تمامًا في فستان الزفاف الخاص بها."
+    },
+    {
+      "word_en": "gray-haired",
+      "example_en": "He is becoming gray-haired with age.",
+      "word_ar": "شعر أبيض",
+      "example_ar": "يصبح شعره رمادي اللون مع التقدم في السن."
+    },
+    {
+      "word_en": "hairy",
+      "example_en": "He had hairy arms.",
+      "word_ar": "شعر",
+      "example_ar": "كانت لديه ذراعان مشعران."
+    },
+    {
+      "word_en": "grin",
+      "example_en": "She couldn't help but grin at his joke.",
+      "word_ar": "ابتسامة",
+      "example_ar": "لم تستطع إلا أن تبتسم لنكتته."
+    },
+    {
+      "word_en": "red",
+      "example_en": "Her cheeks turned red with embarrassment.",
+      "word_ar": "أحمر",
+      "example_ar": "تحولت خديها إلى الأحمر من الإحراج."
+    },
+    {
+      "word_en": "unattractive",
+      "example_en": "He felt unattractive after gaining weight.",
+      "word_ar": "غير جذاب",
+      "example_ar": "شعر بعدم الجاذبية بعد زيادة وزنه."
+    }
+  ]
+}
