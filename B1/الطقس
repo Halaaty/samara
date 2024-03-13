@@ -1,0 +1,178 @@
+{
+  "words": [
+    {
+      "word_en": "rainwater",
+      "example_en": "They collected rainwater for their plants.",
+      "word_ar": "مياه الأمطار",
+      "example_ar": "جمعوا مياه الأمطار لنباتاتهم."
+    },
+    {
+      "word_en": "calm",
+      "example_en": "After the storm, the sea was calm.",
+      "word_ar": "هادئ",
+      "example_ar": "بعد العاصفة، كان البحر هادئاً."
+    },
+    {
+      "word_en": "raindrop",
+      "example_en": "The raindrop fell silently on the windowpane.",
+      "word_ar": "قطرة مطر",
+      "example_ar": "سقطت قطرة المطر بصمت على زجاج النافذة."
+    },
+    {
+      "word_en": "flood",
+      "example_en": "The heavy rain caused a flood in the city.",
+      "word_ar": "فيضان",
+      "example_ar": "تسببت الأمطار الغزيرة في فيضان في المدينة."
+    },
+    {
+      "word_en": "snowfall",
+      "example_en": "We woke up to a beautiful snowfall this morning.",
+      "word_ar": "تساقط الثلوج",
+      "example_ar": "استيقظنا على تساقط جميل للثلوج هذا الصباح."
+    },
+    {
+      "word_en": "set",
+      "example_en": "The sun will set in the west.",
+      "word_ar": "يغرب",
+      "example_ar": "سيغرب الشمس في الغرب."
+    },
+    {
+      "word_en": "forecast",
+      "example_en": "The weather forecast predicted thunderstorms.",
+      "word_ar": "توقعات الطقس",
+      "example_ar": "توقعت توقعات الطقس حدوث عواصف رعدية."
+    },
+    {
+      "word_en": "windstorm",
+      "example_en": "The windstorm knocked down trees and power lines.",
+      "word_ar": "عاصفة رياح",
+      "example_ar": "أسقطت عاصفة الرياح الأشجار وخطوط الكهرباء."
+    },
+    {
+      "word_en": "heat wave",
+      "example_en": "The heat wave caused temperatures to soar.",
+      "word_ar": "موجة حر",
+      "example_ar": "أدت موجة الحر إلى ارتفاع درجات الحرارة."
+    },
+    {
+      "word_en": "thunder",
+      "example_en": "The thunder rumbled in the distance.",
+      "word_ar": "رعد",
+      "example_ar": "رن الرعد في البعد."
+    },
+    {
+      "word_en": "rainstorm",
+      "example_en": "The rainstorm flooded the streets.",
+      "word_ar": "عاصفة مطرية",
+      "example_ar": "أغرقت العاصفة المطرية الشوارع."
+    },
+    {
+      "word_en": "pour",
+      "example_en": "It started to pour just as we left the house.",
+      "word_ar": "يمطر بغزارة",
+      "example_ar": "بدأ المطر بالهطول بغزارة بمجرد خروجنا من المنزل."
+    },
+    {
+      "word_en": "fine",
+      "example_en": "The weather was fine for their picnic.",
+      "word_ar": "جميل",
+      "example_ar": "كان الطقس جميلاً لنزهتهم."
+    },
+    {
+      "word_en": "sunrise",
+      "example_en": "The sunrise painted the sky with vibrant colors.",
+      "word_ar": "شروق الشمس",
+      "example_ar": "رسم شروق الشمس السماء بألوان رائعة."
+    },
+    {
+      "word_en": "snowflake",
+      "example_en": "Each snowflake is unique.",
+      "word_ar": "نقطة ثلج",
+      "example_ar": "كل نقطة ثلج فريدة من نوعها."
+    },
+    {
+      "word_en": "hailstorm",
+      "example_en": "The hailstorm damaged the crops.",
+      "word_ar": "عاصفة بردية",
+      "example_ar": "ألحقت عاصفة البرد أضراراً بالمحاصيل."
+    },
+    {
+      "word_en": "rise",
+      "example_en": "The sun will rise in the east.",
+      "word_ar": "يشرق",
+      "example_ar": "ستشرق الشمس في الشرق."
+    },
+    {
+      "word_en": "shine",
+      "example_en": "The sun will shine brightly tomorrow.",
+      "word_ar": "يشرق",
+      "example_ar": "ستشرق الشمس بإشراق غداً."
+    },
+    {
+      "word_en": "shade",
+      "example_en": "They sat in the shade of the tree to escape the heat.",
+      "word_ar": "ظل",
+      "example_ar": "جلسوا في ظل الشجرة للهروب من الحرارة."
+    },
+    {
+      "word_en": "acid rain",
+      "example_en": "Acid rain can damage buildings and vegetation.",
+      "word_ar": "مطر حمضي",
+      "example_ar": "يمكن أن يؤدي المطر الحمضي إلى تلف المباني والنباتات."
+    },
+    {
+      "word_en": "damp",
+      "example_en": "The clothes felt damp after being left out in the rain.",
+      "word_ar": "رطب",
+      "example_ar": "شعرت الملابس بالرطوبة بعد تركها في المطر."
+    },
+    {
+      "word_en": "snowstorm",
+      "example_en": "The snowstorm brought heavy snowfall.",
+      "word_ar": "عاصفة ثلجية",
+      "example_ar": "جلبت العاصفة الثلجية تساقط ثلجي ثقيل."
+    },
+    {
+      "word_en": "icy",
+      "example_en": "The road was icy after the snowstorm.",
+      "word_ar": "متجمد",
+      "example_ar": "كان الطريق متجمداً بعد العاصفة الثلجية."
+    },
+    {
+      "word_en": "sunshine",
+      "example_en": "They enjoyed the warm sunshine on the beach.",
+      "word_ar": "أشعة الشمس",
+      "example_ar": "استمتعوا بأشعة الشمس الدافئة على الشاطئ."
+    },
+    {
+      "word_en": "rainfall",
+      "example_en": "The rainfall was heavy last night.",
+      "word_ar": "تساقط الأمطار",
+      "example_ar": "كان تساقط الأمطار ثقيلاً الليلة الماضية."
+    },
+    {
+      "word_en": "snowflake",
+      "example_en": "Each snowflake is unique.",
+      "word_ar": "نقطة ثلج",
+      "example_ar": "كل نقطة ثلج فريدة من نوعها."
+    },
+    {
+      "word_en": "frozen",
+      "example_en": "The lake was frozen solid in the winter.",
+      "word_ar": "متجمد",
+      "example_ar": "كان البحيرة متجمدة تماماً في الشتاء."
+    },
+    {
+      "word_en": "filth",
+      "example_en": "The streets were covered in filth after the rain.",
+      "word_ar": "قذارة",
+      "example_ar": "كانت الشوارع مغطاة بالقذارة بعد المطر."
+    },
+    {
+      "word_en": "thunder",
+      "example_en": "The thunder rumbled in the distance.",
+      "word_ar": "رعد",
+      "example_ar": "رن الرعد في البعد."
+    }
+  ]
+}
