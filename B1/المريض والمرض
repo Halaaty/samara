@@ -1,0 +1,226 @@
+{
+  "words": [
+    {
+      "word_en": "recovery",
+      "example_en": "The patient's recovery was faster than expected.",
+      "word_ar": "استعادة",
+      "example_ar": "كانت استعادة المريض أسرع من المتوقع."
+    },
+    {
+      "word_en": "examination",
+      "example_en": "He underwent a thorough medical examination.",
+      "word_ar": "فحص",
+      "example_ar": "خضع لفحص طبي شامل."
+    },
+    {
+      "word_en": "spread",
+      "example_en": "The virus can spread rapidly if not controlled.",
+      "word_ar": "انتشار",
+      "example_ar": "يمكن للفيروس الانتشار بسرعة إذا لم يتم السيطرة عليه."
+    },
+    {
+      "word_en": "positive",
+      "example_en": "He tries to maintain a positive outlook on life.",
+      "word_ar": "إيجابي",
+      "example_ar": "يحاول الحفاظ على نظرة إيجابية للحياة."
+    },
+    {
+      "word_en": "shot",
+      "example_en": "She received a flu shot at the clinic.",
+      "word_ar": "تطعيم",
+      "example_ar": "تلقت لقاح الإنفلونزا في العيادة."
+    },
+    {
+      "word_en": "negative",
+      "example_en": "The test results came back negative.",
+      "word_ar": "سلبي",
+      "example_ar": "جاءت نتائج الاختبار سلبية."
+    },
+    {
+      "word_en": "first aid",
+      "example_en": "She administered first aid to the injured hiker.",
+      "word_ar": "إسعافات أولية",
+      "example_ar": "قدمت الإسعافات الأولية للمتسلق المصاب."
+    },
+    {
+      "word_en": "checkup",
+      "example_en": "He goes for a checkup every six months.",
+      "word_ar": "فحص طبي",
+      "example_ar": "يذهب لفحص طبي كل ستة أشهر."
+    },
+    {
+      "word_en": "care",
+      "example_en": "He received excellent care at the hospital.",
+      "word_ar": "رعاية",
+      "example_ar": "تلقى رعاية ممتازة في المستشفى."
+    },
+    {
+      "word_en": "weigh",
+      "example_en": "She weighs herself every morning.",
+      "word_ar": "يزن",
+      "example_ar": "توزن نفسها كل صباح."
+    },
+    {
+      "word_en": "treat",
+      "example_en": "The doctor will treat the infection with antibiotics.",
+      "word_ar": "علاج",
+      "example_ar": "سيعالج الطبيب العدوى بالمضادات الحيوية."
+    },
+    {
+      "word_en": "symptom",
+      "example_en": "Coughing is a common symptom of a cold.",
+      "word_ar": "عرض",
+      "example_ar": "السعال عرض شائع للغاية للبرد."
+    },
+    {
+      "word_en": "medicine",
+      "example_en": "She takes medicine for her high blood pressure.",
+      "word_ar": "دواء",
+      "example_ar": "تأخذ دواء لضغط الدم المرتفع."
+    },
+    {
+      "word_en": "mental",
+      "example_en": "She seeks help for her mental health issues.",
+      "word_ar": "عقلي",
+      "example_ar": "تبحث عن مساعدة لمشاكل صحتها العقلية."
+    },
+    {
+      "word_en": "operation",
+      "example_en": "He underwent heart surgery last month.",
+      "word_ar": "عملية",
+      "example_ar": "خضع لجراحة القلب الشهر الماضي."
+    },
+    {
+      "word_en": "care for",
+      "example_en": "She cares for her elderly parents.",
+      "word_ar": "رعاية",
+      "example_ar": "تهتم بوالديها المسنين."
+    },
+    {
+      "word_en": "painful",
+      "example_en": "The injury was very painful.",
+      "word_ar": "مؤلم",
+      "example_ar": "كانت الإصابة مؤلمة للغاية."
+    },
+    {
+      "word_en": "antibiotic",
+      "example_en": "The doctor prescribed antibiotics for the infection.",
+      "word_ar": "مضاد حيوي",
+      "example_ar": "وصف الطبيب مضادات حيوية للعدوى."
+    },
+    {
+      "word_en": "capsule",
+      "example_en": "She takes her daily medication in capsule form.",
+      "word_ar": "كبسولة",
+      "example_ar": "تأخذ دوائها اليومي في شكل كبسولة."
+    },
+    {
+      "word_en": "first-aid kit",
+      "example_en": "She always keeps a first-aid kit in her car.",
+      "word_ar": "علبة إسعافات أولية",
+      "example_ar": "تحتفظ دائمًا بعلبة إسعافات أولية في سيارتها."
+    },
+    {
+      "word_en": "mental",
+      "example_en": "She seeks help for her mental health issues.",
+      "word_ar": "عقلي",
+      "example_ar": "تبحث عن مساعدة لمشاكل صحتها العقلية."
+    },
+    {
+      "word_en": "test",
+      "example_en": "The doctor ordered some tests to diagnose the illness.",
+      "word_ar": "اختبار",
+      "example_ar": "أمر الطبيب بإجراء بعض الاختبارات لتشخيص المرض."
+    },
+    {
+      "word_en": "drug",
+      "example_en": "He's addicted to drugs and needs help.",
+      "word_ar": "دواء",
+      "example_ar": "إنه مدمن على المخدرات ويحتاج إلى مساعدة."
+    },
+    {
+      "word_en": "operation",
+      "example_en": "He underwent heart surgery last month.",
+      "word_ar": "عملية",
+      "example_ar": "خضع لجراحة القلب الشهر الماضي."
+    },
+    {
+      "word_en": "operation",
+      "example_en": "He underwent heart surgery last month.",
+      "word_ar": "عملية",
+      "example_ar": "خضع لجراحة القلب الشهر الماضي."
+    },
+    {
+      "word_en": "negative",
+      "example_en": "The test results came back negative.",
+      "word_ar": "سلبي",
+      "example_ar": "جاءت نتائج الاختبار سلبية."
+    },
+    {
+      "word_en": "spread",
+      "example_en": "The virus can spread rapidly if not controlled.",
+      "word_ar": "انتشار",
+      "example_ar": "يمكن للفيروس الانتشار بسرعة إذا لم يتم السيطرة عليه."
+    },
+    {
+      "word_en": "treatment",
+      "example_en": "The new treatment shows promising results.",
+      "word_ar": "علاج",
+      "example_ar": "يظهر العلاج الجديد نتائج واعدة."
+    },
+    {
+      "word_en": "heal",
+      "example_en": "The wound is starting to heal nicely.",
+      "word_ar": "شفاء",
+      "example_ar": "الجرح بدأ يشفى بشكل جيد."
+    },
+    {
+      "word_en": "bandage",
+      "example_en": "She wrapped the wound with a clean bandage.",
+      "word_ar": "ضمادة",
+      "example_ar": "لفت الجرح بضمادة نظيفة."
+    },
+    {
+      "word_en": "shot",
+      "example_en": "She received a flu shot at the clinic.",
+      "word_ar": "تطعيم",
+      "example_ar": "تلقت لقاح الإنفلونزا في العيادة."
+    },
+    {
+      "word_en": "bleed",
+      "example_en": "The wound continued to bleed despite the bandage.",
+      "word_ar": "نزف",
+      "example_ar": "استمر الجرح في النزيف على الرغم من الضمادة."
+    },
+    {
+      "word_en": "suffer",
+      "example_en": "She suffers from chronic pain.",
+      "word_ar": "يعاني",
+      "example_ar": "تعاني من الألم المزمن."
+    },
+    {
+      "word_en": "operate",
+      "example_en": "The surgeon will operate on his knee tomorrow.",
+      "word_ar": "يعمل",
+      "example_ar": "سيقوم الجراح بعملية على ركبته غدًا."
+    },
+    {
+      "word_en": "medicine",
+      "example_en": "She takes medicine for her high blood pressure.",
+      "word_ar": "دواء",
+      "example_ar": "تأخذ دواء لضغط الدم المرتفع."
+    },
+    {
+      "word_en": "care for",
+      "example_en": "She cares for her elderly parents.",
+      "word_ar": "رعاية",
+      "example_ar": "تهتم بوالديها المسنين."
+    },
+    {
+      "word_en": "weigh",
+      "example_en": "She weighs herself every morning.",
+      "word_ar": "يزن",
+      "example_ar": "توزن نفسها كل صباح."
+    }
+  ]
+}
