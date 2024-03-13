@@ -1,0 +1,226 @@
+{
+  "words": [
+    {
+      "word_en": "harbor",
+      "example_en": "The ship docked at the harbor.",
+      "word_ar": "ميناء",
+      "example_ar": "رست السفينة في الميناء."
+    },
+    {
+      "word_en": "set off",
+      "example_en": "They set off on their journey early in the morning.",
+      "word_ar": "انطلق",
+      "example_ar": "انطلقوا في رحلتهم في الصباح الباكر."
+    },
+    {
+      "word_en": "van",
+      "example_en": "They traveled in a van to the concert.",
+      "word_ar": "فان",
+      "example_ar": "سافروا بفان إلى الحفلة."
+    },
+    {
+      "word_en": "nonstop",
+      "example_en": "The flight from New York to London is nonstop.",
+      "word_ar": "متواصل",
+      "example_ar": "الرحلة من نيويورك إلى لندن غير متواصلة."
+    },
+    {
+      "word_en": "track",
+      "example_en": "The train travels along the track.",
+      "word_ar": "مسار",
+      "example_ar": "القطار يسير على طول المسار."
+    },
+    {
+      "word_en": "window seat",
+      "example_en": "She prefers to sit in a window seat when flying.",
+      "word_ar": "مقعد نافذة",
+      "example_ar": "تفضل الجلوس في مقعد النافذة عند الطيران."
+    },
+    {
+      "word_en": "plane",
+      "example_en": "The plane took off from the runway.",
+      "word_ar": "طائرة",
+      "example_ar": "أقلعت الطائرة من المدرج."
+    },
+    {
+      "word_en": "bike",
+      "example_en": "He rides his bike to work every day.",
+      "word_ar": "دراجة",
+      "example_ar": "يقود دراجته إلى العمل كل يوم."
+    },
+    {
+      "word_en": "board",
+      "example_en": "Passengers are requested to board the plane.",
+      "word_ar": "صعد",
+      "example_ar": "يُطلب من الركاب الصعود إلى الطائرة."
+    },
+    {
+      "word_en": "aircraft",
+      "example_en": "The aircraft flew at a high altitude.",
+      "word_ar": "طائرة",
+      "example_ar": "طارت الطائرة على ارتفاع عالٍ."
+    },
+    {
+      "word_en": "connection",
+      "example_en": "He missed his flight connection in Chicago.",
+      "word_ar": "اتصال",
+      "example_ar": "فاته اتصاله بالطائرة في شيكاغو."
+    },
+    {
+      "word_en": "transport",
+      "example_en": "Public transport is convenient for commuting.",
+      "word_ar": "نقل",
+      "example_ar": "النقل العام مريح للتنقل."
+    },
+    {
+      "word_en": "airfare",
+      "example_en": "The airfare for the trip was quite expensive.",
+      "word_ar": "أجرة الطائرة",
+      "example_ar": "كانت أجرة الطائرة للرحلة مكلفة للغاية."
+    },
+    {
+      "word_en": "domestic",
+      "example_en": "They took a domestic flight from Istanbul to Ankara.",
+      "word_ar": "محلي",
+      "example_ar": "أخذوا رحلة جوية داخلية من اسطنبول إلى أنقرة."
+    },
+    {
+      "word_en": "get in",
+      "example_en": "They got in the taxi and headed to the airport.",
+      "word_ar": "صعد",
+      "example_ar": "صعدوا إلى سيارة الأجرة وتوجهوا إلى المطار."
+    },
+    {
+      "word_en": "land",
+      "example_en": "The plane will land in about thirty minutes.",
+      "word_ar": "هبوط",
+      "example_ar": "ستهبط الطائرة في حوالي ثلاثين دقيقة."
+    },
+    {
+      "word_en": "transport",
+      "example_en": "Public transport is convenient for commuting.",
+      "word_ar": "نقل",
+      "example_ar": "النقل العام مريح للتنقل."
+    },
+    {
+      "word_en": "track",
+      "example_en": "The train travels along the track.",
+      "word_ar": "مسار",
+      "example_ar": "القطار يسير على طول المسار."
+    },
+    {
+      "word_en": "seat belt",
+      "example_en": "Make sure to fasten your seat belt before takeoff.",
+      "word_ar": "حزام الأمان",
+      "example_ar": "تأكد من ربط حزام الأمان قبل الإقلاع."
+    },
+    {
+      "word_en": "on board",
+      "example_en": "There are refreshments available on board the flight.",
+      "word_ar": "في الطائرة",
+      "example_ar": "هناك تسليمات متاحة في الطائرة."
+    },
+    {
+      "word_en": "van",
+      "example_en": "They traveled in a van to the concert.",
+      "word_ar": "فان",
+      "example_ar": "سافروا بفان إلى الحفلة."
+    },
+    {
+      "word_en": "destination",
+      "example_en": "Their destination was a remote island.",
+      "word_ar": "وجهة",
+      "example_ar": "كانت وجهتهم جزيرة نائية."
+    },
+    {
+      "word_en": "reach",
+      "example_en": "They will reach their destination by nightfall.",
+      "word_ar": "وصول",
+      "example_ar": "سيصلون إلى وجهتهم بحلول الليل."
+    },
+    {
+      "word_en": "public",
+      "example_en": "Public transportation is environmentally friendly.",
+      "word_ar": "عامة",
+      "example_ar": "النقل العام صديق للبيئة."
+    },
+    {
+      "word_en": "commute",
+      "example_en": "She commutes to work by train.",
+      "word_ar": "التنقل اليومي",
+      "example_ar": "تتنقل إلى العمل بالقطار."
+    },
+    {
+      "word_en": "first class",
+      "example_en": "They traveled first class for added comfort.",
+      "word_ar": "درجة أولى",
+      "example_ar": "سافروا بدرجة أولى لراحة إضافية."
+    },
+    {
+      "word_en": "turn",
+      "example_en": "It's your turn to drive.",
+      "word_ar": "دور",
+      "example_ar": "دورك للقيادة."
+    },
+    {
+      "word_en": "port",
+      "example_en": "The ship docked at the port.",
+      "word_ar": "ميناء",
+      "example_ar": "رست السفينة في الميناء."
+    },
+    {
+      "word_en": "plane",
+      "example_en": "The plane took off from the runway.",
+      "word_ar": "طائرة",
+      "example_ar": "أقلعت الطائرة من المدرج."
+    },
+    {
+      "word_en": "seat belt",
+      "example_en": "Make sure to fasten your seat belt before takeoff.",
+      "word_ar": "حزام الأمان",
+      "example_ar": "تأكد من ربط حزام الأمان قبل الإقلاع."
+    },
+    {
+      "word_en": "business class",
+      "example_en": "He always flies business class for work trips.",
+      "word_ar": "درجة رجال الأعمال",
+      "example_ar": "يسافر دائمًا بدرجة رجال الأعمال في رحلات العمل."
+    },
+    {
+      "word_en": "jet",
+      "example_en": "They traveled by private jet.",
+      "word_ar": "طائرة نفاثة",
+      "example_ar": "سافروا بواسطة طائرة نفاثة خاصة."
+    },
+    {
+      "word_en": "set out",
+      "example_en": "They set out on their journey early in the morning.",
+      "word_ar": "انطلق",
+      "example_ar": "انطلقوا في رحلتهم في الصباح الباكر."
+    },
+    {
+      "word_en": "economy class",
+      "example_en": "They booked tickets in economy class to save money.",
+      "word_ar": "درجة الاقتصاد",
+      "example_ar": "حجزوا تذاكر في الدرجة الاقتصادية لتوفير المال."
+    },
+    {
+      "word_en": "land",
+      "example_en": "The plane will land in about thirty minutes.",
+      "word_ar": "هبوط",
+      "example_ar": "ستهبط الطائرة في حوالي ثلاثين دقيقة."
+    },
+    {
+      "word_en": "yacht",
+      "example_en": "They sailed on a luxurious yacht.",
+      "word_ar": "يخت",
+      "example_ar": "سافروا على يخت فاخر."
+    },
+    {
+      "word_en": "access",
+      "example_en": "They gained access to the VIP lounge.",
+      "word_ar": "الوصول",
+      "example_ar": "حصلوا على الوصول إلى صالة الانتظار الخاصة بالمشاهير."
+    }
+  ]
+}
