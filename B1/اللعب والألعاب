@@ -1,0 +1,166 @@
+{
+  "words": [
+    {
+      "word_en": "hide-and-seek",
+      "example_en": "They played hide-and-seek in the garden.",
+      "word_ar": "لعبوا الاختباء والبحث في الحديقة.",
+      "example_ar": "لعبوا الاختباء والبحث في الحديقة."
+    },
+    {
+      "word_en": "card",
+      "example_en": "She enjoys playing card games with her friends.",
+      "word_ar": "بطاقة",
+      "example_ar": "تستمتع بلعب ألعاب الورق مع أصدقائها."
+    },
+    {
+      "word_en": "chess",
+      "example_en": "He's a skilled player at chess.",
+      "word_ar": "شطرنج",
+      "example_ar": "إنه لاعب ماهر في الشطرنج."
+    },
+    {
+      "word_en": "trick",
+      "example_en": "She performed a magic trick at the party.",
+      "word_ar": "خدعة",
+      "example_ar": "قدمت خدعة سحرية في الحفلة."
+    },
+    {
+      "word_en": "crossword",
+      "example_en": "She spends her Sunday mornings solving crosswords.",
+      "word_ar": "كلمة متقاطعة",
+      "example_ar": "تقضي صباحات يوم الأحد في حل الكلمات المتقاطعة."
+    },
+    {
+      "word_en": "rule",
+      "example_en": "The rule of the game is to score the most points.",
+      "word_ar": "قاعدة",
+      "example_ar": "قاعدة اللعبة هي تسجيل أكبر عدد من النقاط."
+    },
+    {
+      "word_en": "dice",
+      "example_en": "They rolled the dice to determine who goes first.",
+      "word_ar": "نرد",
+      "example_ar": "لقد قاموا برمي النرد لتحديد من يذهب أولاً."
+    },
+    {
+      "word_en": "kite",
+      "example_en": "They flew a kite in the park.",
+      "word_ar": "طائرة ورقية",
+      "example_ar": "طاروا طائرة ورقية في الحديقة."
+    },
+    {
+      "word_en": "balloon",
+      "example_en": "They played with balloons at the birthday party.",
+      "word_ar": "بالون",
+      "example_ar": "لعبوا بالبالونات في حفلة عيد الميلاد."
+    },
+    {
+      "word_en": "amusing",
+      "example_en": "The clown's performance was very amusing.",
+      "word_ar": "مسلي",
+      "example_ar": "كان أداء الكوميدي مسلً."
+    },
+    {
+      "word_en": "play",
+      "example_en": "Children love to play in the park.",
+      "word_ar": "لعب",
+      "example_ar": "يحب الأطفال اللعب في الحديقة."
+    },
+    {
+      "word_en": "puzzle",
+      "example_en": "She enjoys solving jigsaw puzzles in her free time.",
+      "word_ar": "لغز",
+      "example_ar": "تستمتع بحل الألغاز المصورة في وقت فراغها."
+    },
+    {
+      "word_en": "to turn",
+      "example_en": "It's your turn to roll the dice.",
+      "word_ar": "دور",
+      "example_ar": "حان دورك لرمي النرد."
+    },
+    {
+      "word_en": "checkmate",
+      "example_en": "He won the chess game with a brilliant checkmate.",
+      "word_ar": "شيك مات",
+      "example_ar": "فاز بلعبة الشطرنج بشيك مات رائع."
+    },
+    {
+      "word_en": "video game console",
+      "example_en": "He spends hours playing video games on his console.",
+      "word_ar": "جهاز ألعاب فيديو",
+      "example_ar": "يقضي ساعات لعب ألعاب فيديو على جهازه."
+    },
+    {
+      "word_en": "winning",
+      "example_en": "They celebrated their winning of the championship.",
+      "word_ar": "فوز",
+      "example_ar": "احتفلوا بفوزهم بالبطولة."
+    },
+    {
+      "word_en": "move",
+      "example_en": "He made a strategic move in the game.",
+      "word_ar": "حركة",
+      "example_ar": "قام بحركة استراتيجية في اللعبة."
+    },
+    {
+      "word_en": "fun",
+      "example_en": "They had a lot of fun at the amusement park.",
+      "word_ar": "متعة",
+      "example_ar": "كان لديهم الكثير من المرح في مدينة الألعاب."
+    },
+    {
+      "word_en": "bowling",
+      "example_en": "They went bowling with their friends last night.",
+      "word_ar": "بولينج",
+      "example_ar": "ذهبوا للبولينج مع أصدقائهم الليلة الماضية."
+    },
+    {
+      "word_en": "computer game",
+      "example_en": "She's addicted to playing computer games.",
+      "word_ar": "لعبة كمبيوتر",
+      "example_ar": "هي مدمنة على لعب ألعاب الكمبيوتر."
+    },
+    {
+      "word_en": "darts",
+      "example_en": "They played darts at the pub.",
+      "word_ar": "لعبة السهام",
+      "example_ar": "لعبوا لعبة السهام في الحانة."
+    },
+    {
+      "word_en": "guessing game",
+      "example_en": "They played a guessing game at the party.",
+      "word_ar": "لعبة التخمين",
+      "example_ar": "لعبوا لعبة التخمين في الحفلة."
+    },
+    {
+      "word_en": "dollhouse",
+      "example_en": "She spends hours playing with her dollhouse.",
+      "word_ar": "بيت للدمى",
+      "example_ar": "تقضي ساعات في اللعب ببيت للدمى."
+    },
+    {
+      "word_en": "Ping-Pong",
+      "example_en": "They played Ping-Pong in the basement.",
+      "word_ar": "بينغ بونغ",
+      "example_ar": "لعبوا بينغ بونغ في القبو."
+    },
+    {
+      "word_en": "fun",
+      "example_en": "They had a lot of fun at the amusement park.",
+      "word_ar": "متعة",
+      "example_ar": "كان لديهم الكثير من المرح في مدينة الألعاب."
+    },
+    {
+      "word_en": "cheat",
+      "example_en": "He was caught trying to cheat during the game.",
+      "word_ar": "غش",
+      "example_ar": "تم القبض عليه أثناء محاولته الغش أثناء اللعبة."
+    },
+    {
+      "word_en": "playtime",
+      "example_en": "Children need plenty of playtime to develop.",
+      "word_ar": "وقت اللعب",
+      "example_ar": "يحتاج الأطفال إلى الكثير من وقت اللعب للتطور."
+    }
+  ]
+}
