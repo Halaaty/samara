@@ -1,0 +1,214 @@
+{
+  "words": [
+    {
+      "word_en": "stadium",
+      "example_en": "The new stadium can accommodate over 50,000 spectators.",
+      "word_ar": "ملعب",
+      "example_ar": "يمكن للملعب الجديد استيعاب أكثر من 50،000 متفرج."
+    },
+    {
+      "word_en": "league",
+      "example_en": "Their team is leading the league standings.",
+      "word_ar": "دوري",
+      "example_ar": "فريقهم يتصدر ترتيب الدوري."
+    },
+    {
+      "word_en": "horse racing",
+      "example_en": "The Kentucky Derby is a famous horse racing event.",
+      "word_ar": "سباق الخيل",
+      "example_ar": "سباق كنتاكي درب هو حدث سباق الخيل الشهير."
+    },
+    {
+      "word_en": "away game",
+      "example_en": "They lost their away game against their rivals.",
+      "word_ar": "مباراة خارجية",
+      "example_ar": "خسروا مباراتهم الخارجية ضد منافسيهم."
+    },
+    {
+      "word_en": "basket",
+      "example_en": "He made a perfect basket from the three-point line.",
+      "word_ar": "سلة",
+      "example_ar": "أحرز سلة مثالية من خط الثلاث نقاط."
+    },
+    {
+      "word_en": "captain",
+      "example_en": "She was chosen as the team captain.",
+      "word_ar": "قائد",
+      "example_ar": "اختيرت كقائد للفريق."
+    },
+    {
+      "word_en": "cyclist",
+      "example_en": "He's a professional cyclist and competes in international races.",
+      "word_ar": "متسابق دراجات",
+      "example_ar": "هو متسابق دراجات محترف ويتنافس في السباقات الدولية."
+    },
+    {
+      "word_en": "catch",
+      "example_en": "He made a spectacular catch in the outfield.",
+      "word_ar": "اصطياد",
+      "example_ar": "أحرز اصطيادًا مذهلاً في الملعب الخارجي."
+    },
+    {
+      "word_en": "Super Bowl",
+      "example_en": "The Super Bowl is one of the most-watched sporting events in the United States.",
+      "word_ar": "السوبر بول",
+      "example_ar": "السوبر بول هو واحد من أكثر الأحداث الرياضية مشاهدة في الولايات المتحدة."
+    },
+    {
+      "word_en": "disqualify",
+      "example_en": "The athlete was disqualified for breaking the rules.",
+      "word_ar": "إسقاط",
+      "example_ar": "تم إسقاط الرياضي لانتهاكه القواعد."
+    },
+    {
+      "word_en": "racket",
+      "example_en": "She forgot her tennis racket at home.",
+      "word_ar": "مضرب",
+      "example_ar": "نسيت مضرب التنس في المنزل."
+    },
+    {
+      "word_en": "olympic",
+      "example_en": "She dreams of competing in the Olympic Games one day.",
+      "word_ar": "أولمبي",
+      "example_ar": "تحلم بالمنافسة في ألعاب الأولمبياد يومًا ما."
+    },
+    {
+      "word_en": "goalkeeper",
+      "example_en": "The goalkeeper made a spectacular save.",
+      "word_ar": "حارس المرمى",
+      "example_ar": "قام حارس المرمى بتحرير إنقاذ مذهل."
+    },
+    {
+      "word_en": "league",
+      "example_en": "Their team is leading the league standings.",
+      "word_ar": "دوري",
+      "example_ar": "فريقهم يتصدر ترتيب الدوري."
+    },
+    {
+      "word_en": "squash",
+      "example_en": "He plays squash competitively.",
+      "word_ar": "اسكواش",
+      "example_ar": "يلعب الاسكواش بشكل تنافسي."
+    },
+    {
+      "word_en": "result",
+      "example_en": "The final result was unexpected.",
+      "word_ar": "نتيجة",
+      "example_ar": "كانت النتيجة النهائية غير متوقعة."
+    },
+    {
+      "word_en": "diver",
+      "example_en": "She's an experienced diver and has won several competitions.",
+      "word_ar": "غطاس",
+      "example_ar": "هي غطاسة مخضرمة وفازت بالعديد من البطولات."
+    },
+    {
+      "word_en": "home game",
+      "example_en": "They won their home game by a narrow margin.",
+      "word_ar": "مباراة في المنزل",
+      "example_ar": "فازوا في مباراتهم في المنزل بفارق ضئيل."
+    },
+    {
+      "word_en": "tournament",
+      "example_en": "The tennis tournament attracts top players from around the world.",
+      "word_ar": "بطولة",
+      "example_ar": "تجذب بطولة التنس أفضل اللاعبين من جميع أنحاء العالم."
+    },
+    {
+      "word_en": "match",
+      "example_en": "The match ended in a tie.",
+      "word_ar": "مباراة",
+      "example_ar": "انتهت المباراة بالتعادل."
+    },
+    {
+      "word_en": "pool",
+      "example_en": "He enjoys swimming in the pool.",
+      "word_ar": "حمام سباحة",
+      "example_ar": "يستمتع بالسباحة في حمام السباحة."
+    },
+    {
+      "word_en": "half-time",
+      "example_en": "At half-time, the score was tied.",
+      "word_ar": "وقت الشوط الأول",
+      "example_ar": "في نصف المباراة، كانت النتيجة متعادلة."
+    },
+    {
+      "word_en": "competitive",
+      "example_en": "He's known for his competitive spirit.",
+      "word_ar": "تنافسي",
+      "example_ar": "معروف بروحه التنافسية."
+    },
+    {
+      "word_en": "referee",
+      "example_en": "The referee blew the whistle to signal the end of the game.",
+      "word_ar": "حكم",
+      "example_ar": "أطلق الحكم الصافرة للإشارة إلى نهاية المباراة."
+    },
+    {
+      "word_en": "horseback riding",
+      "example_en": "She enjoys horseback riding in her free time.",
+      "word_ar": "ركوب الخيل",
+      "example_ar": "تستمتع بركوب الخيل في وقت فراغها."
+    },
+    {
+      "word_en": "catch",
+      "example_en": "He made a spectacular catch in the outfield.",
+      "word_ar": "اصطياد",
+      "example_ar": "أحرز اصطيادًا مذهلاً في الملعب الخارجي."
+    },
+    {
+      "word_en": "champion",
+      "example_en": "She's a former champion in gymnastics.",
+      "word_ar": "بطل",
+      "example_ar": "هي بطلة سابقة في الجمباز."
+    },
+    {
+      "word_en": "court",
+      "example_en": "They played tennis on the court.",
+      "word_ar": "ملعب",
+      "example_ar": "لعبوا التنس على الملعب."
+    },
+    {
+      "word_en": "result",
+      "example_en": "The final result was unexpected.",
+      "word_ar": "نتيجة",
+      "example_ar": "كانت النتيجة النهائية غير متوقعة."
+    },
+    {
+      "word_en": "pass",
+      "example_en": "He made a precise pass to his teammate.",
+      "word_ar": "تمريرة",
+      "example_ar": "قام بتمريرة دقيقة إلى زميله في الفريق."
+    },
+    {
+      "word_en": "save",
+      "example_en": "The goalkeeper made a crucial save in the last minute.",
+      "word_ar": "إنقاذ",
+      "example_ar": "قام حارس المرمى بإنقاذ مهم في اللحظة الأخيرة."
+    },
+    {
+      "word_en": "contest",
+      "example_en": "The spelling contest will be held next week.",
+      "word_ar": "مسابقة",
+      "example_ar": "ستُعقد مسابقة الإملاء الأسبوع المقبل."
+    },
+    {
+      "word_en": "opponent",
+      "example_en": "He faced a tough opponent in the boxing match.",
+      "word_ar": "خصم",
+      "example_ar": "واجه خصمًا صعبًا في المباراة."
+    },
+    {
+      "word_en": "final",
+      "example_en": "The final match will determine the champion.",
+      "word_ar": "نهائي",
+      "example_ar": "سيحدد المباراة النهائية البطل."
+    },
+    {
+      "word_en": "disqualify",
+      "example_en": "The athlete was disqualified for breaking the rules.",
+      "word_ar": "إسقاط",
+      "example_ar": "تم إسقاط الرياضي لانتهاكه القواعد."
+    }
+  ]
+}
