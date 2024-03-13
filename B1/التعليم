@@ -1,0 +1,160 @@
+{
+  "words": [
+    {
+      "word_en": "academic",
+      "example_en": "She pursued an academic career in research.",
+      "word_ar": "أكاديمي",
+      "example_ar": "سعت لمسيرة أكاديمية في البحث."
+    },
+    {
+      "word_en": "exercise",
+      "example_en": "Regular exercise is important for overall health.",
+      "word_ar": "تمرين",
+      "example_ar": "التمرين الدوري مهم للصحة العامة."
+    },
+    {
+      "word_en": "higher education",
+      "example_en": "He aspires to pursue higher education abroad.",
+      "word_ar": "التعليم العالي",
+      "example_ar": "يطمح إلى متابعة التعليم العالي في الخارج."
+    },
+    {
+      "word_en": "attend",
+      "example_en": "Students are required to attend all lectures.",
+      "word_ar": "الحضور",
+      "example_ar": "يُطلب من الطلاب حضور جميع المحاضرات."
+    },
+    {
+      "word_en": "pupil",
+      "example_en": "The teacher praised the pupil for her hard work.",
+      "word_ar": "تلميذ",
+      "example_ar": "ثنى المعلم على التلميذة لجهدها الكبير."
+    },
+    {
+      "word_en": "campus",
+      "example_en": "The campus is buzzing with activity during orientation week.",
+      "word_ar": "الحرم الجامعي",
+      "example_ar": "يزدحم الحرم الجامعي بالنشاط خلال أسبوع التوجيه."
+    },
+    {
+      "word_en": "graduate",
+      "example_en": "After graduation, she plans to travel for a year.",
+      "word_ar": "تخرج",
+      "example_ar": "بعد التخرج، تخطط للسفر لمدة عام."
+    },
+    {
+      "word_en": "assignment",
+      "example_en": "The students were given a challenging assignment.",
+      "word_ar": "مهمة",
+      "example_ar": "تم تكليف الطلاب بمهمة صعبة."
+    },
+    {
+      "word_en": "undergraduate",
+      "example_en": "She's currently an undergraduate majoring in biology.",
+      "word_ar": "طالب جامعي",
+      "example_ar": "هي حالياً طالبة جامعية تخصصها البيولوجيا."
+    },
+    {
+      "word_en": "review",
+      "example_en": "He's preparing for the final exam by reviewing his notes.",
+      "word_ar": "مراجعة",
+      "example_ar": "هو يستعد للاختبار النهائي من خلال مراجعة ملاحظاته."
+    },
+    {
+      "word_en": "examine",
+      "example_en": "The doctor will examine the patient thoroughly.",
+      "word_ar": "فحص",
+      "example_ar": "سيفحص الطبيب المريض بشكل شامل."
+    },
+    {
+      "word_en": "genius",
+      "example_en": "Her mathematical abilities mark her as a true genius.",
+      "word_ar": "عبقري",
+      "example_ar": "قدراتها الرياضية تميزها كعبقرية حقيقية."
+    },
+    {
+      "word_en": "drop out",
+      "example_en": "He decided to drop out of college and pursue his passion.",
+      "word_ar": "الانسحاب",
+      "example_ar": "قرر الانسحاب من الكلية ومتابعة شغفه."
+    },
+    {
+      "word_en": "classwork",
+      "example_en": "The students completed their classwork before recess.",
+      "word_ar": "العمل الصفي",
+      "example_ar": "أكمل الطلاب أعمالهم الصفية قبل الاستراحة."
+    },
+    {
+      "word_en": "hit the books",
+      "example_en": "If you want to pass the exam, you need to hit the books.",
+      "word_ar": "التفكير في الدراسة",
+      "example_ar": "إذا كنت تريد اجتياز الامتحان، عليك أن تفكر في الدراسة."
+    },
+    {
+      "word_en": "lecturer",
+      "example_en": "The lecturer discussed the implications of the study.",
+      "word_ar": "محاضر",
+      "example_ar": "ناقش المحاضر تداعيات الدراسة."
+    },
+    {
+      "word_en": "period",
+      "example_en": "There's a ten-minute break between each period.",
+      "word_ar": "فترة",
+      "example_ar": "هناك فترة استراحة لمدة عشر دقائق بين كل فترة."
+    },
+    {
+      "word_en": "degree",
+      "example_en": "She received her degree in computer science.",
+      "word_ar": "درجة",
+      "example_ar": "حصلت على درجة البكالوريوس في علوم الكمبيوتر."
+    },
+    {
+      "word_en": "quiz",
+      "example_en": "The quiz will cover material from the entire semester.",
+      "word_ar": "اختبار",
+      "example_ar": "سيغطي الاختبار مواد الفصل الدراسي بأكمله."
+    },
+    {
+      "word_en": "educational",
+      "example_en": "The museum offers various educational programs for children.",
+      "word_ar": "تعليمي",
+      "example_ar": "يقدم المتحف برامج تعليمية متنوعة للأطفال."
+    },
+    {
+      "word_en": "graduate",
+      "example_en": "She hopes to graduate with honors.",
+      "word_ar": "خريج",
+      "example_ar": "تأمل في التخرج بتقدير الشرف."
+    },
+    {
+      "word_en": "tuition",
+      "example_en": "The university increased tuition fees this year.",
+      "word_ar": "رسوم الدراسة",
+      "example_ar": "زادت الجامعة رسوم الدراسة هذا العام."
+    },
+    {
+      "word_en": "educated",
+      "example_en": "She comes from an educated family.",
+      "word_ar": "مثقف",
+      "example_ar": "تنتمي إلى عائلة مثقفة."
+    },
+    {
+      "word_en": "semester",
+      "example_en": "He's taking three courses this semester.",
+      "word_ar": "فصل دراسي",
+      "example_ar": "هو يأخذ ثلاثة مقررات في هذا الفصل الدراسي."
+    },
+    {
+      "word_en": "adult education",
+      "example_en": "The university offers evening classes for adult education.",
+      "word_ar": "تعليم الكبار",
+      "example_ar": "تقدم الجامعة دروسًا مسائية لتعليم الكبار."
+    },
+    {
+      "word_en": "kindergarten",
+      "example_en": "She works as a teacher in a kindergarten.",
+      "word_ar": "روضة أطفال",
+      "example_ar": "تعمل كمعلمة في روضة أطفال."
+    }
+  ]
+}
