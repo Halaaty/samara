@@ -1,0 +1,244 @@
+{
+  "words": [
+    {
+      "word_en": "unlike",
+      "example_en": "Unlike her sister, she prefers savory foods.",
+      "word_ar": "على عكس",
+      "example_ar": "على عكس أختها، تفضل الأطعمة المالحة."
+    },
+    {
+      "word_en": "plus",
+      "example_en": "Two plus two equals four.",
+      "word_ar": "بالإضافة إلى",
+      "example_ar": "اثنان بالإضافة إلى اثنين يساوي أربعة."
+    },
+    {
+      "word_en": "per",
+      "example_en": "The cost per person is $10.",
+      "word_ar": "لكل",
+      "example_ar": "التكلفة لكل شخص 10 دولار."
+    },
+    {
+      "word_en": "including",
+      "example_en": "The package includes a variety of snacks.",
+      "word_ar": "بما في ذلك",
+      "example_ar": "يتضمن الحزمة مجموعة متنوعة من الوجبات الخفيفة."
+    },
+    {
+      "word_en": "close",
+      "example_en": "The store is close to the train station.",
+      "word_ar": "قريب",
+      "example_ar": "المتجر قريب من محطة القطار."
+    },
+    {
+      "word_en": "off",
+      "example_en": "He got off the bus at the next stop.",
+      "word_ar": "بعيداً",
+      "example_ar": "نزل من الحافلة في المحطة التالية."
+    },
+    {
+      "word_en": "onto",
+      "example_en": "He climbed onto the roof to fix the antenna.",
+      "word_ar": "على",
+      "example_ar": "صعد إلى السطح لإصلاح الهوائي."
+    },
+    {
+      "word_en": "into",
+      "example_en": "She dropped her keys into the basket.",
+      "word_ar": "في",
+      "example_ar": "أسقطت مفاتيحها في السلة."
+    },
+    {
+      "word_en": "among",
+      "example_en": "He found his book among the others on the shelf.",
+      "word_ar": "بين",
+      "example_ar": "وجد كتابه بين الكتب الأخرى على الرف."
+    },
+    {
+      "word_en": "underground",
+      "example_en": "The subway travels underground.",
+      "word_ar": "تحت الأرض",
+      "example_ar": "المترو يسافر تحت الأرض."
+    },
+    {
+      "word_en": "up",
+      "example_en": "She walked up the stairs to the second floor.",
+      "word_ar": "فوق",
+      "example_ar": "صعدت الدرج إلى الطابق الثاني."
+    },
+    {
+      "word_en": "down",
+      "example_en": "He walked down the hill to the river.",
+      "word_ar": "أسفل",
+      "example_ar": "نزل الهضبة إلى النهر."
+    },
+    {
+      "word_en": "directly",
+      "example_en": "The road leads directly to the beach.",
+      "word_ar": "مباشرة",
+      "example_ar": "الطريق يؤدي مباشرة إلى الشاطئ."
+    },
+    {
+      "word_en": "by",
+      "example_en": "He passed by the store on his way home.",
+      "word_ar": "بواسطة",
+      "example_ar": "مر بالمتجر في طريقه إلى البيت."
+    },
+    {
+      "word_en": "behind",
+      "example_en": "The cat hid behind the sofa.",
+      "word_ar": "وراء",
+      "example_ar": "اختبأ القط وراء الأريكة."
+    },
+    {
+      "word_en": "away",
+      "example_en": "He walked away from the crowd.",
+      "word_ar": "بعيداً",
+      "example_ar": "ابتعد عن الحشد."
+    },
+    {
+      "word_en": "somewhere",
+      "example_en": "She left her keys somewhere in the house.",
+      "word_ar": "في مكان ما",
+      "example_ar": "تركت مفاتيحها في مكان ما في المنزل."
+    },
+    {
+      "word_en": "nowhere",
+      "example_en": "He searched everywhere but found the book nowhere.",
+      "word_ar": "لا مكان",
+      "example_ar": "بحث في كل مكان ولكن لم يجد الكتاب في أي مكان."
+    },
+    {
+      "word_en": "everywhere",
+      "example_en": "The children's toys are scattered everywhere.",
+      "word_ar": "في كل مكان",
+      "example_ar": "لعب الأطفال مبعثرة في كل مكان."
+    },
+    {
+      "word_en": "anywhere",
+      "example_en": "You can sit anywhere you like.",
+      "word_ar": "في أي مكان",
+      "example_ar": "يمكنك الجلوس في أي مكان تريده."
+    },
+    {
+      "word_en": "along",
+      "example_en": "They strolled along the beach at sunset.",
+      "word_ar": "على طول",
+      "example_ar": "تجولوا على طول الشاطئ عند غروب الشمس."
+    },
+    {
+      "word_en": "high",
+      "example_en": "The kite flew high in the sky.",
+      "word_ar": "عالياً",
+      "example_ar": "طارت الطائرة الورقية عالياً في السماء."
+    },
+    {
+      "word_en": "upward",
+      "example_en": "The elevator moved upward to the top floor.",
+      "word_ar": "صعوداً",
+      "example_ar": "المصعد تحرك صعوداً إلى الطابق العلوي."
+    },
+    {
+      "word_en": "nearby",
+      "example_en": "There's a park nearby where we can have a picnic.",
+      "word_ar": "قريب",
+      "example_ar": "هناك حديقة قريبة حيث يمكننا أن نقيم نزهة."
+    },
+    {
+      "word_en": "downward",
+      "example_en": "The plane began its downward descent.",
+      "word_ar": "نحو الأسفل",
+      "example_ar": "بدأت الطائرة هبوطها نحو الأسفل."
+    },
+    {
+      "word_en": "backward",
+      "example_en": "He walked backward to see if he had dropped anything.",
+      "word_ar": "إلى الوراء",
+      "example_ar": "سار إلى الوراء ليتحقق مما إذا كان قد أسقط شيئًا."
+    },
+    {
+      "word_en": "underneath",
+      "example_en": "The keys were underneath the pile of papers.",
+      "word_ar": "تحت",
+      "example_ar": "كانت المفاتيح تحت كومة من الأوراق."
+    },
+    {
+      "word_en": "below",
+      "example_en": "The temperature dropped below freezing.",
+      "word_ar": "أدناه",
+      "example_ar": "انخفضت درجة الحرارة أدناه إلى تجمد."
+    },
+    {
+      "word_en": "within",
+      "example_en": "The store is within walking distance.",
+      "word_ar": "ضمن",
+      "example_ar": "المتجر ضمن مسافة قريبة سيراً على الأقدام."
+    },
+    {
+      "word_en": "like",
+      "example_en": "He talks like he knows everything.",
+      "word_ar": "مثل",
+      "example_ar": "يتحدث مثلما يعرف كل شيء."
+    },
+    {
+      "word_en": "as",
+      "example_en": "He sings as if he were on stage.",
+      "word_ar": "كما",
+      "example_ar": "يغني كما لو كان على المسرح."
+    },
+    {
+      "word_en": "according to",
+      "example_en": "According to the weather forecast, it will rain tomorrow.",
+      "word_ar": "وفقاً ل",
+      "example_ar": "وفقاً لتوقعات الطقس، ستمطر غداً."
+    },
+    {
+      "word_en": "but",
+      "example_en": "She likes apples but not oranges.",
+      "word_ar": "لكن",
+      "example_ar": "تحب التفاح ولكن لا تحب البرتقال."
+    },
+    {
+      "word_en": "without",
+      "example_en": "He couldn't imagine life without music.",
+      "word_ar": "بدون",
+      "example_ar": "لم يستطع أن يتخيل الحياة بدون موسيقى."
+    },
+    {
+      "word_en": "badly",
+      "example_en": "He needed the job badly.",
+      "word_ar": "بشكل سيئ",
+      "example_ar": "كان بحاجة ماسة إلى الوظيفة."
+    },
+    {
+      "word_en": "via",
+      "example_en": "You can send the file via email.",
+      "word_ar": "عبر",
+      "example_ar": "يمكنك إرسال الملف عبر البريد الإلكتروني."
+    },
+    {
+      "word_en": "toward",
+      "example_en": "He walked toward the city center.",
+      "word_ar": "نحو",
+      "example_ar": "سار نحو مركز المدينة."
+    },
+    {
+      "word_en": "till",
+      "example_en": "The store is open till midnight.",
+      "word_ar": "حتى",
+      "example_ar": "المتجر مفتوح حتى منتصف الليل."
+    },
+    {
+      "word_en": "plus",
+      "example_en": "Two plus two equals four.",
+      "word_ar": "بالإضافة إلى",
+      "example_ar": "اثنان بالإضافة إلى اثنين يساوي أربعة."
+    },
+    {
+      "word_en": "per",
+      "example_en": "The cost per person is $10.",
+      "word_ar": "لكل",
+      "example_ar": "التكلفة لكل شخص 10 دولار."
+    }
+  ]
+}
