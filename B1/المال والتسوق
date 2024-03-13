@@ -1,0 +1,244 @@
+{
+  "words": [
+    {
+      "word_en": "borrow",
+      "example_en": "She had to borrow money to pay her bills.",
+      "word_ar": "اقتراض",
+      "example_ar": "اضطرت إلى اقتراض المال لدفع فواتيرها."
+    },
+    {
+      "word_en": "coin",
+      "example_en": "He dropped a coin into the charity box.",
+      "word_ar": "عملة",
+      "example_ar": "أسقط عملة في صندوق الصدقات."
+    },
+    {
+      "word_en": "discount",
+      "example_en": "They offered a discount for bulk purchases.",
+      "word_ar": "خصم",
+      "example_ar": "قدموا خصمًا على المشتريات بالجملة."
+    },
+    {
+      "word_en": "charge",
+      "example_en": "The hotel will charge you extra for room service.",
+      "word_ar": "تهمة",
+      "example_ar": "سيفرض الفندق عليك تكلفة إضافية لخدمة الغرف."
+    },
+    {
+      "word_en": "possession",
+      "example_en": "The car is his most prized possession.",
+      "word_ar": "ملكية",
+      "example_ar": "السيارة هي ملكيته الأغلى قيمة."
+    },
+    {
+      "word_en": "balance",
+      "example_en": "Make sure to keep a balance between work and leisure.",
+      "word_ar": "توازن",
+      "example_ar": "تأكد من الحفاظ على توازن بين العمل والترفيه."
+    },
+    {
+      "word_en": "cut",
+      "example_en": "They decided to cut their expenses by eating out less.",
+      "word_ar": "يقطع",
+      "example_ar": "قرروا خفض نفقاتهم عن طريق تقليل تناول الطعام خارج المنزل."
+    },
+    {
+      "word_en": "goods",
+      "example_en": "The store sells a variety of goods.",
+      "word_ar": "سلع",
+      "example_ar": "المتجر يبيع مجموعة متنوعة من السلع."
+    },
+    {
+      "word_en": "buyer",
+      "example_en": "The buyer inspected the merchandise before purchasing.",
+      "word_ar": "مشتري",
+      "example_ar": "فحص المشتري البضائع قبل الشراء."
+    },
+    {
+      "word_en": "value",
+      "example_en": "The value of the antique increased over time.",
+      "word_ar": "قيمة",
+      "example_ar": "زادت قيمة القطعة الأثرية مع مرور الوقت."
+    },
+    {
+      "word_en": "lend",
+      "example_en": "She agreed to lend her friend some money.",
+      "word_ar": "يقرض",
+      "example_ar": "وافقت على إقراض صديقتها بعض المال."
+    },
+    {
+      "word_en": "expense",
+      "example_en": "Traveling can sometimes be an expensive expense.",
+      "word_ar": "نفقة",
+      "example_ar": "السفر يمكن أن يكون في بعض الأحيان نفقة مكلفة."
+    },
+    {
+      "word_en": "saving",
+      "example_en": "He put his savings into a retirement account.",
+      "word_ar": "توفير",
+      "example_ar": "وضع توفيراته في حساب التقاعد."
+    },
+    {
+      "word_en": "overpriced",
+      "example_en": "The restaurant's menu was overpriced for the quality of food.",
+      "word_ar": "مرتفع السعر",
+      "example_ar": "كانت قائمة مطعم مرتفعة السعر بالنسبة لجودة الطعام."
+    },
+    {
+      "word_en": "sum",
+      "example_en": "He calculated the sum of his expenses for the month.",
+      "word_ar": "مبلغ",
+      "example_ar": "حسب مبلغ نفقاته للشهر."
+    },
+    {
+      "word_en": "return",
+      "example_en": "She needs to return the dress because it doesn't fit.",
+      "word_ar": "عودة",
+      "example_ar": "تحتاج إلى إعادة الفستان لأنه لا يناسبها."
+    },
+    {
+      "word_en": "bargain",
+      "example_en": "She managed to get a good bargain at the flea market.",
+      "word_ar": "صفقة",
+      "example_ar": "تمكنت من الحصول على صفقة جيدة في سوق البرغوث."
+    },
+    {
+      "word_en": "product",
+      "example_en": "The company is launching a new product next month.",
+      "word_ar": "منتج",
+      "example_ar": "تطلق الشركة منتجًا جديدًا الشهر القادم."
+    },
+    {
+      "word_en": "shopper",
+      "example_en": "The mall was crowded with shoppers during the holiday season.",
+      "word_ar": "متسوق",
+      "example_ar": "كان المركز التجاري مزدحمًا بالمتسوقين خلال موسم العطلات."
+    },
+    {
+      "word_en": "tax",
+      "example_en": "He had to pay a hefty tax bill this year.",
+      "word_ar": "ضريبة",
+      "example_ar": "اضطر لدفع فاتورة ضريبية ضخمة هذا العام."
+    },
+    {
+      "word_en": "worth",
+      "example_en": "The vintage car is worth a lot of money.",
+      "word_ar": "قيمته",
+      "example_ar": "السيارة الكلاسيكية قيمتها عالية جدًا."
+    },
+    {
+      "word_en": "belong",
+      "example_en": "These books belong on the top shelf.",
+      "word_ar": "ينتمي",
+      "example_ar": "هذه الكتب تنتمي إلى الرف العلوي."
+    },
+    {
+      "word_en": "charge",
+      "example_en": "The phone's battery is running low; I need to charge it.",
+      "word_ar": "يشحن",
+      "example_ar": "بطارية الهاتف منخفضة؛ أحتاج إلى شحنها."
+    },
+    {
+      "word_en": "shopper",
+      "example_en": "She's an avid shopper and loves browsing through stores.",
+      "word_ar": "متسوق",
+      "example_ar": "هي متسوقة متحمسة وتحب التصفح في المتاجر."
+    },
+    {
+      "word_en": "mall",
+      "example_en": "The new mall has a wide range of stores.",
+      "word_ar": "مركز تجاري",
+      "example_ar": "المركز التجاري الجديد لديه مجموعة واسعة من المتاجر."
+    },
+    {
+      "word_en": "borrow",
+      "example_en": "She had to borrow a pen to sign the document.",
+      "word_ar": "استعارة",
+      "example_ar": "اضطرت إلى استعارة قلم لتوقيع الوثيقة."
+    },
+    {
+      "word_en": "seller",
+      "example_en": "The seller offered a discount for paying in cash.",
+      "word_ar": "بائع",
+      "example_ar": "عرض البائع خصمًا للدفع نقدًا."
+    },
+    {
+      "word_en": "production",
+      "example_en": "The production of the new model will start next month.",
+      "word_ar": "إنتاج",
+      "example_ar": "سيبدأ إنتاج النموذج الجديد الشهر القادم."
+    },
+    {
+      "word_en": "worth",
+      "example_en": "The antique vase was appraised for its historical worth.",
+      "word_ar": "قيمته",
+      "example_ar": "تم تقييم قيمة الإناء القديم لقيمته التاريخية."
+    },
+    {
+      "word_en": "currency",
+      "example_en": "The country's currency has been stable for several years.",
+      "word_ar": "عملة",
+      "example_ar": "كانت عملة البلاد مستقرة لعدة سنوات."
+    },
+    {
+      "word_en": "owe",
+      "example_en": "I owe my friend a favor for helping me move.",
+      "word_ar": "مدين",
+      "example_ar": "أنا مدين لصديقي بمعروف لمساعدتي في الانتقال."
+    },
+    {
+      "word_en": "luxury",
+      "example_en": "A weekend at the spa was a luxury she treated herself to.",
+      "word_ar": "فخامة",
+      "example_ar": "كان عطلة نهاية الأسبوع في السبا فخامة تدللت بها."
+    },
+    {
+      "word_en": "checkout",
+      "example_en": "The checkout lines were long due to the holiday rush.",
+      "word_ar": "الدفع",
+      "example_ar": "كانت طوابير الدفع طويلة بسبب الازدحام بمناسبة العطلة."
+    },
+    {
+      "word_en": "inexpensive",
+      "example_en": "The restaurant serves delicious meals at inexpensive prices.",
+      "word_ar": "رخيص",
+      "example_ar": "يقدم المطعم وجبات لذيذة بأسعار معقولة."
+    },
+    {
+      "word_en": "debt",
+      "example_en": "She's working hard to pay off her student debt.",
+      "word_ar": "دين",
+      "example_ar": "تعمل بجد لسداد دينها الطلابي."
+    },
+    {
+      "word_en": "production",
+      "example_en": "The production team worked tirelessly to meet the deadline.",
+      "word_ar": "إنتاج",
+      "example_ar": "عمل فريق الإنتاج بجد لتلبية الموعد النهائي."
+    },
+    {
+      "word_en": "donate",
+      "example_en": "They decided to donate a portion of their earnings to charity.",
+      "word_ar": "تبرع",
+      "example_ar": "قرروا التبرع بجزء من أرباحهم للجمعيات الخيرية."
+    },
+    {
+      "word_en": "checkout",
+      "example_en": "The cashier rang up their items at the checkout.",
+      "word_ar": "الدفع",
+      "example_ar": "قام الكاشير بتسجيل بضاعتهم في نقطة الدفع."
+    },
+    {
+      "word_en": "cut",
+      "example_en": "They had to cut down on their expenses to save money.",
+      "word_ar": "قطع",
+      "example_ar": "اضطروا إلى التقليل من نفقاتهم لتوفير المال."
+    },
+    {
+      "word_en": "total",
+      "example_en": "The total amount came to $100.",
+      "word_ar": "مجموع",
+      "example_ar": "وصل المبلغ الإجمالي إلى 100 دولار."
+    }
+  ]
+}
