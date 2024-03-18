@@ -1,0 +1,172 @@
+{
+  "words": [
+    {
+      "word_en": "medal",
+      "example_en": "He won a gold medal in the swimming competition.",
+      "word_ar": "ميدالية",
+      "example_ar": "فاز بميدالية ذهبية في مسابقة السباحة."
+    },
+    {
+      "word_en": "ski",
+      "example_en": "They love to ski in the mountains during winter.",
+      "word_ar": "تزلج",
+      "example_ar": "يحبون التزلج في الجبال خلال فصل الشتاء."
+    },
+    {
+      "word_en": "skating",
+      "example_en": "She enjoys figure skating in her free time.",
+      "word_ar": "التزلج على الجليد",
+      "example_ar": "تستمتع بالتزلج على الجليد في وقت فراغها."
+    },
+    {
+      "word_en": "hike",
+      "example_en": "They plan to hike through the national park next weekend.",
+      "word_ar": "رحلة في الطبيعة",
+      "example_ar": "يخططون للقيام برحلة في الطبيعة عبر الحديقة الوطنية في نهاية الأسبوع القادم."
+    },
+    {
+      "word_en": "race",
+      "example_en": "The marathon race will start at dawn.",
+      "word_ar": "سباق",
+      "example_ar": "سيبدأ سباق الماراثون عند الفجر."
+    },
+    {
+      "word_en": "swim",
+      "example_en": "She swims every morning at the local pool.",
+      "word_ar": "سباحة",
+      "example_ar": "تسبح كل صباح في المسبح المحلي."
+    },
+    {
+      "word_en": "score",
+      "example_en": "He scored the winning goal in the soccer match.",
+      "word_ar": "نقطة",
+      "example_ar": "سجل الهدف الفائز في مباراة كرة القدم."
+    },
+    {
+      "word_en": "loser",
+      "example_en": "He was disappointed to be the loser in the chess game.",
+      "word_ar": "الخاسر",
+      "example_ar": "كان مخيبًا للآمال لأنه كان الخاسر في لعبة الشطرنج."
+    },
+    {
+      "word_en": "point",
+      "example_en": "They scored a point with their last serve.",
+      "word_ar": "نقطة",
+      "example_ar": "سجلوا نقطة بآخر ضربة لهم."
+    },
+    {
+      "word_en": "win",
+      "example_en": "She trained hard to win the upcoming competition.",
+      "word_ar": "فوز",
+      "example_ar": "تدربت بجد للفوز في المسابقة القادمة."
+    },
+    {
+      "word_en": "winner",
+      "example_en": "He was declared the winner of the tennis tournament.",
+      "word_ar": "الفائز",
+      "example_ar": "أُعلن الفائز في بطولة التنس."
+    },
+    {
+      "word_en": "lose",
+      "example_en": "They hate to lose at board games.",
+      "word_ar": "خسارة",
+      "example_ar": "يكرهون الخسارة في الألعاب اللوحية."
+    },
+    {
+      "word_en": "skateboard",
+      "example_en": "He enjoys skateboarding in the park.",
+      "word_ar": "تزلج على السكيت",
+      "example_ar": "يستمتع بالتزلج على السكيت في الحديقة."
+    },
+    {
+      "word_en": "surfboard",
+      "example_en": "She's learning how to surf with a surfboard.",
+      "word_ar": "لوح تزلج",
+      "example_ar": "هي تتعلم كيفية التزلج على الأمواج مع لوح تزلج."
+    },
+    {
+      "word_en": "ice skate",
+      "example_en": "They rented ice skates for the afternoon.",
+      "word_ar": "تزلج على الجليد",
+      "example_ar": "استأجروا تزلج على الجليد لفترة بعد الظهر."
+    },
+    {
+      "word_en": "snowboard",
+      "example_en": "He's a professional snowboarder.",
+      "word_ar": "تزلج على الجليد",
+      "example_ar": "هو متزلج محترف."
+    },
+    {
+      "word_en": "skateboarding",
+      "example_en": "She practices skateboarding at the skatepark.",
+      "word_ar": "تزلج على السكيت",
+      "example_ar": "تمارس التزلج على السكيت في حديقة التزلج."
+    },
+    {
+      "word_en": "snowboarding",
+      "example_en": "They go snowboarding every winter.",
+      "word_ar": "تزلج على الجليد",
+      "example_ar": "يذهبون للتزلج على الجليد كل شتاء."
+    },
+    {
+      "word_en": "ice skating",
+      "example_en": "Ice skating is her favorite winter activity.",
+      "word_ar": "تزلج على الجليد",
+      "example_ar": "تزلج على الجليد هو نشاطها المفضل في الشتاء."
+    },
+    {
+      "word_en": "surfing",
+      "example_en": "He's been surfing since he was a teenager.",
+      "word_ar": "تصفح",
+      "example_ar": "يتصفح منذ كان مراهقًا."
+    },
+    {
+      "word_en": "membership",
+      "example_en": "He purchased a gym membership for the year.",
+      "word_ar": "عضوية",
+      "example_ar": "اشترى عضوية في النادي الرياضي لمدة عام."
+    },
+    {
+      "word_en": "practice",
+      "example_en": "They have basketball practice every Saturday.",
+      "word_ar": "ممارسة",
+      "example_ar": "لديهم ممارسة لكرة السلة كل يوم سبت."
+    },
+    {
+      "word_en": "team",
+      "example_en": "She's a member of the local soccer team.",
+      "word_ar": "فريق",
+      "example_ar": "هي عضو في فريق كرة القدم المحلي."
+    },
+    {
+      "word_en": "fan",
+      "example_en": "He's a devoted fan of the basketball team.",
+      "word_ar": "مشجع",
+      "example_ar": "هو مشجع مخلص لفريق كرة السلة."
+    },
+    {
+      "word_en": "record",
+      "example_en": "She broke the world record for the mile run.",
+      "word_ar": "سجل",
+      "example_ar": "كسرت الرقم القياسي العالمي لسباق الميل."
+    },
+    {
+      "word_en": "net",
+      "example_en": "The soccer ball went into the net for a goal.",
+      "word_ar": "شبكة",
+      "example_ar": "ذهبت كرة القدم إلى الشبكة لتسجيل هدف."
+    },
+    {
+      "word_en": "prize",
+      "example_en": "He won the first prize in the chess tournament.",
+      "word_ar": "جائزة",
+      "example_ar": "فاز بالجائزة الأولى في بطولة الشطرنج."
+    },
+    {
+      "word_en": "registration",
+      "example_en": "The registration for the marathon is now open.",
+      "word_ar": "تسجيل",
+      "example_ar": "تم فتح التسجيل للماراثون الآن."
+    }
+  ]
+}
