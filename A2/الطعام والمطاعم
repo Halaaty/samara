@@ -1,0 +1,160 @@
+{
+  "words": [
+    {
+      "word_en": "vegetarian",
+      "example_en": "She follows a vegetarian diet.",
+      "word_ar": "نباتي",
+      "example_ar": "تتبع نظامًا غذائيًا نباتيًا."
+    },
+    {
+      "word_en": "vegan",
+      "example_en": "He's been a vegan for five years.",
+      "word_ar": "نباتي صارم",
+      "example_ar": "كان نباتي صارم لمدة خمس سنوات."
+    },
+    {
+      "word_en": "taste",
+      "example_en": "The soup has a delicious taste.",
+      "word_ar": "طعم",
+      "example_ar": "للحساء طعم لذيذ."
+    },
+    {
+      "word_en": "diet",
+      "example_en": "She's on a strict diet to lose weight.",
+      "word_ar": "حمية غذائية",
+      "example_ar": "هي على حمية غذائية صارمة لفقدان الوزن."
+    },
+    {
+      "word_en": "grocery",
+      "example_en": "I need to go to the grocery store to buy some vegetables.",
+      "word_ar": "بقالة",
+      "example_ar": "أحتاج إلى الذهاب إلى البقالة لشراء بعض الخضروات."
+    },
+    {
+      "word_en": "cookbook",
+      "example_en": "She bought a new cookbook with healthy recipes.",
+      "word_ar": "كتاب طبخ",
+      "example_ar": "اشترت كتاب طبخ جديد يحتوي على وصفات صحية."
+    },
+    {
+      "word_en": "rest",
+      "example_en": "The soup needs to rest for a few minutes before serving.",
+      "word_ar": "يستريح",
+      "example_ar": "يحتاج الحساء إلى الراحة لبضع دقائق قبل التقديم."
+    },
+    {
+      "word_en": "leftovers",
+      "example_en": "We had leftovers from last night's dinner for lunch today.",
+      "word_ar": "بقايا",
+      "example_ar": "كانت لدينا بقايا من عشاء الليلة الماضية لتناول الغداء اليوم."
+    },
+    {
+      "word_en": "tip",
+      "example_en": "Here's a useful tip for cooking pasta.",
+      "word_ar": "نصيحة",
+      "example_ar": "إليك نصيحة مفيدة لطهي الباستا."
+    },
+    {
+      "word_en": "tip",
+      "example_en": "He gave the waiter a generous tip.",
+      "word_ar": "بقشيش",
+      "example_ar": "أعطى النادل بقشيش سخي."
+    },
+    {
+      "word_en": "watery",
+      "example_en": "The soup was too watery.",
+      "word_ar": "مائي",
+      "example_ar": "كان الحساء مائيًا للغاية."
+    },
+    {
+      "word_en": "spicy",
+      "example_en": "I love spicy food.",
+      "word_ar": "حار",
+      "example_ar": "أحب الطعام الحار."
+    },
+    {
+      "word_en": "bitter",
+      "example_en": "The coffee was bitter.",
+      "word_ar": "مر",
+      "example_ar": "كان القهوة مرة."
+    },
+    {
+      "word_en": "steak",
+      "example_en": "He ordered a steak cooked medium-rare.",
+      "word_ar": "شريحة لحم",
+      "example_ar": "طلب شريحة لحم مطهوة بدرجة النضج المتوسطة."
+    },
+    {
+      "word_en": "rare",
+      "example_en": "She likes her steak cooked rare.",
+      "word_ar": "نادر",
+      "example_ar": "تحب شرائح اللحم المطهوة بدرجة النضج النادرة."
+    },
+    {
+      "word_en": "medium",
+      "example_en": "He prefers his steak cooked medium.",
+      "word_ar": "متوسط",
+      "example_ar": "يفضل شرائح اللحم المطهوة بدرجة النضج المتوسطة."
+    },
+    {
+      "word_en": "well-done",
+      "example_en": "The steak was well-done and tender.",
+      "word_ar": "جيداً مطهي",
+      "example_ar": "كانت شريحة اللحم جيداً مطهية وطرية."
+    },
+    {
+      "word_en": "cabbage",
+      "example_en": "She made a delicious cabbage salad.",
+      "word_ar": "ملفوف",
+      "example_ar": "صنعت سلطة ملفوف لذيذة."
+    },
+    {
+      "word_en": "celery",
+      "example_en": "She adds celery to her smoothies for extra flavor.",
+      "word_ar": "كرفس",
+      "example_ar": "تضيف الكرفس إلى سموذيها لمذاق إضافي."
+    },
+    {
+      "word_en": "eggplant",
+      "example_en": "She made eggplant parmesan for dinner.",
+      "word_ar": "باذنجان",
+      "example_ar": "صنعت بامية بالباذنجان للعشاء."
+    },
+    {
+      "word_en": "broccoli",
+      "example_en": "He loves steamed broccoli with garlic.",
+      "word_ar": "بروكلي",
+      "example_ar": "يحب البروكلي المطهو بالبخار مع الثوم."
+    },
+    {
+      "word_en": "tuna",
+      "example_en": "She made a tuna salad for lunch.",
+      "word_ar": "تونة",
+      "example_ar": "صنعت سلطة التونة لتناول الغداء."
+    },
+    {
+      "word_en": "omelet",
+      "example_en": "He makes a mean omelet for breakfast.",
+      "word_ar": "عجة",
+      "example_ar": "يصنع عجة شهية للفطور."
+    },
+    {
+      "word_en": "pork",
+      "example_en": "She doesn't eat pork for religious reasons.",
+      "word_ar": "لحم خنزير",
+      "example_ar": "لا تأكل لحم الخنزير لأسباب دينية."
+    },
+    {
+      "word_en": "beef",
+      "example_en": "They had beef stew for dinner.",
+      "word_ar": "لحم بقري",
+      "example_ar": "كانت لديهم وصفة لحم بقري للعشاء."
+    },
+    {
+      "word_en": "lamb",
+      "example_en": "Lamb curry is his favorite dish.",
+      "word_ar": "لحم الضأن",
+      "example_ar": "الكاري بلحم الضأن هو طبقه المفضل."
+    }
+  ]
+}
