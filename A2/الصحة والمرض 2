@@ -1,0 +1,136 @@
+{
+  "words": [
+    {
+      "word_en": "dangerous",
+      "example_en": "It's dangerous to play near the cliff.",
+      "word_ar": "خطير",
+      "example_ar": "من الخطر اللعب بالقرب من الجرف."
+    },
+    {
+      "word_en": "appointment",
+      "example_en": "She has a doctor's appointment tomorrow.",
+      "word_ar": "موعد",
+      "example_ar": "لديها موعد مع الطبيب غدًا."
+    },
+    {
+      "word_en": "test",
+      "example_en": "He needs to take a blood test to check his cholesterol level.",
+      "word_ar": "اختبار",
+      "example_ar": "يحتاج إلى إجراء اختبار الدم لفحص مستوى الكولسترول لديه."
+    },
+    {
+      "word_en": "sickness",
+      "example_en": "The sickness kept him in bed for a week.",
+      "word_ar": "مرض",
+      "example_ar": "أبقى المرض في السرير لمدة أسبوع."
+    },
+    {
+      "word_en": "injury",
+      "example_en": "He suffered a severe injury during the accident.",
+      "word_ar": "إصابة",
+      "example_ar": "تعرض لإصابة خطيرة خلال الحادث."
+    },
+    {
+      "word_en": "pain",
+      "example_en": "She felt a sharp pain in her leg.",
+      "word_ar": "ألم",
+      "example_ar": "شعرت بألم حاد في ساقها."
+    },
+    {
+      "word_en": "accident",
+      "example_en": "He had a car accident on the way to work.",
+      "word_ar": "حادث",
+      "example_ar": "تعرض لحادث سيارة في طريقه إلى العمل."
+    },
+    {
+      "word_en": "broken",
+      "example_en": "Her arm was broken in the fall.",
+      "word_ar": "مكسور",
+      "example_ar": "تم كسر ذراعها في السقوط."
+    },
+    {
+      "word_en": "better",
+      "example_en": "He's feeling better after taking the medication.",
+      "word_ar": "أفضل",
+      "example_ar": "يشعر بتحسن بعد تناول الدواء."
+    },
+    {
+      "word_en": "sick",
+      "example_en": "She called in sick to work.",
+      "word_ar": "مريض",
+      "example_ar": "اتصلت بالعمل مريضة."
+    },
+    {
+      "word_en": "hurt",
+      "example_en": "He hurt his knee while playing soccer.",
+      "word_ar": "أذى",
+      "example_ar": "أذى ركبته أثناء لعب كرة القدم."
+    },
+    {
+      "word_en": "serious",
+      "example_en": "The doctor said it's a serious condition.",
+      "word_ar": "جاد",
+      "example_ar": "قال الطبيب إنها حالة جادة."
+    },
+    {
+      "word_en": "examine",
+      "example_en": "The doctor will examine your throat.",
+      "word_ar": "فحص",
+      "example_ar": "سيفحص الطبيب حلقك."
+    },
+    {
+      "word_en": "break",
+      "example_en": "She broke her leg while skiing.",
+      "word_ar": "كسر",
+      "example_ar": "كسرت ساقها أثناء التزلج."
+    },
+    {
+      "word_en": "cut",
+      "example_en": "He cut his finger while chopping vegetables.",
+      "word_ar": "جرح",
+      "example_ar": "جرح إصبعه أثناء تقطيع الخضروات."
+    },
+    {
+      "word_en": "injure",
+      "example_en": "He injured his ankle during the soccer game.",
+      "word_ar": "جرح",
+      "example_ar": "جرح كاحله أثناء مباراة كرة القدم."
+    },
+    {
+      "word_en": "hit",
+      "example_en": "He hit his head on the door.",
+      "word_ar": "ضرب",
+      "example_ar": "ضرب رأسه بالباب."
+    },
+    {
+      "word_en": "see",
+      "example_en": "You should see a doctor if the pain persists.",
+      "word_ar": "رؤية",
+      "example_ar": "يجب عليك رؤية طبيب إذا استمر الألم."
+    },
+    {
+      "word_en": "catch",
+      "example_en": "He caught a cold from his coworker.",
+      "word_ar": "إصابة",
+      "example_ar": "إصابة بالبرد من زميل العمل."
+    },
+    {
+      "word_en": "prescribe",
+      "example_en": "The doctor prescribed antibiotics for the infection.",
+      "word_ar": "وصف",
+      "example_ar": "وصف الطبيب مضادات حيوية للعدوى."
+    },
+    {
+      "word_en": "sneeze",
+      "example_en": "She couldn't stop sneezing because of her allergies.",
+      "word_ar": "عطس",
+      "example_ar": "لم تتمكن من التوقف عن العطس بسبب حساسيتها."
+    },
+    {
+      "word_en": "cough",
+      "example_en": "He had a persistent cough for weeks.",
+      "word_ar": "سعال",
+      "example_ar": "كان لديه سعال مستمر لعدة أسابيع."
+    }
+  ]
+}
