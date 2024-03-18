@@ -1,0 +1,172 @@
+{
+  "words": [
+    {
+      "word_en": "farmer",
+      "example_en": "My grandfather was a farmer.",
+      "word_ar": "مزارع",
+      "example_ar": "جدّي كان مزارعًا."
+    },
+    {
+      "word_en": "scientist",
+      "example_en": "Marie Curie was a renowned scientist.",
+      "word_ar": "عالِم",
+      "example_ar": "كانت ماري كوري عالِمة مشهورة."
+    },
+    {
+      "word_en": "head",
+      "example_en": "She's the head of the department.",
+      "word_ar": "رأس",
+      "example_ar": "هي رأس القسم."
+    },
+    {
+      "word_en": "title",
+      "example_en": "He holds the title of CEO.",
+      "word_ar": "لقب",
+      "example_ar": "يحمل لقب الرئيس التنفيذي."
+    },
+    {
+      "word_en": "salesclerk",
+      "example_en": "She works as a salesclerk in a boutique.",
+      "word_ar": "بائع",
+      "example_ar": "تعمل كبائعة في متجر صغير."
+    },
+    {
+      "word_en": "officer",
+      "example_en": "He serves as an officer in the army.",
+      "word_ar": "ضابط",
+      "example_ar": "يخدم كضابط في الجيش."
+    },
+    {
+      "word_en": "staff",
+      "example_en": "The company hired new staff for the project.",
+      "word_ar": "طاقم",
+      "example_ar": "قامت الشركة بتوظيف طاقم جديد للمشروع."
+    },
+    {
+      "word_en": "politician",
+      "example_en": "She's a respected politician in her community.",
+      "word_ar": "سياسي",
+      "example_ar": "هي سياسية محترمة في مجتمعها."
+    },
+    {
+      "word_en": "organization",
+      "example_en": "He works for a non-profit organization.",
+      "word_ar": "منظمة",
+      "example_ar": "يعمل لصالح منظمة غير ربحية."
+    },
+    {
+      "word_en": "salary",
+      "example_en": "The company offers competitive salaries to its employees.",
+      "word_ar": "راتب",
+      "example_ar": "تقدم الشركة رواتب تنافسية لموظفيها."
+    },
+    {
+      "word_en": "raise",
+      "example_en": "She received a raise after her performance review.",
+      "word_ar": "زيادة",
+      "example_ar": "حصلت على زيادة بعد استعراض أدائها."
+    },
+    {
+      "word_en": "overtime",
+      "example_en": "He often works overtime to meet deadlines.",
+      "word_ar": "إضافي",
+      "example_ar": "غالباً ما يعمل وقت إضافي لتلبية المواعيد النهائية."
+    },
+    {
+      "word_en": "hairstylist",
+      "example_en": "She's a talented hairstylist at the local salon.",
+      "word_ar": "مصفف شعر",
+      "example_ar": "هي مصففة شعر موهوبة في صالون محلي."
+    },
+    {
+      "word_en": "chemist",
+      "example_en": "He's a chemist working in a pharmaceutical company.",
+      "word_ar": "كيميائي",
+      "example_ar": "هو كيميائي يعمل في شركة دوائية."
+    },
+    {
+      "word_en": "fashion designer",
+      "example_en": "She's a fashion designer for a famous clothing brand.",
+      "word_ar": "مصمم أزياء",
+      "example_ar": "هي مصممة أزياء لعلامة ملابس مشهورة."
+    },
+    {
+      "word_en": "meeting",
+      "example_en": "They have a meeting scheduled for this afternoon.",
+      "word_ar": "اجتماع",
+      "example_ar": "لديهم اجتماع مجدول لهذا المساء."
+    },
+    {
+      "word_en": "hire",
+      "example_en": "The company plans to hire more engineers next year.",
+      "word_ar": "توظيف",
+      "example_ar": "تخطط الشركة لتوظيف المزيد من المهندسين السنة المقبلة."
+    },
+    {
+      "word_en": "promotion",
+      "example_en": "She got a promotion after years of hard work.",
+      "word_ar": "ترقية",
+      "example_ar": "حصلت على ترقية بعد سنوات من العمل الجاد."
+    },
+    {
+      "word_en": "break",
+      "example_en": "They took a short break after the morning meeting.",
+      "word_ar": "استراحة",
+      "example_ar": "أخذوا استراحة قصيرة بعد الاجتماع الصباحي."
+    },
+    {
+      "word_en": "recommendation",
+      "example_en": "He received a recommendation from his previous employer.",
+      "word_ar": "توصية",
+      "example_ar": "تلقى توصية من موظفه السابق."
+    },
+    {
+      "word_en": "job interview",
+      "example_en": "She has a job interview tomorrow.",
+      "word_ar": "مقابلة عمل",
+      "example_ar": "لديها مقابلة عمل غدًا."
+    },
+    {
+      "word_en": "apprentice",
+      "example_en": "He started as an apprentice and learned the trade.",
+      "word_ar": "متدرب",
+      "example_ar": "بدأ كمتدرب وتعلم المهنة."
+    },
+    {
+      "word_en": "retired",
+      "example_en": "He retired after working for forty years.",
+      "word_ar": "متقاعد",
+      "example_ar": "تقاعد بعد أربعين عامًا من العمل."
+    },
+    {
+      "word_en": "fire",
+      "example_en": "They had to fire several employees due to budget cuts.",
+      "word_ar": "فصل",
+      "example_ar": "اضطروا إلى فصل العديد من الموظفين بسبب تقليص الميزانية."
+    },
+    {
+      "word_en": "earn",
+      "example_en": "She earns a high salary as a lawyer.",
+      "word_ar": "كسب",
+      "example_ar": "تكسب راتبًا عاليًا كمحامية."
+    },
+    {
+      "word_en": "quit",
+      "example_en": "He decided to quit his job and travel the world.",
+      "word_ar": "استقال",
+      "example_ar": "قرر أن يستقيل من عمله ويسافر حول العالم."
+    },
+    {
+      "word_en": "pay",
+      "example_en": "They agreed to increase his pay.",
+      "word_ar": "دفع",
+      "example_ar": "وافقوا على زيادة أجره."
+    },
+    {
+      "word_en": "resume",
+      "example_en": "She sent her resume to several companies.",
+      "word_ar": "سيرة ذاتية",
+      "example_ar": "أرسلت سيرتها الذاتية إلى عدة شركات."
+    }
+  ]
+}
