@@ -1,0 +1,238 @@
+{
+  "words": [
+    {
+      "word_en": "individual",
+      "example_en": "Each individual has their own unique qualities.",
+      "word_ar": "فرد",
+      "example_ar": "كل فرد لديه صفاته الفريدة الخاصة به."
+    },
+    {
+      "word_en": "perfect",
+      "example_en": "She expects everything to be perfect.",
+      "word_ar": "مثالي",
+      "example_ar": "تتوقع أن تكون كل شيء مثالياً."
+    },
+    {
+      "word_en": "active",
+      "example_en": "He leads a very active lifestyle.",
+      "word_ar": "نشيط",
+      "example_ar": "يعيش نمط حياة نشيط جداً."
+    },
+    {
+      "word_en": "quiet",
+      "example_en": "She's usually quiet in large groups.",
+      "word_ar": "هادئ",
+      "example_ar": "عادةً ما تكون هادئة في المجموعات الكبيرة."
+    },
+    {
+      "word_en": "jealous",
+      "example_en": "He felt jealous of his friend's success.",
+      "word_ar": "غيور",
+      "example_ar": "شعر بالغيرة من نجاح صديقه."
+    },
+    {
+      "word_en": "helpful",
+      "example_en": "She's always willing to be helpful.",
+      "word_ar": "مفيد",
+      "example_ar": "هي دائماً على استعداد لتقديم المساعدة."
+    },
+    {
+      "word_en": "mild",
+      "example_en": "His criticism was quite mild.",
+      "word_ar": "لطيف",
+      "example_ar": "كانت انتقاداته لطيفة للغاية."
+    },
+    {
+      "word_en": "unique",
+      "example_en": "Each snowflake is unique.",
+      "word_ar": "فريد",
+      "example_ar": "كل ندفة ثلج فريدة من نوعها."
+    },
+    {
+      "word_en": "scary",
+      "example_en": "The movie was so scary, I couldn't sleep.",
+      "word_ar": "مخيف",
+      "example_ar": "كان الفيلم مخيفًا لدرجة أنني لم أتمكن من النوم."
+    },
+    {
+      "word_en": "rude",
+      "example_en": "She can be quite rude when she's angry.",
+      "word_ar": "وقح",
+      "example_ar": "قد تكون وقحة للغاية عندما تكون غاضبة."
+    },
+    {
+      "word_en": "tough",
+      "example_en": "He has a tough personality, but he's fair.",
+      "word_ar": "قاسي",
+      "example_ar": "لديه شخصية قاسية، ولكنه عادل."
+    },
+    {
+      "word_en": "fair",
+      "example_en": "He believes in fair treatment for everyone.",
+      "word_ar": "عادل",
+      "example_ar": "يؤمن بمعاملة عادلة للجميع."
+    },
+    {
+      "word_en": "confident",
+      "example_en": "She's very confident in her abilities.",
+      "word_ar": "واثق",
+      "example_ar": "هي واثقة جداً من قدراتها."
+    },
+    {
+      "word_en": "nice",
+      "example_en": "He's always nice to everyone.",
+      "word_ar": "لطيف",
+      "example_ar": "هو دائماً لطيف مع الجميع."
+    },
+    {
+      "word_en": "great",
+      "example_en": "She has a great sense of humor.",
+      "word_ar": "عظيم",
+      "example_ar": "لديها روح دعابة عظيمة."
+    },
+    {
+      "word_en": "crazy",
+      "example_en": "Some of his ideas are just plain crazy.",
+      "word_ar": "مجنون",
+      "example_ar": "بعض أفكاره مجرد جنون."
+    },
+    {
+      "word_en": "creative",
+      "example_en": "She has a very creative approach to problem-solving.",
+      "word_ar": "مبدع",
+      "example_ar": "لديها نهج إبداعي جداً في حل المشكلات."
+    },
+    {
+      "word_en": "brilliant",
+      "example_en": "He came up with a brilliant solution to the problem.",
+      "word_ar": "رائع",
+      "example_ar": "وجد حلاً رائعاً للمشكلة."
+    },
+    {
+      "word_en": "weakness",
+      "example_en": "Procrastination is his biggest weakness.",
+      "word_ar": "ضعف",
+      "example_ar": "التسويف هو ضعفه الأكبر."
+    },
+    {
+      "word_en": "certain",
+      "example_en": "He seems quite certain about his decision.",
+      "word_ar": "متأكد",
+      "example_ar": "يبدو متأكداً تماماً من قراره."
+    },
+    {
+      "word_en": "strange",
+      "example_en": "His behavior was a bit strange yesterday.",
+      "word_ar": "غريب",
+      "example_ar": "كان سلوكه غريبًا قليلاً أمس."
+    },
+    {
+      "word_en": "foolish",
+      "example_en": "It was foolish of him to ignore the warning.",
+      "word_ar": "غبي",
+      "example_ar": "كان من السذاجة تجاهل التحذير."
+    },
+    {
+      "word_en": "individual",
+      "example_en": "Each individual has their own unique personality.",
+      "word_ar": "فردي",
+      "example_ar": "كل فرد لديه شخصيته الفريدة."
+    },
+    {
+      "word_en": "normal",
+      "example_en": "His behavior is perfectly normal.",
+      "word_ar": "عادي",
+      "example_ar": "سلوكه عادي تماماً."
+    },
+    {
+      "word_en": "certain",
+      "example_en": "He seems quite certain about his decision.",
+      "word_ar": "متأكد",
+      "example_ar": "يبدو متأكداً تماماً من قراره."
+    },
+    {
+      "word_en": "talkative",
+      "example_en": "She's very talkative at parties.",
+      "word_ar": "ثرثار",
+      "example_ar": "هي ثرثارة جداً في الحفلات."
+    },
+    {
+      "word_en": "shy",
+      "example_en": "He's shy and doesn't talk much in public.",
+      "word_ar": "خجول",
+      "example_ar": "هو خجول ولا يتحدث كثيراً في الأماكن العامة."
+    },
+    {
+      "word_en": "serious",
+      "example_en": "She has a serious attitude towards her work.",
+      "word_ar": "جاد",
+      "example_ar": "لديها موقف جاد تجاه عملها."
+    },
+    {
+      "word_en": "kind",
+      "example_en": "She has a very kind heart.",
+      "word_ar": "لطيف",
+      "example_ar": "لديها قلب طيب جداً."
+    },
+    {
+      "word_en": "interesting",
+      "example_en": "She always has something interesting to say.",
+      "word_ar": "مثير للاهتمام",
+      "example_ar": "لديها دائماً شيء مثير للاهتمام للقول."
+    },
+    {
+      "word_en": "boring",
+      "example_en": "The lecture was so boring, I fell asleep.",
+      "word_ar": "ممل",
+      "example_ar": "كانت المحاضرة مملة لدرجة أنني نمت."
+    },
+    {
+      "word_en": "exciting",
+      "example_en": "Their trip to the amusement park was very exciting.",
+      "word_ar": "مثير",
+      "example_ar": "كانت رحلتهم إلى المدينة الترفيهية مثيرة جداً."
+    },
+    {
+      "word_en": "wonderful",
+      "example_en": "They had a wonderful time on their vacation.",
+      "word_ar": "رائع",
+      "example_ar": "قضوا وقتا رائعاً في عطلتهم."
+    },
+    {
+      "word_en": "amazing",
+      "example_en": "The performance was truly amazing.",
+      "word_ar": "مدهش",
+      "example_ar": "كانت الأداء مذهلاً حقاً."
+    },
+    {
+      "word_en": "excellent",
+      "example_en": "She did an excellent job on the project.",
+      "word_ar": "ممتاز",
+      "example_ar": "قامت بعمل ممتاز على المشروع."
+    },
+    {
+      "word_en": "awesome",
+      "example_en": "The concert was awesome.",
+      "word_ar": "رائع",
+      "example_ar": "كان الحفل رائعاً."
+    },
+    {
+      "word_en": "weird",
+      "example_en": "His behavior is a bit weird sometimes.",
+      "word_ar": "غريب",
+      "example_ar": "سلوكه غريب بعض الشيء أحياناً."
+    },
+    {
+      "word_en": "personality",
+      "example_en": "Her personality is bubbly and outgoing.",
+      "word_ar": "شخصية",
+      "example_ar": "شخصيتها مرحة وخارجة."
+    },
+    {
+      "word_en": "character",
+      "example_en": "She has a strong character.",
+      "word_ar": "شخصية",
+      "example_ar": "لديها شخصية قوية."
+    }
+  ]
+}
