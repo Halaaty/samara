@@ -1,0 +1,136 @@
+{
+  "words": [
+    {
+      "word_en": "with",
+      "example_en": "I went to the store with my friend.",
+      "word_ar": "مع",
+      "example_ar": "ذهبت إلى المتجر مع صديقي."
+    },
+    {
+      "word_en": "that",
+      "example_en": "I want the book that is on the table.",
+      "word_ar": "الذي",
+      "example_ar": "أريد الكتاب الذي على الطاولة."
+    },
+    {
+      "word_en": "this",
+      "example_en": "This is the house I grew up in.",
+      "word_ar": "هذا",
+      "example_ar": "هذه هي البيت الذي نشأت فيه."
+    },
+    {
+      "word_en": "under",
+      "example_en": "The cat is hiding under the bed.",
+      "word_ar": "تحت",
+      "example_ar": "القطة تختبئ تحت السرير."
+    },
+    {
+      "word_en": "over",
+      "example_en": "The plane flew over the city.",
+      "word_ar": "فوق",
+      "example_ar": "طارت الطائرة فوق المدينة."
+    },
+    {
+      "word_en": "what",
+      "example_en": "What is the name of the restaurant?",
+      "word_ar": "ما",
+      "example_ar": "ما اسم المطعم؟"
+    },
+    {
+      "word_en": "both",
+      "example_en": "They both like to swim.",
+      "word_ar": "كلاهما",
+      "example_ar": "كلاهما يحبان السباحة."
+    },
+    {
+      "word_en": "that",
+      "example_en": "I want the book that is on the table.",
+      "word_ar": "تلك",
+      "example_ar": "أريد الكتاب الذي على الطاولة."
+    },
+    {
+      "word_en": "to",
+      "example_en": "She went to the park.",
+      "word_ar": "إلى",
+      "example_ar": "ذهبت إلى الحديقة."
+    },
+    {
+      "word_en": "with",
+      "example_en": "I went to the store with my friend.",
+      "word_ar": "مع",
+      "example_ar": "ذهبت إلى المتجر مع صديقي."
+    },
+    {
+      "word_en": "behind",
+      "example_en": "The car is parked behind the house.",
+      "word_ar": "وراء",
+      "example_ar": "السيارة مركونة وراء المنزل."
+    },
+    {
+      "word_en": "next to",
+      "example_en": "The bank is next to the post office.",
+      "word_ar": "بجانب",
+      "example_ar": "البنك بجانب مكتب البريد."
+    },
+    {
+      "word_en": "between",
+      "example_en": "The store is between the bank and the post office.",
+      "word_ar": "بين",
+      "example_ar": "المتجر بين البنك ومكتب البريد."
+    },
+    {
+      "word_en": "near",
+      "example_en": "The park is near the school.",
+      "word_ar": "بالقرب من",
+      "example_ar": "الحديقة بالقرب من المدرسة."
+    },
+    {
+      "word_en": "across",
+      "example_en": "The bridge goes across the river.",
+      "word_ar": "عبر",
+      "example_ar": "الجسر يعبر النهر."
+    },
+    {
+      "word_en": "above",
+      "example_en": "The bird is flying above the clouds.",
+      "word_ar": "فوق",
+      "example_ar": "الطائر يطير فوق الغيوم."
+    },
+    {
+      "word_en": "below",
+      "example_en": "The fish is swimming below the surface.",
+      "word_ar": "تحت",
+      "example_ar": "السمك يسبح تحت السطح."
+    },
+    {
+      "word_en": "on",
+      "example_en": "The book is on the table.",
+      "word_ar": "على",
+      "example_ar": "الكتاب على الطاولة."
+    },
+    {
+      "word_en": "in",
+      "example_en": "She is in the room.",
+      "word_ar": "في",
+      "example_ar": "هي في الغرفة."
+    },
+    {
+      "word_en": "at",
+      "example_en": "They are waiting at the bus stop.",
+      "word_ar": "في",
+      "example_ar": "هم ينتظرون في محطة الحافلات."
+    },
+    {
+      "word_en": "after",
+      "example_en": "I'll see you after the meeting.",
+      "word_ar": "بعد",
+      "example_ar": "سأراك بعد الاجتماع."
+    },
+    {
+      "word_en": "before",
+      "example_en": "I'll see you before the meeting.",
+      "word_ar": "قبل",
+      "example_ar": "سأراك قبل الاجتماع."
+    }
+  ]
+}
