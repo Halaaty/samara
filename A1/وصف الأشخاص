@@ -1,0 +1,94 @@
+{
+  "words": [
+    {
+      "word_en": "stupid",
+      "example_en": "He made a stupid mistake.",
+      "word_ar": "غبي",
+      "example_ar": " comسخر جعل خطأ غبي."
+    },
+    {
+      "word_en": "fat",
+      "example_en": "She wants to lose weight because she feels fat.",
+      "word_ar": "سمين",
+      "example_ar": "تريد أن تفقد وزنا لأنها تشعر بالسمنة."
+    },
+    {
+      "word_en": "smart",
+      "example_en": "He's a smart student.",
+      "word_ar": "ذكي",
+      "example_ar": "طالب ذكي."
+    },
+    {
+      "word_en": "tall",
+      "example_en": "He's very tall for his age.",
+      "word_ar": "طويل",
+      "example_ar": "طويل جدا لعمره."
+    },
+    {
+      "word_en": "thirsty",
+      "example_en": "I'm thirsty. Can I have some water?",
+      "word_ar": "عطشان",
+      "example_ar": "أنا عطشان. هل يمكنني الحصول على بعض الماء؟"
+    },
+    {
+      "word_en": "thin",
+      "example_en": "She's very thin because she doesn't eat much.",
+      "word_ar": "نحيل",
+      "example_ar": "هي نحيلة جدا لأنها لا تأكل كثيرا."
+    },
+    {
+      "word_en": "old",
+      "example_en": "My grandparents are old but healthy.",
+      "word_ar": "قديم",
+      "example_ar": "جدتي وجدي قديمان ولكن بصحة جيدة."
+    },
+    {
+      "word_en": "young",
+      "example_en": "She's very talented for such a young age.",
+      "word_ar": "صغير",
+      "example_ar": "هي موهوبة جدا لسن مثل هذا الصغير."
+    },
+    {
+      "word_en": "fine",
+      "example_en": "I'm feeling fine, thank you.",
+      "word_ar": "بخير",
+      "example_ar": "أنا بخير، شكرا لك."
+    },
+    {
+      "word_en": "sad",
+      "example_en": "She looks sad today.",
+      "word_ar": "حزين",
+      "example_ar": "تبدو حزينة اليوم."
+    },
+    {
+      "word_en": "happy",
+      "example_en": "He's always happy and smiling.",
+      "word_ar": "سعيد",
+      "example_ar": "دائما سعيد ويبتسم."
+    },
+    {
+      "word_en": "hungry",
+      "example_en": "I'm hungry. Let's get some food.",
+      "word_ar": "جائع",
+      "example_ar": "أنا جائع. دعونا نحصل على بعض الطعام."
+    },
+    {
+      "word_en": "excited",
+      "example_en": "She's excited about her upcoming trip.",
+      "word_ar": "متحمس",
+      "example_ar": "هي متحمسة لرحلتها القادمة."
+    },
+    {
+      "word_en": "ready",
+      "example_en": "Are you ready to go?",
+      "word_ar": "جاهز",
+      "example_ar": "هل أنت جاهز للذهاب؟"
+    },
+    {
+      "word_en": "angry",
+      "example_en": "He was angry because he lost the game.",
+      "word_ar": "غاضب",
+      "example_ar": "كان غاضبا لأنه خسر اللعبة."
+    }
+  ]
+}
