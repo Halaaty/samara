@@ -1,0 +1,88 @@
+{
+  "words": [
+    {
+      "word_en": "Canada",
+      "example_en": "Canada is known for its stunning natural landscapes.",
+      "word_ar": "كندا",
+      "example_ar": "تشتهر كندا بمناظرها الطبيعية الخلابة."
+    },
+    {
+      "word_en": "Canadian",
+      "example_en": "She is Canadian, born and raised in Toronto.",
+      "word_ar": "كندي",
+      "example_ar": "هي كندية، وُلدت وترعرعت في تورونتو."
+    },
+    {
+      "word_en": "United States",
+      "example_en": "The United States is known for its diverse culture and opportunities.",
+      "word_ar": "الولايات المتحدة الأمريكية",
+      "example_ar": "تشتهر الولايات المتحدة الأمريكية بثقافتها المتنوعة والفرص التي تقدمها."
+    },
+    {
+      "word_en": "American",
+      "example_en": "She is American, but her parents are from Italy.",
+      "word_ar": "أمريكي",
+      "example_ar": "هي أمريكية، ولكن والديها من إيطاليا."
+    },
+    {
+      "word_en": "United Kingdom",
+      "example_en": "The United Kingdom consists of England, Scotland, Wales, and Northern Ireland.",
+      "word_ar": "المملكة المتحدة",
+      "example_ar": "تتكون المملكة المتحدة من إنجلترا وأسكتلندا وويلز وإيرلندا الشمالية."
+    },
+    {
+      "word_en": "British",
+      "example_en": "The British accent is distinct and recognizable.",
+      "word_ar": "بريطاني",
+      "example_ar": "اللهجة البريطانية مميزة ومعروفة."
+    },
+    {
+      "word_en": "France",
+      "example_en": "France is famous for its delicious cuisine and beautiful landmarks.",
+      "word_ar": "فرنسا",
+      "example_ar": "تشتهر فرنسا بمطبخها اللذيذ والمعالم الجميلة."
+    },
+    {
+      "word_en": "French",
+      "example_en": "She speaks fluent French.",
+      "word_ar": "فرنسي",
+      "example_ar": "تتحدث الفرنسية بطلاقة."
+    },
+    {
+      "word_en": "Germany",
+      "example_en": "Germany is known for its rich history and culture.",
+      "word_ar": "ألمانيا",
+      "example_ar": "تشتهر ألمانيا بتاريخها وثقافتها الغنية."
+    },
+    {
+      "word_en": "German",
+      "example_en": "He speaks German with his family.",
+      "word_ar": "ألماني",
+      "example_ar": "يتحدث الألمانية مع عائلته."
+    },
+    {
+      "word_en": "Italy",
+      "example_en": "Italian cuisine is loved worldwide.",
+      "word_ar": "إيطاليا",
+      "example_ar": "يحب المطبخ الإيطالي في جميع أنحاء العالم."
+    },
+    {
+      "word_en": "Italian",
+      "example_en": "She's learning to speak Italian.",
+      "word_ar": "إيطالي",
+      "example_ar": "هي تتعلم التحدث بالإيطالية."
+    },
+    {
+      "word_en": "Spain",
+      "example_en": "He speaks Spanish fluently.",
+      "word_ar": "إسبانيا",
+      "example_ar": "يتحدث الإسبانية بطلاقة."
+    },
+    {
+      "word_en": "Spanish",
+      "example_en": "She learned Spanish during her travels in Spain.",
+      "word_ar": "إسباني",
+      "example_ar": "تعلمت الإسبانية أثناء رحلاتها في إسبانيا."
+    }
+  ]
+}
