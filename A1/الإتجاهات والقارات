@@ -1,0 +1,88 @@
+{
+  "words": [
+    {
+      "word_en": "right",
+      "example_en": "Turn right at the traffic light.",
+      "word_ar": "يمين",
+      "example_ar": "انعطف يمينًا عند إشارة المرور."
+    },
+    {
+      "word_en": "south",
+      "example_en": "They traveled south for their vacation.",
+      "word_ar": "جنوب",
+      "example_ar": "سافروا جنوبًا لقضاء إجازتهم."
+    },
+    {
+      "word_en": "Asian",
+      "example_en": "She enjoys Asian cuisine.",
+      "word_ar": "آسيوي",
+      "example_ar": "تستمتع بالمأكولات الآسيوية."
+    },
+    {
+      "word_en": "north",
+      "example_en": "The compass needle points to the north.",
+      "word_ar": "شمال",
+      "example_ar": "إبرة البوصلة تشير إلى الشمال."
+    },
+    {
+      "word_en": "back",
+      "example_en": "He'll be back in an hour.",
+      "word_ar": "عودة",
+      "example_ar": "سيعود خلال ساعة."
+    },
+    {
+      "word_en": "African",
+      "example_en": "They went on a safari to see African wildlife.",
+      "word_ar": "أفريقي",
+      "example_ar": "ذهبوا في سفاري لرؤية الحياة البرية الأفريقية."
+    },
+    {
+      "word_en": "continent",
+      "example_en": "Australia is the smallest continent.",
+      "word_ar": "قارة",
+      "example_ar": "أستراليا هي أصغر قارة."
+    },
+    {
+      "word_en": "west",
+      "example_en": "The sun sets in the west.",
+      "word_ar": "غرب",
+      "example_ar": "الشمس تغرب في الغرب."
+    },
+    {
+      "word_en": "far",
+      "example_en": "They traveled far to visit the famous landmark.",
+      "word_ar": "بعيد",
+      "example_ar": "سافروا بعيدًا لزيارة المعلم الشهير."
+    },
+    {
+      "word_en": "Europe",
+      "example_en": "She dreams of traveling to Europe.",
+      "word_ar": "أوروبا",
+      "example_ar": "تحلم بالسفر إلى أوروبا."
+    },
+    {
+      "word_en": "east",
+      "example_en": "The sun rises in the east.",
+      "word_ar": "شرق",
+      "example_ar": "الشمس تشرق في الشرق."
+    },
+    {
+      "word_en": "European",
+      "example_en": "He's learning European languages.",
+      "word_ar": "أوروبي",
+      "example_ar": "هو يتعلم اللغات الأوروبية."
+    },
+    {
+      "word_en": "Africa",
+      "example_en": "They went on a safari to Africa.",
+      "word_ar": "أفريقيا",
+      "example_ar": "ذهبوا في سفاري إلى أفريقيا."
+    },
+    {
+      "word_en": "place",
+      "example_en": "Let's find a quiet place to sit.",
+      "word_ar": "مكان",
+      "example_ar": "لنجد مكانًا هادئًا للجلوس."
+    }
+  ]
+}
