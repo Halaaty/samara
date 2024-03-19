@@ -1,0 +1,130 @@
+{
+  "words": [
+    {
+      "word_en": "when",
+      "example_en": "When will you arrive?",
+      "word_ar": "متى",
+      "example_ar": "متى ستصل؟"
+    },
+    {
+      "word_en": "else",
+      "example_en": "Is there anything else you need?",
+      "word_ar": "آخر",
+      "example_ar": "هل هناك شيء آخر تحتاجه؟"
+    },
+    {
+      "word_en": "where",
+      "example_en": "Where are you going?",
+      "word_ar": "أين",
+      "example_ar": "إلى أين تذهب؟"
+    },
+    {
+      "word_en": "how",
+      "example_en": "How did you do that?",
+      "word_ar": "كيف",
+      "example_ar": "كيف فعلت ذلك؟"
+    },
+    {
+      "word_en": "who",
+      "example_en": "Who is that?",
+      "word_ar": "من",
+      "example_ar": "من هذا؟"
+    },
+    {
+      "word_en": "what",
+      "example_en": "What is this?",
+      "word_ar": "ماذا",
+      "example_ar": "ما هذا؟"
+    },
+    {
+      "word_en": "why",
+      "example_en": "Why did you do that?",
+      "word_ar": "لماذا",
+      "example_ar": "لماذا فعلت ذلك؟"
+    },
+    {
+      "word_en": "really",
+      "example_en": "Did he really say that?",
+      "word_ar": "حقاً",
+      "example_ar": "هل حقاً قال ذلك؟"
+    },
+    {
+      "word_en": "of course",
+      "example_en": "Of course I'll help you.",
+      "word_ar": "بالطبع",
+      "example_ar": "بالطبع سأساعدك."
+    },
+    {
+      "word_en": "again",
+      "example_en": "Let's try it again.",
+      "word_ar": "مرة أخرى",
+      "example_ar": "لنجرب ذلك مرة أخرى."
+    },
+    {
+      "word_en": "there",
+      "example_en": "Is he over there?",
+      "word_ar": "هناك",
+      "example_ar": "هل هو هناك؟"
+    },
+    {
+      "word_en": "here",
+      "example_en": "Come here, please.",
+      "word_ar": "هنا",
+      "example_ar": "تعال هنا، من فضلك."
+    },
+    {
+      "word_en": "too",
+      "example_en": "I want to come too.",
+      "word_ar": "أيضاً",
+      "example_ar": "أريد أن آتي أيضاً."
+    },
+    {
+      "word_en": "soon",
+      "example_en": "We'll be there soon.",
+      "word_ar": "قريباً",
+      "example_ar": "سنكون هناك قريباً."
+    },
+    {
+      "word_en": "now",
+      "example_en": "I'm busy now.",
+      "word_ar": "الآن",
+      "example_ar": "أنا مشغول الآن."
+    },
+    {
+      "word_en": "sometimes",
+      "example_en": "Sometimes it rains.",
+      "word_ar": "أحياناً",
+      "example_ar": "أحياناً تمطر."
+    },
+    {
+      "word_en": "often",
+      "example_en": "He often goes to the gym.",
+      "word_ar": "غالباً",
+      "example_ar": "غالباً ما يذهب إلى الصالة الرياضية."
+    },
+    {
+      "word_en": "usually",
+      "example_en": "I usually have coffee in the morning.",
+      "word_ar": "عادةً",
+      "example_ar": "عادةً أشرب القهوة في الصباح."
+    },
+    {
+      "word_en": "never",
+      "example_en": "I never eat meat.",
+      "word_ar": "أبداً",
+      "example_ar": "أنا لا أأكل اللحوم أبداً."
+    },
+    {
+      "word_en": "always",
+      "example_en": "She always arrives on time.",
+      "word_ar": "دائماً",
+      "example_ar": "هي دائماً تصل في الوقت المحدد."
+    },
+    {
+      "word_en": "outside",
+      "example_en": "Let's go outside and enjoy the sunshine.",
+      "word_ar": "خارج",
+      "example_ar": "لنخرج ونستمتع بأشعة الشمس."
+    }
+  ]
+}
