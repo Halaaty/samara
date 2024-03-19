@@ -1,0 +1,82 @@
+{
+  "words": [
+    {
+      "word_en": "town",
+      "example_en": "The small town is known for its friendly atmosphere.",
+      "word_ar": "مدينة صغيرة",
+      "example_ar": "تُعرف المدينة الصغيرة بجوها الودود."
+    },
+    {
+      "word_en": "post office",
+      "example_en": "I need to mail this package at the post office.",
+      "word_ar": "مكتب البريد",
+      "example_ar": "أحتاج إلى إرسال هذه الحزمة في مكتب البريد."
+    },
+    {
+      "word_en": "street",
+      "example_en": "Let's take a walk down this street.",
+      "word_ar": "شارع",
+      "example_ar": "لنتمشى في هذا الشارع."
+    },
+    {
+      "word_en": "museum",
+      "example_en": "We visited the museum to see the ancient artifacts.",
+      "word_ar": "متحف",
+      "example_ar": "زرنا المتحف لنرى الآثار القديمة."
+    },
+    {
+      "word_en": "hospital",
+      "example_en": "He was rushed to the hospital after the accident.",
+      "word_ar": "مستشفى",
+      "example_ar": "تم نقله إلى المستشفى على وجه السرعة بعد الحادث."
+    },
+    {
+      "word_en": "bank",
+      "example_en": "I need to go to the bank to deposit some money.",
+      "word_ar": "بنك",
+      "example_ar": "أحتاج للذهاب إلى البنك لإيداع بعض الأموال."
+    },
+    {
+      "word_en": "movie theater",
+      "example_en": "Let's go to the movie theater to watch the latest film.",
+      "word_ar": "دار السينما",
+      "example_ar": "لنذهب إلى دار السينما لمشاهدة أحدث الأفلام."
+    },
+    {
+      "word_en": "supermarket",
+      "example_en": "I'm going to the supermarket to buy groceries.",
+      "word_ar": "سوبرماركت",
+      "example_ar": "سأذهب إلى السوبرماركت لشراء بعض البقالة."
+    },
+    {
+      "word_en": "bench",
+      "example_en": "Let's sit on the bench and enjoy the view.",
+      "word_ar": "مقعد",
+      "example_ar": "لنجلس على المقعد ونستمتع بالمنظر."
+    },
+    {
+      "word_en": "hotel",
+      "example_en": "We booked a room at the hotel for our vacation.",
+      "word_ar": "فندق",
+      "example_ar": "حجزنا غرفة في الفندق لقضاء عطلتنا."
+    },
+    {
+      "word_en": "police",
+      "example_en": "The police are investigating the crime.",
+      "word_ar": "الشرطة",
+      "example_ar": "الشرطة تحقق في الجريمة."
+    },
+    {
+      "word_en": "map",
+      "example_en": "I need to check the map to find the nearest restaurant.",
+      "word_ar": "خريطة",
+      "example_ar": "أحتاج للتحقق من الخريطة للعثور على أقرب مطعم."
+    },
+    {
+      "word_en": "restaurant",
+      "example_en": "Let's go to a restaurant for dinner tonight.",
+      "word_ar": "مطعم",
+      "example_ar": "لنذهب إلى مطعم لتناول العشاء الليلة."
+    }
+  ]
+}
