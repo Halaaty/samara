@@ -1,0 +1,106 @@
+{
+  "words": [
+    {
+      "word_en": "soccer",
+      "example_en": "Playing soccer with friends is enjoyable.",
+      "word_ar": "كرة القدم",
+      "example_ar": "اللعب بكرة القدم مع الأصدقاء ممتع."
+    },
+    {
+      "word_en": "hobby",
+      "example_en": "Watching movies is one of my hobbies.",
+      "word_ar": "هواية",
+      "example_ar": "مشاهدة الأفلام هو أحد هواياتي."
+    },
+    {
+      "word_en": "video game",
+      "example_en": "He spends hours playing video games.",
+      "word_ar": "لعبة فيديو",
+      "example_ar": "يقضي ساعات يلعب ألعاب الفيديو."
+    },
+    {
+      "word_en": "violin",
+      "example_en": "Learning to play the violin requires patience.",
+      "word_ar": "كمان",
+      "example_ar": "تعلم العزف على الكمان يتطلب الصبر."
+    },
+    {
+      "word_en": "tennis",
+      "example_en": "She's been playing tennis since she was young.",
+      "word_ar": "تنس",
+      "example_ar": "لقد كانت تلعب التنس منذ كانت صغيرة."
+    },
+    {
+      "word_en": "swimming",
+      "example_en": "Swimming is a fun and healthy hobby.",
+      "word_ar": "السباحة",
+      "example_ar": "السباحة هو هواية ممتعة وصحية."
+    },
+    {
+      "word_en": "game",
+      "example_en": "Playing board games is a fun hobby.",
+      "word_ar": "لعبة",
+      "example_ar": "لعب الألعاب اللوحية هو هواية ممتعة."
+    },
+    {
+      "word_en": "music",
+      "example_en": "Listening to music helps me relax.",
+      "word_ar": "موسيقى",
+      "example_ar": "الاستماع إلى الموسيقى يساعدني على الاسترخاء."
+    },
+    {
+      "word_en": "magazine",
+      "example_en": "She reads fashion magazines regularly.",
+      "word_ar": "مجلة",
+      "example_ar": "تقرأ المجلات الأزياء بانتظام."
+    },
+    {
+      "word_en": "bicycle",
+      "example_en": "Riding a bicycle is a great hobby.",
+      "word_ar": "دراجة",
+      "example_ar": "ركوب الدراجة هو هواية رائعة."
+    },
+    {
+      "word_en": "hiking",
+      "example_en": "Hiking in the mountains is refreshing.",
+      "word_ar": "مشي الجبال",
+      "example_ar": "المشي في الجبال منعش."
+    },
+    {
+      "word_en": "piano",
+      "example_en": "She practices the piano every day.",
+      "word_ar": "بيانو",
+      "example_ar": "تمارس البيانو كل يوم."
+    },
+    {
+      "word_en": "movie",
+      "example_en": "I watched a great movie last night.",
+      "word_ar": "فيلم",
+      "example_ar": "شاهدت فيلمًا رائعًا الليلة الماضية."
+    },
+    {
+      "word_en": "guitar",
+      "example_en": "He plays the guitar very well.",
+      "word_ar": "جيتار",
+      "example_ar": "يعزف الجيتار بشكل جيد جدًا."
+    },
+    {
+      "word_en": "sport",
+      "example_en": "Watching sports is a popular hobby.",
+      "word_ar": "رياضة",
+      "example_ar": "مشاهدة الرياضة هو هواية شائعة."
+    },
+    {
+      "word_en": "newspaper",
+      "example_en": "Reading newspapers is my morning routine.",
+      "word_ar": "صحيفة",
+      "example_ar": "قراءة الصحف هي روتين صباحي لي."
+    },
+    {
+      "word_en": "volleyball",
+      "example_en": "They played volleyball on the beach.",
+      "word_ar": "كرة الطائرة",
+      "example_ar": "لعبوا الكرة الطائرة على الشاطئ."
+    }
+  ]
+}
