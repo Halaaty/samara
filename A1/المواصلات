@@ -1,0 +1,94 @@
+{
+  "words": [
+    {
+      "word_en": "subway",
+      "example_en": "He takes the subway to work every day.",
+      "word_ar": "مترو",
+      "example_ar": "يأخذ المترو للعمل كل يوم."
+    },
+    {
+      "word_en": "boat",
+      "example_en": "They went fishing on a small boat.",
+      "word_ar": "قارب",
+      "example_ar": "ذهبوا لصيد الأسماك على قارب صغير."
+    },
+    {
+      "word_en": "bus",
+      "example_en": "She takes the bus to school.",
+      "word_ar": "حافلة",
+      "example_ar": "تأخذ الحافلة إلى المدرسة."
+    },
+    {
+      "word_en": "taxi",
+      "example_en": "I'll call a taxi to take us to the airport.",
+      "word_ar": "تاكسي",
+      "example_ar": "سأطلب سيارة أجرة لتأخذنا إلى المطار."
+    },
+    {
+      "word_en": "ship",
+      "example_en": "The ship sailed across the ocean.",
+      "word_ar": "سفينة",
+      "example_ar": "السفينة ابتعدت عبر المحيط."
+    },
+    {
+      "word_en": "helicopter",
+      "example_en": "The helicopter landed on the rooftop.",
+      "word_ar": "مروحية",
+      "example_ar": "هبطت المروحية على السطح."
+    },
+    {
+      "word_en": "truck",
+      "example_en": "He drives a truck for a living.",
+      "word_ar": "شاحنة",
+      "example_ar": "يقود شاحنة لكسب العيش."
+    },
+    {
+      "word_en": "ticket",
+      "example_en": "Do you have a ticket for the concert?",
+      "word_ar": "تذكرة",
+      "example_ar": "هل لديك تذكرة للحفل؟"
+    },
+    {
+      "word_en": "car",
+      "example_en": "She bought a new car last week.",
+      "word_ar": "سيارة",
+      "example_ar": "اشترت سيارة جديدة الأسبوع الماضي."
+    },
+    {
+      "word_en": "train",
+      "example_en": "He takes the train to go to the city.",
+      "word_ar": "قطار",
+      "example_ar": "يأخذ القطار للذهاب إلى المدينة."
+    },
+    {
+      "word_en": "motorcycle",
+      "example_en": "He rides his motorcycle to work.",
+      "word_ar": "دراجة نارية",
+      "example_ar": "يقود دراجته النارية للعمل."
+    },
+    {
+      "word_en": "airport",
+      "example_en": "They arrived at the airport two hours before the flight.",
+      "word_ar": "مطار",
+      "example_ar": "وصلوا إلى المطار قبل الطائرة بساعتين."
+    },
+    {
+      "word_en": "station",
+      "example_en": "The train will stop at the next station.",
+      "word_ar": "محطة",
+      "example_ar": "سيتوقف القطار في المحطة القادمة."
+    },
+    {
+      "word_en": "train station",
+      "example_en": "The train station is crowded during rush hour.",
+      "word_ar": "محطة القطار",
+      "example_ar": "تكون محطة القطار مزدحمة أثناء ساعات الذروة."
+    },
+    {
+      "word_en": "airplane",
+      "example_en": "She's afraid of flying in airplanes.",
+      "word_ar": "طائرة",
+      "example_ar": "تخاف من الطيران في الطائرات."
+    }
+  ]
+}
