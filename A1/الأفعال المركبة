@@ -1,0 +1,154 @@
+{
+  "words": [
+    {
+      "word_en": "start",
+      "example_en": "He will start the race at 10 am.",
+      "word_ar": "يبدأ",
+      "example_ar": "سيبدأ السباق في الساعة العاشرة صباحًا."
+    },
+    {
+      "word_en": "fall",
+      "example_en": "The leaves fall in autumn.",
+      "word_ar": "يسقط",
+      "example_ar": "تسقط الأوراق في الخريط."
+    },
+    {
+      "word_en": "travel",
+      "example_en": "They love to travel to exotic places.",
+      "word_ar": "يسافر",
+      "example_ar": "يحبون السفر إلى الأماكن الغريبة."
+    },
+    {
+      "word_en": "do",
+      "example_en": "I have a lot of work to do today.",
+      "word_ar": "يفعل",
+      "example_ar": "لدي الكثير من العمل للقيام به اليوم."
+    },
+    {
+      "word_en": "stop",
+      "example_en": "The car stopped suddenly.",
+      "word_ar": "يتوقف",
+      "example_ar": "توقف السيارة فجأة."
+    },
+    {
+      "word_en": "give",
+      "example_en": "She gave me a present on my birthday.",
+      "word_ar": "يعطي",
+      "example_ar": "أعطتني هدية في عيدي."
+    },
+    {
+      "word_en": "let",
+      "example_en": "Let me know if you need any help.",
+      "word_ar": "يسمح",
+      "example_ar": "أخبرني إذا كنت بحاجة إلى أي مساعدة."
+    },
+    {
+      "word_en": "open",
+      "example_en": "He will open the door for you.",
+      "word_ar": "يفتح",
+      "example_ar": "سيفتح الباب لك."
+    },
+    {
+      "word_en": "find",
+      "example_en": "She couldn't find her keys.",
+      "word_ar": "يجد",
+      "example_ar": "لم تجد مفاتيحها."
+    },
+    {
+      "word_en": "come",
+      "example_en": "Please come to the meeting on time.",
+      "word_ar": "يأتي",
+      "example_ar": "يرجى الحضور إلى الاجتماع في الوقت المحدد."
+    },
+    {
+      "word_en": "sit",
+      "example_en": "Please sit down and make yourself comfortable.",
+      "word_ar": "يجلس",
+      "example_ar": "يرجى الجلوس وتحريك نفسك براحة."
+    },
+    {
+      "word_en": "build",
+      "example_en": "They plan to build a new house next year.",
+      "word_ar": "يبني",
+      "example_ar": "يخططون لبناء منزل جديد العام المقبل."
+    },
+    {
+      "word_en": "push",
+      "example_en": "He pushed the door open with his shoulder.",
+      "word_ar": "يدفع",
+      "example_ar": "دفع الباب بكتفه."
+    },
+    {
+      "word_en": "pull",
+      "example_en": "She pulled the rope with all her strength.",
+      "word_ar": "يسحب",
+      "example_ar": "سحبت الحبل بكل قوتها."
+    },
+    {
+      "word_en": "get",
+      "example_en": "I'll get some groceries from the store.",
+      "word_ar": "يحصل على",
+      "example_ar": "سأحصل على بعض البقالة من المتجر."
+    },
+    {
+      "word_en": "jump",
+      "example_en": "The cat jumped from the tree.",
+      "word_ar": "يقفز",
+      "example_ar": "قفز القط من الشجرة."
+    },
+    {
+      "word_en": "help",
+      "example_en": "She always helps her friends when they're in need.",
+      "word_ar": "يساعد",
+      "example_ar": "دائمًا ما تساعد أصدقائها عندما يكونون في حاجة."
+    },
+    {
+      "word_en": "bring",
+      "example_en": "Can you bring me some water, please?",
+      "word_ar": "يجلب",
+      "example_ar": "هل يمكنك جلب بعض الماء لي، من فضلك؟"
+    },
+    {
+      "word_en": "finish",
+      "example_en": "He will finish the project by next week.",
+      "word_ar": "ينهي",
+      "example_ar": "سينهي المشروع بحلول الأسبوع المقبل."
+    },
+    {
+      "word_en": "turn",
+      "example_en": "She turned the key in the lock.",
+      "word_ar": "يدير",
+      "example_ar": "دارت المفتاح في القفل."
+    },
+    {
+      "word_en": "go",
+      "example_en": "Let's go to the park tomorrow.",
+      "word_ar": "يذهب",
+      "example_ar": "لنذهب إلى الحديقة غدًا."
+    },
+    {
+      "word_en": "introduce",
+      "example_en": "Let me introduce you to my friend.",
+      "word_ar": "يقدم",
+      "example_ar": "اسمحوا لي أن أقدمكم لصديقي."
+    },
+    {
+      "word_en": "close",
+      "example_en": "She closed the window to keep the cold air out.",
+      "word_ar": "يغلق",
+      "example_ar": "أغلقت النافذة لمنع الهواء البارد من دخولها."
+    },
+    {
+      "word_en": "run",
+      "example_en": "He runs every morning to stay fit.",
+      "word_ar": "يجري",
+      "example_ar": "يجري كل صباح للبقاء في حالة صحية جيدة."
+    },
+    {
+      "word_en": "walk",
+      "example_en": "They like to walk in the park in the evenings.",
+      "word_ar": "يمشي",
+      "example_ar": "يحبون المشي في الحديقة في المساء."
+    }
+  ]
+}
